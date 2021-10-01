@@ -12,6 +12,7 @@ def main():
         files_for_lang = Path(base_folder / lang).glob('*.tsv')
 
         lang_df = pd.concat([pd.read_csv(f, sep='\t') for f in files_for_lang])
+        lang_df.columns= lang_df.columns.str.lower()
         lang_df.to_csv(f'subtask_1_{lang}.csv', index=False)
 
 

@@ -1,4 +1,4 @@
-ID,Sentence,Labels
+id,sentence,labels
 2256,"J' aime la dinde , et aussi les huîtres .",1
 4715,"J' ai rencontré les astronomes , sauf les greffiers .",0
 102,"J' apprécie les armoires , et plus particulièrement les peintures .",0
