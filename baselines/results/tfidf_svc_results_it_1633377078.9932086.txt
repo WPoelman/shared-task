@@ -1,0 +1,17 @@
+
+    --- it 5-fold CV ---
+                  precision    recall  f1-score   support
+
+           0    0.90552   0.92842   0.91683      2808
+           1    0.93205   0.91020   0.92100      3029
+
+    accuracy                        0.91897      5837
+   macro avg    0.91879   0.91931   0.91891      5837
+weighted avg    0.91929   0.91897   0.91899      5837
+
+
+    Accuracy:   0.91897
+    Precision:  0.91879
+    Recall:     0.91931
+    F-score:    0.91891
+    

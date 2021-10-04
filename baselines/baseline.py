@@ -2,126 +2,149 @@
 
 '''
 Description:
-    A basic script that uses multi-lingual sentence embeddings on the sentences
-    and trains a simple SVM classifier with those.
-
--- TODO --
-- use cached embeddings to speed up process -> by id
-- add command line args instead of constants
-- tune parameters svm???
-- save models / output
+    A script that shows several baselines for the classification subtask for
+    the PreTENS shared task. It has the following baselines:
+        - A basic most frequent baseline
+        - A TF-IDF with SVC classifier
+        - A LinearSVC classifier using multi-lingual sentence embeddings
+    By default it runs all languages.
 '''
 
+import argparse
 import pickle
+import time
 from pathlib import Path
 
 import pandas as pd
 from sentence_transformers import SentenceTransformer
-from sklearn.model_selection import cross_val_predict
-from sklearn.svm import LinearSVC, SVC
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.pipeline import Pipeline
 from sklearn.dummy import DummyClassifier
-from utils import output_metrics
-import argparse
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics import *
+from sklearn.model_selection import cross_val_predict
+from sklearn.pipeline import Pipeline
+from sklearn.svm import SVC, LinearSVC
 
 DATA_DIR = Path().cwd().parent / 'data'
 RESULTS_DIR = Path().cwd() / 'results'
 CACHE_DIR = Path().cwd() / 'cache'
 
-# Model repo: https://huggingface.co/sentence-transformers/LaBSE
-# Note that this script downloads the model (~2gb) the first time it is ran.
-MODEL_NAME = 'sentence-transformers/LaBSE'
-LANGUAGES = ['en', 'fr', 'it']
-VERBOSE = True
-USE_CACHE = True
-CV_FOLDS = 5
-
 
 def create_arg_parser():
     parser = argparse.ArgumentParser()
-    parser.add_argument("-i", "--input_file", default='reviews.txt', type=str,
-                        help="Input file to learn from (default reviews.txt)")
-    parser.add_argument("-mf", "--most_frequent", action="store_true",
+    parser.add_argument("-m", "--most_frequent", action="store_true",
                         help="Use the most frequent class baseline")
-    parser.add_argument("-s", "--SVC", action="store_true",
-                        help="Use the SVC with linear kernel as baseline")
+    parser.add_argument("-s", "--svc", action="store_true",
+                        help="Use the TF-IDF and SVC as baseline")
     parser.add_argument("-e", "--embeddings", action="store_true",
-                        help="Use the multi-lingual sentence embeddings baseline")
+                        help="Use the multi-lingual sentence embedding baseline")
+    parser.add_argument('-l', '--languages', nargs='+',
+                        help='Language datasets to use for the baselines',
+                        default=['en', 'fr', 'it'])
+    parser.add_argument('-v', '--verbose', action='store_true', default=True,
+                        help='Show progression output')
+    parser.add_argument('-c', '--cache', default=False, action='store_true',
+                        help='Use cached sentence embeddings with -e')
+    parser.add_argument('-cv', '--cross_validation', default=5,
+                        help='Cross validation folds')
+    # Default model repo: https://huggingface.co/sentence-transformers/LaBSE
+    # Note that this script downloads the model (~2gb) the first time it is ran.
+    parser.add_argument('-mo', '--model', default='sentence-transformers/LaBSE',
+                        help='Sentence embedding model to use with -e')
 
     args = parser.parse_args()
     return args
 
 
-def identity(x):
-    """Dummy function that just returns the input"""
-    return x
-    
+def rnd(x, digits=5):
+    '''Helper to make rounding consistent '''
+    return round(x, ndigits=digits)
+
+
+def output_metrics(y_true, y_pred, dataset_label, digits=5):
+    '''Output the usual performance metrics and a classification report'''
+
+    ac = accuracy_score(y_true, y_pred)
+    pr = precision_score(y_true, y_pred, average='macro', zero_division=0)
+    re = recall_score(y_true, y_pred, average='macro', zero_division=0)
+    f1 = f1_score(y_true, y_pred, average='macro', zero_division=0)
+
+    msg = f'''
+    --- {dataset_label} ---
+    {classification_report(y_true, y_pred, digits=digits, zero_division=0)}
+
+    Accuracy:   {rnd(ac, digits)}
+    Precision:  {rnd(pr, digits)}
+    Recall:     {rnd(re, digits)}
+    F-score:    {rnd(f1, digits)}
+    '''
+    return msg
+
+
+def evaluate_model(args, model, lang, X, y, model_name):
+    ''' Evaluate a given model'''
+    args.verbose and print(f'Evaluating {model_name} for {lang.upper()} ...')
+
+    y_pred = cross_val_predict(model, X, y, cv=args.cross_validation)
+    result_label = f'{lang} {args.cross_validation}-fold CV'
+    report = output_metrics(y, y_pred, result_label)
+
+    args.verbose and print(report)
+
+    result_filename = f'{model_name}_results_{lang}_{time.time()}.txt'
+    with open(RESULTS_DIR / result_filename, 'w') as f:
+        f.write(report)
+
+
+def embedding_model(args, lang, X, y):
+    ''' Create sentence embeddings and evaluate a simple linear model'''
+    # huggingface namingstyle is 'org/model', which is an illegal path
+    model_id = args.model.replace('/', '-')
+    cache_file = Path(CACHE_DIR / f'{lang}_{model_id}_cache.pickle')
+
+    args.verbose and print(f'Creating sentence embeddings ...')
+    if args.cache and cache_file.is_file():
+        with open(cache_file, 'rb') as f:
+            embeddings = pickle.load(f)
+    else:
+        args.verbose and print(f'Loading {args.model} ...')
+        transformer = SentenceTransformer(args.model)
+        embeddings = transformer.encode(X)
+        with open(cache_file, 'wb') as f:
+            pickle.dump(embeddings, f)
+
+    model = LinearSVC()
+    evaluate_model(args, model, lang, embeddings, y, f'{model_id}_lin_svc')
+
+
+def svc_model(args, lang, X, y):
+    ''' Create tf-idf embeddings and evaluate a simple linear model'''
+    vectorizer = TfidfVectorizer()
+    clf = SVC(random_state=0)
+    model = Pipeline([('vec', vectorizer), ('cls', clf)])
+    evaluate_model(args, model, lang, X, y, 'tfidf_svc')
+
+
+def most_freq_model(args, lang, X, y):
+    ''' Create a most frequent classifier'''
+    model = DummyClassifier(strategy="most_frequent", random_state=0)
+    evaluate_model(args, model, lang, X, y, 'most_frequent')
 
 
 def main():
     args = create_arg_parser()
 
-    ## Baseline 1: Multi-lingual embeddings:
-    if args.embeddings:
-        VERBOSE and print(f'Loading {MODEL_NAME} ...')
-        transformer = SentenceTransformer(MODEL_NAME)
+    for lang in args.languages:
+        df = pd.read_csv(DATA_DIR / f'subtask_1_{lang}.csv')
+        X = df['sentence'].tolist()
+        y = df['labels'].tolist()
 
-        for lang in LANGUAGES:
-            VERBOSE and print(f'{lang.upper()} -> embedding ...')
+        if args.embeddings:
+            embedding_model(args, lang, X, y)
+        if args.svc:
+            svc_model(args, lang, X, y)
+        if args.most_frequent:
+            most_freq_model(args, lang, X, y)
 
-            df = pd.read_csv(DATA_DIR / f'subtask_1_{lang}.csv')
-
-            # TODO maybe add model-specific cache to avoid mistakes when swapping
-            # out models -> for later
-            cache_file = Path(CACHE_DIR / f'{lang}_embedding_cache.pickle')
-
-            if USE_CACHE and cache_file.is_file():
-                with open(cache_file, 'rb') as f:
-                    embeddings = pickle.load(f)
-            else:
-                embeddings = transformer.encode(df['sentence'].tolist())
-                with open(cache_file, 'wb') as f:
-                    # TODO don't rely on ordering, use id of row instead
-                    # id2embedding = {
-                    #     id_: embeddings[i]
-                    #     for i, id_ in enumerate(df['id'].tolist())
-                    # }
-                    pickle.dump(embeddings, f)
-
-            VERBOSE and print(f'{lang.upper()} -> cross validating ...')
-
-            clf_for_lang = LinearSVC()
-            y_pred = cross_val_predict(
-                clf_for_lang, embeddings, df['labels'], cv=CV_FOLDS
-            )
-
-            result_label = f'{lang} {CV_FOLDS}-fold CV'
-            report = output_metrics(df['labels'], y_pred, result_label, 'emb', RESULTS_DIR)
-            print(report)
-
-    else:
-        ## Baseline 2. Using SVC without embeddings
-        if args.SVC: 
-            vec = TfidfVectorizer(preprocessor=identity, tokenizer=identity)
-            clf = SVC(random_state=0)
-            classifier = Pipeline([('vec', vec), ('cls', clf)])
-            clfname = 'svc'
-        ## Baseline 3. Using the most frequent class
-        else:
-            classifier = DummyClassifier(strategy="most_frequent", random_state=0)
-            clfname = 'mf'
-            
-        for lang in LANGUAGES:
-            df = pd.read_csv(DATA_DIR / f'subtask_1_{lang}.csv')
-            VERBOSE and print(f'{lang.upper()} -> cross validating ...')
-
-            y_pred = cross_val_predict(
-                classifier, df['sentence'], df['labels'], cv=CV_FOLDS
-            )
-            result_label = f'{lang} {CV_FOLDS}-fold CV'
-            report = output_metrics(df['labels'], y_pred, result_label, clfname, RESULTS_DIR)
-            print(report)
 
 if __name__ == '__main__':
     main()
