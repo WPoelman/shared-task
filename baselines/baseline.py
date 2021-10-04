@@ -13,7 +13,6 @@ Description:
 '''
 
 import pickle
-import time
 from pathlib import Path
 
 import pandas as pd
@@ -57,6 +56,7 @@ def create_arg_parser():
 def identity(x):
     """Dummy function that just returns the input"""
     return x
+    
 
 
 def main():
@@ -97,64 +97,31 @@ def main():
             )
 
             result_label = f'{lang} {CV_FOLDS}-fold CV'
-            report = output_metrics(df['labels'], y_pred, result_label)
-
-            result_filename = f'results_{result_label}_{time.time()}.txt'
-            with open(RESULTS_DIR / result_filename, 'w') as f:
-                f.write(report)
+            report = output_metrics(df['labels'], y_pred, result_label, 'emb', RESULTS_DIR)
             print(report)
 
-    ## Baseline 2. Using SVC without embeddings
-    elif args.SVC:
-
-        # We use a dummy function as tokenizer and preprocessor,
-        # since the texts are already preprocessed and tokenised.
-        vec = TfidfVectorizer(preprocessor=identity, tokenizer=identity)
-
-        # Combine the vectorizer with the SVC classifier
-        clf = SVC(random_state=0)
-        classifier = Pipeline([('vec', vec), ('cls', clf)])
-
+    else:
+        ## Baseline 2. Using SVC without embeddings
+        if args.SVC: 
+            vec = TfidfVectorizer(preprocessor=identity, tokenizer=identity)
+            clf = SVC(random_state=0)
+            classifier = Pipeline([('vec', vec), ('cls', clf)])
+            clfname = 'svc'
+        ## Baseline 3. Using the most frequent class
+        else:
+            classifier = DummyClassifier(strategy="most_frequent", random_state=0)
+            clfname = 'mf'
+            
         for lang in LANGUAGES:
-
-            # Read the language file
             df = pd.read_csv(DATA_DIR / f'subtask_1_{lang}.csv')
             VERBOSE and print(f'{lang.upper()} -> cross validating ...')
 
-            # Perform K-fold cross validation
             y_pred = cross_val_predict(
                 classifier, df['sentence'], df['labels'], cv=CV_FOLDS
             )
-
-            # Perform the evaluation, write the scores to a file and print the scores as well
             result_label = f'{lang} {CV_FOLDS}-fold CV'
-            report = output_metrics(df['labels'], y_pred, result_label)
-            result_filename = f'SVC_results_{result_label}_{time.time()}.txt'
-            with open(RESULTS_DIR / result_filename, 'w') as f:
-                f.write(report)
+            report = output_metrics(df['labels'], y_pred, result_label, clfname, RESULTS_DIR)
             print(report)
-
-
-    ## Baseline 3. Using the most frequent class
-    elif args.most_frequent:
-        # setup classifier, no need to vectorize
-        clf = DummyClassifier(strategy="most_frequent", random_state=0)
-   
-        for lang in LANGUAGES:     
-            df = pd.read_csv(DATA_DIR / f'subtask_1_{lang}.csv')
-            # perform K-fold cross validation
-            y_pred = cross_val_predict(clf, df['sentence'], df['labels'])
-            
-            # Perform the evaluation, write the scores to a file and print the scores as well
-            result_label = f'{lang} {CV_FOLDS}-fold CV'
-            report = output_metrics(df['labels'], y_pred, result_label)
-            result_filename = f'MF_results_{result_label}_{time.time()}.txt'
-            with open(RESULTS_DIR / result_filename, 'w') as f:
-                f.write(report)
-            print(report)
-        
-        
-
 
 if __name__ == '__main__':
     main()
