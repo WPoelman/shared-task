@@ -22,6 +22,7 @@ from sklearn.model_selection import cross_val_predict
 from sklearn.svm import LinearSVC, SVC
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.pipeline import Pipeline
+from sklearn.dummy import DummyClassifier
 from utils import output_metrics
 import argparse
 
@@ -136,7 +137,23 @@ def main():
 
     ## Baseline 3. Using the most frequent class
     elif args.most_frequent:
-        print("Add most frequent baseline here")
+        # setup classifier, no need to vectorize
+        clf = DummyClassifier(strategy="most_frequent", random_state=0)
+   
+        for lang in LANGUAGES:     
+            df = pd.read_csv(DATA_DIR / f'subtask_1_{lang}.csv')
+            # perform K-fold cross validation
+            y_pred = cross_val_predict(clf, df['sentence'], df['labels'])
+            
+            # Perform the evaluation, write the scores to a file and print the scores as well
+            result_label = f'{lang} {CV_FOLDS}-fold CV'
+            report = output_metrics(df['labels'], y_pred, result_label)
+            result_filename = f'MF_results_{result_label}_{time.time()}.txt'
+            with open(RESULTS_DIR / result_filename, 'w') as f:
+                f.write(report)
+            print(report)
+        
+        
 
 
 if __name__ == '__main__':
