@@ -32,11 +32,11 @@ CACHE_DIR = Path().cwd() / 'cache'
 
 def create_arg_parser():
     parser = argparse.ArgumentParser()
-    parser.add_argument("-m", "--most_frequent", action="store_true", default=True,
+    parser.add_argument("-m", "--most_frequent", action="store_true",
                         help="Use the most frequent class baseline")
-    parser.add_argument("-s", "--svc", action="store_true", default=True,
+    parser.add_argument("-s", "--svc", action="store_true",
                         help="Use the TF-IDF and SVC as baseline")
-    parser.add_argument("-e", "--embeddings", action="store_true", default=True,
+    parser.add_argument("-e", "--embeddings", action="store_true",
                         help="Use the multi-lingual sentence embedding baseline")
     parser.add_argument('-l', '--languages', nargs='+',
                         help='Language datasets to use for the baselines',
