@@ -8,6 +8,7 @@ Description:
         - A TF-IDF with SVC classifier
         - A SVC classifier using multi-lingual sentence embeddings
     By default it runs all baselines for all languages.
+
 '''
 
 import argparse
@@ -47,12 +48,12 @@ def create_arg_parser():
     parser.add_argument('-cv', '--cross_validation', default=5,
                         help='Cross validation folds')
     # Default model repo:
-    #   https://huggingface.co/sentence-transformers/LaBSE
-    # Also tried with:
     #   https://huggingface.co/sentence-transformers/paraphrase-xlm-r-multilingual-v1
+    # Also tried with:
+    #   https://huggingface.co/sentence-transformers/LaBSE
     # Note that this script downloads the selected model (~2gb) the first time
     # it is ran.
-    parser.add_argument('-mo', '--model', default='sentence-transformers/LaBSE',
+    parser.add_argument('-mo', '--model', default='paraphrase-xlm-r-multilingual-v1',
                         help='Sentence embedding model to use with -e')
 
     args = parser.parse_args()
@@ -116,7 +117,7 @@ def embedding_model(args, lang, X, y):
         with open(cache_file, 'wb') as f:
             pickle.dump(embeddings, f)
 
-    evaluate_model(args, SVC(), lang, embeddings, y, f'{model_id}_lin_svc')
+    evaluate_model(args, SVC(), lang, embeddings, y, f'{model_id}_svc')
 
 
 def svc_model(args, lang, X, y):
