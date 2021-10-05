@@ -7,7 +7,7 @@ Description:
         - A basic most frequent baseline
         - A TF-IDF with SVC classifier
         - A SVC classifier using multi-lingual sentence embeddings
-    By default it runs all baselines for all languages.
+    By default it runs the selected baseline(s) for all languages.
 
 '''
 

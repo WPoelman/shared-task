@@ -7,7 +7,7 @@ PreTENS shared task.
 
 # Usage
 1. `pip install -r requirements.txt`
-2. `python3 baseline.py`
+2. `python3 baseline.py -mse` (for all languages, for all baselines)
 
 # Optional arguments
 
