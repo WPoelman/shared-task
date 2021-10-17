@@ -32,6 +32,10 @@ def main():
 		verb = random.choice(verbs)
 		word1 = random.choice(words)
 		word2 = random.choice(words)
+		
+		while word1 == word2:
+			word2 = random.choice(words)
+
 		generated_sent = Sentence(verb, word1, word2).output()
 
 		try:
