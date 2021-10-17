@@ -12,7 +12,7 @@ class Sentence:
 		self.word2 = word2
 	def output(self):
 		templatelist = [("J' {verb} {word1} , sauf {word2} .",0), 
-						("J'  {verb} {word1} , et plus particulièrement {word2} .",0), 
+						("J' {verb} {word1} , et plus particulièrement {word2} .",0),
 						("J' {verb} {word1} , mais pas {word2} .",0),
 						("J' {verb} {word1} , un type intéressant de {word2} .",1),
 						("J' {verb} {word1} plus que {word2} .",2),
