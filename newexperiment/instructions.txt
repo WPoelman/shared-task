@@ -1,0 +1,19 @@
+I created a new train and test file and also created the baseline2.py file so it could work with these separate train and test files as input (instead of performing CV on one csv file). 
+
+The test file is 3 times the size of the train file.
+
+The train file contains 1666 sentences with only 2 templates, that are not returning in the test set:
+- 835 sentences containing 'more specifically' (majority label by far is 0);
+- 831 sentences containing 'but not' (majority label by far is 1);
+
+The test file thus contains 4172 sentences with all other templates, that were not seen during training.
+
+
+Instructions to run it:
+
+-Move the new train and test file to the data directory:
+$ mv data/subtask_1_en_test.csv ../../data/
+$ mv data/subtask_1_en_train.csv ../../data/
+
+- Run baseline2.py from the  baselines directory as follows (since it currentlyonly works for english):
+$ python baseline2.py -mse -l 'en'
