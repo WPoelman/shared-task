@@ -1,0 +1,1667 @@
+id,sentence,labels
+5836,"J' aime les arbustes , et plus particulièrement les bouleaux .",0
+5835,"J' aime les bouleaux , et plus particulièrement les arbustes .",0
+5834,"J' aime les buissons , et plus particulièrement les bouleaux .",0
+5833,"J' aime les bouleaux , et plus particulièrement les buissons .",0
+5832,"J' aime les animaux , et plus particulièrement les bouleaux .",0
+5831,"J' aime les bouleaux , et plus particulièrement les animaux .",0
+5830,"J' aime les arbres , et plus particulièrement les bouleaux .",1
+5829,"J' aime les bouleaux , et plus particulièrement les arbres .",0
+5828,"J' aime la pelouse , et plus particulièrement les bouleaux .",0
+5827,"J' aime les bouleaux , et plus particulièrement la pelouse .",0
+5826,"J' aime les arbres , et plus particulièrement les arbustes .",0
+5825,"J' aime les arbustes , et plus particulièrement les chênes .",0
+5824,"J' aime les chênes , et plus particulièrement les arbustes .",0
+5823,"J' aime les arbres , et plus particulièrement les buissons .",0
+5822,"J' aime les buissons , et plus particulièrement les chênes .",0
+5821,"J' aime les chênes , et plus particulièrement les buissons .",0
+5820,"J' aime les arbres , et plus particulièrement les animaux .",0
+5819,"J' aime les animaux , et plus particulièrement les chênes .",0
+5818,"J' aime les chênes , et plus particulièrement les animaux .",0
+5817,"J' aime les arbres , et plus particulièrement la pelouse .",0
+5816,"J' aime les arbres , et plus particulièrement les chênes .",1
+5815,"J' aime les chênes , et plus particulièrement les arbres .",0
+5814,"J' aime la pelouse , et plus particulièrement les chênes .",0
+5813,"J' aime les chênes , et plus particulièrement la pelouse .",0
+5807,"J' aime les boucles d' oreille , et plus particulièrement les jupes .",0
+5806,"J' aime les jupes , et plus particulièrement les boucles d' oreille .",0
+5805,"J' aime les lunettes , et plus particulièrement les jupes .",0
+5804,"J' aime les jupes , et plus particulièrement les lunettes .",0
+5803,"J' aime les bijoux , et plus particulièrement les jupes .",0
+5802,"J' aime les jupes , et plus particulièrement les bijoux .",0
+5801,"J' aime les vêtements , et plus particulièrement les jupes .",1
+5800,"J' aime les jupes , et plus particulièrement les vêtements .",0
+5799,"J' aime les animaux de compagnie , et plus particulièrement les jupes .",0
+5798,"J' aime les jupes , et plus particulièrement les animaux de compagnie .",0
+5795,"J' aime les boucles d' oreille , et plus particulièrement les chausettes .",0
+5794,"J' aime les chausettes , et plus particulièrement les boucles d' oreille .",0
+5793,"J' aime les lunettes , et plus particulièrement les chausettes .",0
+5792,"J' aime les chausettes , et plus particulièrement les lunettes .",0
+5790,"J' aime les bijoux , et plus particulièrement les chausettes .",0
+5789,"J' aime les chausettes , et plus particulièrement les bijoux .",0
+5788,"J' aime les vêtements , et plus particulièrement les chausettes .",1
+5787,"J' aime les chausettes , et plus particulièrement les vêtements .",0
+5786,"J' aime les animaux de compagnie , et plus particulièrement les chausettes .",0
+5785,"J' aime les chausettes , et plus particulièrement les animaux de compagnie .",0
+5782,"J' aime les boucles d' oreille , et plus particulièrement les pantalons .",0
+5781,"J' aime les pantalons , et plus particulièrement les boucles d' oreille .",0
+5780,"J' aime les lunettes , et plus particulièrement les pantalons .",0
+5779,"J' aime les pantalons , et plus particulièrement les lunettes .",0
+5777,"J' aime les bijoux , et plus particulièrement les pantalons .",0
+5776,"J' aime les pantalons , et plus particulièrement les bijoux .",0
+5775,"J' aime les vêtements , et plus particulièrement les pantalons .",1
+5774,"J' aime les pantalons , et plus particulièrement les vêtements .",0
+5773,"J' aime les animaux de compagnie , et plus particulièrement les pantalons .",0
+5772,"J' aime les pantalons , et plus particulièrement les animaux de compagnie .",0
+5769,"J' aime les vêtements , et plus particulièrement les boucles d' oreille .",0
+5767,"J' aime les boucles d' oreille , et plus particulièrement les chemises .",0
+5766,"J' aime les chemises , et plus particulièrement les boucles d' oreille .",0
+5765,"J' aime les vêtements , et plus particulièrement les lunettes .",0
+5764,"J' aime les lunettes , et plus particulièrement les chemises .",0
+5763,"J' aime les chemises , et plus particulièrement les lunettes .",0
+5762,"J' aime les vêtements , et plus particulièrement les bijoux .",0
+5760,"J' aime les bijoux , et plus particulièrement les chemises .",0
+5759,"J' aime les chemises , et plus particulièrement les bijoux .",0
+5758,"J' aime les vêtements , et plus particulièrement les animaux de compagnie .",0
+5757,"J' aime les vêtements , et plus particulièrement les chemises .",1
+5756,"J' aime les chemises , et plus particulièrement les vêtements .",0
+5755,"J' aime les animaux de compagnie , et plus particulièrement les chemises .",0
+5754,"J' aime les chemises , et plus particulièrement les animaux de compagnie .",0
+5752,"J' aime les avions , et plus particulièrement les Kawasakis .",0
+5751,"J' aime les Kawasakis , et plus particulièrement les avions .",0
+5750,"J' aime les trains , et plus particulièrement les Kawasakis .",0
+5749,"J' aime les Kawasakis , et plus particulièrement les trains .",0
+5748,"J' aime les vélos , et plus particulièrement les Kawasakis .",0
+5747,"J' aime les Kawasakis , et plus particulièrement les vélos .",0
+5746,"J' aime les motos , et plus particulièrement les Kawasakis .",1
+5745,"J' aime les Kawasakis , et plus particulièrement les motos .",0
+5744,"J' aime les navaires , et plus particulièrement les Kawasakis .",0
+5743,"J' aime les Kawasakis , et plus particulièrement les navaires .",0
+5742,"J' aime les avions , et plus particulièrement les enduros .",0
+5741,"J' aime les enduros , et plus particulièrement les avions .",0
+5740,"J' aime les trains , et plus particulièrement les enduros .",0
+5739,"J' aime les enduros , et plus particulièrement les trains .",0
+5738,"J' aime les vélos , et plus particulièrement les enduros .",0
+5737,"J' aime les enduros , et plus particulièrement les vélos .",0
+5736,"J' aime les motos , et plus particulièrement les enduros .",1
+5735,"J' aime les enduros , et plus particulièrement les motos .",0
+5734,"J' aime les navaires , et plus particulièrement les enduros .",0
+5733,"J' aime les enduros , et plus particulièrement les navaires .",0
+5732,"J' aime les avions , et plus particulièrement les Suzukis .",0
+5731,"J' aime les Suzukis , et plus particulièrement les avions .",0
+5730,"J' aime les trains , et plus particulièrement les Suzukis .",0
+5729,"J' aime les Suzukis , et plus particulièrement les trains .",0
+5728,"J' aime les vélos , et plus particulièrement les Suzukis .",0
+5727,"J' aime les Suzukis , et plus particulièrement les vélos .",0
+5726,"J' aime les motos , et plus particulièrement les Suzukis .",1
+5725,"J' aime les Suzukis , et plus particulièrement les motos .",0
+5724,"J' aime les navaires , et plus particulièrement les Suzukis .",0
+5723,"J' aime les Suzukis , et plus particulièrement les navaires .",0
+5722,"J' aime les motos , et plus particulièrement les avions .",0
+5721,"J' aime les avions , et plus particulièrement les Harley-Davidson .",0
+5720,"J' aime les Harley-Davidson , et plus particulièrement les avions .",0
+5719,"J' aime les motos , et plus particulièrement les trains .",0
+5718,"J' aime les trains , et plus particulièrement les Harley-Davidson .",0
+5717,"J' aime les Harley-Davidson , et plus particulièrement les trains .",0
+5716,"J' aime les motos , et plus particulièrement les vélos .",0
+5715,"J' aime les vélos , et plus particulièrement les Harley-Davidson .",0
+5714,"J' aime les Harley-Davidson , et plus particulièrement les vélos .",0
+5713,"J' aime les motos , et plus particulièrement les navaires .",0
+5712,"J' aime les motos , et plus particulièrement les Harley-Davidson .",1
+5711,"J' aime les Harley-Davidson , et plus particulièrement les motos .",0
+5710,"J' aime les navaires , et plus particulièrement les Harley-Davidson .",0
+5709,"J' aime les Harley-Davidson , et plus particulièrement les navaires .",0
+5706,"J' aime les chiens , et plus particulièrement les moineaux .",0
+5705,"J' aime les moineaux , et plus particulièrement les chiens .",0
+5704,"J' aime les cochons , et plus particulièrement les moineaux .",0
+5703,"J' aime les moineaux , et plus particulièrement les cochons .",0
+5702,"J' aime les hamsters , et plus particulièrement les moineaux .",0
+5701,"J' aime les moineaux , et plus particulièrement les hamsters .",0
+5700,"J' aime les oiseaux , et plus particulièrement les moineaux .",1
+5699,"J' aime les moineaux , et plus particulièrement les oiseaux .",0
+5698,"J' aime les chats , et plus particulièrement les moineaux .",0
+5697,"J' aime les moineaux , et plus particulièrement les chats .",0
+5696,"J' aime les chiens , et plus particulièrement les merles .",0
+5695,"J' aime les merles , et plus particulièrement les chiens .",0
+5694,"J' aime les cochons , et plus particulièrement les merles .",0
+5693,"J' aime les merles , et plus particulièrement les cochons .",0
+5692,"J' aime les hamsters , et plus particulièrement les merles .",0
+5691,"J' aime les merles , et plus particulièrement les hamsters .",0
+5690,"J' aime les oiseaux , et plus particulièrement les merles .",1
+5689,"J' aime les merles , et plus particulièrement les oiseaux .",0
+5688,"J' aime les chats , et plus particulièrement les merles .",0
+5687,"J' aime les merles , et plus particulièrement les chats .",0
+5686,"J' aime les chiens , et plus particulièrement les canards .",0
+5685,"J' aime les canards , et plus particulièrement les chiens .",0
+5684,"J' aime les cochons , et plus particulièrement les canards .",0
+5683,"J' aime les canards , et plus particulièrement les cochons .",0
+5682,"J' aime les hamsters , et plus particulièrement les canards .",0
+5681,"J' aime les canards , et plus particulièrement les hamsters .",0
+5680,"J' aime les oiseaux , et plus particulièrement les canards .",1
+5679,"J' aime les canards , et plus particulièrement les oiseaux .",0
+5678,"J' aime les chats , et plus particulièrement les canards .",0
+5677,"J' aime les canards , et plus particulièrement les chats .",0
+5676,"J' aime les oiseaux , et plus particulièrement les chiens .",0
+5675,"J' aime les perrouquets , et plus particulièrement les chiens .",0
+5674,"J' aime les oiseaux , et plus particulièrement les cochons .",0
+5673,"J' aime les cochons , et plus particulièrement les perrouquets .",0
+5672,"J' aime les perrouquets , et plus particulièrement les cochons .",0
+5671,"J' aime les oiseaux , et plus particulièrement les hamsters .",0
+5670,"J' aime les hamsters , et plus particulièrement les perrouquets .",0
+5669,"J' aime les perrouquets , et plus particulièrement les hamsters .",0
+5668,"J' aime les oiseaux , et plus particulièrement les chats .",0
+5667,"J' aime les oiseaux , et plus particulièrement les perrouquets .",1
+5666,"J' aime les perrouquets , et plus particulièrement les oiseaux .",0
+5665,"J' aime les chats , et plus particulièrement les perrouquets .",0
+5664,"J' aime les perrouquets , et plus particulièrement les chats .",0
+5662,"J' aime les lapins , et plus particulièrement les beagles .",0
+5661,"J' aime les beagles , et plus particulièrement les lapins .",0
+5660,"J' aime les perrouquets , et plus particulièrement les beagles .",0
+5659,"J' aime les beagles , et plus particulièrement les perrouquets .",0
+5658,"J' aime les hamsters , et plus particulièrement les beagles .",0
+5657,"J' aime les beagles , et plus particulièrement les hamsters .",0
+5656,"J' aime les chiens , et plus particulièrement les beagles .",1
+5655,"J' aime les beagles , et plus particulièrement les chiens .",0
+5654,"J' aime les chats , et plus particulièrement les beagles .",0
+5653,"J' aime les beagles , et plus particulièrement les chats .",0
+5652,"J' aime les lapins , et plus particulièrement les bouledogues .",0
+5651,"J' aime les bouledogues , et plus particulièrement les lapins .",0
+5650,"J' aime les perrouquets , et plus particulièrement les bouledogues .",0
+5649,"J' aime les bouledogues , et plus particulièrement les perrouquets .",0
+5648,"J' aime les hamsters , et plus particulièrement les bouledogues .",0
+5647,"J' aime les bouledogues , et plus particulièrement les hamsters .",0
+5646,"J' aime les chiens , et plus particulièrement les bouledogues .",1
+5645,"J' aime les bouledogues , et plus particulièrement les chiens .",0
+5644,"J' aime les chats , et plus particulièrement les bouledogues .",0
+5643,"J' aime les bouledogues , et plus particulièrement les chats .",0
+5642,"J' aime les lapins , et plus particulièrement les bobtails .",0
+5641,"J' aime les bobtails , et plus particulièrement les lapins .",0
+5640,"J' aime les perrouquets , et plus particulièrement les bobtails .",0
+5639,"J' aime les bobtails , et plus particulièrement les perrouquets .",0
+5638,"J' aime les hamsters , et plus particulièrement les bobtails .",0
+5637,"J' aime les bobtails , et plus particulièrement les hamsters .",0
+5636,"J' aime les chiens , et plus particulièrement les bobtails .",1
+5635,"J' aime les bobtails , et plus particulièrement les chiens .",0
+5634,"J' aime les chats , et plus particulièrement les bobtails .",0
+5633,"J' aime les bobtails , et plus particulièrement les chats .",0
+5631,"J' aime les chiens , et plus particulièrement les lapins .",0
+5630,"J' aime les lapins , et plus particulièrement les huskies .",0
+5629,"J' aime les huskies , et plus particulièrement les lapins .",0
+5628,"J' aime les chiens , et plus particulièrement les perrouquets .",0
+5627,"J' aime les perrouquets , et plus particulièrement les huskies .",0
+5626,"J' aime les huskies , et plus particulièrement les perrouquets .",0
+5625,"J' aime les chiens , et plus particulièrement les hamsters .",0
+5624,"J' aime les hamsters , et plus particulièrement les huskies .",0
+5623,"J' aime les huskies , et plus particulièrement les hamsters .",0
+5622,"J' aime les chiens , et plus particulièrement les chats .",0
+5621,"J' aime les chiens , et plus particulièrement les huskies .",1
+5620,"J' aime les huskies , et plus particulièrement les chiens .",0
+5619,"J' aime les chats , et plus particulièrement les huskies .",0
+5618,"J' aime les huskies , et plus particulièrement les chats .",0
+5614,"J' ai rencontré les concierges , mais pas les physiciens .",1
+5613,"J' ai rencontré les physiciens , mais pas les concierges .",1
+5612,"J' ai rencontré les gardiens , mais pas les physiciens .",1
+5611,"J' ai rencontré les physiciens , mais pas les gardiens .",1
+5610,"J' ai rencontré les serveurs , mais pas les physiciens .",1
+5609,"J' ai rencontré les physiciens , mais pas les serveurs .",1
+5608,"J' ai rencontré les scientifiques , mais pas les physiciens .",1
+5607,"J' ai rencontré les physiciens , mais pas les scientifiques .",0
+5606,"J' ai rencontré les greffiers , mais pas les physiciens .",1
+5605,"J' ai rencontré les physiciens , mais pas les greffiers .",1
+5604,"J' ai rencontré les concierges , mais pas les astronomes .",1
+5603,"J' ai rencontré les astronomes , mais pas les concierges .",1
+5602,"J' ai rencontré les gardiens , mais pas les astronomes .",1
+5601,"J' ai rencontré les astronomes , mais pas les gardiens .",1
+5600,"J' ai rencontré les serveurs , mais pas les astronomes .",1
+5599,"J' ai rencontré les astronomes , mais pas les serveurs .",1
+5598,"J' ai rencontré les scientifiques , mais pas les astronomes .",1
+5597,"J' ai rencontré les astronomes , mais pas les scientifiques .",0
+5596,"J' ai rencontré les greffiers , mais pas les astronomes .",1
+5595,"J' ai rencontré les astronomes , mais pas les greffiers .",1
+5593,"J' ai rencontré les concierges , mais pas les généticiens .",1
+5592,"J' ai rencontré les généticiens , mais pas les concierges .",1
+5591,"J' ai rencontré les gardiens , mais pas les généticiens .",1
+5590,"J' ai rencontré les généticiens , mais pas les gardiens .",1
+5589,"J' ai rencontré les serveurs , mais pas les généticiens .",1
+5588,"J' ai rencontré les généticiens , mais pas les serveurs .",1
+5587,"J' ai rencontré les scientifiques , mais pas les généticiens .",1
+5586,"J' ai rencontré les généticiens , mais pas les scientifiques .",0
+5585,"J' ai rencontré les greffiers , mais pas les généticiens .",1
+5584,"J' ai rencontré les généticiens , mais pas les greffiers .",1
+5583,"J' ai rencontré les scientifiques , mais pas les concierges .",1
+5582,"J' ai rencontré les concierges , mais pas les biologistes .",1
+5581,"J' ai rencontré les biologistes , mais pas les concierges .",1
+5580,"J' ai rencontré les scientifiques , mais pas les gardiens .",1
+5579,"J' ai rencontré les gardiens , mais pas les biologistes .",1
+5578,"J' ai rencontré les biologistes , mais pas les gardiens .",1
+5577,"J' ai rencontré les scientifiques , mais pas les serveurs .",1
+5576,"J' ai rencontré les serveurs , mais pas les biologistes .",1
+5575,"J' ai rencontré les biologistes , mais pas les serveurs .",1
+5574,"J' ai rencontré les scientifiques , mais pas les greffiers .",1
+5573,"J' ai rencontré les scientifiques , mais pas les biologistes .",1
+5572,"J' ai rencontré les biologistes , mais pas les scientifiques .",0
+5571,"J' ai rencontré les greffiers , mais pas les biologistes .",1
+5570,"J' ai rencontré les biologistes , mais pas les greffiers .",1
+5569,"J' aime les bureaux , mais pas les professeurs .",1
+5568,"J' aime les professeurs , mais pas les bureaux .",1
+5567,"J' aime les écoles , mais pas les professeurs .",1
+5566,"J' aime les professeurs , mais pas les écoles .",1
+5565,"J' aime les restaurants , mais pas les professeurs .",1
+5564,"J' aime les professeurs , mais pas les restaurants .",1
+5563,"J' aime les travailleurs , mais pas les professeurs .",1
+5562,"J' aime les professeurs , mais pas les travailleurs .",0
+5561,"J' aime les usines , mais pas les professeurs .",1
+5560,"J' aime les professeurs , mais pas les usines .",1
+5559,"J' aime les bureaux , mais pas les gardiens .",1
+5558,"J' aime les gardiens , mais pas les bureaux .",1
+5557,"J' aime les écoles , mais pas les gardiens .",1
+5556,"J' aime les gardiens , mais pas les écoles .",1
+5555,"J' aime les restaurants , mais pas les gardiens .",1
+5554,"J' aime les gardiens , mais pas les restaurants .",1
+5553,"J' aime les travailleurs , mais pas les gardiens .",1
+5552,"J' aime les gardiens , mais pas les travailleurs .",0
+5551,"J' aime les usines , mais pas les gardiens .",1
+5550,"J' aime les gardiens , mais pas les usines .",1
+5549,"J' aime les bureaux , mais pas les serveurs .",1
+5548,"J' aime les serveurs , mais pas les bureaux .",1
+5547,"J' aime les écoles , mais pas les serveurs .",1
+5546,"J' aime les serveurs , mais pas les écoles .",1
+5545,"J' aime les restaurants , mais pas les serveurs .",1
+5544,"J' aime les serveurs , mais pas les restaurants .",1
+5543,"J' aime les travailleurs , mais pas les serveurs .",1
+5542,"J' aime les serveurs , mais pas les travailleurs .",0
+5541,"J' aime les usines , mais pas les serveurs .",1
+5540,"J' aime les serveurs , mais pas les usines .",1
+5539,"J' aime les travailleurs , mais pas les bureaux .",1
+5538,"J' aime les bureaux , mais pas les greffiers .",1
+5537,"J' aime les greffiers , mais pas les bureaux .",1
+5536,"J' aime les travailleurs , mais pas les écoles .",1
+5535,"J' aime les écoles , mais pas les greffiers .",1
+5534,"J' aime les greffiers , mais pas les écoles .",1
+5533,"J' aime les travailleurs , mais pas les restaurants .",1
+5532,"J' aime les restaurants , mais pas les greffiers .",1
+5531,"J' aime les greffiers , mais pas les restaurants .",1
+5530,"J' aime les travailleurs , mais pas les usines .",1
+5529,"J' aime les travailleurs , mais pas les greffiers .",1
+5528,"J' aime les greffiers , mais pas les travailleurs .",0
+5527,"J' aime les usines , mais pas les greffiers .",1
+5526,"J' aime les greffiers , mais pas les usines .",1
+5525,"J' aime les peintures , mais pas les manuels .",1
+5524,"J' aime les manuels , mais pas les peintures .",1
+5523,"J' aime les dessins animés , mais pas les manuels .",1
+5522,"J' aime les manuels , mais pas les dessins animés .",1
+5521,"J' aime le cinéma , mais pas les manuels .",1
+5520,"J' aime les manuels , mais pas le cinéma .",1
+5519,"J' aime les livres , mais pas les manuels .",1
+5518,"J' aime les manuels , mais pas les livres .",0
+5517,"J' aime la musique , mais pas les manuels .",1
+5516,"J' aime les manuels , mais pas la musique .",1
+5515,"J' aime les peintures , mais pas les romans .",1
+5514,"J' aime les romans , mais pas les peintures .",1
+5513,"J' aime les dessins animés , mais pas les romans .",1
+5512,"J' aime les romans , mais pas les dessins animés .",1
+5511,"J' aime le cinéma , mais pas les romans .",1
+5510,"J' aime les romans , mais pas le cinéma .",1
+5509,"J' aime les livres , mais pas les romans .",1
+5508,"J' aime les romans , mais pas les livres .",0
+5507,"J' aime la musique , mais pas les romans .",1
+5506,"J' aime les romans , mais pas la musique .",1
+5505,"J' aime les peintures , mais pas les essais .",1
+5504,"J' aime les essais , mais pas les peintures .",1
+5503,"J' aime les dessins animés , mais pas les essais .",1
+5502,"J' aime les essais , mais pas les dessins animés .",1
+5501,"J' aime le cinéma , mais pas les essais .",1
+5500,"J' aime les essais , mais pas le cinéma .",1
+5499,"J' aime les livres , mais pas les essais .",1
+5498,"J' aime les essais , mais pas les livres .",0
+5497,"J' aime la musique , mais pas les essais .",1
+5496,"J' aime les essais , mais pas la musique .",1
+5495,"J' aime les livres , mais pas les peintures .",1
+5494,"J' aime les peintures , mais pas les manuels scolaires .",1
+5493,"J' aime les manuels scolaires , mais pas les peintures .",1
+5492,"J' aime les livres , mais pas les dessins animés .",1
+5491,"J' aime les dessins animés , mais pas les manuels scolaires .",1
+5490,"J' aime les manuels scolaires , mais pas les dessins animés .",1
+5489,"J' aime les livres , mais pas le cinéma .",1
+5488,"J' aime le cinéma , mais pas les manuels scolaires .",1
+5487,"J' aime les manuels scolaires , mais pas le cinéma .",1
+5486,"J' aime les livres , mais pas la musique .",1
+5485,"J' aime les livres , mais pas les manuels scolaires .",1
+5484,"J' aime les manuels scolaires , mais pas les livres .",0
+5483,"J' aime la musique , mais pas les manuels scolaires .",1
+5482,"J' aime les manuels scolaires , mais pas la musique .",1
+5480,"Je peux comprendre les calculs , mais pas la tristesse .",1
+5479,"Je peux comprendre la tristesse , mais pas les calculs .",1
+5478,"Je peux comprendre la logique , mais pas la tristesse .",1
+5477,"Je peux comprendre la tristesse , mais pas la logique .",1
+5476,"Je peux comprendre la stupidité , mais pas la tristesse .",1
+5475,"Je peux comprendre la tristesse , mais pas la stupidité .",1
+5474,"Je peux comprendre les émotions , mais pas la tristesse .",1
+5473,"Je peux comprendre la tristesse , mais pas les émotions .",0
+5472,"Je peux comprendre la sagesse , mais pas la tristesse .",1
+5471,"Je peux comprendre la tristesse , mais pas la sagesse .",1
+5470,"Je peux comprendre les calculs , mais pas l' amour .",1
+5469,"Je peux comprendre l' amour , mais pas les calculs .",1
+5468,"Je peux comprendre la logique , mais pas l' amour .",1
+5467,"Je peux comprendre l' amour , mais pas la logique .",1
+5466,"Je peux comprendre la stupidité , mais pas l' amour .",1
+5465,"Je peux comprendre l' amour , mais pas la stupidité .",1
+5464,"Je peux comprendre les émotions , mais pas l' amour .",1
+5463,"Je peux comprendre l' amour , mais pas les émotions .",0
+5462,"Je peux comprendre la sagesse , mais pas l' amour .",1
+5461,"Je peux comprendre l' amour , mais pas la sagesse .",1
+5460,"Je peux comprendre les calculs , mais pas la peur .",1
+5459,"Je peux comprendre la peur , mais pas les calculs .",1
+5458,"Je peux comprendre la logique , mais pas la peur .",1
+5457,"Je peux comprendre la peur , mais pas la logique .",1
+5456,"Je peux comprendre la stupidité , mais pas la peur .",1
+5455,"Je peux comprendre la peur , mais pas la stupidité .",1
+5454,"Je peux comprendre les émotions , mais pas la peur .",1
+5453,"Je peux comprendre la peur , mais pas les émotions .",0
+5452,"Je peux comprendre la sagesse , mais pas la peur .",1
+5451,"Je peux comprendre la peur , mais pas la sagesse .",1
+5450,"Je peux comprendre les émotions , mais pas les calculs .",1
+5449,"Je peux comprendre les calculs , mais pas la joie .",1
+5448,"Je peux comprendre la joie , mais pas les calculs .",1
+5447,"Je peux comprendre les émotions , mais pas la logique .",1
+5446,"Je peux comprendre la logique , mais pas la joie .",1
+5445,"Je peux comprendre la joie , mais pas la logique .",1
+5444,"Je peux comprendre les émotions , mais pas la stupidité .",1
+5443,"Je peux comprendre la stupidité , mais pas la joie .",1
+5442,"Je peux comprendre la joie , mais pas la stupidité .",1
+5441,"Je peux comprendre les émotions , mais pas la sagesse .",1
+5440,"Je peux comprendre les émotions , mais pas la joie .",1
+5439,"Je peux comprendre la joie , mais pas les émotions .",0
+5438,"Je peux comprendre la sagesse , mais pas la joie .",1
+5437,"Je peux comprendre la joie , mais pas la sagesse .",1
+5436,"Il fait confiance aux suppositions , mais pas son sens du goût .",1
+5435,"Il fait confiance à son sens du goût , mais pas les suppositions .",1
+5434,"Il fait confiance aux reconstructions , mais pas son sens du goût .",1
+5433,"Il fait confiance à son sens du goût , mais pas les reconstructions .",1
+5432,"Il fait confiance aux rapports , mais pas son sens du goût .",1
+5431,"Il fait confiance à son sens du goût , mais pas les rapports .",1
+5430,"Il fait confiance à ses sens , mais pas son sens du goût .",1
+5429,"Il fait confiance à son sens du goût , mais pas ses sens .",0
+5428,"Il fait confiance aux rumeurs , mais pas son sens du goût .",1
+5427,"Il fait confiance à son sens du goût , mais pas les rumeurs .",1
+5426,"Il fait confiance aux suppositions , mais pas son sens du toucher .",1
+5425,"Il fait confiance à son sens du toucher , mais pas les suppositions .",1
+5424,"Il fait confiance aux reconstructions , mais pas son sens du toucher .",1
+5423,"Il fait confiance à son sens du toucher , mais pas les reconstructions .",1
+5422,"Il fait confiance aux rapports , mais pas son sens du toucher .",1
+5421,"Il fait confiance à son sens du toucher , mais pas les rapports .",1
+5420,"Il fait confiance à ses sens , mais pas son sens du toucher .",1
+5419,"Il fait confiance à son sens du toucher , mais pas ses sens .",0
+5418,"Il fait confiance aux rumeurs , mais pas son sens du toucher .",1
+5417,"Il fait confiance à son sens du toucher , mais pas les rumeurs .",1
+5416,"Il fait confiance aux suppositions , mais pas son odorat .",1
+5415,"Il fait confiance à son odorat , mais pas les suppositions .",1
+5414,"Il fait confiance aux reconstructions , mais pas son odorat .",1
+5413,"Il fait confiance à son odorat , mais pas les reconstructions .",1
+5412,"Il fait confiance aux rapports , mais pas son odorat .",1
+5411,"Il fait confiance à son odorat , mais pas les rapports .",1
+5410,"Il fait confiance à ses sens , mais pas son odorat .",1
+5409,"Il fait confiance à son odorat , mais pas ses sens .",0
+5408,"Il fait confiance aux rumeurs , mais pas son odorat .",1
+5407,"Il fait confiance à son odorat , mais pas les rumeurs .",1
+5406,"Il fait confiance à ses sens , mais pas les suppositions .",1
+5405,"Il fait confiance aux suppositions , mais pas sa vision .",1
+5404,"Il fait confiance à sa vision , mais pas les suppositions .",1
+5403,"Il fait confiance à ses sens , mais pas les reconstructions .",1
+5402,"Il fait confiance aux reconstructions , mais pas sa vision .",1
+5401,"Il fait confiance à sa vision , mais pas les reconstructions .",1
+5400,"Il fait confiance à ses sens , mais pas les rapports .",1
+5399,"Il fait confiance aux rapports , mais pas sa vision .",1
+5398,"Il fait confiance à sa vision , mais pas les rapports .",1
+5397,"Il fait confiance à ses sens , mais pas les rumeurs .",1
+5396,"Il fait confiance à ses sens , mais pas sa vision .",1
+5395,"Il fait confiance à sa vision , mais pas ses sens .",0
+5394,"Il fait confiance aux rumeurs , mais pas sa vision .",1
+5393,"Il fait confiance à sa vision , mais pas les rumeurs .",1
+5387,"J' aime les baleines , mais pas les hamsters .",1
+5386,"J' aime les hamsters , mais pas les baleines .",1
+5385,"J' aime les méduses , mais pas les hamsters .",1
+5384,"J' aime les hamsters , mais pas les méduses .",1
+5382,"J' aime les ours , mais pas les hamsters .",1
+5381,"J' aime les hamsters , mais pas les ours .",1
+5380,"J' aime les animaux de compagnie , mais pas les hamsters .",1
+5379,"J' aime les hamsters , mais pas les animaux de compagnie .",0
+5378,"J' aime les giraffes , mais pas les hamsters .",1
+5377,"J' aime les hamsters , mais pas les giraffes .",1
+5376,"J' aime les baleines , mais pas les lapins .",1
+5375,"J' aime les lapins , mais pas les baleines .",1
+5374,"J' aime les méduses , mais pas les lapins .",1
+5373,"J' aime les lapins , mais pas les méduses .",1
+5372,"J' aime les ours , mais pas les lapins .",1
+5371,"J' aime les lapins , mais pas les ours .",1
+5370,"J' aime les animaux de compagnie , mais pas les lapins .",1
+5369,"J' aime les lapins , mais pas les animaux de compagnie .",0
+5368,"J' aime les giraffes , mais pas les lapins .",1
+5367,"J' aime les lapins , mais pas les giraffes .",1
+5365,"J' aime les baleines , mais pas les chiens .",1
+5364,"J' aime les chiens , mais pas les baleines .",1
+5363,"J' aime les méduses , mais pas les chiens .",1
+5362,"J' aime les chiens , mais pas les méduses .",1
+5360,"J' aime les ours , mais pas les chiens .",1
+5359,"J' aime les chiens , mais pas les ours .",1
+5358,"J' aime les animaux de compagnie , mais pas les chiens .",1
+5357,"J' aime les chiens , mais pas les animaux de compagnie .",0
+5356,"J' aime les giraffes , mais pas les chiens .",1
+5355,"J' aime les chiens , mais pas les giraffes .",1
+5354,"J' aime les animaux de compagnie , mais pas les baleines .",1
+5352,"J' aime les baleines , mais pas les chats .",1
+5351,"J' aime les chats , mais pas les baleines .",1
+5350,"J' aime les animaux de compagnie , mais pas les méduses .",1
+5349,"J' aime les méduses , mais pas les chats .",1
+5348,"J' aime les chats , mais pas les méduses .",1
+5347,"J' aime les animaux de compagnie , mais pas les ours .",1
+5346,"J' aime les ours , mais pas les chats .",1
+5345,"J' aime les chats , mais pas les ours .",1
+5344,"J' aime les animaux de compagnie , mais pas les giraffes .",1
+5343,"J' aime les animaux de compagnie , mais pas les chats .",1
+5342,"J' aime les chats , mais pas les animaux de compagnie .",0
+5341,"J' aime les giraffes , mais pas les chats .",1
+5340,"J' aime les chats , mais pas les giraffes .",1
+5339,"J' aime les chaussures , mais pas les bagues .",1
+5338,"J' aime les bagues , mais pas les chaussures .",1
+5337,"J' aime les lunettes , mais pas les bagues .",1
+5336,"J' aime les bagues , mais pas les lunettes .",1
+5335,"J' aime les écharpes , mais pas les bagues .",1
+5334,"J' aime les bagues , mais pas les écharpes .",1
+5333,"J' aime les bijoux , mais pas les bagues .",1
+5332,"J' aime les bagues , mais pas les bijoux .",0
+5331,"J' aime les sacs à main , mais pas les bagues .",1
+5330,"J' aime les bagues , mais pas les sacs à main .",1
+5329,"J' aime les chaussures , mais pas les boucles d' oreille .",1
+5328,"J' aime les boucles d' oreille , mais pas les chaussures .",1
+5327,"J' aime les lunettes , mais pas les boucles d' oreille .",1
+5326,"J' aime les boucles d' oreille , mais pas les lunettes .",1
+5325,"J' aime les écharpes , mais pas les boucles d' oreille .",1
+5324,"J' aime les boucles d' oreille , mais pas les écharpes .",1
+5323,"J' aime les bijoux , mais pas les boucles d' oreille .",1
+5322,"J' aime les boucles d' oreille , mais pas les bijoux .",0
+5321,"J' aime les sacs à main , mais pas les boucles d' oreille .",1
+5320,"J' aime les boucles d' oreille , mais pas les sacs à main .",1
+5319,"J' aime les chaussures , mais pas les colliers .",1
+5318,"J' aime les colliers , mais pas les chaussures .",1
+5317,"J' aime les lunettes , mais pas les colliers .",1
+5316,"J' aime les colliers , mais pas les lunettes .",1
+5315,"J' aime les écharpes , mais pas les colliers .",1
+5314,"J' aime les colliers , mais pas les écharpes .",1
+5313,"J' aime les bijoux , mais pas les colliers .",1
+5312,"J' aime les colliers , mais pas les bijoux .",0
+5311,"J' aime les sacs à main , mais pas les colliers .",1
+5310,"J' aime les colliers , mais pas les sacs à main .",1
+5309,"J' aime les bijoux , mais pas les chaussures .",1
+5308,"J' aime les chaussures , mais pas les bracelets .",1
+5307,"J' aime les bracelets , mais pas les chaussures .",1
+5306,"J' aime les bijoux , mais pas les lunettes .",1
+5305,"J' aime les lunettes , mais pas les bracelets .",1
+5304,"J' aime les bracelets , mais pas les lunettes .",1
+5303,"J' aime les bijoux , mais pas les écharpes .",1
+5302,"J' aime les écharpes , mais pas les bracelets .",1
+5301,"J' aime les bracelets , mais pas les écharpes .",1
+5300,"J' aime les bijoux , mais pas les sacs à main .",1
+5299,"J' aime les bijoux , mais pas les bracelets .",1
+5298,"J' aime les bracelets , mais pas les bijoux .",0
+5297,"J' aime les sacs à main , mais pas les bracelets .",1
+5296,"J' aime les bracelets , mais pas les sacs à main .",1
+5295,"J' aime les jeux vidéo , mais pas les documentaires .",1
+5294,"J' aime les documentaires , mais pas les jeux vidéo .",1
+5293,"J' aime les jeux de société , mais pas les documentaires .",1
+5292,"J' aime les documentaires , mais pas les jeux de société .",1
+5291,"J' aime les manuels scolaires , mais pas les documentaires .",1
+5290,"J' aime les documentaires , mais pas les manuels scolaires .",1
+5289,"J' aime les films , mais pas les documentaires .",1
+5288,"J' aime les documentaires , mais pas les films .",0
+5287,"J' aime les essais , mais pas les documentaires .",1
+5286,"J' aime les documentaires , mais pas les essais .",1
+5285,"J' aime les jeux vidéo , mais pas les comédies .",1
+5284,"J' aime les comédies , mais pas les jeux vidéo .",1
+5283,"J' aime les jeux de société , mais pas les comédies .",1
+5282,"J' aime les comédies , mais pas les jeux de société .",1
+5281,"J' aime les manuels scolaires , mais pas les comédies .",1
+5280,"J' aime les comédies , mais pas les manuels scolaires .",1
+5279,"J' aime les films , mais pas les comédies .",1
+5278,"J' aime les comédies , mais pas les films .",0
+5277,"J' aime les essais , mais pas les comédies .",1
+5276,"J' aime les comédies , mais pas les essais .",1
+5275,"J' aime les jeux vidéo , mais pas les westerns .",1
+5274,"J' aime les westerns , mais pas les jeux vidéo .",1
+5273,"J' aime les jeux de société , mais pas les westerns .",1
+5272,"J' aime les westerns , mais pas les jeux de société .",1
+5271,"J' aime les manuels scolaires , mais pas les westerns .",1
+5270,"J' aime les westerns , mais pas les manuels scolaires .",1
+5269,"J' aime les films , mais pas les westerns .",1
+5268,"J' aime les westerns , mais pas les films .",0
+5267,"J' aime les essais , mais pas les westerns .",1
+5266,"J' aime les westerns , mais pas les essais .",1
+5265,"J' aime les films , mais pas les jeux vidéo .",1
+5264,"J' aime les jeux vidéo , mais pas les thrillers .",1
+5263,"J' aime les thrillers , mais pas les jeux vidéo .",1
+5262,"J' aime les films , mais pas les jeux de société .",1
+5261,"J' aime les jeux de société , mais pas les thrillers .",1
+5260,"J' aime les thrillers , mais pas les jeux de société .",1
+5259,"J' aime les films , mais pas les manuels scolaires .",1
+5258,"J' aime les manuels scolaires , mais pas les thrillers .",1
+5257,"J' aime les thrillers , mais pas les manuels scolaires .",1
+5256,"J' aime les films , mais pas les essais .",1
+5255,"J' aime les films , mais pas les thrillers .",1
+5254,"J' aime les thrillers , mais pas les films .",0
+5253,"J' aime les essais , mais pas les thrillers .",1
+5252,"J' aime les thrillers , mais pas les essais .",1
+5249,"J' adore le boeuf , mais pas le caviar .",1
+5248,"J' adore le caviar , mais pas le boeuf .",1
+5247,"J' adore la dinde , mais pas le caviar .",1
+5246,"J' adore le caviar , mais pas la dinde .",1
+5245,"J' adore le veau , mais pas le caviar .",1
+5244,"J' adore le caviar , mais pas le veau .",1
+5243,"J' adore les produits de la mer , mais pas le caviar .",1
+5242,"J' adore le caviar , mais pas les produits de la mer .",0
+5241,"J' adore le poulet , mais pas le caviar .",1
+5240,"J' adore le caviar , mais pas le poulet .",1
+5239,"J' adore le boeuf , mais pas les huîtres .",1
+5238,"J' adore les huîtres , mais pas le boeuf .",1
+5237,"J' adore la dinde , mais pas les huîtres .",1
+5236,"J' adore les huîtres , mais pas la dinde .",1
+5234,"J' adore le veau , mais pas les huîtres .",1
+5233,"J' adore les huîtres , mais pas le veau .",1
+5232,"J' adore les produits de la mer , mais pas les huîtres .",1
+5231,"J' adore les huîtres , mais pas les produits de la mer .",0
+5230,"J' adore le poulet , mais pas les huîtres .",1
+5229,"J' adore les huîtres , mais pas le poulet .",1
+5227,"J' adore le boeuf , mais pas les crabes .",1
+5226,"J' adore les crabes , mais pas le boeuf .",1
+5225,"J' adore la dinde , mais pas les crabes .",1
+5224,"J' adore les crabes , mais pas la dinde .",1
+5223,"J' adore le veau , mais pas les crabes .",1
+5222,"J' adore les crabes , mais pas le veau .",1
+5221,"J' adore les produits de la mer , mais pas les crabes .",1
+5220,"J' adore les crabes , mais pas les produits de la mer .",0
+5219,"J' adore le poulet , mais pas les crabes .",1
+5218,"J' adore les crabes , mais pas le poulet .",1
+5217,"J' adore les produits de la mer , mais pas le boeuf .",1
+5216,"J' adore le boeuf , mais pas le saumon .",1
+5215,"J' adore le saumon , mais pas le boeuf .",1
+5214,"J' adore les produits de la mer , mais pas la dinde .",1
+5213,"J' adore la dinde , mais pas le saumon .",1
+5212,"J' adore le saumon , mais pas la dinde .",1
+5211,"J' adore les produits de la mer , mais pas le veau .",1
+5210,"J' adore le veau , mais pas le saumon .",1
+5209,"J' adore le saumon , mais pas le veau .",1
+5208,"J' adore les produits de la mer , mais pas le poulet .",1
+5207,"J' adore les produits de la mer , mais pas le saumon .",1
+5206,"J' adore le saumon , mais pas les produits de la mer .",0
+5205,"J' adore le poulet , mais pas le saumon .",1
+5204,"J' adore le saumon , mais pas le poulet .",1
+5198,"J' adore les carottes , mais pas les lardons .",1
+5197,"J' adore les lardons , mais pas les carottes .",1
+5196,"J' adore les pommes , mais pas les lardons .",1
+5195,"J' adore les lardons , mais pas les pommes .",1
+5194,"J' adore le brocoli , mais pas les lardons .",1
+5193,"J' adore les lardons , mais pas le brocoli .",1
+5192,"J' adore le porc , mais pas les lardons .",1
+5191,"J' adore les lardons , mais pas le porc .",0
+5190,"J' adore le poisson , mais pas les lardons .",1
+5189,"J' adore les lardons , mais pas le poisson .",1
+5188,"J' adore les carottes , mais pas le bacon .",1
+5187,"J' adore le bacon , mais pas les carottes .",1
+5186,"J' adore les pommes , mais pas le bacon .",1
+5185,"J' adore le bacon , mais pas les pommes .",1
+5184,"J' adore le brocoli , mais pas le bacon .",1
+5183,"J' adore le bacon , mais pas le brocoli .",1
+5182,"J' adore le porc , mais pas le bacon .",1
+5181,"J' adore le bacon , mais pas le porc .",0
+5180,"J' adore le poisson , mais pas le bacon .",1
+5179,"J' adore le bacon , mais pas le poisson .",1
+5178,"J' adore les carottes , mais pas le prosciutto .",1
+5177,"J' adore le prosciutto , mais pas les carottes .",1
+5176,"J' adore les pommes , mais pas le prosciutto .",1
+5175,"J' adore le prosciutto , mais pas les pommes .",1
+5174,"J' adore le brocoli , mais pas le prosciutto .",1
+5173,"J' adore le prosciutto , mais pas le brocoli .",1
+5172,"J' adore le porc , mais pas le prosciutto .",1
+5171,"J' adore le prosciutto , mais pas le porc .",0
+5170,"J' adore le poisson , mais pas le prosciutto .",1
+5169,"J' adore le prosciutto , mais pas le poisson .",1
+5168,"J' adore le porc , mais pas les carottes .",1
+5167,"J' adore les carottes , mais pas le jambon .",1
+5166,"J' adore le jambon , mais pas les carottes .",1
+5165,"J' adore le porc , mais pas les pommes .",1
+5164,"J' adore les pommes , mais pas le jambon .",1
+5163,"J' adore le jambon , mais pas les pommes .",1
+5162,"J' adore le porc , mais pas le brocoli .",1
+5161,"J' adore le brocoli , mais pas le jambon .",1
+5160,"J' adore le jambon , mais pas le brocoli .",1
+5159,"J' adore le porc , mais pas le poisson .",1
+5158,"J' adore le porc , mais pas le jambon .",1
+5157,"J' adore le jambon , mais pas le porc .",0
+5156,"J' adore le poisson , mais pas le jambon .",1
+5155,"J' adore le jambon , mais pas le poisson .",1
+5151,"J' apprécie les bijoux , mais pas le blues .",1
+5150,"J' apprécie le blues , mais pas les bijoux .",1
+5149,"J' apprécie les aliments , mais pas le blues .",1
+5148,"J' apprécie le blues , mais pas les aliments .",1
+5147,"J' apprécie les jeux de société , mais pas le blues .",1
+5146,"J' apprécie le blues , mais pas les jeux de société .",1
+5145,"J' apprécie la musique , mais pas le blues .",1
+5144,"J' apprécie le blues , mais pas la musique .",0
+5143,"J' apprécie les sports , mais pas le blues .",1
+5142,"J' apprécie le blues , mais pas les sports .",1
+5141,"J' apprécie les bijoux , mais pas la techno .",1
+5140,"J' apprécie la techno , mais pas les bijoux .",1
+5139,"J' apprécie les aliments , mais pas la techno .",1
+5138,"J' apprécie la techno , mais pas les aliments .",1
+5136,"J' apprécie les jeux de société , mais pas la techno .",1
+5135,"J' apprécie la techno , mais pas les jeux de société .",1
+5134,"J' apprécie la musique , mais pas la techno .",1
+5133,"J' apprécie la techno , mais pas la musique .",0
+5132,"J' apprécie les sports , mais pas la techno .",1
+5131,"J' apprécie la techno , mais pas les sports .",1
+5129,"J' apprécie les bijoux , mais pas le jazz .",1
+5128,"J' apprécie le jazz , mais pas les bijoux .",1
+5127,"J' apprécie les aliments , mais pas le jazz .",1
+5126,"J' apprécie le jazz , mais pas les aliments .",1
+5125,"J' apprécie les jeux de société , mais pas le jazz .",1
+5124,"J' apprécie le jazz , mais pas les jeux de société .",1
+5123,"J' apprécie la musique , mais pas le jazz .",1
+5122,"J' apprécie le jazz , mais pas la musique .",0
+5121,"J' apprécie les sports , mais pas le jazz .",1
+5120,"J' apprécie le jazz , mais pas les sports .",1
+5119,"J' apprécie la musique , mais pas les bijoux .",1
+5118,"J' apprécie les bijoux , mais pas le rock .",1
+5117,"J' apprécie le rock , mais pas les bijoux .",1
+5116,"J' apprécie la musique , mais pas les aliments .",1
+5115,"J' apprécie les aliments , mais pas le rock .",1
+5114,"J' apprécie le rock , mais pas les aliments .",1
+5113,"J' apprécie la musique , mais pas les jeux de société .",1
+5112,"J' apprécie les jeux de société , mais pas le rock .",1
+5111,"J' apprécie le rock , mais pas les jeux de société .",1
+5110,"J' apprécie la musique , mais pas les sports .",1
+5109,"J' apprécie la musique , mais pas le rock .",1
+5108,"J' apprécie le rock , mais pas la musique .",0
+5107,"J' apprécie les sports , mais pas le rock .",1
+5106,"J' apprécie le rock , mais pas les sports .",1
+5100,"J' apprécie la bière , mais pas le Cabernet Sauvignon .",1
+5099,"J' apprécie le Cabernet Sauvignon , mais pas la bière .",1
+5098,"J' apprécie la sprite , mais pas le Cabernet Sauvignon .",1
+5097,"J' apprécie le Cabernet Sauvignon , mais pas la sprite .",1
+5096,"J' apprécie l' eau , mais pas le Cabernet Sauvignon .",1
+5095,"J' apprécie le Cabernet Sauvignon , mais pas l' eau .",1
+5094,"J' apprécie le vin , mais pas le Cabernet Sauvignon .",1
+5093,"J' apprécie le Cabernet Sauvignon , mais pas le vin .",0
+5092,"J' apprécie le coca cola , mais pas le Cabernet Sauvignon .",1
+5091,"J' apprécie le Cabernet Sauvignon , mais pas le coca cola .",1
+5090,"J' apprécie la bière , mais pas le Chianti .",1
+5089,"J' apprécie le Chianti , mais pas la bière .",1
+5088,"J' apprécie la sprite , mais pas le Chianti .",1
+5087,"J' apprécie le Chianti , mais pas la sprite .",1
+5086,"J' apprécie l' eau , mais pas le Chianti .",1
+5085,"J' apprécie le Chianti , mais pas l' eau .",1
+5084,"J' apprécie le vin , mais pas le Chianti .",1
+5083,"J' apprécie le Chianti , mais pas le vin .",0
+5082,"J' apprécie le coca cola , mais pas le Chianti .",1
+5081,"J' apprécie le Chianti , mais pas le coca cola .",1
+5080,"J' apprécie la bière , mais pas le Chardonnay .",1
+5079,"J' apprécie le Chardonnay , mais pas la bière .",1
+5078,"J' apprécie la sprite , mais pas le Chardonnay .",1
+5077,"J' apprécie le Chardonnay , mais pas la sprite .",1
+5076,"J' apprécie l' eau , mais pas le Chardonnay .",1
+5075,"J' apprécie le Chardonnay , mais pas l' eau .",1
+5074,"J' apprécie le vin , mais pas le Chardonnay .",1
+5073,"J' apprécie le Chardonnay , mais pas le vin .",0
+5072,"J' apprécie le coca cola , mais pas le Chardonnay .",1
+5071,"J' apprécie le Chardonnay , mais pas le coca cola .",1
+5070,"J' apprécie le vin , mais pas la bière .",1
+5069,"J' apprécie la bière , mais pas le Merlot .",1
+5068,"J' apprécie le Merlot , mais pas la bière .",1
+5067,"J' apprécie le vin , mais pas la sprite .",1
+5066,"J' apprécie la sprite , mais pas le Merlot .",1
+5065,"J' apprécie le Merlot , mais pas la sprite .",1
+5064,"J' apprécie le vin , mais pas l' eau .",1
+5063,"J' apprécie l' eau , mais pas le Merlot .",1
+5062,"J' apprécie le Merlot , mais pas l' eau .",1
+5061,"J' apprécie le vin , mais pas le coca cola .",1
+5060,"J' apprécie le vin , mais pas le Merlot .",1
+5059,"J' apprécie le Merlot , mais pas le vin .",0
+5058,"J' apprécie le coca cola , mais pas le Merlot .",1
+5057,"J' apprécie le Merlot , mais pas le coca cola .",1
+5056,"J' apprécie le parquet , mais pas les lits .",1
+5055,"J' apprécie les lits , mais pas le parquet .",1
+5054,"J' apprécie le papier peint , mais pas les lits .",1
+5053,"J' apprécie les lits , mais pas le papier peint .",1
+5052,"J' apprécie les peintures , mais pas les lits .",1
+5051,"J' apprécie les lits , mais pas les peintures .",1
+5050,"J' apprécie les meubles , mais pas les lits .",1
+5049,"J' apprécie les lits , mais pas les meubles .",0
+5048,"J' apprécie les couverts , mais pas les lits .",1
+5047,"J' apprécie les lits , mais pas les couverts .",1
+5046,"J' apprécie le parquet , mais pas les armoires .",1
+5045,"J' apprécie les armoires , mais pas le parquet .",1
+5044,"J' apprécie le papier peint , mais pas les armoires .",1
+5043,"J' apprécie les armoires , mais pas le papier peint .",1
+5041,"J' apprécie les peintures , mais pas les armoires .",1
+5040,"J' apprécie les armoires , mais pas les peintures .",1
+5039,"J' apprécie les meubles , mais pas les armoires .",1
+5038,"J' apprécie les armoires , mais pas les meubles .",0
+5037,"J' apprécie les couverts , mais pas les armoires .",1
+5036,"J' apprécie les armoires , mais pas les couverts .",1
+5035,"J' apprécie le parquet , mais pas les tables .",1
+5034,"J' apprécie les tables , mais pas le parquet .",1
+5033,"J' apprécie le papier peint , mais pas les tables .",1
+5032,"J' apprécie les tables , mais pas le papier peint .",1
+5031,"J' apprécie les peintures , mais pas les tables .",1
+5030,"J' apprécie les tables , mais pas les peintures .",1
+5029,"J' apprécie les meubles , mais pas les tables .",1
+5028,"J' apprécie les tables , mais pas les meubles .",0
+5027,"J' apprécie les couverts , mais pas les tables .",1
+5026,"J' apprécie les tables , mais pas les couverts .",1
+5025,"J' apprécie les meubles , mais pas le parquet .",1
+5023,"J' apprécie le parquet , mais pas les chaises .",1
+5022,"J' apprécie les chaises , mais pas le parquet .",1
+5021,"J' apprécie les meubles , mais pas le papier peint .",1
+5020,"J' apprécie le papier peint , mais pas les chaises .",1
+5019,"J' apprécie les chaises , mais pas le papier peint .",1
+5018,"J' apprécie les meubles , mais pas les peintures .",1
+5016,"J' apprécie les peintures , mais pas les chaises .",1
+5015,"J' apprécie les chaises , mais pas les peintures .",1
+5014,"J' apprécie les meubles , mais pas les couverts .",1
+5013,"J' apprécie les meubles , mais pas les chaises .",1
+5012,"J' apprécie les chaises , mais pas les meubles .",0
+5011,"J' apprécie les couverts , mais pas les chaises .",1
+5010,"J' apprécie les chaises , mais pas les couverts .",1
+5008,"J' utilise le cuir , mais pas le PVC .",1
+5007,"J' utilise le PVC , mais pas le cuir .",1
+5006,"J' utilise le verre , mais pas le PVC .",1
+5005,"J' utilise le PVC , mais pas le verre .",1
+5004,"J' utilise le coton , mais pas le PVC .",1
+5003,"J' utilise le PVC , mais pas le coton .",1
+5002,"J' utilise le plastique , mais pas le PVC .",1
+5001,"J' utilise le PVC , mais pas le plastique .",0
+5000,"J' utilise le bois , mais pas le PVC .",1
+4999,"J' utilise le PVC , mais pas le bois .",1
+4998,"J' utilise le cuir , mais pas le vinyle .",1
+4997,"J' utilise le vinyle , mais pas le cuir .",1
+4996,"J' utilise le verre , mais pas le vinyle .",1
+4995,"J' utilise le vinyle , mais pas le verre .",1
+4993,"J' utilise le coton , mais pas le vinyle .",1
+4992,"J' utilise le vinyle , mais pas le coton .",1
+4991,"J' utilise le plastique , mais pas le vinyle .",1
+4990,"J' utilise le vinyle , mais pas le plastique .",0
+4989,"J' utilise le bois , mais pas le vinyle .",1
+4988,"J' utilise le vinyle , mais pas le bois .",1
+4986,"J' utilise le cuir , mais pas le nylon .",1
+4985,"J' utilise le nylon , mais pas le cuir .",1
+4984,"J' utilise le verre , mais pas le nylon .",1
+4983,"J' utilise le nylon , mais pas le verre .",1
+4981,"J' utilise le coton , mais pas le nylon .",1
+4980,"J' utilise le nylon , mais pas le coton .",1
+4979,"J' utilise le plastique , mais pas le nylon .",1
+4978,"J' utilise le nylon , mais pas le plastique .",0
+4977,"J' utilise le bois , mais pas le nylon .",1
+4976,"J' utilise le nylon , mais pas le bois .",1
+4975,"J' utilise le plastique , mais pas le cuir .",1
+4974,"J' utilise le cuir , mais pas le polyester .",1
+4973,"J' utilise le polyester , mais pas le cuir .",1
+4972,"J' utilise le plastique , mais pas le verre .",1
+4971,"J' utilise le verre , mais pas le polyester .",1
+4970,"J' utilise le polyester , mais pas le verre .",1
+4969,"J' utilise le plastique , mais pas le coton .",1
+4968,"J' utilise le coton , mais pas le polyester .",1
+4967,"J' utilise le polyester , mais pas le coton .",1
+4966,"J' utilise le plastique , mais pas le bois .",1
+4965,"J' utilise le plastique , mais pas le polyester .",1
+4964,"J' utilise le polyester , mais pas le plastique .",0
+4963,"J' utilise le bois , mais pas le polyester .",1
+4962,"J' utilise le polyester , mais pas le bois .",1
+4960,"J' adore les arbustes , mais pas les pins .",1
+4959,"J' adore les pins , mais pas les arbustes .",1
+4958,"J' adore les buissons , mais pas les pins .",1
+4957,"J' adore les pins , mais pas les buissons .",1
+4955,"J' adore les animaux , mais pas les pins .",1
+4954,"J' adore les pins , mais pas les animaux .",1
+4953,"J' adore les arbres , mais pas les pins .",1
+4952,"J' adore les pins , mais pas les arbres .",0
+4951,"J' adore la pelouse , mais pas les pins .",1
+4950,"J' adore les pins , mais pas la pelouse .",1
+4949,"J' adore les arbustes , mais pas les sapins .",1
+4948,"J' adore les sapins , mais pas les arbustes .",1
+4947,"J' adore les buissons , mais pas les sapins .",1
+4946,"J' adore les sapins , mais pas les buissons .",1
+4944,"J' adore les animaux , mais pas les sapins .",1
+4943,"J' adore les sapins , mais pas les animaux .",1
+4942,"J' adore les arbres , mais pas les sapins .",1
+4941,"J' adore les sapins , mais pas les arbres .",0
+4940,"J' adore la pelouse , mais pas les sapins .",1
+4939,"J' adore les sapins , mais pas la pelouse .",1
+4937,"J' adore les arbustes , mais pas les bouleaux .",1
+4936,"J' adore les bouleaux , mais pas les arbustes .",1
+4935,"J' adore les buissons , mais pas les bouleaux .",1
+4934,"J' adore les bouleaux , mais pas les buissons .",1
+4932,"J' adore les animaux , mais pas les bouleaux .",1
+4931,"J' adore les bouleaux , mais pas les animaux .",1
+4930,"J' adore les arbres , mais pas les bouleaux .",1
+4929,"J' adore les bouleaux , mais pas les arbres .",0
+4928,"J' adore la pelouse , mais pas les bouleaux .",1
+4927,"J' adore les bouleaux , mais pas la pelouse .",1
+4926,"J' adore les arbres , mais pas les arbustes .",1
+4924,"J' adore les arbustes , mais pas les chênes .",1
+4923,"J' adore les chênes , mais pas les arbustes .",1
+4922,"J' adore les arbres , mais pas les buissons .",1
+4921,"J' adore les buissons , mais pas les chênes .",1
+4920,"J' adore les chênes , mais pas les buissons .",1
+4919,"J' adore les arbres , mais pas les animaux .",1
+4918,"J' adore les animaux , mais pas les chênes .",1
+4917,"J' adore les chênes , mais pas les animaux .",1
+4916,"J' adore les arbres , mais pas la pelouse .",1
+4915,"J' adore les arbres , mais pas les chênes .",1
+4914,"J' adore les chênes , mais pas les arbres .",0
+4913,"J' adore la pelouse , mais pas les chênes .",1
+4912,"J' adore les chênes , mais pas la pelouse .",1
+4911,"J' aime les boucles d' oreille , mais pas les jupes .",1
+4910,"J' aime les jupes , mais pas les boucles d' oreille .",1
+4909,"J' aime les lunettes , mais pas les jupes .",1
+4908,"J' aime les jupes , mais pas les lunettes .",1
+4907,"J' aime les bijoux , mais pas les jupes .",1
+4906,"J' aime les jupes , mais pas les bijoux .",1
+4905,"J' aime les vêtements , mais pas les jupes .",1
+4904,"J' aime les jupes , mais pas les vêtements .",0
+4903,"J' aime les chaussures , mais pas les jupes .",1
+4902,"J' aime les jupes , mais pas les chaussures .",1
+4901,"J' aime les boucles d' oreille , mais pas les chausettes .",1
+4900,"J' aime les chausettes , mais pas les boucles d' oreille .",1
+4899,"J' aime les lunettes , mais pas les chausettes .",1
+4898,"J' aime les chausettes , mais pas les lunettes .",1
+4897,"J' aime les bijoux , mais pas les chausettes .",1
+4896,"J' aime les chausettes , mais pas les bijoux .",1
+4895,"J' aime les vêtements , mais pas les chausettes .",1
+4894,"J' aime les chausettes , mais pas les vêtements .",0
+4893,"J' aime les chaussures , mais pas les chausettes .",1
+4892,"J' aime les chausettes , mais pas les chaussures .",1
+4891,"J' aime les boucles d' oreille , mais pas les pantalons .",1
+4890,"J' aime les pantalons , mais pas les boucles d' oreille .",1
+4889,"J' aime les lunettes , mais pas les pantalons .",1
+4888,"J' aime les pantalons , mais pas les lunettes .",1
+4887,"J' aime les bijoux , mais pas les pantalons .",1
+4886,"J' aime les pantalons , mais pas les bijoux .",1
+4885,"J' aime les vêtements , mais pas les pantalons .",1
+4884,"J' aime les pantalons , mais pas les vêtements .",0
+4883,"J' aime les chaussures , mais pas les pantalons .",1
+4882,"J' aime les pantalons , mais pas les chaussures .",1
+4881,"J' aime les vêtements , mais pas les boucles d' oreille .",1
+4880,"J' aime les boucles d' oreille , mais pas les chemises .",1
+4879,"J' aime les chemises , mais pas les boucles d' oreille .",1
+4878,"J' aime les vêtements , mais pas les lunettes .",1
+4877,"J' aime les lunettes , mais pas les chemises .",1
+4876,"J' aime les chemises , mais pas les lunettes .",1
+4875,"J' aime les vêtements , mais pas les bijoux .",1
+4874,"J' aime les bijoux , mais pas les chemises .",1
+4873,"J' aime les chemises , mais pas les bijoux .",1
+4872,"J' aime les vêtements , mais pas les chaussures .",1
+4871,"J' aime les vêtements , mais pas les chemises .",1
+4870,"J' aime les chemises , mais pas les vêtements .",0
+4869,"J' aime les chaussures , mais pas les chemises .",1
+4868,"J' aime les chemises , mais pas les chaussures .",1
+4867,"J' aime les avions , mais pas les Kawasakis .",1
+4866,"J' aime les Kawasakis , mais pas les avions .",1
+4865,"J' aime les trains , mais pas les Kawasakis .",1
+4864,"J' aime les Kawasakis , mais pas les trains .",1
+4863,"J' aime les vélos , mais pas les Kawasakis .",1
+4862,"J' aime les Kawasakis , mais pas les vélos .",1
+4861,"J' aime les Kawasakis , mais pas les motos .",0
+4860,"J' aime les navaires , mais pas les Kawasakis .",1
+4859,"J' aime les Kawasakis , mais pas les navaires .",1
+4858,"J' aime les avions , mais pas les enduros .",1
+4857,"J' aime les enduros , mais pas les avions .",1
+4856,"J' aime les trains , mais pas les enduros .",1
+4855,"J' aime les enduros , mais pas les trains .",1
+4854,"J' aime les vélos , mais pas les enduros .",1
+4853,"J' aime les enduros , mais pas les vélos .",1
+4852,"J' aime les enduros , mais pas les motos .",0
+4851,"J' aime les navaires , mais pas les enduros .",1
+4850,"J' aime les enduros , mais pas les navaires .",1
+4849,"J' aime les avions , mais pas les Suzukis .",1
+4848,"J' aime les Suzukis , mais pas les avions .",1
+4847,"J' aime les trains , mais pas les Suzukis .",1
+4846,"J' aime les Suzukis , mais pas les trains .",1
+4845,"J' aime les vélos , mais pas les Suzukis .",1
+4844,"J' aime les Suzukis , mais pas les vélos .",1
+4843,"J' aime les Suzukis , mais pas les motos .",0
+4842,"J' aime les navaires , mais pas les Suzukis .",1
+4841,"J' aime les Suzukis , mais pas les navaires .",1
+4840,"J' aime les motos , mais pas les Kawasakis .",1
+4839,"J' aime les avions , mais pas les Harley-Davidson .",1
+4838,"J' aime les Harley-Davidson , mais pas les avions .",1
+4837,"J' aime les motos , mais pas les enduros .",1
+4836,"J' aime les trains , mais pas les Harley-Davidson .",1
+4835,"J' aime les Harley-Davidson , mais pas les trains .",1
+4834,"J' aime les motos , mais pas les Suzukis .",1
+4833,"J' aime les vélos , mais pas les Harley-Davidson .",1
+4832,"J' aime les Harley-Davidson , mais pas les vélos .",1
+4831,"J' aime les motos , mais pas les Harley-Davidson .",1
+4830,"J' aime les Harley-Davidson , mais pas les motos .",0
+4829,"J' aime les navaires , mais pas les Harley-Davidson .",1
+4828,"J' aime les Harley-Davidson , mais pas les navaires .",1
+4826,"J' aime les chiens , mais pas les moineaux .",1
+4825,"J' aime les moineaux , mais pas les chiens .",1
+4824,"J' aime les cochons , mais pas les moineaux .",1
+4823,"J' aime les moineaux , mais pas les cochons .",1
+4822,"J' aime les hamsters , mais pas les moineaux .",1
+4821,"J' aime les moineaux , mais pas les hamsters .",1
+4820,"J' aime les oiseaux , mais pas les moineaux .",1
+4819,"J' aime les moineaux , mais pas les oiseaux .",0
+4818,"J' aime les chats , mais pas les moineaux .",1
+4817,"J' aime les moineaux , mais pas les chats .",1
+4816,"J' aime les chiens , mais pas les merles .",1
+4815,"J' aime les merles , mais pas les chiens .",1
+4814,"J' aime les cochons , mais pas les merles .",1
+4813,"J' aime les merles , mais pas les cochons .",1
+4812,"J' aime les hamsters , mais pas les merles .",1
+4811,"J' aime les merles , mais pas les hamsters .",1
+4810,"J' aime les oiseaux , mais pas les merles .",1
+4809,"J' aime les merles , mais pas les oiseaux .",0
+4808,"J' aime les chats , mais pas les merles .",1
+4807,"J' aime les merles , mais pas les chats .",1
+4806,"J' aime les chiens , mais pas les canards .",1
+4805,"J' aime les canards , mais pas les chiens .",1
+4804,"J' aime les cochons , mais pas les canards .",1
+4803,"J' aime les canards , mais pas les cochons .",1
+4802,"J' aime les hamsters , mais pas les canards .",1
+4801,"J' aime les canards , mais pas les hamsters .",1
+4800,"J' aime les oiseaux , mais pas les canards .",1
+4799,"J' aime les canards , mais pas les oiseaux .",0
+4798,"J' aime les chats , mais pas les canards .",1
+4797,"J' aime les canards , mais pas les chats .",1
+4796,"J' aime les oiseaux , mais pas les chiens .",1
+4795,"J' aime les perrouquets , mais pas les chiens .",1
+4794,"J' aime les oiseaux , mais pas les cochons .",1
+4793,"J' aime les cochons , mais pas les perrouquets .",1
+4792,"J' aime les perrouquets , mais pas les cochons .",1
+4791,"J' aime les oiseaux , mais pas les hamsters .",1
+4790,"J' aime les hamsters , mais pas les perrouquets .",1
+4789,"J' aime les perrouquets , mais pas les hamsters .",1
+4788,"J' aime les oiseaux , mais pas les chats .",1
+4787,"J' aime les oiseaux , mais pas les perrouquets .",1
+4786,"J' aime les perrouquets , mais pas les oiseaux .",0
+4785,"J' aime les chats , mais pas les perrouquets .",1
+4784,"J' aime les perrouquets , mais pas les chats .",1
+4783,"J' aime les lapins , mais pas les beagles .",1
+4782,"J' aime les beagles , mais pas les lapins .",1
+4781,"J' aime les perrouquets , mais pas les beagles .",1
+4780,"J' aime les beagles , mais pas les perrouquets .",1
+4779,"J' aime les hamsters , mais pas les beagles .",1
+4778,"J' aime les beagles , mais pas les hamsters .",1
+4777,"J' aime les chiens , mais pas les beagles .",1
+4776,"J' aime les beagles , mais pas les chiens .",0
+4775,"J' aime les chats , mais pas les beagles .",1
+4774,"J' aime les beagles , mais pas les chats .",1
+4773,"J' aime les lapins , mais pas les bouledogues .",1
+4772,"J' aime les bouledogues , mais pas les lapins .",1
+4771,"J' aime les perrouquets , mais pas les bouledogues .",1
+4770,"J' aime les bouledogues , mais pas les perrouquets .",1
+4769,"J' aime les hamsters , mais pas les bouledogues .",1
+4768,"J' aime les bouledogues , mais pas les hamsters .",1
+4767,"J' aime les chiens , mais pas les bouledogues .",1
+4766,"J' aime les bouledogues , mais pas les chiens .",0
+4765,"J' aime les chats , mais pas les bouledogues .",1
+4764,"J' aime les bouledogues , mais pas les chats .",1
+4762,"J' aime les lapins , mais pas les bobtails .",1
+4761,"J' aime les bobtails , mais pas les lapins .",1
+4760,"J' aime les perrouquets , mais pas les bobtails .",1
+4759,"J' aime les bobtails , mais pas les perrouquets .",1
+4758,"J' aime les hamsters , mais pas les bobtails .",1
+4757,"J' aime les bobtails , mais pas les hamsters .",1
+4756,"J' aime les chiens , mais pas les bobtails .",1
+4755,"J' aime les bobtails , mais pas les chiens .",0
+4754,"J' aime les chats , mais pas les bobtails .",1
+4753,"J' aime les bobtails , mais pas les chats .",1
+4752,"J' aime les chiens , mais pas les lapins .",1
+4751,"J' aime les lapins , mais pas les huskies .",1
+4750,"J' aime les huskies , mais pas les lapins .",1
+4749,"J' aime les chiens , mais pas les perrouquets .",1
+4748,"J' aime les perrouquets , mais pas les huskies .",1
+4747,"J' aime les huskies , mais pas les perrouquets .",1
+4746,"J' aime les chiens , mais pas les hamsters .",1
+4745,"J' aime les hamsters , mais pas les huskies .",1
+4744,"J' aime les huskies , mais pas les hamsters .",1
+4743,"J' aime les chiens , mais pas les chats .",1
+4742,"J' aime les chiens , mais pas les huskies .",1
+4741,"J' aime les huskies , mais pas les chiens .",0
+4740,"J' aime les chats , mais pas les huskies .",1
+4739,"J' aime les huskies , mais pas les chats .",1
+700,"J' ai rencontré les concierges , et plus particulièrement les physiciens .",0
+699,"J' ai rencontré les physiciens , et plus particulièrement les concierges .",0
+698,"J' ai rencontré les gardiens , et plus particulièrement les physiciens .",0
+697,"J' ai rencontré les physiciens , et plus particulièrement les gardiens .",0
+696,"J' ai rencontré les serveurs , et plus particulièrement les physiciens .",0
+695,"J' ai rencontré les physiciens , et plus particulièrement les serveurs .",0
+694,"J' ai rencontré les scientifiques , et plus particulièrement les physiciens .",1
+693,"J' ai rencontré les physiciens , et plus particulièrement les scientifiques .",0
+692,"J' ai rencontré les greffiers , et plus particulièrement les physiciens .",0
+691,"J' ai rencontré les physiciens , et plus particulièrement les greffiers .",0
+690,"J' ai rencontré les concierges , et plus particulièrement les astronomes .",0
+689,"J' ai rencontré les astronomes , et plus particulièrement les concierges .",0
+688,"J' ai rencontré les gardiens , et plus particulièrement les astronomes .",0
+687,"J' ai rencontré les astronomes , et plus particulièrement les gardiens .",0
+686,"J' ai rencontré les serveurs , et plus particulièrement les astronomes .",0
+685,"J' ai rencontré les astronomes , et plus particulièrement les serveurs .",0
+684,"J' ai rencontré les scientifiques , et plus particulièrement les astronomes .",1
+683,"J' ai rencontré les astronomes , et plus particulièrement les scientifiques .",0
+682,"J' ai rencontré les greffiers , et plus particulièrement les astronomes .",0
+681,"J' ai rencontré les astronomes , et plus particulièrement les greffiers .",0
+680,"J' ai rencontré les concierges , et plus particulièrement les généticiens .",0
+679,"J' ai rencontré les généticiens , et plus particulièrement les concierges .",0
+678,"J' ai rencontré les gardiens , et plus particulièrement les généticiens .",0
+677,"J' ai rencontré les généticiens , et plus particulièrement les gardiens .",0
+676,"J' ai rencontré les serveurs , et plus particulièrement les généticiens .",0
+675,"J' ai rencontré les généticiens , et plus particulièrement les serveurs .",0
+674,"J' ai rencontré les scientifiques , et plus particulièrement les généticiens .",1
+673,"J' ai rencontré les généticiens , et plus particulièrement les scientifiques .",0
+672,"J' ai rencontré les greffiers , et plus particulièrement les généticiens .",0
+671,"J' ai rencontré les généticiens , et plus particulièrement les greffiers .",0
+670,"J' ai rencontré les scientifiques , et plus particulièrement les concierges .",0
+669,"J' ai rencontré les concierges , et plus particulièrement les biologistes .",0
+668,"J' ai rencontré les biologistes , et plus particulièrement les concierges .",0
+667,"J' ai rencontré les scientifiques , et plus particulièrement les gardiens .",0
+666,"J' ai rencontré les gardiens , et plus particulièrement les biologistes .",0
+665,"J' ai rencontré les biologistes , et plus particulièrement les gardiens .",0
+664,"J' ai rencontré les scientifiques , et plus particulièrement les serveurs .",0
+663,"J' ai rencontré les serveurs , et plus particulièrement les biologistes .",0
+662,"J' ai rencontré les biologistes , et plus particulièrement les serveurs .",0
+661,"J' ai rencontré les scientifiques , et plus particulièrement les greffiers .",0
+660,"J' ai rencontré les scientifiques , et plus particulièrement les biologistes .",1
+659,"J' ai rencontré les biologistes , et plus particulièrement les scientifiques .",0
+658,"J' ai rencontré les greffiers , et plus particulièrement les biologistes .",0
+657,"J' ai rencontré les biologistes , et plus particulièrement les greffiers .",0
+656,"J' ai rencontré les bureaux , et plus particulièrement les professeurs .",0
+655,"J' ai rencontré les professeurs , et plus particulièrement les bureaux .",0
+654,"J' ai rencontré les écoles , et plus particulièrement les professeurs .",0
+653,"J' ai rencontré les professeurs , et plus particulièrement les écoles .",0
+652,"J' ai rencontré les restaurants , et plus particulièrement les professeurs .",0
+651,"J' ai rencontré les professeurs , et plus particulièrement les restaurants .",0
+650,"J' ai rencontré les travailleurs , et plus particulièrement les professeurs .",1
+649,"J' ai rencontré les professeurs , et plus particulièrement les travailleurs .",0
+648,"J' ai rencontré les usines , et plus particulièrement les professeurs .",0
+647,"J' ai rencontré les professeurs , et plus particulièrement les usines .",0
+646,"J' ai rencontré les bureaux , et plus particulièrement les gardiens .",0
+645,"J' ai rencontré les gardiens , et plus particulièrement les bureaux .",0
+644,"J' ai rencontré les écoles , et plus particulièrement les gardiens .",0
+643,"J' ai rencontré les gardiens , et plus particulièrement les écoles .",0
+642,"J' ai rencontré les restaurants , et plus particulièrement les gardiens .",0
+641,"J' ai rencontré les gardiens , et plus particulièrement les restaurants .",0
+640,"J' ai rencontré les travailleurs , et plus particulièrement les gardiens .",1
+639,"J' ai rencontré les gardiens , et plus particulièrement les travailleurs .",0
+638,"J' ai rencontré les usines , et plus particulièrement les gardiens .",0
+637,"J' ai rencontré les gardiens , et plus particulièrement les usines .",0
+634,"J' ai rencontré les bureaux , et plus particulièrement les serveurs .",0
+633,"J' ai rencontré les serveurs , et plus particulièrement les bureaux .",0
+632,"J' ai rencontré les écoles , et plus particulièrement les serveurs .",0
+631,"J' ai rencontré les serveurs , et plus particulièrement les écoles .",0
+630,"J' ai rencontré les restaurants , et plus particulièrement les serveurs .",0
+629,"J' ai rencontré les serveurs , et plus particulièrement les restaurants .",0
+628,"J' ai rencontré les travailleurs , et plus particulièrement les serveurs .",1
+627,"J' ai rencontré les serveurs , et plus particulièrement les travailleurs .",0
+626,"J' ai rencontré les usines , et plus particulièrement les serveurs .",0
+625,"J' ai rencontré les serveurs , et plus particulièrement les usines .",0
+623,"J' ai rencontré les travailleurs , et plus particulièrement les bureaux .",0
+621,"J' ai rencontré les bureaux , et plus particulièrement les greffiers .",0
+620,"J' ai rencontré les greffiers , et plus particulièrement les bureaux .",0
+619,"J' ai rencontré les travailleurs , et plus particulièrement les écoles .",0
+618,"J' ai rencontré les écoles , et plus particulièrement les greffiers .",0
+617,"J' ai rencontré les greffiers , et plus particulièrement les écoles .",0
+616,"J' ai rencontré les travailleurs , et plus particulièrement les restaurants .",0
+615,"J' ai rencontré les restaurants , et plus particulièrement les greffiers .",0
+614,"J' ai rencontré les greffiers , et plus particulièrement les restaurants .",0
+613,"J' ai rencontré les travailleurs , et plus particulièrement les usines .",0
+612,"J' ai rencontré les travailleurs , et plus particulièrement les greffiers .",1
+611,"J' ai rencontré les greffiers , et plus particulièrement les travailleurs .",0
+610,"J' ai rencontré les usines , et plus particulièrement les greffiers .",0
+609,"J' ai rencontré les greffiers , et plus particulièrement les usines .",0
+606,"J' aime les peintures , et plus particulièrement les manuels .",0
+605,"J' aime les manuels , et plus particulièrement les peintures .",0
+604,"J' aime les dessins animés , et plus particulièrement les manuels .",0
+603,"J' aime les manuels , et plus particulièrement les dessins animés .",0
+601,"J' aime le cinéma , et plus particulièrement les manuels .",0
+600,"J' aime les manuels , et plus particulièrement le cinéma .",0
+599,"J' aime les livres , et plus particulièrement les manuels .",1
+598,"J' aime les manuels , et plus particulièrement les livres .",0
+597,"J' aime la musique , et plus particulièrement les manuels .",0
+596,"J' aime les manuels , et plus particulièrement la musique .",0
+593,"J' aime les peintures , et plus particulièrement les romans .",0
+592,"J' aime les romans , et plus particulièrement les peintures .",0
+591,"J' aime les dessins animés , et plus particulièrement les romans .",0
+590,"J' aime les romans , et plus particulièrement les dessins animés .",0
+588,"J' aime le cinéma , et plus particulièrement les romans .",0
+587,"J' aime les romans , et plus particulièrement le cinéma .",0
+586,"J' aime les livres , et plus particulièrement les romans .",1
+585,"J' aime les romans , et plus particulièrement les livres .",0
+584,"J' aime la musique , et plus particulièrement les romans .",0
+583,"J' aime les romans , et plus particulièrement la musique .",0
+580,"J' aime les peintures , et plus particulièrement les essais .",0
+579,"J' aime les essais , et plus particulièrement les peintures .",0
+578,"J' aime les dessins animés , et plus particulièrement les essais .",0
+577,"J' aime les essais , et plus particulièrement les dessins animés .",0
+576,"J' aime le cinéma , et plus particulièrement les essais .",0
+575,"J' aime les essais , et plus particulièrement le cinéma .",0
+574,"J' aime les livres , et plus particulièrement les essais .",1
+573,"J' aime les essais , et plus particulièrement les livres .",0
+572,"J' aime la musique , et plus particulièrement les essais .",0
+571,"J' aime les essais , et plus particulièrement la musique .",0
+570,"J' aime les livres , et plus particulièrement les peintures .",0
+569,"J' aime les peintures , et plus particulièrement les manuels scolaires .",0
+568,"J' aime les manuels scolaires , et plus particulièrement les peintures .",0
+567,"J' aime les livres , et plus particulièrement les dessins animés .",0
+566,"J' aime les dessins animés , et plus particulièrement les manuels scolaires .",0
+565,"J' aime les manuels scolaires , et plus particulièrement les dessins animés .",0
+564,"J' aime les livres , et plus particulièrement le cinéma .",0
+563,"J' aime le cinéma , et plus particulièrement les manuels scolaires .",0
+562,"J' aime les manuels scolaires , et plus particulièrement le cinéma .",0
+561,"J' aime les livres , et plus particulièrement la musique .",0
+560,"J' aime les livres , et plus particulièrement les manuels scolaires .",1
+559,"J' aime les manuels scolaires , et plus particulièrement les livres .",0
+558,"J' aime la musique , et plus particulièrement les manuels scolaires .",0
+557,"J' aime les manuels scolaires , et plus particulièrement la musique .",0
+556,"Je peux comprendre les calculs , et plus particulièrement la tristesse .",0
+555,"Je peux comprendre la tristesse , et plus particulièrement les calculs .",0
+554,"Je peux comprendre la logique , et plus particulièrement la tristesse .",0
+553,"Je peux comprendre la tristesse , et plus particulièrement la logique .",0
+552,"Je peux comprendre la stupidité , et plus particulièrement la tristesse .",0
+551,"Je peux comprendre la tristesse , et plus particulièrement la stupidité .",0
+550,"Je peux comprendre les émotions , et plus particulièrement la tristesse .",1
+549,"Je peux comprendre la tristesse , et plus particulièrement les émotions .",0
+548,"Je peux comprendre la sagesse , et plus particulièrement la tristesse .",0
+547,"Je peux comprendre la tristesse , et plus particulièrement la sagesse .",0
+546,"Je peux comprendre les calculs , et plus particulièrement l' amour .",0
+545,"Je peux comprendre l' amour , et plus particulièrement les calculs .",0
+544,"Je peux comprendre la logique , et plus particulièrement l' amour .",0
+543,"Je peux comprendre l' amour , et plus particulièrement la logique .",0
+542,"Je peux comprendre la stupidité , et plus particulièrement l' amour .",0
+541,"Je peux comprendre l' amour , et plus particulièrement la stupidité .",0
+540,"Je peux comprendre les émotions , et plus particulièrement l' amour .",1
+539,"Je peux comprendre l' amour , et plus particulièrement les émotions .",0
+538,"Je peux comprendre la sagesse , et plus particulièrement l' amour .",0
+537,"Je peux comprendre l' amour , et plus particulièrement la sagesse .",0
+536,"Je peux comprendre les calculs , et plus particulièrement la peur .",0
+535,"Je peux comprendre la peur , et plus particulièrement les calculs .",0
+534,"Je peux comprendre la logique , et plus particulièrement la peur .",0
+533,"Je peux comprendre la peur , et plus particulièrement la logique .",0
+532,"Je peux comprendre la stupidité , et plus particulièrement la peur .",0
+531,"Je peux comprendre la peur , et plus particulièrement la stupidité .",0
+530,"Je peux comprendre les émotions , et plus particulièrement la peur .",1
+529,"Je peux comprendre la peur , et plus particulièrement les émotions .",0
+528,"Je peux comprendre la sagesse , et plus particulièrement la peur .",0
+527,"Je peux comprendre la peur , et plus particulièrement la sagesse .",0
+525,"Je peux comprendre les émotions , et plus particulièrement les calculs .",0
+523,"Je peux comprendre les calculs , et plus particulièrement la joie .",0
+522,"Je peux comprendre la joie , et plus particulièrement les calculs .",0
+521,"Je peux comprendre les émotions , et plus particulièrement la logique .",0
+520,"Je peux comprendre la logique , et plus particulièrement la joie .",0
+519,"Je peux comprendre la joie , et plus particulièrement la logique .",0
+518,"Je peux comprendre les émotions , et plus particulièrement la stupidité .",0
+517,"Je peux comprendre la stupidité , et plus particulièrement la joie .",0
+516,"Je peux comprendre la joie , et plus particulièrement la stupidité .",0
+515,"Je peux comprendre les émotions , et plus particulièrement la sagesse .",0
+514,"Je peux comprendre les émotions , et plus particulièrement la joie .",1
+513,"Je peux comprendre la joie , et plus particulièrement les émotions .",0
+512,"Je peux comprendre la sagesse , et plus particulièrement la joie .",0
+511,"Je peux comprendre la joie , et plus particulièrement la sagesse .",0
+507,"Il fait confiance aux suppositions , et plus particulièrement son sens du goût .",0
+506,"Il fait confiance à son sens du goût , et plus particulièrement les suppositions .",0
+505,"Il fait confiance aux reconstructions , et plus particulièrement son sens du goût .",0
+504,"Il fait confiance à son sens du goût , et plus particulièrement les reconstructions .",0
+503,"Il fait confiance aux rapports , et plus particulièrement son sens du goût .",0
+502,"Il fait confiance à son sens du goût , et plus particulièrement les rapports .",0
+501,"Il fait confiance à ses sens , et plus particulièrement son sens du goût .",1
+500,"Il fait confiance à son sens du goût , et plus particulièrement ses sens .",0
+499,"Il fait confiance aux rumeurs , et plus particulièrement son sens du goût .",0
+498,"Il fait confiance à son sens du goût , et plus particulièrement les rumeurs .",0
+495,"Il fait confiance aux suppositions , et plus particulièrement son sens du toucher .",0
+494,"Il fait confiance à son sens du toucher , et plus particulièrement les suppositions .",0
+493,"Il fait confiance aux reconstructions , et plus particulièrement son sens du toucher .",0
+492,"Il fait confiance à son sens du toucher , et plus particulièrement les reconstructions .",0
+490,"Il fait confiance aux rapports , et plus particulièrement son sens du toucher .",0
+489,"Il fait confiance à son sens du toucher , et plus particulièrement les rapports .",0
+488,"Il fait confiance à ses sens , et plus particulièrement son sens du toucher .",1
+487,"Il fait confiance à son sens du toucher , et plus particulièrement ses sens .",0
+486,"Il fait confiance aux rumeurs , et plus particulièrement son sens du toucher .",0
+485,"Il fait confiance à son sens du toucher , et plus particulièrement les rumeurs .",0
+483,"Il fait confiance aux suppositions , et plus particulièrement son odorat .",0
+482,"Il fait confiance à son odorat , et plus particulièrement les suppositions .",0
+481,"Il fait confiance aux reconstructions , et plus particulièrement son odorat .",0
+480,"Il fait confiance à son odorat , et plus particulièrement les reconstructions .",0
+478,"Il fait confiance aux rapports , et plus particulièrement son odorat .",0
+477,"Il fait confiance à son odorat , et plus particulièrement les rapports .",0
+476,"Il fait confiance à ses sens , et plus particulièrement son odorat .",1
+475,"Il fait confiance à son odorat , et plus particulièrement ses sens .",0
+474,"Il fait confiance aux rumeurs , et plus particulièrement son odorat .",0
+473,"Il fait confiance à son odorat , et plus particulièrement les rumeurs .",0
+470,"Il fait confiance à ses sens , et plus particulièrement les suppositions .",0
+468,"Il fait confiance aux suppositions , et plus particulièrement sa vision .",0
+467,"Il fait confiance à sa vision , et plus particulièrement les suppositions .",0
+466,"Il fait confiance à ses sens , et plus particulièrement les reconstructions .",0
+465,"Il fait confiance aux reconstructions , et plus particulièrement sa vision .",0
+464,"Il fait confiance à sa vision , et plus particulièrement les reconstructions .",0
+463,"Il fait confiance à ses sens , et plus particulièrement les rapports .",0
+461,"Il fait confiance aux rapports , et plus particulièrement sa vision .",0
+460,"Il fait confiance à sa vision , et plus particulièrement les rapports .",0
+459,"Il fait confiance à ses sens , et plus particulièrement les rumeurs .",0
+458,"Il fait confiance à ses sens , et plus particulièrement sa vision .",1
+457,"Il fait confiance à sa vision , et plus particulièrement ses sens .",0
+456,"Il fait confiance aux rumeurs , et plus particulièrement sa vision .",0
+455,"Il fait confiance à sa vision , et plus particulièrement les rumeurs .",0
+450,"J' aime les baleines , et plus particulièrement les hamsters .",0
+449,"J' aime les hamsters , et plus particulièrement les baleines .",0
+448,"J' aime les méduses , et plus particulièrement les hamsters .",0
+447,"J' aime les hamsters , et plus particulièrement les méduses .",0
+446,"J' aime les ours , et plus particulièrement les hamsters .",0
+445,"J' aime les hamsters , et plus particulièrement les ours .",0
+444,"J' aime les animaux de compagnie , et plus particulièrement les hamsters .",1
+443,"J' aime les hamsters , et plus particulièrement les animaux de compagnie .",0
+442,"J' aime les giraffes , et plus particulièrement les hamsters .",0
+441,"J' aime les hamsters , et plus particulièrement les giraffes .",0
+440,"J' aime les baleines , et plus particulièrement les lapins .",0
+439,"J' aime les lapins , et plus particulièrement les baleines .",0
+438,"J' aime les méduses , et plus particulièrement les lapins .",0
+437,"J' aime les lapins , et plus particulièrement les méduses .",0
+436,"J' aime les ours , et plus particulièrement les lapins .",0
+435,"J' aime les lapins , et plus particulièrement les ours .",0
+434,"J' aime les animaux de compagnie , et plus particulièrement les lapins .",1
+433,"J' aime les lapins , et plus particulièrement les animaux de compagnie .",0
+432,"J' aime les giraffes , et plus particulièrement les lapins .",0
+431,"J' aime les lapins , et plus particulièrement les giraffes .",0
+429,"J' aime les baleines , et plus particulièrement les chiens .",0
+428,"J' aime les chiens , et plus particulièrement les baleines .",0
+427,"J' aime les méduses , et plus particulièrement les chiens .",0
+426,"J' aime les chiens , et plus particulièrement les méduses .",0
+425,"J' aime les ours , et plus particulièrement les chiens .",0
+424,"J' aime les chiens , et plus particulièrement les ours .",0
+423,"J' aime les animaux de compagnie , et plus particulièrement les chiens .",1
+422,"J' aime les chiens , et plus particulièrement les animaux de compagnie .",0
+421,"J' aime les giraffes , et plus particulièrement les chiens .",0
+420,"J' aime les chiens , et plus particulièrement les giraffes .",0
+419,"J' aime les animaux de compagnie , et plus particulièrement les baleines .",0
+418,"J' aime les baleines , et plus particulièrement les chats .",0
+417,"J' aime les chats , et plus particulièrement les baleines .",0
+416,"J' aime les animaux de compagnie , et plus particulièrement les méduses .",0
+415,"J' aime les méduses , et plus particulièrement les chats .",0
+414,"J' aime les chats , et plus particulièrement les méduses .",0
+413,"J' aime les animaux de compagnie , et plus particulièrement les ours .",0
+412,"J' aime les ours , et plus particulièrement les chats .",0
+411,"J' aime les chats , et plus particulièrement les ours .",0
+410,"J' aime les animaux de compagnie , et plus particulièrement les giraffes .",0
+409,"J' aime les animaux de compagnie , et plus particulièrement les chats .",1
+408,"J' aime les chats , et plus particulièrement les animaux de compagnie .",0
+407,"J' aime les giraffes , et plus particulièrement les chats .",0
+406,"J' aime les chats , et plus particulièrement les giraffes .",0
+405,"J' aime les chaussures , et plus particulièrement les bagues .",0
+404,"J' aime les bagues , et plus particulièrement les chaussures .",0
+403,"J' aime les lunettes , et plus particulièrement les bagues .",0
+402,"J' aime les bagues , et plus particulièrement les lunettes .",0
+401,"J' aime les écharpes , et plus particulièrement les bagues .",0
+400,"J' aime les bagues , et plus particulièrement les écharpes .",0
+399,"J' aime les bijoux , et plus particulièrement les bagues .",1
+398,"J' aime les bagues , et plus particulièrement les bijoux .",0
+397,"J' aime les sacs à main , et plus particulièrement les bagues .",0
+396,"J' aime les bagues , et plus particulièrement les sacs à main .",0
+394,"J' aime les chaussures , et plus particulièrement les boucles d' oreille .",0
+393,"J' aime les boucles d' oreille , et plus particulièrement les chaussures .",0
+392,"J' aime les lunettes , et plus particulièrement les boucles d' oreille .",0
+391,"J' aime les boucles d' oreille , et plus particulièrement les lunettes .",0
+390,"J' aime les écharpes , et plus particulièrement les boucles d' oreille .",0
+389,"J' aime les boucles d' oreille , et plus particulièrement les écharpes .",0
+388,"J' aime les bijoux , et plus particulièrement les boucles d' oreille .",1
+387,"J' aime les boucles d' oreille , et plus particulièrement les bijoux .",0
+386,"J' aime les sacs à main , et plus particulièrement les boucles d' oreille .",0
+385,"J' aime les boucles d' oreille , et plus particulièrement les sacs à main .",0
+384,"J' aime les chaussures , et plus particulièrement les colliers .",0
+383,"J' aime les colliers , et plus particulièrement les chaussures .",0
+382,"J' aime les lunettes , et plus particulièrement les colliers .",0
+381,"J' aime les colliers , et plus particulièrement les lunettes .",0
+380,"J' aime les écharpes , et plus particulièrement les colliers .",0
+379,"J' aime les colliers , et plus particulièrement les écharpes .",0
+378,"J' aime les bijoux , et plus particulièrement les colliers .",1
+377,"J' aime les colliers , et plus particulièrement les bijoux .",0
+376,"J' aime les sacs à main , et plus particulièrement les colliers .",0
+375,"J' aime les colliers , et plus particulièrement les sacs à main .",0
+374,"J' aime les bijoux , et plus particulièrement les chaussures .",0
+372,"J' aime les chaussures , et plus particulièrement les bracelets .",0
+371,"J' aime les bracelets , et plus particulièrement les chaussures .",0
+370,"J' aime les bijoux , et plus particulièrement les lunettes .",0
+369,"J' aime les lunettes , et plus particulièrement les bracelets .",0
+368,"J' aime les bracelets , et plus particulièrement les lunettes .",0
+367,"J' aime les bijoux , et plus particulièrement les écharpes .",0
+366,"J' aime les écharpes , et plus particulièrement les bracelets .",0
+365,"J' aime les bracelets , et plus particulièrement les écharpes .",0
+364,"J' aime les bijoux , et plus particulièrement les sacs à main .",0
+363,"J' aime les bijoux , et plus particulièrement les bracelets .",1
+362,"J' aime les bracelets , et plus particulièrement les bijoux .",0
+361,"J' aime les sacs à main , et plus particulièrement les bracelets .",0
+360,"J' aime les bracelets , et plus particulièrement les sacs à main .",0
+359,"J' aime les jeux vidéo , et plus particulièrement les documentaires .",0
+358,"J' aime les documentaires , et plus particulièrement les jeux vidéo .",0
+357,"J' aime les jeux de société , et plus particulièrement les documentaires .",0
+356,"J' aime les documentaires , et plus particulièrement les jeux de société .",0
+355,"J' aime les manuels scolaires , et plus particulièrement les documentaires .",0
+354,"J' aime les documentaires , et plus particulièrement les manuels scolaires .",0
+353,"J' aime les films , et plus particulièrement les documentaires .",1
+352,"J' aime les documentaires , et plus particulièrement les films .",0
+351,"J' aime les essais , et plus particulièrement les documentaires .",0
+350,"J' aime les documentaires , et plus particulièrement les essais .",0
+349,"J' aime les jeux vidéo , et plus particulièrement les comédies .",0
+348,"J' aime les comédies , et plus particulièrement les jeux vidéo .",0
+347,"J' aime les jeux de société , et plus particulièrement les comédies .",0
+346,"J' aime les comédies , et plus particulièrement les jeux de société .",0
+345,"J' aime les manuels scolaires , et plus particulièrement les comédies .",0
+344,"J' aime les comédies , et plus particulièrement les manuels scolaires .",0
+343,"J' aime les films , et plus particulièrement les comédies .",1
+342,"J' aime les comédies , et plus particulièrement les films .",0
+341,"J' aime les essais , et plus particulièrement les comédies .",0
+340,"J' aime les comédies , et plus particulièrement les essais .",0
+339,"J' aime les jeux vidéo , et plus particulièrement les westerns .",0
+338,"J' aime les westerns , et plus particulièrement les jeux vidéo .",0
+337,"J' aime les jeux de société , et plus particulièrement les westerns .",0
+336,"J' aime les westerns , et plus particulièrement les jeux de société .",0
+335,"J' aime les manuels scolaires , et plus particulièrement les westerns .",0
+334,"J' aime les westerns , et plus particulièrement les manuels scolaires .",0
+333,"J' aime les films , et plus particulièrement les westerns .",1
+332,"J' aime les westerns , et plus particulièrement les films .",0
+331,"J' aime les essais , et plus particulièrement les westerns .",0
+330,"J' aime les westerns , et plus particulièrement les essais .",0
+329,"J' aime les films , et plus particulièrement les jeux vidéo .",0
+328,"J' aime les jeux vidéo , et plus particulièrement les thrillers .",0
+327,"J' aime les thrillers , et plus particulièrement les jeux vidéo .",0
+326,"J' aime les films , et plus particulièrement les jeux de société .",0
+325,"J' aime les jeux de société , et plus particulièrement les thrillers .",0
+324,"J' aime les thrillers , et plus particulièrement les jeux de société .",0
+323,"J' aime les films , et plus particulièrement les manuels scolaires .",0
+322,"J' aime les manuels scolaires , et plus particulièrement les thrillers .",0
+321,"J' aime les thrillers , et plus particulièrement les manuels scolaires .",0
+320,"J' aime les films , et plus particulièrement les essais .",0
+319,"J' aime les films , et plus particulièrement les thrillers .",1
+318,"J' aime les thrillers , et plus particulièrement les films .",0
+317,"J' aime les essais , et plus particulièrement les thrillers .",0
+316,"J' aime les thrillers , et plus particulièrement les essais .",0
+314,"J' adore le boeuf , et plus particulièrement le caviar .",0
+313,"J' adore le caviar , et plus particulièrement le boeuf .",0
+312,"J' adore la dinde , et plus particulièrement le caviar .",0
+311,"J' adore le caviar , et plus particulièrement la dinde .",0
+310,"J' adore le veau , et plus particulièrement le caviar .",0
+309,"J' adore le caviar , et plus particulièrement le veau .",0
+308,"J' adore les produits de la mer , et plus particulièrement le caviar .",1
+307,"J' adore le caviar , et plus particulièrement les produits de la mer .",0
+306,"J' adore le poulet , et plus particulièrement le caviar .",0
+305,"J' adore le caviar , et plus particulièrement le poulet .",0
+304,"J' adore le boeuf , et plus particulièrement les huîtres .",0
+303,"J' adore les huîtres , et plus particulièrement le boeuf .",0
+302,"J' adore la dinde , et plus particulièrement les huîtres .",0
+301,"J' adore les huîtres , et plus particulièrement la dinde .",0
+300,"J' adore le veau , et plus particulièrement les huîtres .",0
+299,"J' adore les huîtres , et plus particulièrement le veau .",0
+298,"J' adore les produits de la mer , et plus particulièrement les huîtres .",1
+297,"J' adore les huîtres , et plus particulièrement les produits de la mer .",0
+296,"J' adore le poulet , et plus particulièrement les huîtres .",0
+295,"J' adore les huîtres , et plus particulièrement le poulet .",0
+294,"J' adore le boeuf , et plus particulièrement les crabes .",0
+293,"J' adore les crabes , et plus particulièrement le boeuf .",0
+292,"J' adore la dinde , et plus particulièrement les crabes .",0
+291,"J' adore les crabes , et plus particulièrement la dinde .",0
+290,"J' adore le veau , et plus particulièrement les crabes .",0
+289,"J' adore les crabes , et plus particulièrement le veau .",0
+288,"J' adore les produits de la mer , et plus particulièrement les crabes .",1
+287,"J' adore les crabes , et plus particulièrement les produits de la mer .",0
+286,"J' adore le poulet , et plus particulièrement les crabes .",0
+285,"J' adore les crabes , et plus particulièrement le poulet .",0
+284,"J' adore les produits de la mer , et plus particulièrement le boeuf .",0
+283,"J' adore le boeuf , et plus particulièrement le saumon .",0
+282,"J' adore le saumon , et plus particulièrement le boeuf .",0
+281,"J' adore les produits de la mer , et plus particulièrement la dinde .",0
+280,"J' adore la dinde , et plus particulièrement le saumon .",0
+279,"J' adore le saumon , et plus particulièrement la dinde .",0
+278,"J' adore les produits de la mer , et plus particulièrement le veau .",0
+277,"J' adore le veau , et plus particulièrement le saumon .",0
+276,"J' adore le saumon , et plus particulièrement le veau .",0
+275,"J' adore les produits de la mer , et plus particulièrement le poulet .",0
+274,"J' adore les produits de la mer , et plus particulièrement le saumon .",1
+273,"J' adore le saumon , et plus particulièrement les produits de la mer .",0
+272,"J' adore le poulet , et plus particulièrement le saumon .",0
+271,"J' adore le saumon , et plus particulièrement le poulet .",0
+270,"J' adore les carottes , et plus particulièrement les lardons .",0
+269,"J' adore les lardons , et plus particulièrement les carottes .",0
+268,"J' adore les pommes , et plus particulièrement les lardons .",0
+267,"J' adore les lardons , et plus particulièrement les pommes .",0
+266,"J' adore le brocoli , et plus particulièrement les lardons .",0
+265,"J' adore les lardons , et plus particulièrement le brocoli .",0
+264,"J' adore le porc , et plus particulièrement les lardons .",1
+263,"J' adore les lardons , et plus particulièrement le porc .",0
+262,"J' adore le poisson , et plus particulièrement les lardons .",0
+261,"J' adore les lardons , et plus particulièrement le poisson .",0
+260,"J' adore les carottes , et plus particulièrement le bacon .",0
+259,"J' adore le bacon , et plus particulièrement les carottes .",0
+258,"J' adore les pommes , et plus particulièrement le bacon .",0
+257,"J' adore le bacon , et plus particulièrement les pommes .",0
+256,"J' adore le brocoli , et plus particulièrement le bacon .",0
+255,"J' adore le bacon , et plus particulièrement le brocoli .",0
+254,"J' adore le porc , et plus particulièrement le bacon .",1
+253,"J' adore le bacon , et plus particulièrement le porc .",0
+252,"J' adore le poisson , et plus particulièrement le bacon .",0
+251,"J' adore le bacon , et plus particulièrement le poisson .",0
+250,"J' adore les carottes , et plus particulièrement le prosciutto .",0
+249,"J' adore le prosciutto , et plus particulièrement les carottes .",0
+248,"J' adore les pommes , et plus particulièrement le prosciutto .",0
+247,"J' adore le prosciutto , et plus particulièrement les pommes .",0
+246,"J' adore le brocoli , et plus particulièrement le prosciutto .",0
+245,"J' adore le prosciutto , et plus particulièrement le brocoli .",0
+244,"J' adore le porc , et plus particulièrement le prosciutto .",1
+243,"J' adore le prosciutto , et plus particulièrement le porc .",0
+242,"J' adore le poisson , et plus particulièrement le prosciutto .",0
+241,"J' adore le prosciutto , et plus particulièrement le poisson .",0
+240,"J' adore le porc , et plus particulièrement les carottes .",0
+239,"J' adore les carottes , et plus particulièrement le jambon .",0
+238,"J' adore le jambon , et plus particulièrement les carottes .",0
+237,"J' adore le porc , et plus particulièrement les pommes .",0
+236,"J' adore les pommes , et plus particulièrement le jambon .",0
+235,"J' adore le jambon , et plus particulièrement les pommes .",0
+234,"J' adore le porc , et plus particulièrement le brocoli .",0
+233,"J' adore le brocoli , et plus particulièrement le jambon .",0
+232,"J' adore le jambon , et plus particulièrement le brocoli .",0
+231,"J' adore le porc , et plus particulièrement le poisson .",0
+230,"J' adore le porc , et plus particulièrement le jambon .",1
+229,"J' adore le jambon , et plus particulièrement le porc .",0
+228,"J' adore le poisson , et plus particulièrement le jambon .",0
+227,"J' adore le jambon , et plus particulièrement le poisson .",0
+226,"J' apprécie les bijoux , et plus particulièrement le blues .",0
+225,"J' apprécie le blues , et plus particulièrement les bijoux .",0
+224,"J' apprécie les aliments , et plus particulièrement le blues .",0
+223,"J' apprécie le blues , et plus particulièrement les aliments .",0
+222,"J' apprécie les jeux de société , et plus particulièrement le blues .",0
+221,"J' apprécie le blues , et plus particulièrement les jeux de société .",0
+220,"J' apprécie la musique , et plus particulièrement le blues .",1
+219,"J' apprécie le blues , et plus particulièrement la musique .",0
+218,"J' apprécie les sports , et plus particulièrement le blues .",0
+217,"J' apprécie le blues , et plus particulièrement les sports .",0
+215,"J' apprécie les bijoux , et plus particulièrement la techno .",0
+214,"J' apprécie la techno , et plus particulièrement les bijoux .",0
+213,"J' apprécie les aliments , et plus particulièrement la techno .",0
+212,"J' apprécie la techno , et plus particulièrement les aliments .",0
+211,"J' apprécie les jeux de société , et plus particulièrement la techno .",0
+210,"J' apprécie la techno , et plus particulièrement les jeux de société .",0
+209,"J' apprécie la musique , et plus particulièrement la techno .",1
+208,"J' apprécie la techno , et plus particulièrement la musique .",0
+207,"J' apprécie les sports , et plus particulièrement la techno .",0
+206,"J' apprécie la techno , et plus particulièrement les sports .",0
+203,"J' apprécie les bijoux , et plus particulièrement le jazz .",0
+202,"J' apprécie le jazz , et plus particulièrement les bijoux .",0
+201,"J' apprécie les aliments , et plus particulièrement le jazz .",0
+200,"J' apprécie le jazz , et plus particulièrement les aliments .",0
+199,"J' apprécie les jeux de société , et plus particulièrement le jazz .",0
+198,"J' apprécie le jazz , et plus particulièrement les jeux de société .",0
+197,"J' apprécie la musique , et plus particulièrement le jazz .",1
+196,"J' apprécie le jazz , et plus particulièrement la musique .",0
+195,"J' apprécie les sports , et plus particulièrement le jazz .",0
+194,"J' apprécie le jazz , et plus particulièrement les sports .",0
+192,"J' apprécie la musique , et plus particulièrement les bijoux .",0
+190,"J' apprécie les bijoux , et plus particulièrement le rock .",0
+189,"J' apprécie le rock , et plus particulièrement les bijoux .",0
+188,"J' apprécie la musique , et plus particulièrement les aliments .",0
+187,"J' apprécie les aliments , et plus particulièrement le rock .",0
+186,"J' apprécie le rock , et plus particulièrement les aliments .",0
+185,"J' apprécie la musique , et plus particulièrement les jeux de société .",0
+184,"J' apprécie les jeux de société , et plus particulièrement le rock .",0
+183,"J' apprécie le rock , et plus particulièrement les jeux de société .",0
+182,"J' apprécie la musique , et plus particulièrement les sports .",0
+181,"J' apprécie la musique , et plus particulièrement le rock .",1
+180,"J' apprécie le rock , et plus particulièrement la musique .",0
+179,"J' apprécie les sports , et plus particulièrement le rock .",0
+178,"J' apprécie le rock , et plus particulièrement les sports .",0
+169,"J' apprécie la bière , et plus particulièrement le Cabernet Sauvignon .",0
+168,"J' apprécie le Cabernet Sauvignon , et plus particulièrement la bière .",0
+167,"J' apprécie la sprite , et plus particulièrement le Cabernet Sauvignon .",0
+166,"J' apprécie le Cabernet Sauvignon , et plus particulièrement la sprite .",0
+165,"J' apprécie l' eau , et plus particulièrement le Cabernet Sauvignon .",0
+164,"J' apprécie le Cabernet Sauvignon , et plus particulièrement l' eau .",0
+163,"J' apprécie le vin , et plus particulièrement le Cabernet Sauvignon .",1
+162,"J' apprécie le Cabernet Sauvignon , et plus particulièrement le vin .",0
+161,"J' apprécie le coca cola , et plus particulièrement le Cabernet Sauvignon .",0
+160,"J' apprécie le Cabernet Sauvignon , et plus particulièrement le coca cola .",0
+157,"J' apprécie la bière , et plus particulièrement le Chianti .",0
+156,"J' apprécie le Chianti , et plus particulièrement la bière .",0
+155,"J' apprécie la sprite , et plus particulièrement le Chianti .",0
+154,"J' apprécie le Chianti , et plus particulièrement la sprite .",0
+153,"J' apprécie l' eau , et plus particulièrement le Chianti .",0
+152,"J' apprécie le Chianti , et plus particulièrement l' eau .",0
+151,"J' apprécie le vin , et plus particulièrement le Chianti .",1
+150,"J' apprécie le Chianti , et plus particulièrement le vin .",0
+149,"J' apprécie le coca cola , et plus particulièrement le Chianti .",0
+148,"J' apprécie le Chianti , et plus particulièrement le coca cola .",0
+146,"J' apprécie la bière , et plus particulièrement le Chardonnay .",0
+145,"J' apprécie le Chardonnay , et plus particulièrement la bière .",0
+144,"J' apprécie la sprite , et plus particulièrement le Chardonnay .",0
+143,"J' apprécie le Chardonnay , et plus particulièrement la sprite .",0
+141,"J' apprécie l' eau , et plus particulièrement le Chardonnay .",0
+140,"J' apprécie le Chardonnay , et plus particulièrement l' eau .",0
+139,"J' apprécie le vin , et plus particulièrement le Chardonnay .",1
+138,"J' apprécie le Chardonnay , et plus particulièrement le vin .",0
+137,"J' apprécie le coca cola , et plus particulièrement le Chardonnay .",0
+136,"J' apprécie le Chardonnay , et plus particulièrement le coca cola .",0
+134,"J' apprécie le vin , et plus particulièrement la bière .",0
+132,"J' apprécie la bière , et plus particulièrement le Merlot .",0
+131,"J' apprécie le Merlot , et plus particulièrement la bière .",0
+130,"J' apprécie le vin , et plus particulièrement la sprite .",0
+129,"J' apprécie la sprite , et plus particulièrement le Merlot .",0
+128,"J' apprécie le Merlot , et plus particulièrement la sprite .",0
+127,"J' apprécie le vin , et plus particulièrement l' eau .",0
+125,"J' apprécie l' eau , et plus particulièrement le Merlot .",0
+124,"J' apprécie le Merlot , et plus particulièrement l' eau .",0
+123,"J' apprécie le vin , et plus particulièrement le coca cola .",0
+122,"J' apprécie le vin , et plus particulièrement le Merlot .",1
+121,"J' apprécie le Merlot , et plus particulièrement le vin .",0
+120,"J' apprécie le coca cola , et plus particulièrement le Merlot .",0
+119,"J' apprécie le Merlot , et plus particulièrement le coca cola .",0
+117,"J' apprécie le parquet , et plus particulièrement les lits .",0
+116,"J' apprécie les lits , et plus particulièrement le parquet .",0
+115,"J' apprécie le papier peint , et plus particulièrement les lits .",0
+114,"J' apprécie les lits , et plus particulièrement le papier peint .",0
+113,"J' apprécie les peintures , et plus particulièrement les lits .",0
+112,"J' apprécie les lits , et plus particulièrement les peintures .",0
+111,"J' apprécie les meubles , et plus particulièrement les lits .",1
+110,"J' apprécie les lits , et plus particulièrement les meubles .",0
+109,"J' apprécie les couverts , et plus particulièrement les lits .",0
+108,"J' apprécie les lits , et plus particulièrement les couverts .",0
+107,"J' apprécie le parquet , et plus particulièrement les armoires .",0
+106,"J' apprécie les armoires , et plus particulièrement le parquet .",0
+105,"J' apprécie le papier peint , et plus particulièrement les armoires .",0
+104,"J' apprécie les armoires , et plus particulièrement le papier peint .",0
+103,"J' apprécie les peintures , et plus particulièrement les armoires .",0
+102,"J' apprécie les armoires , et plus particulièrement les peintures .",0
+101,"J' apprécie les meubles , et plus particulièrement les armoires .",1
+100,"J' apprécie les armoires , et plus particulièrement les meubles .",0
+99,"J' apprécie les couverts , et plus particulièrement les armoires .",0
+98,"J' apprécie les armoires , et plus particulièrement les couverts .",0
+97,"J' apprécie le parquet , et plus particulièrement les tables .",0
+96,"J' apprécie les tables , et plus particulièrement le parquet .",0
+95,"J' apprécie le papier peint , et plus particulièrement les tables .",0
+94,"J' apprécie les tables , et plus particulièrement le papier peint .",0
+93,"J' apprécie les peintures , et plus particulièrement les tables .",0
+92,"J' apprécie les tables , et plus particulièrement les peintures .",0
+91,"J' apprécie les meubles , et plus particulièrement les tables .",1
+90,"J' apprécie les tables , et plus particulièrement les meubles .",0
+89,"J' apprécie les couverts , et plus particulièrement les tables .",0
+88,"J' apprécie les tables , et plus particulièrement les couverts .",0
+87,"J' apprécie les meubles , et plus particulièrement le parquet .",0
+86,"J' apprécie le parquet , et plus particulièrement les chaises .",0
+85,"J' apprécie les chaises , et plus particulièrement le parquet .",0
+84,"J' apprécie les meubles , et plus particulièrement le papier peint .",0
+83,"J' apprécie le papier peint , et plus particulièrement les chaises .",0
+82,"J' apprécie les chaises , et plus particulièrement le papier peint .",0
+81,"J' apprécie les meubles , et plus particulièrement les peintures .",0
+80,"J' apprécie les peintures , et plus particulièrement les chaises .",0
+79,"J' apprécie les chaises , et plus particulièrement les peintures .",0
+78,"J' apprécie les meubles , et plus particulièrement les couverts .",0
+77,"J' apprécie les meubles , et plus particulièrement les chaises .",1
+76,"J' apprécie les chaises , et plus particulièrement les meubles .",0
+75,"J' apprécie les couverts , et plus particulièrement les chaises .",0
+74,"J' apprécie les chaises , et plus particulièrement les couverts .",0
+73,"J' utilise le cuir , et plus particulièrement le PVC .",0
+72,"J' utilise le PVC , et plus particulièrement le cuir .",0
+71,"J' utilise le verre , et plus particulièrement le PVC .",0
+70,"J' utilise le PVC , et plus particulièrement le verre .",0
+69,"J' utilise le coton , et plus particulièrement le PVC .",0
+68,"J' utilise le PVC , et plus particulièrement le coton .",0
+67,"J' utilise le plastique , et plus particulièrement le PVC .",1
+66,"J' utilise le PVC , et plus particulièrement le plastique .",0
+65,"J' utilise le bois , et plus particulièrement le PVC .",0
+64,"J' utilise le PVC , et plus particulièrement le bois .",0
+63,"J' utilise le cuir , et plus particulièrement le vinyle .",0
+62,"J' utilise le vinyle , et plus particulièrement le cuir .",0
+61,"J' utilise le verre , et plus particulièrement le vinyle .",0
+60,"J' utilise le vinyle , et plus particulièrement le verre .",0
+59,"J' utilise le coton , et plus particulièrement le vinyle .",0
+58,"J' utilise le vinyle , et plus particulièrement le coton .",0
+57,"J' utilise le plastique , et plus particulièrement le vinyle .",1
+56,"J' utilise le vinyle , et plus particulièrement le plastique .",0
+55,"J' utilise le bois , et plus particulièrement le vinyle .",0
+54,"J' utilise le vinyle , et plus particulièrement le bois .",0
+51,"J' utilise le cuir , et plus particulièrement le nylon .",0
+50,"J' utilise le nylon , et plus particulièrement le cuir .",0
+49,"J' utilise le verre , et plus particulièrement le nylon .",0
+48,"J' utilise le nylon , et plus particulièrement le verre .",0
+47,"J' utilise le coton , et plus particulièrement le nylon .",0
+46,"J' utilise le nylon , et plus particulièrement le coton .",0
+45,"J' utilise le plastique , et plus particulièrement le nylon .",1
+44,"J' utilise le nylon , et plus particulièrement le plastique .",0
+43,"J' utilise le bois , et plus particulièrement le nylon .",0
+42,"J' utilise le nylon , et plus particulièrement le bois .",0
+40,"J' utilise le plastique , et plus particulièrement le cuir .",0
+38,"J' utilise le cuir , et plus particulièrement le polyester .",0
+37,"J' utilise le polyester , et plus particulièrement le cuir .",0
+36,"J' utilise le plastique , et plus particulièrement le verre .",0
+35,"J' utilise le verre , et plus particulièrement le polyester .",0
+34,"J' utilise le polyester , et plus particulièrement le verre .",0
+33,"J' utilise le plastique , et plus particulièrement le coton .",0
+32,"J' utilise le coton , et plus particulièrement le polyester .",0
+31,"J' utilise le polyester , et plus particulièrement le coton .",0
+30,"J' utilise le plastique , et plus particulièrement le bois .",0
+29,"J' utilise le plastique , et plus particulièrement le polyester .",1
+28,"J' utilise le polyester , et plus particulièrement le plastique .",0
+27,"J' utilise le bois , et plus particulièrement le polyester .",0
+26,"J' utilise le polyester , et plus particulièrement le bois .",0
+24,"J' aime les arbustes , et plus particulièrement les pins .",0
+23,"J' aime les pins , et plus particulièrement les arbustes .",0
+22,"J' aime les buissons , et plus particulièrement les pins .",0
+21,"J' aime les pins , et plus particulièrement les buissons .",0
+19,"J' aime les animaux , et plus particulièrement les pins .",0
+18,"J' aime les pins , et plus particulièrement les animaux .",0
+17,"J' aime les arbres , et plus particulièrement les pins .",1
+16,"J' aime les pins , et plus particulièrement les arbres .",0
+15,"J' aime la pelouse , et plus particulièrement les pins .",0
+14,"J' aime les pins , et plus particulièrement la pelouse .",0
+11,"J' aime les arbustes , et plus particulièrement les sapins .",0
+10,"J' aime les sapins , et plus particulièrement les arbustes .",0
+9,"J' aime les buissons , et plus particulièrement les sapins .",0
+8,"J' aime les sapins , et plus particulièrement les buissons .",0
+6,"J' aime les animaux , et plus particulièrement les sapins .",0
+5,"J' aime les sapins , et plus particulièrement les animaux .",0
+4,"J' aime les arbres , et plus particulièrement les sapins .",1
+3,"J' aime les sapins , et plus particulièrement les arbres .",0
+2,"J' aime la pelouse , et plus particulièrement les sapins .",0
+1,"J' aime les sapins , et plus particulièrement la pelouse .",0

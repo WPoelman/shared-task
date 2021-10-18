@@ -1,0 +1,1667 @@
+id,sentence,labels
+5836,"Amo gli arbusti , e più specificamente le betulle .",0
+5835,"Amo le betulle , e più specificamente gli arbusti .",0
+5834,"Amo i cespugli , e più specificamente le betulle .",0
+5833,"Amo le betulle , e più specificamente i cespugli .",0
+5832,"Amo gli animali , e più specificamente le betulle .",0
+5831,"Amo le betulle , e più specificamente gli animali .",0
+5830,"Amo gli alberi , e più specificamente le betulle .",1
+5829,"Amo le betulle , e più specificamente gli alberi .",0
+5828,"Amo l' erba , e più specificamente le betulle .",0
+5827,"Amo le betulle , e più specificamente l' erba .",0
+5826,"Amo gli alberi , e più specificamente gli arbusti .",0
+5825,"Amo gli arbusti , e più specificamente le querce .",0
+5824,"Amo le querce , e più specificamente gli arbusti .",0
+5823,"Amo gli alberi , e più specificamente i cespugli .",0
+5822,"Amo i cespugli , e più specificamente le querce .",0
+5821,"Amo le querce , e più specificamente i cespugli .",0
+5820,"Amo gli alberi , e più specificamente gli animali .",0
+5819,"Amo gli animali , e più specificamente le querce .",0
+5818,"Amo le querce , e più specificamente gli animali .",0
+5817,"Amo gli alberi , e più specificamente l' erba .",0
+5816,"Amo gli alberi , e più specificamente le querce .",1
+5815,"Amo le querce , e più specificamente gli alberi .",0
+5814,"Amo l' erba , e più specificamente le querce .",0
+5813,"Amo le querce , e più specificamente l' erba .",0
+5807,"Amo gli orecchini , e più specificamente le gonne .",0
+5806,"Amo le gonne , e più specificamente gli orecchini .",0
+5805,"Amo gli occhiali , e più specificamente le gonne .",0
+5804,"Amo le gonne , e più specificamente gli occhiali .",0
+5803,"Amo i gioielli , e più specificamente le gonne .",0
+5802,"Amo le gonne , e più specificamente i gioielli .",0
+5801,"Amo i vestiti , e più specificamente le gonne .",1
+5800,"Amo le gonne , e più specificamente i vestiti .",0
+5799,"Amo gli animali domestici , e più specificamente le gonne .",0
+5798,"Amo le gonne , e più specificamente gli animali domestici .",0
+5795,"Amo gli orecchini , e più specificamente le calze .",0
+5794,"Amo le calze , e più specificamente gli orecchini .",0
+5793,"Amo gli occhiali , e più specificamente le calze .",0
+5792,"Amo le calze , e più specificamente gli occhiali .",0
+5790,"Amo i gioielli , e più specificamente le calze .",0
+5789,"Amo le calze , e più specificamente i gioielli .",0
+5788,"Amo i vestiti , e più specificamente le calze .",1
+5787,"Amo le calze , e più specificamente i vestiti .",0
+5786,"Amo gli animali domestici , e più specificamente le calze .",0
+5785,"Amo le calze , e più specificamente gli animali domestici .",0
+5782,"Amo gli orecchini , e più specificamente i pantaloni .",0
+5781,"Amo i pantaloni , e più specificamente gli orecchini .",0
+5780,"Amo gli occhiali , e più specificamente i pantaloni .",0
+5779,"Amo i pantaloni , e più specificamente gli occhiali .",0
+5777,"Amo i gioielli , e più specificamente i pantaloni .",0
+5776,"Amo i pantaloni , e più specificamente i gioielli .",0
+5775,"Amo i vestiti , e più specificamente i pantaloni .",1
+5774,"Amo i pantaloni , e più specificamente i vestiti .",0
+5773,"Amo gli animali domestici , e più specificamente i pantaloni .",0
+5772,"Amo i pantaloni , e più specificamente gli animali domestici .",0
+5769,"Amo i vestiti , e più specificamente gli orecchini .",0
+5767,"Amo gli orecchini , e più specificamente le camicie .",0
+5766,"Amo le camicie , e più specificamente gli orecchini .",0
+5765,"Amo i vestiti , e più specificamente gli occhiali .",0
+5764,"Amo gli occhiali , e più specificamente le camicie .",0
+5763,"Amo le camicie , e più specificamente gli occhiali .",0
+5762,"Amo i vestiti , e più specificamente i gioielli .",0
+5760,"Amo i gioielli , e più specificamente le camicie .",0
+5759,"Amo le camicie , e più specificamente i gioielli .",0
+5758,"Amo i vestiti , e più specificamente gli animali domestici .",0
+5757,"Amo i vestiti , e più specificamente le camicie .",1
+5756,"Amo le camicie , e più specificamente i vestiti .",0
+5755,"Amo gli animali domestici , e più specificamente le camicie .",0
+5754,"Amo le camicie , e più specificamente gli animali domestici .",0
+5752,"Amo gli aeroplani , e più specificamente le Kawasakis .",0
+5751,"Amo le Kawasakis , e più specificamente gli aeroplani .",0
+5750,"Amo i treni , e più specificamente le Kawasakis .",0
+5749,"Amo le Kawasakis , e più specificamente i treni .",0
+5748,"Amo le biciclette , e più specificamente le Kawasakis .",0
+5747,"Amo le Kawasakis , e più specificamente le biciclette .",0
+5746,"Amo le moto , e più specificamente le Kawasakis .",1
+5745,"Amo le Kawasakis , e più specificamente le moto .",0
+5744,"Amo le navi , e più specificamente le Kawasakis .",0
+5743,"Amo le Kawasakis , e più specificamente le navi .",0
+5742,"Amo gli aeroplani , e più specificamente gli enduro .",0
+5741,"Amo gli enduro , e più specificamente gli aeroplani .",0
+5740,"Amo i treni , e più specificamente gli enduro .",0
+5739,"Amo gli enduro , e più specificamente i treni .",0
+5738,"Amo le biciclette , e più specificamente gli enduro .",0
+5737,"Amo gli enduro , e più specificamente le biciclette .",0
+5736,"Amo le moto , e più specificamente gli enduro .",1
+5735,"Amo gli enduro , e più specificamente le moto .",0
+5734,"Amo le navi , e più specificamente gli enduro .",0
+5733,"Amo gli enduro , e più specificamente le navi .",0
+5732,"Amo gli aeroplani , e più specificamente le Suzuki .",0
+5731,"Amo le Suzuki , e più specificamente gli aeroplani .",0
+5730,"Amo i treni , e più specificamente le Suzuki .",0
+5729,"Amo le Suzuki , e più specificamente i treni .",0
+5728,"Amo le biciclette , e più specificamente le Suzuki .",0
+5727,"Amo le Suzuki , e più specificamente le biciclette .",0
+5726,"Amo le moto , e più specificamente le Suzuki .",1
+5725,"Amo le Suzuki , e più specificamente le moto .",0
+5724,"Amo le navi , e più specificamente le Suzuki .",0
+5723,"Amo le Suzuki , e più specificamente le navi .",0
+5722,"Amo le moto , e più specificamente gli aeroplani .",0
+5721,"Amo gli aeroplani , e più specificamente le Harley-Davidson .",0
+5720,"Amo le Harley-Davidson , e più specificamente gli aeroplani .",0
+5719,"Amo le moto , e più specificamente i treni .",0
+5718,"Amo i treni , e più specificamente le Harley-Davidson .",0
+5717,"Amo le Harley-Davidson , e più specificamente i treni .",0
+5716,"Amo le moto , e più specificamente le biciclette .",0
+5715,"Amo le biciclette , e più specificamente le Harley-Davidson .",0
+5714,"Amo le Harley-Davidson , e più specificamente le biciclette .",0
+5713,"Amo le moto , e più specificamente le navi .",0
+5712,"Amo le moto , e più specificamente le Harley-Davidson .",1
+5711,"Amo le Harley-Davidson , e più specificamente le moto .",0
+5710,"Amo le navi , e più specificamente le Harley-Davidson .",0
+5709,"Amo le Harley-Davidson , e più specificamente le navi .",0
+5706,"Amo i cani , e più specificamente i passeri .",0
+5705,"Amo i passeri , e più specificamente i cani .",0
+5704,"Amo i maiali , e più specificamente i passeri .",0
+5703,"Amo i passeri , e più specificamente i maiali .",0
+5702,"Amo i criceti , e più specificamente i passeri .",0
+5701,"Amo i passeri , e più specificamente i criceti .",0
+5700,"Amo gli uccelli , e più specificamente i passeri .",1
+5699,"Amo i passeri , e più specificamente gli uccelli .",0
+5698,"Amo i gatti , e più specificamente i passeri .",0
+5697,"Amo i passeri , e più specificamente i gatti .",0
+5696,"Amo i cani , e più specificamente i merli .",0
+5695,"Amo i merli , e più specificamente i cani .",0
+5694,"Amo i maiali , e più specificamente i merli .",0
+5693,"Amo i merli , e più specificamente i maiali .",0
+5692,"Amo i criceti , e più specificamente i merli .",0
+5691,"Amo i merli , e più specificamente i criceti .",0
+5690,"Amo gli uccelli , e più specificamente i merli .",1
+5689,"Amo i merli , e più specificamente gli uccelli .",0
+5688,"Amo i gatti , e più specificamente i merli .",0
+5687,"Amo i merli , e più specificamente i gatti .",0
+5686,"Amo i cani , e più specificamente le anatre .",0
+5685,"Amo le anatre , e più specificamente i cani .",0
+5684,"Amo i maiali , e più specificamente le anatre .",0
+5683,"Amo le anatre , e più specificamente i maiali .",0
+5682,"Amo i criceti , e più specificamente le anatre .",0
+5681,"Amo le anatre , e più specificamente i criceti .",0
+5680,"Amo gli uccelli , e più specificamente le anatre .",1
+5679,"Amo le anatre , e più specificamente gli uccelli .",0
+5678,"Amo i gatti , e più specificamente le anatre .",0
+5677,"Amo le anatre , e più specificamente i gatti .",0
+5676,"Amo gli uccelli , e più specificamente i cani .",0
+5675,"Amo i pappagalli , e più specificamente i cani .",0
+5674,"Amo gli uccelli , e più specificamente i maiali .",0
+5673,"Amo i maiali , e più specificamente i pappagalli .",0
+5672,"Amo i pappagalli , e più specificamente i maiali .",0
+5671,"Amo gli uccelli , e più specificamente i criceti .",0
+5670,"Amo i criceti , e più specificamente i pappagalli .",0
+5669,"Amo i pappagalli , e più specificamente i criceti .",0
+5668,"Amo gli uccelli , e più specificamente i gatti .",0
+5667,"Amo gli uccelli , e più specificamente i pappagalli .",1
+5666,"Amo i pappagalli , e più specificamente gli uccelli .",0
+5665,"Amo i gatti , e più specificamente i pappagalli .",0
+5664,"Amo i pappagalli , e più specificamente i gatti .",0
+5662,"Amo i conigli , e più specificamente i bassotti .",0
+5661,"Amo i bassotti , e più specificamente i conigli .",0
+5660,"Amo i pappagalli , e più specificamente i bassotti .",0
+5659,"Amo i bassotti , e più specificamente i pappagalli .",0
+5658,"Amo i criceti , e più specificamente i bassotti .",0
+5657,"Amo i bassotti , e più specificamente i criceti .",0
+5656,"Amo i cani , e più specificamente i bassotti .",1
+5655,"Amo i bassotti , e più specificamente i cani .",0
+5654,"Amo i gatti , e più specificamente i bassotti .",0
+5653,"Amo i bassotti , e più specificamente i gatti .",0
+5652,"Amo i conigli , e più specificamente i bulldog .",0
+5651,"Amo i bulldog , e più specificamente i conigli .",0
+5650,"Amo i pappagalli , e più specificamente i bulldog .",0
+5649,"Amo i bulldog , e più specificamente i pappagalli .",0
+5648,"Amo i criceti , e più specificamente i bulldog .",0
+5647,"Amo i bulldog , e più specificamente i criceti .",0
+5646,"Amo i cani , e più specificamente i bulldog .",1
+5645,"Amo i bulldog , e più specificamente i cani .",0
+5644,"Amo i gatti , e più specificamente i bulldog .",0
+5643,"Amo i bulldog , e più specificamente i gatti .",0
+5642,"Amo i conigli , e più specificamente i bobtail .",0
+5641,"Amo i bobtail , e più specificamente i conigli .",0
+5640,"Amo i pappagalli , e più specificamente i bobtail .",0
+5639,"Amo i bobtail , e più specificamente i pappagalli .",0
+5638,"Amo i criceti , e più specificamente i bobtail .",0
+5637,"Amo i bobtail , e più specificamente i criceti .",0
+5636,"Amo i cani , e più specificamente i bobtail .",1
+5635,"Amo i bobtail , e più specificamente i cani .",0
+5634,"Amo i gatti , e più specificamente i bobtail .",0
+5633,"Amo i bobtail , e più specificamente i gatti .",0
+5631,"Amo i cani , e più specificamente i conigli .",0
+5630,"Amo i conigli , e più specificamente gli husky .",0
+5629,"Amo gli husky , e più specificamente i conigli .",0
+5628,"Amo i cani , e più specificamente i pappagalli .",0
+5627,"Amo i pappagalli , e più specificamente gli husky .",0
+5626,"Amo gli husky , e più specificamente i pappagalli .",0
+5625,"Amo i cani , e più specificamente i criceti .",0
+5624,"Amo i criceti , e più specificamente gli husky .",0
+5623,"Amo gli husky , e più specificamente i criceti .",0
+5622,"Amo i cani , e più specificamente i gatti .",0
+5621,"Amo i cani , e più specificamente gli husky .",1
+5620,"Amo gli husky , e più specificamente i cani .",0
+5619,"Amo i gatti , e più specificamente gli husky .",0
+5618,"Amo gli husky , e più specificamente i gatti .",0
+5614,"Ho incontrato i portieri , ma non i fisici .",1
+5613,"Ho incontrato i fisici , ma non i portieri .",1
+5612,"Ho incontrato i guardiani , ma non i fisici .",1
+5611,"Ho incontrato i fisici , ma non i guardiani .",1
+5610,"Ho incontrato i camerieri , ma non i fisici .",1
+5609,"Ho incontrato i fisici , ma non i camerieri .",1
+5608,"Ho incontrato gli scienziati , ma non i fisici .",1
+5607,"Ho incontrato i fisici , ma non gli scienziati .",0
+5606,"Ho incontrato gli impiegati , ma non i fisici .",1
+5605,"Ho incontrato i fisici , ma non gli impiegati .",1
+5604,"Ho incontrato i portieri , ma non gli astronomi .",1
+5603,"Ho incontrato gli astronomi , ma non i portieri .",1
+5602,"Ho incontrato i guardiani , ma non gli astronomi .",1
+5601,"Ho incontrato gli astronomi , ma non i guardiani .",1
+5600,"Ho incontrato i camerieri , ma non gli astronomi .",1
+5599,"Ho incontrato gli astronomi , ma non i camerieri .",1
+5598,"Ho incontrato gli scienziati , ma non gli astronomi .",1
+5597,"Ho incontrato gli astronomi , ma non gli scienziati .",0
+5596,"Ho incontrato gli impiegati , ma non gli astronomi .",1
+5595,"Ho incontrato gli astronomi , ma non gli impiegati .",1
+5593,"Ho incontrato i portieri , ma non i genetisti .",1
+5592,"Ho incontrato i genetisti , ma non i portieri .",1
+5591,"Ho incontrato i guardiani , ma non i genetisti .",1
+5590,"Ho incontrato i genetisti , ma non i guardiani .",1
+5589,"Ho incontrato i camerieri , ma non i genetisti .",1
+5588,"Ho incontrato i genetisti , ma non i camerieri .",1
+5587,"Ho incontrato gli scienziati , ma non i genetisti .",1
+5586,"Ho incontrato i genetisti , ma non gli scienziati .",0
+5585,"Ho incontrato gli impiegati , ma non i genetisti .",1
+5584,"Ho incontrato i genetisti , ma non gli impiegati .",1
+5583,"Ho incontrato gli scienziati , ma non i portieri .",1
+5582,"Ho incontrato i portieri , ma non i biologi .",1
+5581,"Ho incontrato i biologi , ma non i portieri .",1
+5580,"Ho incontrato gli scienziati , ma non i guardiani .",1
+5579,"Ho incontrato i guardiani , ma non i biologi .",1
+5578,"Ho incontrato i biologi , ma non i guardiani .",1
+5577,"Ho incontrato gli scienziati , ma non i camerieri .",1
+5576,"Ho incontrato i camerieri , ma non i biologi .",1
+5575,"Ho incontrato i biologi , ma non i camerieri .",1
+5574,"Ho incontrato gli scienziati , ma non gli impiegati .",1
+5573,"Ho incontrato gli scienziati , ma non i biologi .",1
+5572,"Ho incontrato i biologi , ma non gli scienziati .",0
+5571,"Ho incontrato gli impiegati , ma non i biologi .",1
+5570,"Ho incontrato i biologi , ma non gli impiegati .",1
+5569,"Amo gli uffici , ma non i professori .",1
+5568,"Amo i professori , ma non gli uffici .",1
+5567,"Amo le scuole , ma non i professori .",1
+5566,"Amo i professori , ma non le scuole .",1
+5565,"Amo i ristoranti , ma non i professori .",1
+5564,"Amo i professori , ma non i ristoranti .",1
+5563,"Amo i lavoratori , ma non i professori .",1
+5562,"Amo i professori , ma non i lavoratori .",0
+5561,"Amo le fabbriche , ma non i professori .",1
+5560,"Amo i professori , ma non le fabbriche .",1
+5559,"Amo gli uffici , ma non i guardiani .",1
+5558,"Amo i guardiani , ma non gli uffici .",1
+5557,"Amo le scuole , ma non i guardiani .",1
+5556,"Amo i guardiani , ma non le scuole .",1
+5555,"Amo i ristoranti , ma non i guardiani .",1
+5554,"Amo i guardiani , ma non i ristoranti .",1
+5553,"Amo i lavoratori , ma non i guardiani .",1
+5552,"Amo i guardiani , ma non i lavoratori .",0
+5551,"Amo le fabbriche , ma non i guardiani .",1
+5550,"Amo i guardiani , ma non le fabbriche .",1
+5549,"Amo gli uffici , ma non i camerieri .",1
+5548,"Amo i camerieri , ma non gli uffici .",1
+5547,"Amo le scuole , ma non i camerieri .",1
+5546,"Amo i camerieri , ma non le scuole .",1
+5545,"Amo i ristoranti , ma non i camerieri .",1
+5544,"Amo i camerieri , ma non i ristoranti .",1
+5543,"Amo i lavoratori , ma non i camerieri .",1
+5542,"Amo i camerieri , ma non i lavoratori .",0
+5541,"Amo le fabbriche , ma non i camerieri .",1
+5540,"Amo i camerieri , ma non le fabbriche .",1
+5539,"Amo i lavoratori , ma non gli uffici .",1
+5538,"Amo gli uffici , ma non gli impiegati .",1
+5537,"Amo gli impiegati , ma non gli uffici .",1
+5536,"Amo i lavoratori , ma non le scuole .",1
+5535,"Amo le scuole , ma non gli impiegati .",1
+5534,"Amo gli impiegati , ma non le scuole .",1
+5533,"Amo i lavoratori , ma non i ristoranti .",1
+5532,"Amo i ristoranti , ma non gli impiegati .",1
+5531,"Amo gli impiegati , ma non i ristoranti .",1
+5530,"Amo i lavoratori , ma non le fabbriche .",1
+5529,"Amo i lavoratori , ma non gli impiegati .",1
+5528,"Amo gli impiegati , ma non i lavoratori .",0
+5527,"Amo le fabbriche , ma non gli impiegati .",1
+5526,"Amo gli impiegati , ma non le fabbriche .",1
+5525,"Amo i dipinti , ma non i manuali .",1
+5524,"Amo i manuali , ma non i dipinti .",1
+5523,"Amo i cartoni animati , ma non i manuali .",1
+5522,"Amo i manuali , ma non i cartoni animati .",1
+5521,"Amo il cinema , ma non i manuali .",1
+5520,"Amo i manuali , ma non il cinema .",1
+5519,"Amo i libri , ma non i manuali .",1
+5518,"Amo i manuali , ma non i libri .",0
+5517,"Amo la musica , ma non i manuali .",1
+5516,"Amo i manuali , ma non la musica .",1
+5515,"Amo i dipinti , ma non i romanzi .",1
+5514,"Amo i romanzi , ma non i dipinti .",1
+5513,"Amo i cartoni animati , ma non i romanzi .",1
+5512,"Amo i romanzi , ma non i cartoni animati .",1
+5511,"Amo il cinema , ma non i romanzi .",1
+5510,"Amo i romanzi , ma non il cinema .",1
+5509,"Amo i libri , ma non i romanzi .",1
+5508,"Amo i romanzi , ma non i libri .",0
+5507,"Amo la musica , ma non i romanzi .",1
+5506,"Amo i romanzi , ma non la musica .",1
+5505,"Amo i dipinti , ma non i saggi .",1
+5504,"Amo i saggi , ma non i dipinti .",1
+5503,"Amo i cartoni animati , ma non i saggi .",1
+5502,"Amo i saggi , ma non i cartoni animati .",1
+5501,"Amo il cinema , ma non i saggi .",1
+5500,"Amo i saggi , ma non il cinema .",1
+5499,"Amo i libri , ma non i saggi .",1
+5498,"Amo i saggi , ma non i libri .",0
+5497,"Amo la musica , ma non i saggi .",1
+5496,"Amo i saggi , ma non la musica .",1
+5495,"Amo i libri , ma non i dipinti .",1
+5494,"Amo i dipinti , ma non i sussidiari .",1
+5493,"Amo i sussidiari , ma non i dipinti .",1
+5492,"Amo i libri , ma non i cartoni animati .",1
+5491,"Amo i cartoni animati , ma non i sussidiari .",1
+5490,"Amo i sussidiari , ma non i cartoni animati .",1
+5489,"Amo i libri , ma non il cinema .",1
+5488,"Amo il cinema , ma non i sussidiari .",1
+5487,"Amo i sussidiari , ma non il cinema .",1
+5486,"Amo i libri , ma non la musica .",1
+5485,"Amo i libri , ma non i sussidiari .",1
+5484,"Amo i sussidiari , ma non i libri .",0
+5483,"Amo la musica , ma non i sussidiari .",1
+5482,"Amo i sussidiari , ma non la musica .",1
+5480,"Posso capire i calcoli , ma non la tristezza .",1
+5479,"Posso capire la tristezza , ma non i calcoli .",1
+5478,"Posso capire la logica , ma non la tristezza .",1
+5477,"Posso capire la tristezza , ma non la logica .",1
+5476,"Posso capire la stupidità , ma non la tristezza .",1
+5475,"Posso capire la tristezza , ma non la stupidità .",1
+5474,"Posso capire le emozioni , ma non la tristezza .",1
+5473,"Posso capire la tristezza , ma non le emozioni .",0
+5472,"Posso capire la saggezza , ma non la tristezza .",1
+5471,"Posso capire la tristezza , ma non la saggezza .",1
+5470,"Posso capire i calcoli , ma non l' amore .",1
+5469,"Posso capire l' amore , ma non i calcoli .",1
+5468,"Posso capire la logica , ma non l' amore .",1
+5467,"Posso capire l' amore , ma non la logica .",1
+5466,"Posso capire la stupidità , ma non l' amore .",1
+5465,"Posso capire l' amore , ma non la stupidità .",1
+5464,"Posso capire le emozioni , ma non l' amore .",1
+5463,"Posso capire l' amore , ma non le emozioni .",0
+5462,"Posso capire la saggezza , ma non l' amore .",1
+5461,"Posso capire l' amore , ma non la saggezza .",1
+5460,"Posso capire i calcoli , ma non la paura .",1
+5459,"Posso capire la paura , ma non i calcoli .",1
+5458,"Posso capire la logica , ma non la paura .",1
+5457,"Posso capire la paura , ma non la logica .",1
+5456,"Posso capire la stupidità , ma non la paura .",1
+5455,"Posso capire la paura , ma non la stupidità .",1
+5454,"Posso capire le emozioni , ma non la paura .",1
+5453,"Posso capire la paura , ma non le emozioni .",0
+5452,"Posso capire la saggezza , ma non la paura .",1
+5451,"Posso capire la paura , ma non la saggezza .",1
+5450,"Posso capire le emozioni , ma non i calcoli .",1
+5449,"Posso capire i calcoli , ma non la gioia .",1
+5448,"Posso capire la gioia , ma non i calcoli .",1
+5447,"Posso capire le emozioni , ma non la logica .",1
+5446,"Posso capire la logica , ma non la gioia .",1
+5445,"Posso capire la gioia , ma non la logica .",1
+5444,"Posso capire le emozioni , ma non la stupidità .",1
+5443,"Posso capire la stupidità , ma non la gioia .",1
+5442,"Posso capire la gioia , ma non la stupidità .",1
+5441,"Posso capire le emozioni , ma non la saggezza .",1
+5440,"Posso capire le emozioni , ma non la gioia .",1
+5439,"Posso capire la gioia , ma non le emozioni .",0
+5438,"Posso capire la saggezza , ma non la gioia .",1
+5437,"Posso capire la gioia , ma non la saggezza .",1
+5436,"Si fida delle congetture , ma non il gusto .",1
+5435,"Si fida del gusto , ma non le congetture .",1
+5434,"Si fida delle ricostruzioni , ma non il gusto .",1
+5433,"Si fida del gusto , ma non le ricostruzioni .",1
+5432,"Si fida dei notiziari , ma non il gusto .",1
+5431,"Si fida del gusto , ma non i notiziari .",1
+5430,"Si fida dei sensi , ma non il gusto .",1
+5429,"Si fida del gusto , ma non i sensi .",0
+5428,"Si fida delle dicerie , ma non il gusto .",1
+5427,"Si fida del gusto , ma non le dicerie .",1
+5426,"Si fida delle congetture , ma non il tatto .",1
+5425,"Si fida del tatto , ma non le congetture .",1
+5424,"Si fida delle ricostruzioni , ma non il tatto .",1
+5423,"Si fida del tatto , ma non le ricostruzioni .",1
+5422,"Si fida dei notiziari , ma non il tatto .",1
+5421,"Si fida del tatto , ma non i notiziari .",1
+5420,"Si fida dei sensi , ma non il tatto .",1
+5419,"Si fida del tatto , ma non i sensi .",0
+5418,"Si fida delle dicerie , ma non il tatto .",1
+5417,"Si fida del tatto , ma non le dicerie .",1
+5416,"Si fida delle congetture , ma non l' udito .",1
+5415,"Si fida dell' udito , ma non le congetture .",1
+5414,"Si fida delle ricostruzioni , ma non l' udito .",1
+5413,"Si fida dell' udito , ma non le ricostruzioni .",1
+5412,"Si fida dei notiziari , ma non l' udito .",1
+5411,"Si fida dell' udito , ma non i notiziari .",1
+5410,"Si fida dei sensi , ma non l' udito .",1
+5409,"Si fida dell' udito , ma non i sensi .",0
+5408,"Si fida delle dicerie , ma non l' udito .",1
+5407,"Si fida dell' udito , ma non le dicerie .",1
+5406,"Si fida dei sensi , ma non le congetture .",1
+5405,"Si fida delle congetture , ma non la vista .",1
+5404,"Si fida della vista , ma non le congetture .",1
+5403,"Si fida dei sensi , ma non le ricostruzioni .",1
+5402,"Si fida delle ricostruzioni , ma non la vista .",1
+5401,"Si fida della vista , ma non le ricostruzioni .",1
+5400,"Si fida dei sensi , ma non i notiziari .",1
+5399,"Si fida dei notiziari , ma non la vista .",1
+5398,"Si fida della vista , ma non i notiziari .",1
+5397,"Si fida dei sensi , ma non le dicerie .",1
+5396,"Si fida dei sensi , ma non la vista .",1
+5395,"Si fida della vista , ma non i sensi .",0
+5394,"Si fida delle dicerie , ma non la vista .",1
+5393,"Si fida della vista , ma non le dicerie .",1
+5387,"Amo le balene , ma non i criceti .",1
+5386,"Amo i criceti , ma non le balene .",1
+5385,"Amo le meduse , ma non i criceti .",1
+5384,"Amo i criceti , ma non le meduse .",1
+5382,"Amo gli orsi , ma non i criceti .",1
+5381,"Amo i criceti , ma non gli orsi .",1
+5380,"Amo gli animali domestici , ma non i criceti .",1
+5379,"Amo i criceti , ma non gli animali domestici .",0
+5378,"Amo le giraffe , ma non i criceti .",1
+5377,"Amo i criceti , ma non le giraffe .",1
+5376,"Amo le balene , ma non i conigli .",1
+5375,"Amo i conigli , ma non le balene .",1
+5374,"Amo le meduse , ma non i conigli .",1
+5373,"Amo i conigli , ma non le meduse .",1
+5372,"Amo gli orsi , ma non i conigli .",1
+5371,"Amo i conigli , ma non gli orsi .",1
+5370,"Amo gli animali domestici , ma non i conigli .",1
+5369,"Amo i conigli , ma non gli animali domestici .",0
+5368,"Amo le giraffe , ma non i conigli .",1
+5367,"Amo i conigli , ma non le giraffe .",1
+5365,"Amo le balene , ma non i cani .",1
+5364,"Amo i cani , ma non le balene .",1
+5363,"Amo le meduse , ma non i cani .",1
+5362,"Amo i cani , ma non le meduse .",1
+5360,"Amo gli orsi , ma non i cani .",1
+5359,"Amo i cani , ma non gli orsi .",1
+5358,"Amo gli animali domestici , ma non i cani .",1
+5357,"Amo i cani , ma non gli animali domestici .",0
+5356,"Amo le giraffe , ma non i cani .",1
+5355,"Amo i cani , ma non le giraffe .",1
+5354,"Amo gli animali domestici , ma non le balene .",1
+5352,"Amo le balene , ma non i gatti .",1
+5351,"Amo i gatti , ma non le balene .",1
+5350,"Amo gli animali domestici , ma non le meduse .",1
+5349,"Amo le meduse , ma non i gatti .",1
+5348,"Amo i gatti , ma non le meduse .",1
+5347,"Amo gli animali domestici , ma non gli orsi .",1
+5346,"Amo gli orsi , ma non i gatti .",1
+5345,"Amo i gatti , ma non gli orsi .",1
+5344,"Amo gli animali domestici , ma non le giraffe .",1
+5343,"Amo gli animali domestici , ma non i gatti .",1
+5342,"Amo i gatti , ma non gli animali domestici .",0
+5341,"Amo le giraffe , ma non i gatti .",1
+5340,"Amo i gatti , ma non le giraffe .",1
+5339,"Amo le scarpe , ma non gli anelli .",1
+5338,"Amo gli anelli , ma non le scarpe .",1
+5337,"Amo gli occhiali , ma non gli anelli .",1
+5336,"Amo gli anelli , ma non gli occhiali .",1
+5335,"Amo le sciarpe , ma non gli anelli .",1
+5334,"Amo gli anelli , ma non le sciarpe .",1
+5333,"Amo i gioielli , ma non gli anelli .",1
+5332,"Amo gli anelli , ma non i gioielli .",0
+5331,"Amo le borsette , ma non gli anelli .",1
+5330,"Amo gli anelli , ma non le borsette .",1
+5329,"Amo le scarpe , ma non gli orecchini .",1
+5328,"Amo gli orecchini , ma non le scarpe .",1
+5327,"Amo gli occhiali , ma non gli orecchini .",1
+5326,"Amo gli orecchini , ma non gli occhiali .",1
+5325,"Amo le sciarpe , ma non gli orecchini .",1
+5324,"Amo gli orecchini , ma non le sciarpe .",1
+5323,"Amo i gioielli , ma non gli orecchini .",1
+5322,"Amo gli orecchini , ma non i gioielli .",0
+5321,"Amo le borsette , ma non gli orecchini .",1
+5320,"Amo gli orecchini , ma non le borsette .",1
+5319,"Amo le scarpe , ma non le collane .",1
+5318,"Amo le collane , ma non le scarpe .",1
+5317,"Amo gli occhiali , ma non le collane .",1
+5316,"Amo le collane , ma non gli occhiali .",1
+5315,"Amo le sciarpe , ma non le collane .",1
+5314,"Amo le collane , ma non le sciarpe .",1
+5313,"Amo i gioielli , ma non le collane .",1
+5312,"Amo le collane , ma non i gioielli .",0
+5311,"Amo le borsette , ma non le collane .",1
+5310,"Amo le collane , ma non le borsette .",1
+5309,"Amo i gioielli , ma non le scarpe .",1
+5308,"Amo le scarpe , ma non i braccialetti .",1
+5307,"Amo i braccialetti , ma non le scarpe .",1
+5306,"Amo i gioielli , ma non gli occhiali .",1
+5305,"Amo gli occhiali , ma non i braccialetti .",1
+5304,"Amo i braccialetti , ma non gli occhiali .",1
+5303,"Amo i gioielli , ma non le sciarpe .",1
+5302,"Amo le sciarpe , ma non i braccialetti .",1
+5301,"Amo i braccialetti , ma non le sciarpe .",1
+5300,"Amo i gioielli , ma non le borsette .",1
+5299,"Amo i gioielli , ma non i braccialetti .",1
+5298,"Amo i braccialetti , ma non i gioielli .",0
+5297,"Amo le borsette , ma non i braccialetti .",1
+5296,"Amo i braccialetti , ma non le borsette .",1
+5295,"Amo i videogiochi , ma non i documentari .",1
+5294,"Amo i documentari , ma non i videogiochi .",1
+5293,"Amo i giochi da tavolo , ma non i documentari .",1
+5292,"Amo i documentari , ma non i giochi da tavolo .",1
+5291,"Amo i sussidiari , ma non i documentari .",1
+5290,"Amo i documentari , ma non i sussidiari .",1
+5289,"Amo i film , ma non i documentari .",1
+5288,"Amo i documentari , ma non i film .",0
+5287,"Amo i saggi , ma non i documentari .",1
+5286,"Amo i documentari , ma non i saggi .",1
+5285,"Amo i videogiochi , ma non le commedie .",1
+5284,"Amo le commedie , ma non i videogiochi .",1
+5283,"Amo i giochi da tavolo , ma non le commedie .",1
+5282,"Amo le commedie , ma non i giochi da tavolo .",1
+5281,"Amo i sussidiari , ma non le commedie .",1
+5280,"Amo le commedie , ma non i sussidiari .",1
+5279,"Amo i film , ma non le commedie .",1
+5278,"Amo le commedie , ma non i film .",0
+5277,"Amo i saggi , ma non le commedie .",1
+5276,"Amo le commedie , ma non i saggi .",1
+5275,"Amo i videogiochi , ma non i western .",1
+5274,"Amo i western , ma non i videogiochi .",1
+5273,"Amo i giochi da tavolo , ma non i western .",1
+5272,"Amo i western , ma non i giochi da tavolo .",1
+5271,"Amo i sussidiari , ma non i western .",1
+5270,"Amo i western , ma non i sussidiari .",1
+5269,"Amo i film , ma non i western .",1
+5268,"Amo i western , ma non i film .",0
+5267,"Amo i saggi , ma non i western .",1
+5266,"Amo i western , ma non i saggi .",1
+5265,"Amo i film , ma non i videogiochi .",1
+5264,"Amo i videogiochi , ma non i thriller .",1
+5263,"Amo i thriller , ma non i videogiochi .",1
+5262,"Amo i film , ma non i giochi da tavolo .",1
+5261,"Amo i giochi da tavolo , ma non i thriller .",1
+5260,"Amo i thriller , ma non i giochi da tavolo .",1
+5259,"Amo i film , ma non i sussidiari .",1
+5258,"Amo i sussidiari , ma non i thriller .",1
+5257,"Amo i thriller , ma non i sussidiari .",1
+5256,"Amo i film , ma non i saggi .",1
+5255,"Amo i film , ma non i thriller .",1
+5254,"Amo i thriller , ma non i film .",0
+5253,"Amo i saggi , ma non i thriller .",1
+5252,"Amo i thriller , ma non i saggi .",1
+5249,"Adoro il manzo , ma non il caviale .",1
+5248,"Adoro il caviale , ma non il manzo .",1
+5247,"Adoro il tacchino , ma non il caviale .",1
+5246,"Adoro il caviale , ma non il tacchino .",1
+5245,"Adoro il vitello , ma non il caviale .",1
+5244,"Adoro il caviale , ma non il vitello .",1
+5243,"Adoro i prodotti del mare , ma non il caviale .",1
+5242,"Adoro il caviale , ma non i prodotti del mare .",0
+5241,"Adoro il pollo , ma non il caviale .",1
+5240,"Adoro il caviale , ma non il pollo .",1
+5239,"Adoro il manzo , ma non le ostriche .",1
+5238,"Adoro le ostriche , ma non il manzo .",1
+5237,"Adoro il tacchino , ma non le ostriche .",1
+5236,"Adoro le ostriche , ma non il tacchino .",1
+5234,"Adoro il vitello , ma non le ostriche .",1
+5233,"Adoro le ostriche , ma non il vitello .",1
+5232,"Adoro i prodotti del mare , ma non le ostriche .",1
+5231,"Adoro le ostriche , ma non i prodotti del mare .",0
+5230,"Adoro il pollo , ma non le ostriche .",1
+5229,"Adoro le ostriche , ma non il pollo .",1
+5227,"Adoro il manzo , ma non i granchi .",1
+5226,"Adoro i granchi , ma non il manzo .",1
+5225,"Adoro il tacchino , ma non i granchi .",1
+5224,"Adoro i granchi , ma non il tacchino .",1
+5223,"Adoro il vitello , ma non i granchi .",1
+5222,"Adoro i granchi , ma non il vitello .",1
+5221,"Adoro i prodotti del mare , ma non i granchi .",1
+5220,"Adoro i granchi , ma non i prodotti del mare .",0
+5219,"Adoro il pollo , ma non i granchi .",1
+5218,"Adoro i granchi , ma non il pollo .",1
+5217,"Adoro i prodotti del mare , ma non il manzo .",1
+5216,"Adoro il manzo , ma non il salmone .",1
+5215,"Adoro il salmone , ma non il manzo .",1
+5214,"Adoro i prodotti del mare , ma non il tacchino .",1
+5213,"Adoro il tacchino , ma non il salmone .",1
+5212,"Adoro il salmone , ma non il tacchino .",1
+5211,"Adoro i prodotti del mare , ma non il vitello .",1
+5210,"Adoro il vitello , ma non il salmone .",1
+5209,"Adoro il salmone , ma non il vitello .",1
+5208,"Adoro i prodotti del mare , ma non il pollo .",1
+5207,"Adoro i prodotti del mare , ma non il salmone .",1
+5206,"Adoro il salmone , ma non i prodotti del mare .",0
+5205,"Adoro il pollo , ma non il salmone .",1
+5204,"Adoro il salmone , ma non il pollo .",1
+5198,"Adoro le carote , ma non il lardo .",1
+5197,"Adoro il lardo , ma non le carote .",1
+5196,"Adoro le mele , ma non il lardo .",1
+5195,"Adoro il lardo , ma non le mele .",1
+5194,"Adoro i broccoli , ma non il lardo .",1
+5193,"Adoro il lardo , ma non i broccoli .",1
+5192,"Adoro il maiale , ma non il lardo .",1
+5191,"Adoro il lardo , ma non il maiale .",0
+5190,"Adoro il pesce , ma non il lardo .",1
+5189,"Adoro il lardo , ma non il pesce .",1
+5188,"Adoro le carote , ma non il bacon .",1
+5187,"Adoro il bacon , ma non le carote .",1
+5186,"Adoro le mele , ma non il bacon .",1
+5185,"Adoro il bacon , ma non le mele .",1
+5184,"Adoro i broccoli , ma non il bacon .",1
+5183,"Adoro il bacon , ma non i broccoli .",1
+5182,"Adoro il maiale , ma non il bacon .",1
+5181,"Adoro il bacon , ma non il maiale .",0
+5180,"Adoro il pesce , ma non il bacon .",1
+5179,"Adoro il bacon , ma non il pesce .",1
+5178,"Adoro le carote , ma non il prosciutto .",1
+5177,"Adoro il prosciutto , ma non le carote .",1
+5176,"Adoro le mele , ma non il prosciutto .",1
+5175,"Adoro il prosciutto , ma non le mele .",1
+5174,"Adoro i broccoli , ma non il prosciutto .",1
+5173,"Adoro il prosciutto , ma non i broccoli .",1
+5172,"Adoro il maiale , ma non il prosciutto .",1
+5171,"Adoro il prosciutto , ma non il maiale .",0
+5170,"Adoro il pesce , ma non il prosciutto .",1
+5169,"Adoro il prosciutto , ma non il pesce .",1
+5168,"Adoro il maiale , ma non le carote .",1
+5167,"Adoro le carote , ma non il prosciutto cotto .",1
+5166,"Adoro il prosciutto cotto , ma non le carote .",1
+5165,"Adoro il maiale , ma non le mele .",1
+5164,"Adoro le mele , ma non il prosciutto cotto .",1
+5163,"Adoro il prosciutto cotto , ma non le mele .",1
+5162,"Adoro il maiale , ma non i broccoli .",1
+5161,"Adoro i broccoli , ma non il prosciutto cotto .",1
+5160,"Adoro il prosciutto cotto , ma non i broccoli .",1
+5159,"Adoro il maiale , ma non il pesce .",1
+5158,"Adoro il maiale , ma non il prosciutto cotto .",1
+5157,"Adoro il prosciutto cotto , ma non il maiale .",0
+5156,"Adoro il pesce , ma non il prosciutto cotto .",1
+5155,"Adoro il prosciutto cotto , ma non il pesce .",1
+5151,"Apprezzo i gioielli , ma non il blues .",1
+5150,"Apprezzo il blues , ma non i gioielli .",1
+5149,"Apprezzo il cibo , ma non il blues .",1
+5148,"Apprezzo il blues , ma non il cibo .",1
+5147,"Apprezzo i giochi da tavolo , ma non il blues .",1
+5146,"Apprezzo il blues , ma non i giochi da tavolo .",1
+5145,"Apprezzo la musica , ma non il blues .",1
+5144,"Apprezzo il blues , ma non la musica .",0
+5143,"Apprezzo gli sport , ma non il blues .",1
+5142,"Apprezzo il blues , ma non gli sport .",1
+5141,"Apprezzo i gioielli , ma non la techno .",1
+5140,"Apprezzo la techno , ma non i gioielli .",1
+5139,"Apprezzo il cibo , ma non la techno .",1
+5138,"Apprezzo la techno , ma non il cibo .",1
+5136,"Apprezzo i giochi da tavolo , ma non la techno .",1
+5135,"Apprezzo la techno , ma non i giochi da tavolo .",1
+5134,"Apprezzo la musica , ma non la techno .",1
+5133,"Apprezzo la techno , ma non la musica .",0
+5132,"Apprezzo gli sport , ma non la techno .",1
+5131,"Apprezzo la techno , ma non gli sport .",1
+5129,"Apprezzo i gioielli , ma non il jazz .",1
+5128,"Apprezzo il jazz , ma non i gioielli .",1
+5127,"Apprezzo il cibo , ma non il jazz .",1
+5126,"Apprezzo il jazz , ma non il cibo .",1
+5125,"Apprezzo i giochi da tavolo , ma non il jazz .",1
+5124,"Apprezzo il jazz , ma non i giochi da tavolo .",1
+5123,"Apprezzo la musica , ma non il jazz .",1
+5122,"Apprezzo il jazz , ma non la musica .",0
+5121,"Apprezzo gli sport , ma non il jazz .",1
+5120,"Apprezzo il jazz , ma non gli sport .",1
+5119,"Apprezzo la musica , ma non i gioielli .",1
+5118,"Apprezzo i gioielli , ma non il rock .",1
+5117,"Apprezzo il rock , ma non i gioielli .",1
+5116,"Apprezzo la musica , ma non il cibo .",1
+5115,"Apprezzo il cibo , ma non il rock .",1
+5114,"Apprezzo il rock , ma non il cibo .",1
+5113,"Apprezzo la musica , ma non i giochi da tavolo .",1
+5112,"Apprezzo i giochi da tavolo , ma non il rock .",1
+5111,"Apprezzo il rock , ma non i giochi da tavolo .",1
+5110,"Apprezzo la musica , ma non gli sport .",1
+5109,"Apprezzo la musica , ma non il rock .",1
+5108,"Apprezzo il rock , ma non la musica .",0
+5107,"Apprezzo gli sport , ma non il rock .",1
+5106,"Apprezzo il rock , ma non gli sport .",1
+5100,"Apprezzo la birra , ma non il Primitivo .",1
+5099,"Apprezzo il Primitivo , ma non la birra .",1
+5098,"Apprezzo la sprite , ma non il Primitivo .",1
+5097,"Apprezzo il Primitivo , ma non la sprite .",1
+5096,"Apprezzo l' acqua , ma non il Primitivo .",1
+5095,"Apprezzo il Primitivo , ma non l' acqua .",1
+5094,"Apprezzo il vino , ma non il Primitivo .",1
+5093,"Apprezzo il Primitivo , ma non il vino .",0
+5092,"Apprezzo la coca cola , ma non il Primitivo .",1
+5091,"Apprezzo il Primitivo , ma non la coca cola .",1
+5090,"Apprezzo la birra , ma non il Chianti .",1
+5089,"Apprezzo il Chianti , ma non la birra .",1
+5088,"Apprezzo la sprite , ma non il Chianti .",1
+5087,"Apprezzo il Chianti , ma non la sprite .",1
+5086,"Apprezzo l' acqua , ma non il Chianti .",1
+5085,"Apprezzo il Chianti , ma non l' acqua .",1
+5084,"Apprezzo il vino , ma non il Chianti .",1
+5083,"Apprezzo il Chianti , ma non il vino .",0
+5082,"Apprezzo la coca cola , ma non il Chianti .",1
+5081,"Apprezzo il Chianti , ma non la coca cola .",1
+5080,"Apprezzo la birra , ma non lo Chardonnay .",1
+5079,"Apprezzo lo Chardonnay , ma non la birra .",1
+5078,"Apprezzo la sprite , ma non lo Chardonnay .",1
+5077,"Apprezzo lo Chardonnay , ma non la sprite .",1
+5076,"Apprezzo l' acqua , ma non lo Chardonnay .",1
+5075,"Apprezzo lo Chardonnay , ma non l' acqua .",1
+5074,"Apprezzo il vino , ma non lo Chardonnay .",1
+5073,"Apprezzo lo Chardonnay , ma non il vino .",0
+5072,"Apprezzo la coca cola , ma non lo Chardonnay .",1
+5071,"Apprezzo lo Chardonnay , ma non la coca cola .",1
+5070,"Apprezzo il vino , ma non la birra .",1
+5069,"Apprezzo la birra , ma non il Merlot .",1
+5068,"Apprezzo il Merlot , ma non la birra .",1
+5067,"Apprezzo il vino , ma non la sprite .",1
+5066,"Apprezzo la sprite , ma non il Merlot .",1
+5065,"Apprezzo il Merlot , ma non la sprite .",1
+5064,"Apprezzo il vino , ma non l' acqua .",1
+5063,"Apprezzo l' acqua , ma non il Merlot .",1
+5062,"Apprezzo il Merlot , ma non l' acqua .",1
+5061,"Apprezzo il vino , ma non la coca cola .",1
+5060,"Apprezzo il vino , ma non il Merlot .",1
+5059,"Apprezzo il Merlot , ma non il vino .",0
+5058,"Apprezzo la coca cola , ma non il Merlot .",1
+5057,"Apprezzo il Merlot , ma non la coca cola .",1
+5056,"Apprezzo il parquet , ma non i letti .",1
+5055,"Apprezzo i letti , ma non il parquet .",1
+5054,"Apprezzo la carta da parati , ma non i letti .",1
+5053,"Apprezzo i letti , ma non la carta da parati .",1
+5052,"Apprezzo i dipinti , ma non i letti .",1
+5051,"Apprezzo i letti , ma non i dipinti .",1
+5050,"Apprezzo i mobili , ma non i letti .",1
+5049,"Apprezzo i letti , ma non i mobili .",0
+5048,"Apprezzo le posate , ma non i letti .",1
+5047,"Apprezzo i letti , ma non le posate .",1
+5046,"Apprezzo il parquet , ma non i guardaroba .",1
+5045,"Apprezzo i guardaroba , ma non il parquet .",1
+5044,"Apprezzo la carta da parati , ma non i guardaroba .",1
+5043,"Apprezzo i guardaroba , ma non la carta da parati .",1
+5041,"Apprezzo i dipinti , ma non i guardaroba .",1
+5040,"Apprezzo i guardaroba , ma non i dipinti .",1
+5039,"Apprezzo i mobili , ma non i guardaroba .",1
+5038,"Apprezzo i guardaroba , ma non i mobili .",0
+5037,"Apprezzo le posate , ma non i guardaroba .",1
+5036,"Apprezzo i guardaroba , ma non le posate .",1
+5035,"Apprezzo il parquet , ma non i tavoli .",1
+5034,"Apprezzo i tavoli , ma non il parquet .",1
+5033,"Apprezzo la carta da parati , ma non i tavoli .",1
+5032,"Apprezzo i tavoli , ma non la carta da parati .",1
+5031,"Apprezzo i dipinti , ma non i tavoli .",1
+5030,"Apprezzo i tavoli , ma non i dipinti .",1
+5029,"Apprezzo i mobili , ma non i tavoli .",1
+5028,"Apprezzo i tavoli , ma non i mobili .",0
+5027,"Apprezzo le posate , ma non i tavoli .",1
+5026,"Apprezzo i tavoli , ma non le posate .",1
+5025,"Apprezzo i mobili , ma non il parquet .",1
+5023,"Apprezzo il parquet , ma non le sedie .",1
+5022,"Apprezzo le sedie , ma non il parquet .",1
+5021,"Apprezzo i mobili , ma non la carta da parati .",1
+5020,"Apprezzo la carta da parati , ma non le sedie .",1
+5019,"Apprezzo le sedie , ma non la carta da parati .",1
+5018,"Apprezzo i mobili , ma non i dipinti .",1
+5016,"Apprezzo i dipinti , ma non le sedie .",1
+5015,"Apprezzo le sedie , ma non i dipinti .",1
+5014,"Apprezzo i mobili , ma non le posate .",1
+5013,"Apprezzo i mobili , ma non le sedie .",1
+5012,"Apprezzo le sedie , ma non i mobili .",0
+5011,"Apprezzo le posate , ma non le sedie .",1
+5010,"Apprezzo le sedie , ma non le posate .",1
+5008,"Uso il cuoio , ma non il PVC .",1
+5007,"Uso il PVC , ma non il cuoio .",1
+5006,"Uso il vetro , ma non il PVC .",1
+5005,"Uso il PVC , ma non il vetro .",1
+5004,"Uso il cotone , ma non il PVC .",1
+5003,"Uso il PVC , ma non il cotone .",1
+5002,"Uso la plastica , ma non il PVC .",1
+5001,"Uso il PVC , ma non la plastica .",0
+5000,"Uso il legno , ma non il PVC .",1
+4999,"Uso il PVC , ma non il legno .",1
+4998,"Uso il cuoio , ma non il vinile .",1
+4997,"Uso il vinile , ma non il cuoio .",1
+4996,"Uso il vetro , ma non il vinile .",1
+4995,"Uso il vinile , ma non il vetro .",1
+4993,"Uso il cotone , ma non il vinile .",1
+4992,"Uso il vinile , ma non il cotone .",1
+4991,"Uso la plastica , ma non il vinile .",1
+4990,"Uso il vinile , ma non la plastica .",0
+4989,"Uso il legno , ma non il vinile .",1
+4988,"Uso il vinile , ma non il legno .",1
+4986,"Uso il cuoio , ma non il nylon .",1
+4985,"Uso il nylon , ma non il cuoio .",1
+4984,"Uso il vetro , ma non il nylon .",1
+4983,"Uso il nylon , ma non il vetro .",1
+4981,"Uso il cotone , ma non il nylon .",1
+4980,"Uso il nylon , ma non il cotone .",1
+4979,"Uso la plastica , ma non il nylon .",1
+4978,"Uso il nylon , ma non la plastica .",0
+4977,"Uso il legno , ma non il nylon .",1
+4976,"Uso il nylon , ma non il legno .",1
+4975,"Uso la plastica , ma non il cuoio .",1
+4974,"Uso il cuoio , ma non il poliestere .",1
+4973,"Uso il poliestere , ma non il cuoio .",1
+4972,"Uso la plastica , ma non il vetro .",1
+4971,"Uso il vetro , ma non il poliestere .",1
+4970,"Uso il poliestere , ma non il vetro .",1
+4969,"Uso la plastica , ma non il cotone .",1
+4968,"Uso il cotone , ma non il poliestere .",1
+4967,"Uso il poliestere , ma non il cotone .",1
+4966,"Uso la plastica , ma non il legno .",1
+4965,"Uso la plastica , ma non il poliestere .",1
+4964,"Uso il poliestere , ma non la plastica .",0
+4963,"Uso il legno , ma non il poliestere .",1
+4962,"Uso il poliestere , ma non il legno .",1
+4960,"Adoro gli arbusti , ma non i pini .",1
+4959,"Adoro i pini , ma non gli arbusti .",1
+4958,"Adoro i cespugli , ma non i pini .",1
+4957,"Adoro i pini , ma non i cespugli .",1
+4955,"Adoro gli animali , ma non i pini .",1
+4954,"Adoro i pini , ma non gli animali .",1
+4953,"Adoro gli alberi , ma non i pini .",1
+4952,"Adoro i pini , ma non gli alberi .",0
+4951,"Adoro l' erba , ma non i pini .",1
+4950,"Adoro i pini , ma non l' erba .",1
+4949,"Adoro gli arbusti , ma non gli abeti .",1
+4948,"Adoro gli abeti , ma non gli arbusti .",1
+4947,"Adoro i cespugli , ma non gli abeti .",1
+4946,"Adoro gli abeti , ma non i cespugli .",1
+4944,"Adoro gli animali , ma non gli abeti .",1
+4943,"Adoro gli abeti , ma non gli animali .",1
+4942,"Adoro gli alberi , ma non gli abeti .",1
+4941,"Adoro gli abeti , ma non gli alberi .",0
+4940,"Adoro l' erba , ma non gli abeti .",1
+4939,"Adoro gli abeti , ma non l' erba .",1
+4937,"Adoro gli arbusti , ma non le betulle .",1
+4936,"Adoro le betulle , ma non gli arbusti .",1
+4935,"Adoro i cespugli , ma non le betulle .",1
+4934,"Adoro le betulle , ma non i cespugli .",1
+4932,"Adoro gli animali , ma non le betulle .",1
+4931,"Adoro le betulle , ma non gli animali .",1
+4930,"Adoro gli alberi , ma non le betulle .",1
+4929,"Adoro le betulle , ma non gli alberi .",0
+4928,"Adoro l' erba , ma non le betulle .",1
+4927,"Adoro le betulle , ma non l' erba .",1
+4926,"Adoro gli alberi , ma non gli arbusti .",1
+4924,"Adoro gli arbusti , ma non le querce .",1
+4923,"Adoro le querce , ma non gli arbusti .",1
+4922,"Adoro gli alberi , ma non i cespugli .",1
+4921,"Adoro i cespugli , ma non le querce .",1
+4920,"Adoro le querce , ma non i cespugli .",1
+4919,"Adoro gli alberi , ma non gli animali .",1
+4918,"Adoro gli animali , ma non le querce .",1
+4917,"Adoro le querce , ma non gli animali .",1
+4916,"Adoro gli alberi , ma non l' erba .",1
+4915,"Adoro gli alberi , ma non le querce .",1
+4914,"Adoro le querce , ma non gli alberi .",0
+4913,"Adoro l' erba , ma non le querce .",1
+4912,"Adoro le querce , ma non l' erba .",1
+4911,"Amo gli orecchini , ma non le gonne .",1
+4910,"Amo le gonne , ma non gli orecchini .",1
+4909,"Amo gli occhiali , ma non le gonne .",1
+4908,"Amo le gonne , ma non gli occhiali .",1
+4907,"Amo i gioielli , ma non le gonne .",1
+4906,"Amo le gonne , ma non i gioielli .",1
+4905,"Amo i vestiti , ma non le gonne .",1
+4904,"Amo le gonne , ma non i vestiti .",0
+4903,"Amo le scarpe , ma non le gonne .",1
+4902,"Amo le gonne , ma non le scarpe .",1
+4901,"Amo gli orecchini , ma non le calze .",1
+4900,"Amo le calze , ma non gli orecchini .",1
+4899,"Amo gli occhiali , ma non le calze .",1
+4898,"Amo le calze , ma non gli occhiali .",1
+4897,"Amo i gioielli , ma non le calze .",1
+4896,"Amo le calze , ma non i gioielli .",1
+4895,"Amo i vestiti , ma non le calze .",1
+4894,"Amo le calze , ma non i vestiti .",0
+4893,"Amo le scarpe , ma non le calze .",1
+4892,"Amo le calze , ma non le scarpe .",1
+4891,"Amo gli orecchini , ma non i pantaloni .",1
+4890,"Amo i pantaloni , ma non gli orecchini .",1
+4889,"Amo gli occhiali , ma non i pantaloni .",1
+4888,"Amo i pantaloni , ma non gli occhiali .",1
+4887,"Amo i gioielli , ma non i pantaloni .",1
+4886,"Amo i pantaloni , ma non i gioielli .",1
+4885,"Amo i vestiti , ma non i pantaloni .",1
+4884,"Amo i pantaloni , ma non i vestiti .",0
+4883,"Amo le scarpe , ma non i pantaloni .",1
+4882,"Amo i pantaloni , ma non le scarpe .",1
+4881,"Amo i vestiti , ma non gli orecchini .",1
+4880,"Amo gli orecchini , ma non le camicie .",1
+4879,"Amo le camicie , ma non gli orecchini .",1
+4878,"Amo i vestiti , ma non gli occhiali .",1
+4877,"Amo gli occhiali , ma non le camicie .",1
+4876,"Amo le camicie , ma non gli occhiali .",1
+4875,"Amo i vestiti , ma non i gioielli .",1
+4874,"Amo i gioielli , ma non le camicie .",1
+4873,"Amo le camicie , ma non i gioielli .",1
+4872,"Amo i vestiti , ma non le scarpe .",1
+4871,"Amo i vestiti , ma non le camicie .",1
+4870,"Amo le camicie , ma non i vestiti .",0
+4869,"Amo le scarpe , ma non le camicie .",1
+4868,"Amo le camicie , ma non le scarpe .",1
+4867,"Amo gli aeroplani , ma non le Kawasakis .",1
+4866,"Amo le Kawasakis , ma non gli aeroplani .",1
+4865,"Amo i treni , ma non le Kawasakis .",1
+4864,"Amo le Kawasakis , ma non i treni .",1
+4863,"Amo le biciclette , ma non le Kawasakis .",1
+4862,"Amo le Kawasakis , ma non le biciclette .",1
+4861,"Amo le Kawasakis , ma non le moto .",0
+4860,"Amo le navi , ma non le Kawasakis .",1
+4859,"Amo le Kawasakis , ma non le navi .",1
+4858,"Amo gli aeroplani , ma non gli enduro .",1
+4857,"Amo gli enduro , ma non gli aeroplani .",1
+4856,"Amo i treni , ma non gli enduro .",1
+4855,"Amo gli enduro , ma non i treni .",1
+4854,"Amo le biciclette , ma non gli enduro .",1
+4853,"Amo gli enduro , ma non le biciclette .",1
+4852,"Amo gli enduro , ma non le moto .",0
+4851,"Amo le navi , ma non gli enduro .",1
+4850,"Amo gli enduro , ma non le navi .",1
+4849,"Amo gli aeroplani , ma non le Suzuki .",1
+4848,"Amo le Suzuki , ma non gli aeroplani .",1
+4847,"Amo i treni , ma non le Suzuki .",1
+4846,"Amo le Suzuki , ma non i treni .",1
+4845,"Amo le biciclette , ma non le Suzuki .",1
+4844,"Amo le Suzuki , ma non le biciclette .",1
+4843,"Amo le Suzuki , ma non le moto .",0
+4842,"Amo le navi , ma non le Suzuki .",1
+4841,"Amo le Suzuki , ma non le navi .",1
+4840,"Amo le moto , ma non le Kawasakis .",1
+4839,"Amo gli aeroplani , ma non le Harley-Davidson .",1
+4838,"Amo le Harley-Davidson , ma non gli aeroplani .",1
+4837,"Amo le moto , ma non gli enduro .",1
+4836,"Amo i treni , ma non le Harley-Davidson .",1
+4835,"Amo le Harley-Davidson , ma non i treni .",1
+4834,"Amo le moto , ma non le Suzuki .",1
+4833,"Amo le biciclette , ma non le Harley-Davidson .",1
+4832,"Amo le Harley-Davidson , ma non le biciclette .",1
+4831,"Amo le moto , ma non le Harley-Davidson .",1
+4830,"Amo le Harley-Davidson , ma non le moto .",0
+4829,"Amo le navi , ma non le Harley-Davidson .",1
+4828,"Amo le Harley-Davidson , ma non le navi .",1
+4826,"Amo i cani , ma non i passeri .",1
+4825,"Amo i passeri , ma non i cani .",1
+4824,"Amo i maiali , ma non i passeri .",1
+4823,"Amo i passeri , ma non i maiali .",1
+4822,"Amo i criceti , ma non i passeri .",1
+4821,"Amo i passeri , ma non i criceti .",1
+4820,"Amo gli uccelli , ma non i passeri .",1
+4819,"Amo i passeri , ma non gli uccelli .",0
+4818,"Amo i gatti , ma non i passeri .",1
+4817,"Amo i passeri , ma non i gatti .",1
+4816,"Amo i cani , ma non i merli .",1
+4815,"Amo i merli , ma non i cani .",1
+4814,"Amo i maiali , ma non i merli .",1
+4813,"Amo i merli , ma non i maiali .",1
+4812,"Amo i criceti , ma non i merli .",1
+4811,"Amo i merli , ma non i criceti .",1
+4810,"Amo gli uccelli , ma non i merli .",1
+4809,"Amo i merli , ma non gli uccelli .",0
+4808,"Amo i gatti , ma non i merli .",1
+4807,"Amo i merli , ma non i gatti .",1
+4806,"Amo i cani , ma non le anatre .",1
+4805,"Amo le anatre , ma non i cani .",1
+4804,"Amo i maiali , ma non le anatre .",1
+4803,"Amo le anatre , ma non i maiali .",1
+4802,"Amo i criceti , ma non le anatre .",1
+4801,"Amo le anatre , ma non i criceti .",1
+4800,"Amo gli uccelli , ma non le anatre .",1
+4799,"Amo le anatre , ma non gli uccelli .",0
+4798,"Amo i gatti , ma non le anatre .",1
+4797,"Amo le anatre , ma non i gatti .",1
+4796,"Amo gli uccelli , ma non i cani .",1
+4795,"Amo i pappagalli , ma non i cani .",1
+4794,"Amo gli uccelli , ma non i maiali .",1
+4793,"Amo i maiali , ma non i pappagalli .",1
+4792,"Amo i pappagalli , ma non i maiali .",1
+4791,"Amo gli uccelli , ma non i criceti .",1
+4790,"Amo i criceti , ma non i pappagalli .",1
+4789,"Amo i pappagalli , ma non i criceti .",1
+4788,"Amo gli uccelli , ma non i gatti .",1
+4787,"Amo gli uccelli , ma non i pappagalli .",1
+4786,"Amo i pappagalli , ma non gli uccelli .",0
+4785,"Amo i gatti , ma non i pappagalli .",1
+4784,"Amo i pappagalli , ma non i gatti .",1
+4783,"Amo i conigli , ma non i bassotti .",1
+4782,"Amo i bassotti , ma non i conigli .",1
+4781,"Amo i pappagalli , ma non i bassotti .",1
+4780,"Amo i bassotti , ma non i pappagalli .",1
+4779,"Amo i criceti , ma non i bassotti .",1
+4778,"Amo i bassotti , ma non i criceti .",1
+4777,"Amo i cani , ma non i bassotti .",1
+4776,"Amo i bassotti , ma non i cani .",0
+4775,"Amo i gatti , ma non i bassotti .",1
+4774,"Amo i bassotti , ma non i gatti .",1
+4773,"Amo i conigli , ma non i bulldog .",1
+4772,"Amo i bulldog , ma non i conigli .",1
+4771,"Amo i pappagalli , ma non i bulldog .",1
+4770,"Amo i bulldog , ma non i pappagalli .",1
+4769,"Amo i criceti , ma non i bulldog .",1
+4768,"Amo i bulldog , ma non i criceti .",1
+4767,"Amo i cani , ma non i bulldog .",1
+4766,"Amo i bulldog , ma non i cani .",0
+4765,"Amo i gatti , ma non i bulldog .",1
+4764,"Amo i bulldog , ma non i gatti .",1
+4762,"Amo i conigli , ma non i bobtail .",1
+4761,"Amo i bobtail , ma non i conigli .",1
+4760,"Amo i pappagalli , ma non i bobtail .",1
+4759,"Amo i bobtail , ma non i pappagalli .",1
+4758,"Amo i criceti , ma non i bobtail .",1
+4757,"Amo i bobtail , ma non i criceti .",1
+4756,"Amo i cani , ma non i bobtail .",1
+4755,"Amo i bobtail , ma non i cani .",0
+4754,"Amo i gatti , ma non i bobtail .",1
+4753,"Amo i bobtail , ma non i gatti .",1
+4752,"Amo i cani , ma non i conigli .",1
+4751,"Amo i conigli , ma non gli husky .",1
+4750,"Amo gli husky , ma non i conigli .",1
+4749,"Amo i cani , ma non i pappagalli .",1
+4748,"Amo i pappagalli , ma non gli husky .",1
+4747,"Amo gli husky , ma non i pappagalli .",1
+4746,"Amo i cani , ma non i criceti .",1
+4745,"Amo i criceti , ma non gli husky .",1
+4744,"Amo gli husky , ma non i criceti .",1
+4743,"Amo i cani , ma non i gatti .",1
+4742,"Amo i cani , ma non gli husky .",1
+4741,"Amo gli husky , ma non i cani .",0
+4740,"Amo i gatti , ma non gli husky .",1
+4739,"Amo gli husky , ma non i gatti .",1
+700,"Ho incontrato i portieri , e più specificamente i fisici .",0
+699,"Ho incontrato i fisici , e più specificamente i portieri .",0
+698,"Ho incontrato i guardiani , e più specificamente i fisici .",0
+697,"Ho incontrato i fisici , e più specificamente i guardiani .",0
+696,"Ho incontrato i camerieri , e più specificamente i fisici .",0
+695,"Ho incontrato i fisici , e più specificamente i camerieri .",0
+694,"Ho incontrato gli scienziati , e più specificamente i fisici .",1
+693,"Ho incontrato i fisici , e più specificamente gli scienziati .",0
+692,"Ho incontrato gli impiegati , e più specificamente i fisici .",0
+691,"Ho incontrato i fisici , e più specificamente gli impiegati .",0
+690,"Ho incontrato i portieri , e più specificamente gli astronomi .",0
+689,"Ho incontrato gli astronomi , e più specificamente i portieri .",0
+688,"Ho incontrato i guardiani , e più specificamente gli astronomi .",0
+687,"Ho incontrato gli astronomi , e più specificamente i guardiani .",0
+686,"Ho incontrato i camerieri , e più specificamente gli astronomi .",0
+685,"Ho incontrato gli astronomi , e più specificamente i camerieri .",0
+684,"Ho incontrato gli scienziati , e più specificamente gli astronomi .",1
+683,"Ho incontrato gli astronomi , e più specificamente gli scienziati .",0
+682,"Ho incontrato gli impiegati , e più specificamente gli astronomi .",0
+681,"Ho incontrato gli astronomi , e più specificamente gli impiegati .",0
+680,"Ho incontrato i portieri , e più specificamente i genetisti .",0
+679,"Ho incontrato i genetisti , e più specificamente i portieri .",0
+678,"Ho incontrato i guardiani , e più specificamente i genetisti .",0
+677,"Ho incontrato i genetisti , e più specificamente i guardiani .",0
+676,"Ho incontrato i camerieri , e più specificamente i genetisti .",0
+675,"Ho incontrato i genetisti , e più specificamente i camerieri .",0
+674,"Ho incontrato gli scienziati , e più specificamente i genetisti .",1
+673,"Ho incontrato i genetisti , e più specificamente gli scienziati .",0
+672,"Ho incontrato gli impiegati , e più specificamente i genetisti .",0
+671,"Ho incontrato i genetisti , e più specificamente gli impiegati .",0
+670,"Ho incontrato gli scienziati , e più specificamente i portieri .",0
+669,"Ho incontrato i portieri , e più specificamente i biologi .",0
+668,"Ho incontrato i biologi , e più specificamente i portieri .",0
+667,"Ho incontrato gli scienziati , e più specificamente i guardiani .",0
+666,"Ho incontrato i guardiani , e più specificamente i biologi .",0
+665,"Ho incontrato i biologi , e più specificamente i guardiani .",0
+664,"Ho incontrato gli scienziati , e più specificamente i camerieri .",0
+663,"Ho incontrato i camerieri , e più specificamente i biologi .",0
+662,"Ho incontrato i biologi , e più specificamente i camerieri .",0
+661,"Ho incontrato gli scienziati , e più specificamente gli impiegati .",0
+660,"Ho incontrato gli scienziati , e più specificamente i biologi .",1
+659,"Ho incontrato i biologi , e più specificamente gli scienziati .",0
+658,"Ho incontrato gli impiegati , e più specificamente i biologi .",0
+657,"Ho incontrato i biologi , e più specificamente gli impiegati .",0
+656,"Ho incontrato gli uffici , e più specificamente i professori .",0
+655,"Ho incontrato i professori , e più specificamente gli uffici .",0
+654,"Ho incontrato le scuole , e più specificamente i professori .",0
+653,"Ho incontrato i professori , e più specificamente le scuole .",0
+652,"Ho incontrato i ristoranti , e più specificamente i professori .",0
+651,"Ho incontrato i professori , e più specificamente i ristoranti .",0
+650,"Ho incontrato i lavoratori , e più specificamente i professori .",1
+649,"Ho incontrato i professori , e più specificamente i lavoratori .",0
+648,"Ho incontrato le fabbriche , e più specificamente i professori .",0
+647,"Ho incontrato i professori , e più specificamente le fabbriche .",0
+646,"Ho incontrato gli uffici , e più specificamente i guardiani .",0
+645,"Ho incontrato i guardiani , e più specificamente gli uffici .",0
+644,"Ho incontrato le scuole , e più specificamente i guardiani .",0
+643,"Ho incontrato i guardiani , e più specificamente le scuole .",0
+642,"Ho incontrato i ristoranti , e più specificamente i guardiani .",0
+641,"Ho incontrato i guardiani , e più specificamente i ristoranti .",0
+640,"Ho incontrato i lavoratori , e più specificamente i guardiani .",1
+639,"Ho incontrato i guardiani , e più specificamente i lavoratori .",0
+638,"Ho incontrato le fabbriche , e più specificamente i guardiani .",0
+637,"Ho incontrato i guardiani , e più specificamente le fabbriche .",0
+634,"Ho incontrato gli uffici , e più specificamente i camerieri .",0
+633,"Ho incontrato i camerieri , e più specificamente gli uffici .",0
+632,"Ho incontrato le scuole , e più specificamente i camerieri .",0
+631,"Ho incontrato i camerieri , e più specificamente le scuole .",0
+630,"Ho incontrato i ristoranti , e più specificamente i camerieri .",0
+629,"Ho incontrato i camerieri , e più specificamente i ristoranti .",0
+628,"Ho incontrato i lavoratori , e più specificamente i camerieri .",1
+627,"Ho incontrato i camerieri , e più specificamente i lavoratori .",0
+626,"Ho incontrato le fabbriche , e più specificamente i camerieri .",0
+625,"Ho incontrato i camerieri , e più specificamente le fabbriche .",0
+623,"Ho incontrato i lavoratori , e più specificamente gli uffici .",0
+621,"Ho incontrato gli uffici , e più specificamente gli impiegati .",0
+620,"Ho incontrato gli impiegati , e più specificamente gli uffici .",0
+619,"Ho incontrato i lavoratori , e più specificamente le scuole .",0
+618,"Ho incontrato le scuole , e più specificamente gli impiegati .",0
+617,"Ho incontrato gli impiegati , e più specificamente le scuole .",0
+616,"Ho incontrato i lavoratori , e più specificamente i ristoranti .",0
+615,"Ho incontrato i ristoranti , e più specificamente gli impiegati .",0
+614,"Ho incontrato gli impiegati , e più specificamente i ristoranti .",0
+613,"Ho incontrato i lavoratori , e più specificamente le fabbriche .",0
+612,"Ho incontrato i lavoratori , e più specificamente gli impiegati .",1
+611,"Ho incontrato gli impiegati , e più specificamente i lavoratori .",0
+610,"Ho incontrato le fabbriche , e più specificamente gli impiegati .",0
+609,"Ho incontrato gli impiegati , e più specificamente le fabbriche .",0
+606,"Amo i dipinti , e più specificamente i manuali .",0
+605,"Amo i manuali , e più specificamente i dipinti .",0
+604,"Amo i cartoni animati , e più specificamente i manuali .",0
+603,"Amo i manuali , e più specificamente i cartoni animati .",0
+601,"Amo il cinema , e più specificamente i manuali .",0
+600,"Amo i manuali , e più specificamente il cinema .",0
+599,"Amo i libri , e più specificamente i manuali .",1
+598,"Amo i manuali , e più specificamente i libri .",0
+597,"Amo la musica , e più specificamente i manuali .",0
+596,"Amo i manuali , e più specificamente la musica .",0
+593,"Amo i dipinti , e più specificamente i romanzi .",0
+592,"Amo i romanzi , e più specificamente i dipinti .",0
+591,"Amo i cartoni animati , e più specificamente i romanzi .",0
+590,"Amo i romanzi , e più specificamente i cartoni animati .",0
+588,"Amo il cinema , e più specificamente i romanzi .",0
+587,"Amo i romanzi , e più specificamente il cinema .",0
+586,"Amo i libri , e più specificamente i romanzi .",1
+585,"Amo i romanzi , e più specificamente i libri .",0
+584,"Amo la musica , e più specificamente i romanzi .",0
+583,"Amo i romanzi , e più specificamente la musica .",0
+580,"Amo i dipinti , e più specificamente i saggi .",0
+579,"Amo i saggi , e più specificamente i dipinti .",0
+578,"Amo i cartoni animati , e più specificamente i saggi .",0
+577,"Amo i saggi , e più specificamente i cartoni animati .",0
+576,"Amo il cinema , e più specificamente i saggi .",0
+575,"Amo i saggi , e più specificamente il cinema .",0
+574,"Amo i libri , e più specificamente i saggi .",1
+573,"Amo i saggi , e più specificamente i libri .",0
+572,"Amo la musica , e più specificamente i saggi .",0
+571,"Amo i saggi , e più specificamente la musica .",0
+570,"Amo i libri , e più specificamente i dipinti .",0
+569,"Amo i dipinti , e più specificamente i sussidiari .",0
+568,"Amo i sussidiari , e più specificamente i dipinti .",0
+567,"Amo i libri , e più specificamente i cartoni animati .",0
+566,"Amo i cartoni animati , e più specificamente i sussidiari .",0
+565,"Amo i sussidiari , e più specificamente i cartoni animati .",0
+564,"Amo i libri , e più specificamente il cinema .",0
+563,"Amo il cinema , e più specificamente i sussidiari .",0
+562,"Amo i sussidiari , e più specificamente il cinema .",0
+561,"Amo i libri , e più specificamente la musica .",0
+560,"Amo i libri , e più specificamente i sussidiari .",1
+559,"Amo i sussidiari , e più specificamente i libri .",0
+558,"Amo la musica , e più specificamente i sussidiari .",0
+557,"Amo i sussidiari , e più specificamente la musica .",0
+556,"Posso capire i calcoli , e più specificamente la tristezza .",0
+555,"Posso capire la tristezza , e più specificamente i calcoli .",0
+554,"Posso capire la logica , e più specificamente la tristezza .",0
+553,"Posso capire la tristezza , e più specificamente la logica .",0
+552,"Posso capire la stupidità , e più specificamente la tristezza .",0
+551,"Posso capire la tristezza , e più specificamente la stupidità .",0
+550,"Posso capire le emozioni , e più specificamente la tristezza .",1
+549,"Posso capire la tristezza , e più specificamente le emozioni .",0
+548,"Posso capire la saggezza , e più specificamente la tristezza .",0
+547,"Posso capire la tristezza , e più specificamente la saggezza .",0
+546,"Posso capire i calcoli , e più specificamente l' amore .",0
+545,"Posso capire l' amore , e più specificamente i calcoli .",0
+544,"Posso capire la logica , e più specificamente l' amore .",0
+543,"Posso capire l' amore , e più specificamente la logica .",0
+542,"Posso capire la stupidità , e più specificamente l' amore .",0
+541,"Posso capire l' amore , e più specificamente la stupidità .",0
+540,"Posso capire le emozioni , e più specificamente l' amore .",1
+539,"Posso capire l' amore , e più specificamente le emozioni .",0
+538,"Posso capire la saggezza , e più specificamente l' amore .",0
+537,"Posso capire l' amore , e più specificamente la saggezza .",0
+536,"Posso capire i calcoli , e più specificamente la paura .",0
+535,"Posso capire la paura , e più specificamente i calcoli .",0
+534,"Posso capire la logica , e più specificamente la paura .",0
+533,"Posso capire la paura , e più specificamente la logica .",0
+532,"Posso capire la stupidità , e più specificamente la paura .",0
+531,"Posso capire la paura , e più specificamente la stupidità .",0
+530,"Posso capire le emozioni , e più specificamente la paura .",1
+529,"Posso capire la paura , e più specificamente le emozioni .",0
+528,"Posso capire la saggezza , e più specificamente la paura .",0
+527,"Posso capire la paura , e più specificamente la saggezza .",0
+525,"Posso capire le emozioni , e più specificamente i calcoli .",0
+523,"Posso capire i calcoli , e più specificamente la gioia .",0
+522,"Posso capire la gioia , e più specificamente i calcoli .",0
+521,"Posso capire le emozioni , e più specificamente la logica .",0
+520,"Posso capire la logica , e più specificamente la gioia .",0
+519,"Posso capire la gioia , e più specificamente la logica .",0
+518,"Posso capire le emozioni , e più specificamente la stupidità .",0
+517,"Posso capire la stupidità , e più specificamente la gioia .",0
+516,"Posso capire la gioia , e più specificamente la stupidità .",0
+515,"Posso capire le emozioni , e più specificamente la saggezza .",0
+514,"Posso capire le emozioni , e più specificamente la gioia .",1
+513,"Posso capire la gioia , e più specificamente le emozioni .",0
+512,"Posso capire la saggezza , e più specificamente la gioia .",0
+511,"Posso capire la gioia , e più specificamente la saggezza .",0
+507,"Si fida delle congetture , e più specificamente del gusto .",0
+506,"Si fida del gusto , e più specificamente delle congetture .",0
+505,"Si fida delle ricostruzioni , e più specificamente del gusto .",0
+504,"Si fida del gusto , e più specificamente delle ricostruzioni .",0
+503,"Si fida dei notiziari , e più specificamente del gusto .",0
+502,"Si fida del gusto , e più specificamente dei notiziari .",0
+501,"Si fida dei sensi , e più specificamente del gusto .",1
+500,"Si fida del gusto , e più specificamente dei sensi .",0
+499,"Si fida delle dicerie , e più specificamente del gusto .",0
+498,"Si fida del gusto , e più specificamente delle dicerie .",0
+495,"Si fida delle congetture , e più specificamente del tatto .",0
+494,"Si fida del tatto , e più specificamente delle congetture .",0
+493,"Si fida delle ricostruzioni , e più specificamente del tatto .",0
+492,"Si fida del tatto , e più specificamente delle ricostruzioni .",0
+490,"Si fida dei notiziari , e più specificamente del tatto .",0
+489,"Si fida del tatto , e più specificamente dei notiziari .",0
+488,"Si fida dei sensi , e più specificamente del tatto .",1
+487,"Si fida del tatto , e più specificamente dei sensi .",0
+486,"Si fida delle dicerie , e più specificamente del tatto .",0
+485,"Si fida del tatto , e più specificamente delle dicerie .",0
+483,"Si fida delle congetture , e più specificamente dell' udito .",0
+482,"Si fida dell' udito , e più specificamente delle congetture .",0
+481,"Si fida delle ricostruzioni , e più specificamente dell' udito .",0
+480,"Si fida dell' udito , e più specificamente delle ricostruzioni .",0
+478,"Si fida dei notiziari , e più specificamente dell' udito .",0
+477,"Si fida dell' udito , e più specificamente dei notiziari .",0
+476,"Si fida dei sensi , e più specificamente dell' udito .",1
+475,"Si fida dell' udito , e più specificamente dei sensi .",0
+474,"Si fida delle dicerie , e più specificamente dell' udito .",0
+473,"Si fida dell' udito , e più specificamente delle dicerie .",0
+470,"Si fida dei sensi , e più specificamente delle congetture .",0
+468,"Si fida delle congetture , e più specificamente della vista .",0
+467,"Si fida della vista , e più specificamente delle congetture .",0
+466,"Si fida dei sensi , e più specificamente delle ricostruzioni .",0
+465,"Si fida delle ricostruzioni , e più specificamente della vista .",0
+464,"Si fida della vista , e più specificamente delle ricostruzioni .",0
+463,"Si fida dei sensi , e più specificamente dei notiziari .",0
+461,"Si fida dei notiziari , e più specificamente della vista .",0
+460,"Si fida della vista , e più specificamente dei notiziari .",0
+459,"Si fida dei sensi , e più specificamente delle dicerie .",0
+458,"Si fida dei sensi , e più specificamente della vista .",1
+457,"Si fida della vista , e più specificamente dei sensi .",0
+456,"Si fida delle dicerie , e più specificamente della vista .",0
+455,"Si fida della vista , e più specificamente delle dicerie .",0
+450,"Amo le balene , e più specificamente i criceti .",0
+449,"Amo i criceti , e più specificamente le balene .",0
+448,"Amo le meduse , e più specificamente i criceti .",0
+447,"Amo i criceti , e più specificamente le meduse .",0
+446,"Amo gli orsi , e più specificamente i criceti .",0
+445,"Amo i criceti , e più specificamente gli orsi .",0
+444,"Amo gli animali domestici , e più specificamente i criceti .",1
+443,"Amo i criceti , e più specificamente gli animali domestici .",0
+442,"Amo le giraffe , e più specificamente i criceti .",0
+441,"Amo i criceti , e più specificamente le giraffe .",0
+440,"Amo le balene , e più specificamente i conigli .",0
+439,"Amo i conigli , e più specificamente le balene .",0
+438,"Amo le meduse , e più specificamente i conigli .",0
+437,"Amo i conigli , e più specificamente le meduse .",0
+436,"Amo gli orsi , e più specificamente i conigli .",0
+435,"Amo i conigli , e più specificamente gli orsi .",0
+434,"Amo gli animali domestici , e più specificamente i conigli .",1
+433,"Amo i conigli , e più specificamente gli animali domestici .",0
+432,"Amo le giraffe , e più specificamente i conigli .",0
+431,"Amo i conigli , e più specificamente le giraffe .",0
+429,"Amo le balene , e più specificamente i cani .",0
+428,"Amo i cani , e più specificamente le balene .",0
+427,"Amo le meduse , e più specificamente i cani .",0
+426,"Amo i cani , e più specificamente le meduse .",0
+425,"Amo gli orsi , e più specificamente i cani .",0
+424,"Amo i cani , e più specificamente gli orsi .",0
+423,"Amo gli animali domestici , e più specificamente i cani .",1
+422,"Amo i cani , e più specificamente gli animali domestici .",0
+421,"Amo le giraffe , e più specificamente i cani .",0
+420,"Amo i cani , e più specificamente le giraffe .",0
+419,"Amo gli animali domestici , e più specificamente le balene .",0
+418,"Amo le balene , e più specificamente i gatti .",0
+417,"Amo i gatti , e più specificamente le balene .",0
+416,"Amo gli animali domestici , e più specificamente le meduse .",0
+415,"Amo le meduse , e più specificamente i gatti .",0
+414,"Amo i gatti , e più specificamente le meduse .",0
+413,"Amo gli animali domestici , e più specificamente gli orsi .",0
+412,"Amo gli orsi , e più specificamente i gatti .",0
+411,"Amo i gatti , e più specificamente gli orsi .",0
+410,"Amo gli animali domestici , e più specificamente le giraffe .",0
+409,"Amo gli animali domestici , e più specificamente i gatti .",1
+408,"Amo i gatti , e più specificamente gli animali domestici .",0
+407,"Amo le giraffe , e più specificamente i gatti .",0
+406,"Amo i gatti , e più specificamente le giraffe .",0
+405,"Amo le scarpe , e più specificamente gli anelli .",0
+404,"Amo gli anelli , e più specificamente le scarpe .",0
+403,"Amo gli occhiali , e più specificamente gli anelli .",0
+402,"Amo gli anelli , e più specificamente gli occhiali .",0
+401,"Amo le sciarpe , e più specificamente gli anelli .",0
+400,"Amo gli anelli , e più specificamente le sciarpe .",0
+399,"Amo i gioielli , e più specificamente gli anelli .",1
+398,"Amo gli anelli , e più specificamente i gioielli .",0
+397,"Amo le borsette , e più specificamente gli anelli .",0
+396,"Amo gli anelli , e più specificamente le borsette .",0
+394,"Amo le scarpe , e più specificamente gli orecchini .",0
+393,"Amo gli orecchini , e più specificamente le scarpe .",0
+392,"Amo gli occhiali , e più specificamente gli orecchini .",0
+391,"Amo gli orecchini , e più specificamente gli occhiali .",0
+390,"Amo le sciarpe , e più specificamente gli orecchini .",0
+389,"Amo gli orecchini , e più specificamente le sciarpe .",0
+388,"Amo i gioielli , e più specificamente gli orecchini .",1
+387,"Amo gli orecchini , e più specificamente i gioielli .",0
+386,"Amo le borsette , e più specificamente gli orecchini .",0
+385,"Amo gli orecchini , e più specificamente le borsette .",0
+384,"Amo le scarpe , e più specificamente le collane .",0
+383,"Amo le collane , e più specificamente le scarpe .",0
+382,"Amo gli occhiali , e più specificamente le collane .",0
+381,"Amo le collane , e più specificamente gli occhiali .",0
+380,"Amo le sciarpe , e più specificamente le collane .",0
+379,"Amo le collane , e più specificamente le sciarpe .",0
+378,"Amo i gioielli , e più specificamente le collane .",1
+377,"Amo le collane , e più specificamente i gioielli .",0
+376,"Amo le borsette , e più specificamente le collane .",0
+375,"Amo le collane , e più specificamente le borsette .",0
+374,"Amo i gioielli , e più specificamente le scarpe .",0
+372,"Amo le scarpe , e più specificamente i braccialetti .",0
+371,"Amo i braccialetti , e più specificamente le scarpe .",0
+370,"Amo i gioielli , e più specificamente gli occhiali .",0
+369,"Amo gli occhiali , e più specificamente i braccialetti .",0
+368,"Amo i braccialetti , e più specificamente gli occhiali .",0
+367,"Amo i gioielli , e più specificamente le sciarpe .",0
+366,"Amo le sciarpe , e più specificamente i braccialetti .",0
+365,"Amo i braccialetti , e più specificamente le sciarpe .",0
+364,"Amo i gioielli , e più specificamente le borsette .",0
+363,"Amo i gioielli , e più specificamente i braccialetti .",1
+362,"Amo i braccialetti , e più specificamente i gioielli .",0
+361,"Amo le borsette , e più specificamente i braccialetti .",0
+360,"Amo i braccialetti , e più specificamente le borsette .",0
+359,"Amo i videogiochi , e più specificamente i documentari .",0
+358,"Amo i documentari , e più specificamente i videogiochi .",0
+357,"Amo i giochi da tavolo , e più specificamente i documentari .",0
+356,"Amo i documentari , e più specificamente i giochi da tavolo .",0
+355,"Amo i sussidiari , e più specificamente i documentari .",0
+354,"Amo i documentari , e più specificamente i sussidiari .",0
+353,"Amo i film , e più specificamente i documentari .",1
+352,"Amo i documentari , e più specificamente i film .",0
+351,"Amo i saggi , e più specificamente i documentari .",0
+350,"Amo i documentari , e più specificamente i saggi .",0
+349,"Amo i videogiochi , e più specificamente le commedie .",0
+348,"Amo le commedie , e più specificamente i videogiochi .",0
+347,"Amo i giochi da tavolo , e più specificamente le commedie .",0
+346,"Amo le commedie , e più specificamente i giochi da tavolo .",0
+345,"Amo i sussidiari , e più specificamente le commedie .",0
+344,"Amo le commedie , e più specificamente i sussidiari .",0
+343,"Amo i film , e più specificamente le commedie .",1
+342,"Amo le commedie , e più specificamente i film .",0
+341,"Amo i saggi , e più specificamente le commedie .",0
+340,"Amo le commedie , e più specificamente i saggi .",0
+339,"Amo i videogiochi , e più specificamente i western .",0
+338,"Amo i western , e più specificamente i videogiochi .",0
+337,"Amo i giochi da tavolo , e più specificamente i western .",0
+336,"Amo i western , e più specificamente i giochi da tavolo .",0
+335,"Amo i sussidiari , e più specificamente i western .",0
+334,"Amo i western , e più specificamente i sussidiari .",0
+333,"Amo i film , e più specificamente i western .",1
+332,"Amo i western , e più specificamente i film .",0
+331,"Amo i saggi , e più specificamente i western .",0
+330,"Amo i western , e più specificamente i saggi .",0
+329,"Amo i film , e più specificamente i videogiochi .",0
+328,"Amo i videogiochi , e più specificamente i thriller .",0
+327,"Amo i thriller , e più specificamente i videogiochi .",0
+326,"Amo i film , e più specificamente i giochi da tavolo .",0
+325,"Amo i giochi da tavolo , e più specificamente i thriller .",0
+324,"Amo i thriller , e più specificamente i giochi da tavolo .",0
+323,"Amo i film , e più specificamente i sussidiari .",0
+322,"Amo i sussidiari , e più specificamente i thriller .",0
+321,"Amo i thriller , e più specificamente i sussidiari .",0
+320,"Amo i film , e più specificamente i saggi .",0
+319,"Amo i film , e più specificamente i thriller .",1
+318,"Amo i thriller , e più specificamente i film .",0
+317,"Amo i saggi , e più specificamente i thriller .",0
+316,"Amo i thriller , e più specificamente i saggi .",0
+314,"Adoro il manzo , e più specificamente il caviale .",0
+313,"Adoro il caviale , e più specificamente il manzo .",0
+312,"Adoro il tacchino , e più specificamente il caviale .",0
+311,"Adoro il caviale , e più specificamente il tacchino .",0
+310,"Adoro il vitello , e più specificamente il caviale .",0
+309,"Adoro il caviale , e più specificamente il vitello .",0
+308,"Adoro i prodotti del mare , e più specificamente il caviale .",1
+307,"Adoro il caviale , e più specificamente i prodotti del mare .",0
+306,"Adoro il pollo , e più specificamente il caviale .",0
+305,"Adoro il caviale , e più specificamente il pollo .",0
+304,"Adoro il manzo , e più specificamente le ostriche .",0
+303,"Adoro le ostriche , e più specificamente il manzo .",0
+302,"Adoro il tacchino , e più specificamente le ostriche .",0
+301,"Adoro le ostriche , e più specificamente il tacchino .",0
+300,"Adoro il vitello , e più specificamente le ostriche .",0
+299,"Adoro le ostriche , e più specificamente il vitello .",0
+298,"Adoro i prodotti del mare , e più specificamente le ostriche .",1
+297,"Adoro le ostriche , e più specificamente i prodotti del mare .",0
+296,"Adoro il pollo , e più specificamente le ostriche .",0
+295,"Adoro le ostriche , e più specificamente il pollo .",0
+294,"Adoro il manzo , e più specificamente i granchi .",0
+293,"Adoro i granchi , e più specificamente il manzo .",0
+292,"Adoro il tacchino , e più specificamente i granchi .",0
+291,"Adoro i granchi , e più specificamente il tacchino .",0
+290,"Adoro il vitello , e più specificamente i granchi .",0
+289,"Adoro i granchi , e più specificamente il vitello .",0
+288,"Adoro i prodotti del mare , e più specificamente i granchi .",1
+287,"Adoro i granchi , e più specificamente i prodotti del mare .",0
+286,"Adoro il pollo , e più specificamente i granchi .",0
+285,"Adoro i granchi , e più specificamente il pollo .",0
+284,"Adoro i prodotti del mare , e più specificamente il manzo .",0
+283,"Adoro il manzo , e più specificamente il salmone .",0
+282,"Adoro il salmone , e più specificamente il manzo .",0
+281,"Adoro i prodotti del mare , e più specificamente il tacchino .",0
+280,"Adoro il tacchino , e più specificamente il salmone .",0
+279,"Adoro il salmone , e più specificamente il tacchino .",0
+278,"Adoro i prodotti del mare , e più specificamente il vitello .",0
+277,"Adoro il vitello , e più specificamente il salmone .",0
+276,"Adoro il salmone , e più specificamente il vitello .",0
+275,"Adoro i prodotti del mare , e più specificamente il pollo .",0
+274,"Adoro i prodotti del mare , e più specificamente il salmone .",1
+273,"Adoro il salmone , e più specificamente i prodotti del mare .",0
+272,"Adoro il pollo , e più specificamente il salmone .",0
+271,"Adoro il salmone , e più specificamente il pollo .",0
+270,"Adoro le carote , e più specificamente il lardo .",0
+269,"Adoro il lardo , e più specificamente le carote .",0
+268,"Adoro le mele , e più specificamente il lardo .",0
+267,"Adoro il lardo , e più specificamente le mele .",0
+266,"Adoro i broccoli , e più specificamente il lardo .",0
+265,"Adoro il lardo , e più specificamente i broccoli .",0
+264,"Adoro il maiale , e più specificamente il lardo .",1
+263,"Adoro il lardo , e più specificamente il maiale .",0
+262,"Adoro il pesce , e più specificamente il lardo .",0
+261,"Adoro il lardo , e più specificamente il pesce .",0
+260,"Adoro le carote , e più specificamente il bacon .",0
+259,"Adoro il bacon , e più specificamente le carote .",0
+258,"Adoro le mele , e più specificamente il bacon .",0
+257,"Adoro il bacon , e più specificamente le mele .",0
+256,"Adoro i broccoli , e più specificamente il bacon .",0
+255,"Adoro il bacon , e più specificamente i broccoli .",0
+254,"Adoro il maiale , e più specificamente il bacon .",1
+253,"Adoro il bacon , e più specificamente il maiale .",0
+252,"Adoro il pesce , e più specificamente il bacon .",0
+251,"Adoro il bacon , e più specificamente il pesce .",0
+250,"Adoro le carote , e più specificamente il prosciutto .",0
+249,"Adoro il prosciutto , e più specificamente le carote .",0
+248,"Adoro le mele , e più specificamente il prosciutto .",0
+247,"Adoro il prosciutto , e più specificamente le mele .",0
+246,"Adoro i broccoli , e più specificamente il prosciutto .",0
+245,"Adoro il prosciutto , e più specificamente i broccoli .",0
+244,"Adoro il maiale , e più specificamente il prosciutto .",1
+243,"Adoro il prosciutto , e più specificamente il maiale .",0
+242,"Adoro il pesce , e più specificamente il prosciutto .",0
+241,"Adoro il prosciutto , e più specificamente il pesce .",0
+240,"Adoro il maiale , e più specificamente le carote .",0
+239,"Adoro le carote , e più specificamente il prosciutto cotto .",0
+238,"Adoro il prosciutto cotto , e più specificamente le carote .",0
+237,"Adoro il maiale , e più specificamente le mele .",0
+236,"Adoro le mele , e più specificamente il prosciutto cotto .",0
+235,"Adoro il prosciutto cotto , e più specificamente le mele .",0
+234,"Adoro il maiale , e più specificamente i broccoli .",0
+233,"Adoro i broccoli , e più specificamente il prosciutto cotto .",0
+232,"Adoro il prosciutto cotto , e più specificamente i broccoli .",0
+231,"Adoro il maiale , e più specificamente il pesce .",0
+230,"Adoro il maiale , e più specificamente il prosciutto cotto .",1
+229,"Adoro il prosciutto cotto , e più specificamente il maiale .",0
+228,"Adoro il pesce , e più specificamente il prosciutto cotto .",0
+227,"Adoro il prosciutto cotto , e più specificamente il pesce .",0
+226,"Apprezzo i gioielli , e più specificamente il blues .",0
+225,"Apprezzo il blues , e più specificamente i gioielli .",0
+224,"Apprezzo il cibo , e più specificamente il blues .",0
+223,"Apprezzo il blues , e più specificamente il cibo .",0
+222,"Apprezzo i giochi da tavolo , e più specificamente il blues .",0
+221,"Apprezzo il blues , e più specificamente i giochi da tavolo .",0
+220,"Apprezzo la musica , e più specificamente il blues .",1
+219,"Apprezzo il blues , e più specificamente la musica .",0
+218,"Apprezzo gli sport , e più specificamente il blues .",0
+217,"Apprezzo il blues , e più specificamente gli sport .",0
+215,"Apprezzo i gioielli , e più specificamente la techno .",0
+214,"Apprezzo la techno , e più specificamente i gioielli .",0
+213,"Apprezzo il cibo , e più specificamente la techno .",0
+212,"Apprezzo la techno , e più specificamente il cibo .",0
+211,"Apprezzo i giochi da tavolo , e più specificamente la techno .",0
+210,"Apprezzo la techno , e più specificamente i giochi da tavolo .",0
+209,"Apprezzo la musica , e più specificamente la techno .",1
+208,"Apprezzo la techno , e più specificamente la musica .",0
+207,"Apprezzo gli sport , e più specificamente la techno .",0
+206,"Apprezzo la techno , e più specificamente gli sport .",0
+203,"Apprezzo i gioielli , e più specificamente il jazz .",0
+202,"Apprezzo il jazz , e più specificamente i gioielli .",0
+201,"Apprezzo il cibo , e più specificamente il jazz .",0
+200,"Apprezzo il jazz , e più specificamente il cibo .",0
+199,"Apprezzo i giochi da tavolo , e più specificamente il jazz .",0
+198,"Apprezzo il jazz , e più specificamente i giochi da tavolo .",0
+197,"Apprezzo la musica , e più specificamente il jazz .",1
+196,"Apprezzo il jazz , e più specificamente la musica .",0
+195,"Apprezzo gli sport , e più specificamente il jazz .",0
+194,"Apprezzo il jazz , e più specificamente gli sport .",0
+192,"Apprezzo la musica , e più specificamente i gioielli .",0
+190,"Apprezzo i gioielli , e più specificamente il rock .",0
+189,"Apprezzo il rock , e più specificamente i gioielli .",0
+188,"Apprezzo la musica , e più specificamente il cibo .",0
+187,"Apprezzo il cibo , e più specificamente il rock .",0
+186,"Apprezzo il rock , e più specificamente il cibo .",0
+185,"Apprezzo la musica , e più specificamente i giochi da tavolo .",0
+184,"Apprezzo i giochi da tavolo , e più specificamente il rock .",0
+183,"Apprezzo il rock , e più specificamente i giochi da tavolo .",0
+182,"Apprezzo la musica , e più specificamente gli sport .",0
+181,"Apprezzo la musica , e più specificamente il rock .",1
+180,"Apprezzo il rock , e più specificamente la musica .",0
+179,"Apprezzo gli sport , e più specificamente il rock .",0
+178,"Apprezzo il rock , e più specificamente gli sport .",0
+169,"Apprezzo la birra , e più specificamente il Primitivo .",0
+168,"Apprezzo il Primitivo , e più specificamente la birra .",0
+167,"Apprezzo la sprite , e più specificamente il Primitivo .",0
+166,"Apprezzo il Primitivo , e più specificamente la sprite .",0
+165,"Apprezzo l' acqua , e più specificamente il Primitivo .",0
+164,"Apprezzo il Primitivo , e più specificamente l' acqua .",0
+163,"Apprezzo il vino , e più specificamente il Primitivo .",1
+162,"Apprezzo il Primitivo , e più specificamente il vino .",0
+161,"Apprezzo la coca cola , e più specificamente il Primitivo .",0
+160,"Apprezzo il Primitivo , e più specificamente la coca cola .",0
+157,"Apprezzo la birra , e più specificamente il Chianti .",0
+156,"Apprezzo il Chianti , e più specificamente la birra .",0
+155,"Apprezzo la sprite , e più specificamente il Chianti .",0
+154,"Apprezzo il Chianti , e più specificamente la sprite .",0
+153,"Apprezzo l' acqua , e più specificamente il Chianti .",0
+152,"Apprezzo il Chianti , e più specificamente l' acqua .",0
+151,"Apprezzo il vino , e più specificamente il Chianti .",1
+150,"Apprezzo il Chianti , e più specificamente il vino .",0
+149,"Apprezzo la coca cola , e più specificamente il Chianti .",0
+148,"Apprezzo il Chianti , e più specificamente la coca cola .",0
+146,"Apprezzo la birra , e più specificamente lo Chardonnay .",0
+145,"Apprezzo lo Chardonnay , e più specificamente la birra .",0
+144,"Apprezzo la sprite , e più specificamente lo Chardonnay .",0
+143,"Apprezzo lo Chardonnay , e più specificamente la sprite .",0
+141,"Apprezzo l' acqua , e più specificamente lo Chardonnay .",0
+140,"Apprezzo lo Chardonnay , e più specificamente l' acqua .",0
+139,"Apprezzo il vino , e più specificamente lo Chardonnay .",1
+138,"Apprezzo lo Chardonnay , e più specificamente il vino .",0
+137,"Apprezzo la coca cola , e più specificamente lo Chardonnay .",0
+136,"Apprezzo lo Chardonnay , e più specificamente la coca cola .",0
+134,"Apprezzo il vino , e più specificamente la birra .",0
+132,"Apprezzo la birra , e più specificamente il Merlot .",0
+131,"Apprezzo il Merlot , e più specificamente la birra .",0
+130,"Apprezzo il vino , e più specificamente la sprite .",0
+129,"Apprezzo la sprite , e più specificamente il Merlot .",0
+128,"Apprezzo il Merlot , e più specificamente la sprite .",0
+127,"Apprezzo il vino , e più specificamente l' acqua .",0
+125,"Apprezzo l' acqua , e più specificamente il Merlot .",0
+124,"Apprezzo il Merlot , e più specificamente l' acqua .",0
+123,"Apprezzo il vino , e più specificamente la coca cola .",0
+122,"Apprezzo il vino , e più specificamente il Merlot .",1
+121,"Apprezzo il Merlot , e più specificamente il vino .",0
+120,"Apprezzo la coca cola , e più specificamente il Merlot .",0
+119,"Apprezzo il Merlot , e più specificamente la coca cola .",0
+117,"Apprezzo il parquet , e più specificamente i letti .",0
+116,"Apprezzo i letti , e più specificamente il parquet .",0
+115,"Apprezzo la carta da parati , e più specificamente i letti .",0
+114,"Apprezzo i letti , e più specificamente la carta da parati .",0
+113,"Apprezzo i dipinti , e più specificamente i letti .",0
+112,"Apprezzo i letti , e più specificamente i dipinti .",0
+111,"Apprezzo i mobili , e più specificamente i letti .",1
+110,"Apprezzo i letti , e più specificamente i mobili .",0
+109,"Apprezzo le posate , e più specificamente i letti .",0
+108,"Apprezzo i letti , e più specificamente le posate .",0
+107,"Apprezzo il parquet , e più specificamente i guardaroba .",0
+106,"Apprezzo i guardaroba , e più specificamente il parquet .",0
+105,"Apprezzo la carta da parati , e più specificamente i guardaroba .",0
+104,"Apprezzo i guardaroba , e più specificamente la carta da parati .",0
+103,"Apprezzo i dipinti , e più specificamente i guardaroba .",0
+102,"Apprezzo i guardaroba , e più specificamente i dipinti .",0
+101,"Apprezzo i mobili , e più specificamente i guardaroba .",1
+100,"Apprezzo i guardaroba , e più specificamente i mobili .",0
+99,"Apprezzo le posate , e più specificamente i guardaroba .",0
+98,"Apprezzo i guardaroba , e più specificamente le posate .",0
+97,"Apprezzo il parquet , e più specificamente i tavoli .",0
+96,"Apprezzo i tavoli , e più specificamente il parquet .",0
+95,"Apprezzo la carta da parati , e più specificamente i tavoli .",0
+94,"Apprezzo i tavoli , e più specificamente la carta da parati .",0
+93,"Apprezzo i dipinti , e più specificamente i tavoli .",0
+92,"Apprezzo i tavoli , e più specificamente i dipinti .",0
+91,"Apprezzo i mobili , e più specificamente i tavoli .",1
+90,"Apprezzo i tavoli , e più specificamente i mobili .",0
+89,"Apprezzo le posate , e più specificamente i tavoli .",0
+88,"Apprezzo i tavoli , e più specificamente le posate .",0
+87,"Apprezzo i mobili , e più specificamente il parquet .",0
+86,"Apprezzo il parquet , e più specificamente le sedie .",0
+85,"Apprezzo le sedie , e più specificamente il parquet .",0
+84,"Apprezzo i mobili , e più specificamente la carta da parati .",0
+83,"Apprezzo la carta da parati , e più specificamente le sedie .",0
+82,"Apprezzo le sedie , e più specificamente la carta da parati .",0
+81,"Apprezzo i mobili , e più specificamente i dipinti .",0
+80,"Apprezzo i dipinti , e più specificamente le sedie .",0
+79,"Apprezzo le sedie , e più specificamente i dipinti .",0
+78,"Apprezzo i mobili , e più specificamente le posate .",0
+77,"Apprezzo i mobili , e più specificamente le sedie .",1
+76,"Apprezzo le sedie , e più specificamente i mobili .",0
+75,"Apprezzo le posate , e più specificamente le sedie .",0
+74,"Apprezzo le sedie , e più specificamente le posate .",0
+73,"Uso il cuoio , e più specificamente il PVC .",0
+72,"Uso il PVC , e più specificamente il cuoio .",0
+71,"Uso il vetro , e più specificamente il PVC .",0
+70,"Uso il PVC , e più specificamente il vetro .",0
+69,"Uso il cotone , e più specificamente il PVC .",0
+68,"Uso il PVC , e più specificamente il cotone .",0
+67,"Uso la plastica , e più specificamente il PVC .",1
+66,"Uso il PVC , e più specificamente la plastica .",0
+65,"Uso il legno , e più specificamente il PVC .",0
+64,"Uso il PVC , e più specificamente il legno .",0
+63,"Uso il cuoio , e più specificamente il vinile .",0
+62,"Uso il vinile , e più specificamente il cuoio .",0
+61,"Uso il vetro , e più specificamente il vinile .",0
+60,"Uso il vinile , e più specificamente il vetro .",0
+59,"Uso il cotone , e più specificamente il vinile .",0
+58,"Uso il vinile , e più specificamente il cotone .",0
+57,"Uso la plastica , e più specificamente il vinile .",1
+56,"Uso il vinile , e più specificamente la plastica .",0
+55,"Uso il legno , e più specificamente il vinile .",0
+54,"Uso il vinile , e più specificamente il legno .",0
+51,"Uso il cuoio , e più specificamente il nylon .",0
+50,"Uso il nylon , e più specificamente il cuoio .",0
+49,"Uso il vetro , e più specificamente il nylon .",0
+48,"Uso il nylon , e più specificamente il vetro .",0
+47,"Uso il cotone , e più specificamente il nylon .",0
+46,"Uso il nylon , e più specificamente il cotone .",0
+45,"Uso la plastica , e più specificamente il nylon .",1
+44,"Uso il nylon , e più specificamente la plastica .",0
+43,"Uso il legno , e più specificamente il nylon .",0
+42,"Uso il nylon , e più specificamente il legno .",0
+40,"Uso la plastica , e più specificamente il cuoio .",0
+38,"Uso il cuoio , e più specificamente il poliestere .",0
+37,"Uso il poliestere , e più specificamente il cuoio .",0
+36,"Uso la plastica , e più specificamente il vetro .",0
+35,"Uso il vetro , e più specificamente il poliestere .",0
+34,"Uso il poliestere , e più specificamente il vetro .",0
+33,"Uso la plastica , e più specificamente il cotone .",0
+32,"Uso il cotone , e più specificamente il poliestere .",0
+31,"Uso il poliestere , e più specificamente il cotone .",0
+30,"Uso la plastica , e più specificamente il legno .",0
+29,"Uso la plastica , e più specificamente il poliestere .",1
+28,"Uso il poliestere , e più specificamente la plastica .",0
+27,"Uso il legno , e più specificamente il poliestere .",0
+26,"Uso il poliestere , e più specificamente il legno .",0
+24,"Amo gli arbusti , e più specificamente i pini .",0
+23,"Amo i pini , e più specificamente gli arbusti .",0
+22,"Amo i cespugli , e più specificamente i pini .",0
+21,"Amo i pini , e più specificamente i cespugli .",0
+19,"Amo gli animali , e più specificamente i pini .",0
+18,"Amo i pini , e più specificamente gli animali .",0
+17,"Amo gli alberi , e più specificamente i pini .",1
+16,"Amo i pini , e più specificamente gli alberi .",0
+15,"Amo l' erba , e più specificamente i pini .",0
+14,"Amo i pini , e più specificamente l' erba .",0
+11,"Amo gli arbusti , e più specificamente gli abeti .",0
+10,"Amo gli abeti , e più specificamente gli arbusti .",0
+9,"Amo i cespugli , e più specificamente gli abeti .",0
+8,"Amo gli abeti , e più specificamente i cespugli .",0
+6,"Amo gli animali , e più specificamente gli abeti .",0
+5,"Amo gli abeti , e più specificamente gli animali .",0
+4,"Amo gli alberi , e più specificamente gli abeti .",1
+3,"Amo gli abeti , e più specificamente gli alberi .",0
+2,"Amo l' erba , e più specificamente gli abeti .",0
+1,"Amo gli abeti , e più specificamente l' erba .",0

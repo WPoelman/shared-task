@@ -1,0 +1,1667 @@
+id,sentence,labels
+5836,"I like shrubs , and more specifically birches .",0
+5835,"I like birches , and more specifically shrubs .",0
+5834,"I like bushes , and more specifically birches .",0
+5833,"I like birches , and more specifically bushes .",0
+5832,"I like animals , and more specifically birches .",0
+5831,"I like birches , and more specifically animals .",0
+5830,"I like trees , and more specifically birches .",1
+5829,"I like birches , and more specifically trees .",0
+5828,"I like grass , and more specifically birches .",0
+5827,"I like birches , and more specifically grass .",0
+5826,"I like trees , and more specifically shrubs .",0
+5825,"I like shrubs , and more specifically oaks .",0
+5824,"I like oaks , and more specifically shrubs .",0
+5823,"I like trees , and more specifically bushes .",0
+5822,"I like bushes , and more specifically oaks .",0
+5821,"I like oaks , and more specifically bushes .",0
+5820,"I like trees , and more specifically animals .",0
+5819,"I like animals , and more specifically oaks .",0
+5818,"I like oaks , and more specifically animals .",0
+5817,"I like trees , and more specifically grass .",0
+5816,"I like trees , and more specifically oaks .",1
+5815,"I like oaks , and more specifically trees .",0
+5814,"I like grass , and more specifically oaks .",0
+5813,"I like oaks , and more specifically grass .",0
+5807,"I like earrings , and more specifically skirts .",0
+5806,"I like skirts , and more specifically earrings .",0
+5805,"I like glasses , and more specifically skirts .",0
+5804,"I like skirts , and more specifically glasses .",0
+5803,"I like jewelry , and more specifically skirts .",0
+5802,"I like skirts , and more specifically jewelry .",0
+5801,"I like clothes , and more specifically skirts .",1
+5800,"I like skirts , and more specifically clothes .",0
+5799,"I like pets , and more specifically skirts .",0
+5798,"I like skirts , and more specifically pets .",0
+5795,"I like earrings , and more specifically socks .",0
+5794,"I like socks , and more specifically earrings .",0
+5793,"I like glasses , and more specifically socks .",0
+5792,"I like socks , and more specifically glasses .",0
+5790,"I like jewelry , and more specifically socks .",0
+5789,"I like socks , and more specifically jewelry .",0
+5788,"I like clothes , and more specifically socks .",1
+5787,"I like socks , and more specifically clothes .",0
+5786,"I like pets , and more specifically socks .",0
+5785,"I like socks , and more specifically pets .",0
+5782,"I like earrings , and more specifically trousers .",0
+5781,"I like trousers , and more specifically earrings .",0
+5780,"I like glasses , and more specifically trousers .",0
+5779,"I like trousers , and more specifically glasses .",0
+5777,"I like jewelry , and more specifically trousers .",0
+5776,"I like trousers , and more specifically jewelry .",0
+5775,"I like clothes , and more specifically trousers .",1
+5774,"I like trousers , and more specifically clothes .",0
+5773,"I like pets , and more specifically trousers .",0
+5772,"I like trousers , and more specifically pets .",0
+5769,"I like clothes , and more specifically earrings .",0
+5767,"I like earrings , and more specifically shirts .",0
+5766,"I like shirts , and more specifically earrings .",0
+5765,"I like clothes , and more specifically glasses .",0
+5764,"I like glasses , and more specifically shirts .",0
+5763,"I like shirts , and more specifically glasses .",0
+5762,"I like clothes , and more specifically jewelry .",0
+5760,"I like jewelry , and more specifically shirts .",0
+5759,"I like shirts , and more specifically jewelry .",0
+5758,"I like clothes , and more specifically pets .",0
+5757,"I like clothes , and more specifically shirts .",1
+5756,"I like shirts , and more specifically clothes .",0
+5755,"I like pets , and more specifically shirts .",0
+5754,"I like shirts , and more specifically pets .",0
+5752,"I like planes , and more specifically Kawasakis .",0
+5751,"I like Kawasakis , and more specifically airplanes .",0
+5750,"I like trains , and more specifically Kawasakis .",0
+5749,"I like Kawasakis , and more specifically trains .",0
+5748,"I like bicycles , and more specifically Kawasakis .",0
+5747,"I like Kawasakis , and more specifically bicycles .",0
+5746,"I like motorcycles , and more specifically Kawasakis .",1
+5745,"I like Kawasakis , and more specifically motorcycles .",0
+5744,"I like ships , and more specifically Kawasakis .",0
+5743,"I like Kawasakis , and more specifically ships .",0
+5742,"I like planes , and more specifically enduros .",0
+5741,"I like enduros , and more specifically airplanes .",0
+5740,"I like trains , and more specifically enduros .",0
+5739,"I like enduros , and more specifically trains .",0
+5738,"I like bicycles , and more specifically enduros .",0
+5737,"I like enduros , and more specifically bicycles .",0
+5736,"I like motorcycles , and more specifically enduros .",1
+5735,"I like enduros , and more specifically motorcycles .",0
+5734,"I like ships , and more specifically enduros .",0
+5733,"I like enduros , and more specifically ships .",0
+5732,"I like planes , and more specifically Suzukis .",0
+5731,"I like Suzukis , and more specifically airplanes .",0
+5730,"I like trains , and more specifically Suzukis .",0
+5729,"I like Suzukis , and more specifically trains .",0
+5728,"I like bicycles , and more specifically Suzukis .",0
+5727,"I like Suzukis , and more specifically bicycles .",0
+5726,"I like motorcycles , and more specifically Suzukis .",1
+5725,"I like Suzukis , and more specifically motorcycles .",0
+5724,"I like ships , and more specifically Suzukis .",0
+5723,"I like Suzukis , and more specifically ships .",0
+5722,"I like motorcycles , and more specifically airplanes .",0
+5721,"I like planes , and more specifically Harley-Davidson .",0
+5720,"I like Harley-Davidson , and more specifically airplanes .",0
+5719,"I like motorcycles , and more specifically trains .",0
+5718,"I like trains , and more specifically Harley-Davidson .",0
+5717,"I like Harley-Davidson , and more specifically trains .",0
+5716,"I like motorcycles , and more specifically bicycles .",0
+5715,"I like bicycles , and more specifically Harley-Davidson .",0
+5714,"I like Harley-Davidson , and more specifically bicycles .",0
+5713,"I like motorcycles , and more specifically ships .",0
+5712,"I like motorcycles , and more specifically Harley-Davidson .",1
+5711,"I like Harley-Davidson , and more specifically motorcycles .",0
+5710,"I like ships , and more specifically Harley-Davidson .",0
+5709,"I like Harley-Davidson , and more specifically ships .",0
+5706,"I like dogs , and more specifically sparrows .",0
+5705,"I like sparrows , and more specifically dogs .",0
+5704,"I like pigs , and more specifically sparrows .",0
+5703,"I like sparrows , and more specifically pigs .",0
+5702,"I like hamsters , and more specifically sparrows .",0
+5701,"I like sparrows , and more specifically hamsters .",0
+5700,"I like birds , and more specifically sparrows .",1
+5699,"I like sparrows , and more specifically birds .",0
+5698,"I like cats , and more specifically sparrows .",0
+5697,"I like sparrows , and more specifically cats .",0
+5696,"I like dogs , and more specifically blackbirds .",0
+5695,"I like blackbirds , and more specifically dogs .",0
+5694,"I like pigs , and more specifically blackbirds .",0
+5693,"I like blackbirds , and more specifically pigs .",0
+5692,"I like hamsters , and more specifically blackbirds .",0
+5691,"I like blackbirds , and more specifically hamsters .",0
+5690,"I like birds , and more specifically blackbirds .",1
+5689,"I like blackbirds , and more specifically birds .",0
+5688,"I like cats , and more specifically blackbirds .",0
+5687,"I like blackbirds , and more specifically cats .",0
+5686,"I like dogs , and more specifically ducks .",0
+5685,"I like ducks , and more specifically dogs .",0
+5684,"I like pigs , and more specifically ducks .",0
+5683,"I like ducks , and more specifically pigs .",0
+5682,"I like hamsters , and more specifically ducks .",0
+5681,"I like ducks , and more specifically hamsters .",0
+5680,"I like birds , and more specifically ducks .",1
+5679,"I like ducks , and more specifically birds .",0
+5678,"I like cats , and more specifically ducks .",0
+5677,"I like ducks , and more specifically cats .",0
+5676,"I like birds , and more specifically dogs .",0
+5675,"I like parrots , and more specifically dogs .",0
+5674,"I like birds , and more specifically pigs .",0
+5673,"I like pigs , and more specifically parrots .",0
+5672,"I like parrots , and more specifically pigs .",0
+5671,"I like birds , and more specifically hamsters .",0
+5670,"I like hamsters , and more specifically parrots .",0
+5669,"I like parrots , and more specifically hamsters .",0
+5668,"I like birds , and more specifically cats .",0
+5667,"I like birds , and more specifically parrots .",1
+5666,"I like parrots , and more specifically birds .",0
+5665,"I like cats , and more specifically parrots .",0
+5664,"I like parrots , and more specifically cats .",0
+5662,"I like rabbits , and more specifically beagles .",0
+5661,"I like beagles , and more specifically rabbits .",0
+5660,"I like parrots , and more specifically beagles .",0
+5659,"I like beagles , and more specifically parrots .",0
+5658,"I like hamsters , and more specifically beagles .",0
+5657,"I like beagles , and more specifically hamsters .",0
+5656,"I like dogs , and more specifically beagles .",1
+5655,"I like beagles , and more specifically dogs .",0
+5654,"I like cats , and more specifically beagles .",0
+5653,"I like beagles , and more specifically cats .",0
+5652,"I like rabbits , and more specifically bulldogs .",0
+5651,"I like bulldogs , and more specifically rabbits .",0
+5650,"I like parrots , and more specifically bulldogs .",0
+5649,"I like bulldogs , and more specifically parrots .",0
+5648,"I like hamsters , and more specifically bulldogs .",0
+5647,"I like bulldogs , and more specifically hamsters .",0
+5646,"I like dogs , and more specifically bulldogs .",1
+5645,"I like bulldogs , and more specifically dogs .",0
+5644,"I like cats , and more specifically bulldogs .",0
+5643,"I like bulldogs , and more specifically cats .",0
+5642,"I like rabbits , and more specifically bobtails .",0
+5641,"I like bobtails , and more specifically rabbits .",0
+5640,"I like parrots , and more specifically bobtails .",0
+5639,"I like bobtails , and more specifically parrots .",0
+5638,"I like hamsters , and more specifically bobtails .",0
+5637,"I like bobtails , and more specifically hamsters .",0
+5636,"I like dogs , and more specifically bobtails .",1
+5635,"I like bobtails , and more specifically dogs .",0
+5634,"I like cats , and more specifically bobtails .",0
+5633,"I like bobtails , and more specifically cats .",0
+5631,"I like dogs , and more specifically rabbits .",0
+5630,"I like rabbits , and more specifically huskies .",0
+5629,"I like huskies , and more specifically rabbits .",0
+5628,"I like dogs , and more specifically parrots .",0
+5627,"I like parrots , and more specifically huskies .",0
+5626,"I like huskies , and more specifically parrots .",0
+5625,"I like dogs , and more specifically hamsters .",0
+5624,"I like hamsters , and more specifically huskies .",0
+5623,"I like huskies , and more specifically hamsters .",0
+5622,"I like dogs , and more specifically cats .",0
+5621,"I like dogs , and more specifically huskies .",1
+5620,"I like huskies , and more specifically dogs .",0
+5619,"I like cats , and more specifically huskies .",0
+5618,"I like huskies , and more specifically cats .",0
+5614,"I met janitors , but not physicists .",1
+5613,"I met physicists , but not janitors .",1
+5612,"I met caretakers , but not physicists .",1
+5611,"I met physicists , but not caretakers .",1
+5610,"I met waiters , but not physicists .",1
+5609,"I met physicists , but not waiters .",1
+5608,"I met scientists , but not physicists .",1
+5607,"I met physicists , but not scientists .",0
+5606,"I met clerks , but not physicists .",1
+5605,"I met physicists , but not clerks .",1
+5604,"I met janitors , but not astronomers .",1
+5603,"I met astronomers , but not janitors .",1
+5602,"I met caretakers , but not astronomers .",1
+5601,"I met astronomers , but not caretakers .",1
+5600,"I met waiters , but not astronomers .",1
+5599,"I met astronomers , but not waiters .",1
+5598,"I met scientists , but not astronomers .",1
+5597,"I met astronomers , but not scientists .",0
+5596,"I met clerks , but not astronomers .",1
+5595,"I met astronomers , but not clerks .",1
+5593,"I met janitors , but not geneticists .",1
+5592,"I met geneticists , but not janitors .",1
+5591,"I met caretakers , but not geneticists .",1
+5590,"I met geneticists , but not caretakers .",1
+5589,"I met waiters , but not geneticists .",1
+5588,"I met geneticists , but not waiters .",1
+5587,"I met scientists , but not geneticists .",1
+5586,"I met geneticists , but not scientists .",0
+5585,"I met clerks , but not geneticists .",1
+5584,"I met geneticists , but not clerks .",1
+5583,"I met scientists , but not janitors .",1
+5582,"I met janitors , but not biologists .",1
+5581,"I met biologists , but not janitors .",1
+5580,"I met scientists , but not caretakers .",1
+5579,"I met caretakers , but not biologists .",1
+5578,"I met biologists , but not caretakers .",1
+5577,"I met scientists , but not waiters .",1
+5576,"I met waiters , but not biologists .",1
+5575,"I met biologists , but not waiters .",1
+5574,"I met scientists , but not clerks .",1
+5573,"I met scientists , but not biologists .",1
+5572,"I met biologists , but not scientists .",0
+5571,"I met clerks , but not biologists .",1
+5570,"I met biologists , but not clerks .",1
+5569,"I like offices , but not professors .",1
+5568,"I like professors , but not offices .",1
+5567,"I like schools , but not professors .",1
+5566,"I like professors , but not schools .",1
+5565,"I like restaurants , but not professors .",1
+5564,"I like professors , but not restaurants .",1
+5563,"I like workers , but not professors .",1
+5562,"I like professors , but not workers .",0
+5561,"I like factories , but not professors .",1
+5560,"I like professors , but not factories .",1
+5559,"I like offices , but not caretakers .",1
+5558,"I like caretakers , but not offices .",1
+5557,"I like schools , but not caretakers .",1
+5556,"I like caretakers , but not schools .",1
+5555,"I like restaurants , but not caretakers .",1
+5554,"I like caretakers , but not restaurants .",1
+5553,"I like workers , but not caretakers .",1
+5552,"I like caretakers , but not workers .",0
+5551,"I like factories , but not caretakers .",1
+5550,"I like caretakers , but not factories .",1
+5549,"I like offices , but not waiters .",1
+5548,"I like waiters , but not offices .",1
+5547,"I like schools , but not waiters .",1
+5546,"I like waiters , but not schools .",1
+5545,"I like restaurants , but not waiters .",1
+5544,"I like waiters , but not restaurants .",1
+5543,"I like workers , but not waiters .",1
+5542,"I like waiters , but not workers .",0
+5541,"I like factories , but not waiters .",1
+5540,"I like waiters , but not factories .",1
+5539,"I like workers , but not offices .",1
+5538,"I like offices , but not clerks .",1
+5537,"I like clerks , but not offices .",1
+5536,"I like workers , but not schools .",1
+5535,"I like schools , but not clerks .",1
+5534,"I like clerks , but not schools .",1
+5533,"I like workers , but not restaurants .",1
+5532,"I like restaurants , but not clerks .",1
+5531,"I like clerks , but not restaurants .",1
+5530,"I like workers , but not factories .",1
+5529,"I like workers , but not clerks .",1
+5528,"I like clerks , but not workers .",0
+5527,"I like factories , but not clerks .",1
+5526,"I like clerks , but not factories .",1
+5525,"I like paintings , but not handbooks .",1
+5524,"I like handbooks , but not paintings .",1
+5523,"I like cartoons , but not handbooks .",1
+5522,"I like handbooks , but not cartoons .",1
+5521,"I like films , but not handbooks .",1
+5520,"I like handbooks , but not films .",1
+5519,"I like books , but not handbooks .",1
+5518,"I like handbooks , but not books .",0
+5517,"I like music , but not handbooks .",1
+5516,"I like handbooks , but not music .",1
+5515,"I like paintings , but not novels .",1
+5514,"I like novels , but not paintings .",1
+5513,"I like cartoons , but not novels .",1
+5512,"I like novels , but not cartoons .",1
+5511,"I like films , but not novels .",1
+5510,"I like novels , but not films .",1
+5509,"I like books , but not novels .",1
+5508,"I like novels , but not books .",0
+5507,"I like music , but not novels .",1
+5506,"I like novels , but not music .",1
+5505,"I like paintings , but not essays .",1
+5504,"I like essays , but not paintings .",1
+5503,"I like cartoons , but not essays .",1
+5502,"I like essays , but not cartoons .",1
+5501,"I like films , but not essays .",1
+5500,"I like essays , but not films .",1
+5499,"I like books , but not essays .",1
+5498,"I like essays , but not books .",0
+5497,"I like music , but not essays .",1
+5496,"I like essays , but not music .",1
+5495,"I like books , but not paintings .",1
+5494,"I like paintings , but not textbooks .",1
+5493,"I like textbooks , but not paintings .",1
+5492,"I like books , but not cartoons .",1
+5491,"I like cartoons , but not textbooks .",1
+5490,"I like textbooks , but not cartoons .",1
+5489,"I like books , but not films .",1
+5488,"I like films , but not textbooks .",1
+5487,"I like textbooks , but not films .",1
+5486,"I like books , but not music .",1
+5485,"I like books , but not textbooks .",1
+5484,"I like textbooks , but not books .",0
+5483,"I like music , but not textbooks .",1
+5482,"I like textbooks , but not music .",1
+5480,"He likes calculations , but not sadness .",1
+5479,"He likes sadness , but not calculations .",1
+5478,"He likes logic , but not sadness .",1
+5477,"He likes sadness , but not logic .",1
+5476,"He likes stupidity , but not sadness .",1
+5475,"He likes sadness , but not stupidity .",1
+5474,"He likes emotions , but not sadness .",1
+5473,"He likes sadness , but not emotions .",0
+5472,"He likes wisdom , but not sadness .",1
+5471,"He likes sadness , but not wisdom .",1
+5470,"He likes calculations , but not love .",1
+5469,"He likes love , but not calculations .",1
+5468,"He likes logic , but not love .",1
+5467,"He likes love , but not logic .",1
+5466,"He likes stupidity , but not love .",1
+5465,"He likes love , but not stupidity .",1
+5464,"He likes emotions , but not love .",1
+5463,"He likes love , but not emotions .",0
+5462,"He likes wisdom , but not love .",1
+5461,"He likes love , but not wisdom .",1
+5460,"He likes calculations , but not fear .",1
+5459,"He likes fear , but not calculations .",1
+5458,"He likes logic , but not fear .",1
+5457,"He likes fear , but not logic .",1
+5456,"He likes stupidity , but not fear .",1
+5455,"He likes fear , but not stupidity .",1
+5454,"He likes emotions , but not fear .",1
+5453,"He likes fear , but not emotions .",0
+5452,"He likes wisdom , but not fear .",1
+5451,"He likes fear , but not wisdom .",1
+5450,"He likes emotions , but not calculations .",1
+5449,"He likes calculations , but not joy .",1
+5448,"He likes joy , but not calculations .",1
+5447,"He likes emotions , but not logic .",1
+5446,"He likes logic , but not joy .",1
+5445,"He likes joy , but not logic .",1
+5444,"He likes emotions , but not stupidity .",1
+5443,"He likes stupidity , but not joy .",1
+5442,"He likes joy , but not stupidity .",1
+5441,"He likes emotions , but not wisdom .",1
+5440,"He likes emotions , but not joy .",1
+5439,"He likes joy , but not emotions .",0
+5438,"He likes wisdom , but not joy .",1
+5437,"He likes joy , but not wisdom .",1
+5436,"He trusts guesses , but not his taste .",1
+5435,"He trusts his taste , but not guesses .",1
+5434,"He trusts reconstructions , but not his taste .",1
+5433,"He trusts his taste , but not reconstructions .",1
+5432,"He trusts reports , but not his taste .",1
+5431,"He trusts his taste , but not reports .",1
+5430,"He trusts his senses , but not his taste .",1
+5429,"He trusts his taste , but not his senses .",0
+5428,"He trusts rumors , but not his taste .",1
+5427,"He trusts his taste , but not rumors .",1
+5426,"He trusts guesses , but not his touch .",1
+5425,"He trusts his touch , but not guesses .",1
+5424,"He trusts reconstructions , but not his touch .",1
+5423,"He trusts his touch , but not reconstructions .",1
+5422,"He trusts reports , but not his touch .",1
+5421,"He trusts his touch , but not reports .",1
+5420,"He trusts his senses , but not his touch .",1
+5419,"He trusts his touch , but not his senses .",0
+5418,"He trusts rumors , but not his touch .",1
+5417,"He trusts his touch , but not rumors .",1
+5416,"He trusts guesses , but not his hearing .",1
+5415,"He trusts his hearing , but not guesses .",1
+5414,"He trusts reconstructions , but not his hearing .",1
+5413,"He trusts his hearing , but not reconstructions .",1
+5412,"He trusts reports , but not his hearing .",1
+5411,"He trusts his hearing , but not reports .",1
+5410,"He trusts his senses , but not his hearing .",1
+5409,"He trusts his hearing , but not his senses .",0
+5408,"He trusts rumors , but not his hearing .",1
+5407,"He trusts his hearing , but not rumors .",1
+5406,"He trusts his senses , but not guesses .",1
+5405,"He trusts guesses , but not his sight .",1
+5404,"He trusts his sight , but not guesses .",1
+5403,"He trusts his senses , but not reconstructions .",1
+5402,"He trusts reconstructions , but not his sight .",1
+5401,"He trusts his sight , but not reconstructions .",1
+5400,"He trusts his senses , but not reports .",1
+5399,"He trusts reports , but not his sight .",1
+5398,"He trusts his sight , but not reports .",1
+5397,"He trusts his senses , but not rumors .",1
+5396,"He trusts his senses , but not his sight .",1
+5395,"He trusts his sight , but not his senses .",0
+5394,"He trusts rumors , but not his sight .",1
+5393,"He trusts his sight , but not rumors .",1
+5387,"I like whales , but not hamsters .",1
+5386,"I like hamsters , but not whales .",1
+5385,"I like jellyfish , but not hamsters .",1
+5384,"I like hamsters , but not jellyfish .",1
+5382,"I like bears , but not hamsters .",1
+5381,"I like hamsters , but not bears .",1
+5380,"I like pets , but not hamsters .",1
+5379,"I like hamsters , but not pets .",0
+5378,"I like giraffes , but not hamsters .",1
+5377,"I like hamsters , but not giraffes .",1
+5376,"I like whales , but not rabbits .",1
+5375,"I like rabbits , but not whales .",1
+5374,"I like jellyfish , but not rabbits .",1
+5373,"I like rabbits , but not jellyfish .",1
+5372,"I like bears , but not rabbits .",1
+5371,"I like rabbits , but not bears .",1
+5370,"I like pets , but not rabbits .",1
+5369,"I like rabbits , but not pets .",0
+5368,"I like giraffes , but not rabbits .",1
+5367,"I like rabbits , but not giraffes .",1
+5365,"I like whales , but not dogs .",1
+5364,"I like dogs , but not whales .",1
+5363,"I like jellyfish , but not dogs .",1
+5362,"I like dogs , but not jellyfish .",1
+5360,"I like bears , but not dogs .",1
+5359,"I like dogs , but not bears .",1
+5358,"I like pets , but not dogs .",1
+5357,"I like dogs , but not pets .",0
+5356,"I like giraffes , but not dogs .",1
+5355,"I like dogs , but not giraffes .",1
+5354,"I like pets , but not whales .",1
+5352,"I like whales , but not cats .",1
+5351,"I like cats , but not whales .",1
+5350,"I like pets , but not jellyfish .",1
+5349,"I like jellyfish , but not cats .",1
+5348,"I like cats , but not jellyfish .",1
+5347,"I like pets , but not bears .",1
+5346,"I like bears , but not cats .",1
+5345,"I like cats , but not bears .",1
+5344,"I like pets , but not giraffes .",1
+5343,"I like pets , but not cats .",1
+5342,"I like cats , but not pets .",0
+5341,"I like giraffes , but not cats .",1
+5340,"I like cats , but not giraffes .",1
+5339,"I like shoes , but not rings .",1
+5338,"I like rings , but not shoes .",1
+5337,"I like glasses , but not rings .",1
+5336,"I like rings , but not glasses .",1
+5335,"I like scarfs , but not rings .",1
+5334,"I like rings , but not scarfs .",1
+5333,"I like jewelry , but not rings .",1
+5332,"I like rings , but not jewelry .",0
+5331,"I like handbags , but not rings .",1
+5330,"I like rings , but not handbags .",1
+5329,"I like shoes , but not earrings .",1
+5328,"I like earrings , but not shoes .",1
+5327,"I like glasses , but not earrings .",1
+5326,"I like earrings , but not glasses .",1
+5325,"I like scarfs , but not earrings .",1
+5324,"I like earrings , but not scarfs .",1
+5323,"I like jewelry , but not earrings .",1
+5322,"I like earrings , but not jewelry .",0
+5321,"I like handbags , but not earrings .",1
+5320,"I like earrings , but not handbags .",1
+5319,"I like shoes , but not necklaces .",1
+5318,"I like necklaces , but not shoes .",1
+5317,"I like glasses , but not necklaces .",1
+5316,"I like necklaces , but not glasses .",1
+5315,"I like scarfs , but not necklaces .",1
+5314,"I like necklaces , but not scarfs .",1
+5313,"I like jewelry , but not necklaces .",1
+5312,"I like necklaces , but not jewelry .",0
+5311,"I like handbags , but not necklaces .",1
+5310,"I like necklaces , but not handbags .",1
+5309,"I like jewelry , but not shoes .",1
+5308,"I like shoes , but not bracelets .",1
+5307,"I like bracelets , but not shoes .",1
+5306,"I like jewelry , but not glasses .",1
+5305,"I like glasses , but not bracelets .",1
+5304,"I like bracelets , but not glasses .",1
+5303,"I like jewelry , but not scarfs .",1
+5302,"I like scarfs , but not bracelets .",1
+5301,"I like bracelets , but not scarfs .",1
+5300,"I like jewelry , but not handbags .",1
+5299,"I like jewelry , but not bracelets .",1
+5298,"I like bracelets , but not jewelry .",0
+5297,"I like handbags , but not bracelets .",1
+5296,"I like bracelets , but not handbags .",1
+5295,"I like videogames , but not documentaries .",1
+5294,"I like documentaries , but not videogames .",1
+5293,"I like boardgames , but not documentaries .",1
+5292,"I like documentaries , but not boardgames .",1
+5291,"I like textbooks , but not documentaries .",1
+5290,"I like documentaries , but not textbooks .",1
+5289,"I like movies , but not documentaries .",1
+5288,"I like documentaries , but not movies .",0
+5287,"I like essays , but not documentaries .",1
+5286,"I like documentaries , but not essays .",1
+5285,"I like videogames , but not comedies .",1
+5284,"I like comedies , but not videogames .",1
+5283,"I like boardgames , but not comedies .",1
+5282,"I like comedies , but not boardgames .",1
+5281,"I like textbooks , but not comedies .",1
+5280,"I like comedies , but not textbooks .",1
+5279,"I like movies , but not comedies .",1
+5278,"I like comedies , but not movies .",0
+5277,"I like essays , but not comedies .",1
+5276,"I like comedies , but not essays .",1
+5275,"I like videogames , but not westerns .",1
+5274,"I like westerns , but not videogames .",1
+5273,"I like boardgames , but not westerns .",1
+5272,"I like westerns , but not boardgames .",1
+5271,"I like textbooks , but not westerns .",1
+5270,"I like westerns , but not textbooks .",1
+5269,"I like movies , but not westerns .",1
+5268,"I like westerns , but not movies .",0
+5267,"I like essays , but not westerns .",1
+5266,"I like westerns , but not essays .",1
+5265,"I like movies , but not videogames .",1
+5264,"I like videogames , but not thrillers .",1
+5263,"I like thrillers , but not videogames .",1
+5262,"I like movies , but not boardgames .",1
+5261,"I like boardgames , but not thrillers .",1
+5260,"I like thrillers , but not boardgames .",1
+5259,"I like movies , but not textbooks .",1
+5258,"I like textbooks , but not thrillers .",1
+5257,"I like thrillers , but not textbooks .",1
+5256,"I like movies , but not essays .",1
+5255,"I like movies , but not thrillers .",1
+5254,"I like thrillers , but not movies .",0
+5253,"I like essays , but not thrillers .",1
+5252,"I like thrillers , but not essays .",1
+5249,"I like beef , but not caviar .",1
+5248,"I like caviar , but not beef .",1
+5247,"I like turkey , but not caviar .",1
+5246,"I like caviar , but not turkey .",1
+5245,"I like veal , but not caviar .",1
+5244,"I like caviar , but not veal .",1
+5243,"I like seafood , but not caviar .",1
+5242,"I like caviar , but not seafood .",0
+5241,"I like chicken , but not caviar .",1
+5240,"I like caviar , but not chicken .",1
+5239,"I like beef , but not oysters .",1
+5238,"I like oysters , but not beef .",1
+5237,"I like turkey , but not oysters .",1
+5236,"I like oysters , but not turkey .",1
+5234,"I like veal , but not oysters .",1
+5233,"I like oysters , but not veal .",1
+5232,"I like seafood , but not oysters .",1
+5231,"I like oysters , but not seafood .",0
+5230,"I like chicken , but not oysters .",1
+5229,"I like oysters , but not chicken .",1
+5227,"I like beef , but not crabs .",1
+5226,"I like crabs , but not beef .",1
+5225,"I like turkey , but not crabs .",1
+5224,"I like crabs , but not turkey .",1
+5223,"I like veal , but not crabs .",1
+5222,"I like crabs , but not veal .",1
+5221,"I like seafood , but not crabs .",1
+5220,"I like crabs , but not seafood .",0
+5219,"I like chicken , but not crabs .",1
+5218,"I like crabs , but not chicken .",1
+5217,"I like seafood , but not beef .",1
+5216,"I like beef , but not salmon .",1
+5215,"I like salmon , but not beef .",1
+5214,"I like seafood , but not turkey .",1
+5213,"I like turkey , but not salmon .",1
+5212,"I like salmon , but not turkey .",1
+5211,"I like seafood , but not veal .",1
+5210,"I like veal , but not salmon .",1
+5209,"I like salmon , but not veal .",1
+5208,"I like seafood , but not chicken .",1
+5207,"I like seafood , but not salmon .",1
+5206,"I like salmon , but not seafood .",0
+5205,"I like chicken , but not salmon .",1
+5204,"I like salmon , but not chicken .",1
+5198,"I like carrots , but not lard .",1
+5197,"I like lard , but not carrots .",1
+5196,"I like apples , but not lard .",1
+5195,"I like lard , but not apples .",1
+5194,"I like broccoli , but not lard .",1
+5193,"I like lard , but not broccoli .",1
+5192,"I like pork , but not lard .",1
+5191,"I like lard , but not pork .",0
+5190,"I like fish , but not lard .",1
+5189,"I like lard , but not fish .",1
+5188,"I like carrots , but not bacon .",1
+5187,"I like bacon , but not carrots .",1
+5186,"I like apples , but not bacon .",1
+5185,"I like bacon , but not apples .",1
+5184,"I like broccoli , but not bacon .",1
+5183,"I like bacon , but not broccoli .",1
+5182,"I like pork , but not bacon .",1
+5181,"I like bacon , but not pork .",0
+5180,"I like fish , but not bacon .",1
+5179,"I like bacon , but not fish .",1
+5178,"I like carrots , but not prosciutto .",1
+5177,"I like prosciutto , but not carrots .",1
+5176,"I like apples , but not prosciutto .",1
+5175,"I like prosciutto , but not apples .",1
+5174,"I like broccoli , but not prosciutto .",1
+5173,"I like prosciutto , but not broccoli .",1
+5172,"I like pork , but not prosciutto .",1
+5171,"I like prosciutto , but not pork .",0
+5170,"I like fish , but not prosciutto .",1
+5169,"I like prosciutto , but not fish .",1
+5168,"I like pork , but not carrots .",1
+5167,"I like carrots , but not ham .",1
+5166,"I like ham , but not carrots .",1
+5165,"I like pork , but not apples .",1
+5164,"I like apples , but not ham .",1
+5163,"I like ham , but not apples .",1
+5162,"I like pork , but not broccoli .",1
+5161,"I like broccoli , but not ham .",1
+5160,"I like ham , but not broccoli .",1
+5159,"I like pork , but not fish .",1
+5158,"I like pork , but not ham .",1
+5157,"I like ham , but not pork .",0
+5156,"I like fish , but not ham .",1
+5155,"I like ham , but not fish .",1
+5151,"I like jewelry , but not blues .",1
+5150,"I like blues , but not jewelry .",1
+5149,"I like food , but not blues .",1
+5148,"I like blues , but not food .",1
+5147,"I like boardgames , but not blues .",1
+5146,"I like blues , but not boardgames .",1
+5145,"I like music , but not blues .",1
+5144,"I like blues , but not music .",0
+5143,"I like sports , but not blues .",1
+5142,"I like blues , but not sports .",1
+5141,"I like jewelry , but not techno .",1
+5140,"I like techno , but not jewelry .",1
+5139,"I like food , but not techno .",1
+5138,"I like techno , but not food .",1
+5136,"I like boardgames , but not techno .",1
+5135,"I like techno , but not boardgames .",1
+5134,"I like music , but not techno .",1
+5133,"I like techno , but not music .",0
+5132,"I like sports , but not techno .",1
+5131,"I like techno , but not sports .",1
+5129,"I like jewelry , but not jazz .",1
+5128,"I like jazz , but not jewelry .",1
+5127,"I like food , but not jazz .",1
+5126,"I like jazz , but not food .",1
+5125,"I like boardgames , but not jazz .",1
+5124,"I like jazz , but not boardgames .",1
+5123,"I like music , but not jazz .",1
+5122,"I like jazz , but not music .",0
+5121,"I like sports , but not jazz .",1
+5120,"I like jazz , but not sports .",1
+5119,"I like music , but not jewelry .",1
+5118,"I like jewelry , but not rock .",1
+5117,"I like rock , but not jewelry .",1
+5116,"I like music , but not food .",1
+5115,"I like food , but not rock .",1
+5114,"I like rock , but not food .",1
+5113,"I like music , but not boardgames .",1
+5112,"I like boardgames , but not rock .",1
+5111,"I like rock , but not boardgames .",1
+5110,"I like music , but not sports .",1
+5109,"I like music , but not rock .",1
+5108,"I like rock , but not music .",0
+5107,"I like sports , but not rock .",1
+5106,"I like rock , but not sports .",1
+5100,"I like beer , but not Zinfandel .",1
+5099,"I like Zinfandel , but not beer .",1
+5098,"I like sprite , but not Zinfandel .",1
+5097,"I like Zinfandel , but not sprite .",1
+5096,"I like water , but not Zinfandel .",1
+5095,"I like Zinfandel , but not water .",1
+5094,"I like wine , but not Zinfandel .",1
+5093,"I like Zinfandel , but not wine .",0
+5092,"I like coca-cola , but not Zinfandel .",1
+5091,"I like Zinfandel , but not coca-cola .",1
+5090,"I like beer , but not Chianti .",1
+5089,"I like Chianti , but not beer .",1
+5088,"I like sprite , but not Chianti .",1
+5087,"I like Chianti , but not sprite .",1
+5086,"I like water , but not Chianti .",1
+5085,"I like Chianti , but not water .",1
+5084,"I like wine , but not Chianti .",1
+5083,"I like Chianti , but not wine .",0
+5082,"I like coca-cola , but not Chianti .",1
+5081,"I like Chianti , but not coca-cola .",1
+5080,"I like beer , but not Chardonnay .",1
+5079,"I like Chardonnay , but not beer .",1
+5078,"I like sprite , but not Chardonnay .",1
+5077,"I like Chardonnay , but not sprite .",1
+5076,"I like water , but not Chardonnay .",1
+5075,"I like Chardonnay , but not water .",1
+5074,"I like wine , but not Chardonnay .",1
+5073,"I like Chardonnay , but not wine .",0
+5072,"I like coca-cola , but not Chardonnay .",1
+5071,"I like Chardonnay , but not coca-cola .",1
+5070,"I like wine , but not beer .",1
+5069,"I like beer , but not Merlot .",1
+5068,"I like Merlot , but not beer .",1
+5067,"I like wine , but not sprite .",1
+5066,"I like sprite , but not Merlot .",1
+5065,"I like Merlot , but not sprite .",1
+5064,"I like wine , but not water .",1
+5063,"I like water , but not Merlot .",1
+5062,"I like Merlot , but not water .",1
+5061,"I like wine , but not coca-cola .",1
+5060,"I like wine , but not Merlot .",1
+5059,"I like Merlot , but not wine .",0
+5058,"I like coca-cola , but not Merlot .",1
+5057,"I like Merlot , but not coca-cola .",1
+5056,"I like parquet , but not beds .",1
+5055,"I like beds , but not parquet .",1
+5054,"I like wallpaper , but not beds .",1
+5053,"I like beds , but not wallpaper .",1
+5052,"I like paintings , but not beds .",1
+5051,"I like beds , but not paintings .",1
+5050,"I like furniture , but not beds .",1
+5049,"I like beds , but not furniture .",0
+5048,"I like cutlery , but not beds .",1
+5047,"I like beds , but not cutlery .",1
+5046,"I like parquet , but not wardrobes .",1
+5045,"I like wardrobes , but not parquet .",1
+5044,"I like wallpaper , but not wardrobes .",1
+5043,"I like wardrobes , but not wallpaper .",1
+5041,"I like paintings , but not wardrobes .",1
+5040,"I like wardrobes , but not paintings .",1
+5039,"I like furniture , but not wardrobes .",1
+5038,"I like wardrobes , but not furniture .",0
+5037,"I like cutlery , but not wardrobes .",1
+5036,"I like wardrobes , but not cutlery .",1
+5035,"I like parquet , but not tables .",1
+5034,"I like tables , but not parquet .",1
+5033,"I like wallpaper , but not tables .",1
+5032,"I like tables , but not wallpaper .",1
+5031,"I like paintings , but not tables .",1
+5030,"I like tables , but not paintings .",1
+5029,"I like furniture , but not tables .",1
+5028,"I like tables , but not furniture .",0
+5027,"I like cutlery , but not tables .",1
+5026,"I like tables , but not cutlery .",1
+5025,"I like furniture , but not parquet .",1
+5023,"I like parquet , but not chairs .",1
+5022,"I like chairs , but not parquet .",1
+5021,"I like furniture , but not wallpaper .",1
+5020,"I like wallpaper , but not chairs .",1
+5019,"I like chairs , but not wallpaper .",1
+5018,"I like furniture , but not paintings .",1
+5016,"I like paintings , but not chairs .",1
+5015,"I like chairs , but not paintings .",1
+5014,"I like furniture , but not cutlery .",1
+5013,"I like furniture , but not chairs .",1
+5012,"I like chairs , but not furniture .",0
+5011,"I like cutlery , but not chairs .",1
+5010,"I like chairs , but not cutlery .",1
+5008,"I use leather , but not PVC .",1
+5007,"I use PVC , but not leather .",1
+5006,"I use glass , but not PVC .",1
+5005,"I use PVC , but not glass .",1
+5004,"I use cotton , but not PVC .",1
+5003,"I use PVC , but not cotton .",1
+5002,"I use plastic , but not PVC .",1
+5001,"I use PVC , but not plastic .",0
+5000,"I use wood , but not PVC .",1
+4999,"I use PVC , but not wood .",1
+4998,"I use leather , but not vinyl .",1
+4997,"I use vinyl , but not leather .",1
+4996,"I use glass , but not vinyl .",1
+4995,"I use vinyl , but not glass .",1
+4993,"I use cotton , but not vinyl .",1
+4992,"I use vinyl , but not cotton .",1
+4991,"I use plastic , but not vinyl .",1
+4990,"I use vinyl , but not plastic .",0
+4989,"I use wood , but not vinyl .",1
+4988,"I use vinyl , but not wood .",1
+4986,"I use leather , but not nylon .",1
+4985,"I use nylon , but not leather .",1
+4984,"I use glass , but not nylon .",1
+4983,"I use nylon , but not glass .",1
+4981,"I use cotton , but not nylon .",1
+4980,"I use nylon , but not cotton .",1
+4979,"I use plastic , but not nylon .",1
+4978,"I use nylon , but not plastic .",0
+4977,"I use wood , but not nylon .",1
+4976,"I use nylon , but not wood .",1
+4975,"I use plastic , but not leather .",1
+4974,"I use leather , but not polyester .",1
+4973,"I use polyester , but not leather .",1
+4972,"I use plastic , but not glass .",1
+4971,"I use glass , but not polyester .",1
+4970,"I use polyester , but not glass .",1
+4969,"I use plastic , but not cotton .",1
+4968,"I use cotton , but not polyester .",1
+4967,"I use polyester , but not cotton .",1
+4966,"I use plastic , but not wood .",1
+4965,"I use plastic , but not polyester .",1
+4964,"I use polyester , but not plastic .",0
+4963,"I use wood , but not polyester .",1
+4962,"I use polyester , but not wood .",1
+4960,"I like shrubs , but not pines .",1
+4959,"I like pines , but not shrubs .",1
+4958,"I like bushes , but not pines .",1
+4957,"I like pines , but not bushes .",1
+4955,"I like animals , but not pines .",1
+4954,"I like pines , but not animals .",1
+4953,"I like trees , but not pines .",1
+4952,"I like pines , but not trees .",0
+4951,"I like grass , but not pines .",1
+4950,"I like pines , but not grass .",1
+4949,"I like shrubs , but not firs .",1
+4948,"I like firs , but not shrubs .",1
+4947,"I like bushes , but not firs .",1
+4946,"I like firs , but not bushes .",1
+4944,"I like animals , but not firs .",1
+4943,"I like firs , but not animals .",1
+4942,"I like trees , but not firs .",1
+4941,"I like firs , but not trees .",0
+4940,"I like grass , but not firs .",1
+4939,"I like firs , but not grass .",1
+4937,"I like shrubs , but not birches .",1
+4936,"I like birches , but not shrubs .",1
+4935,"I like bushes , but not birches .",1
+4934,"I like birches , but not bushes .",1
+4932,"I like animals , but not birches .",1
+4931,"I like birches , but not animals .",1
+4930,"I like trees , but not birches .",1
+4929,"I like birches , but not trees .",0
+4928,"I like grass , but not birches .",1
+4927,"I like birches , but not grass .",1
+4926,"I like trees , but not shrubs .",1
+4924,"I like shrubs , but not oaks .",1
+4923,"I like oaks , but not shrubs .",1
+4922,"I like trees , but not bushes .",1
+4921,"I like bushes , but not oaks .",1
+4920,"I like oaks , but not bushes .",1
+4919,"I like trees , but not animals .",1
+4918,"I like animals , but not oaks .",1
+4917,"I like oaks , but not animals .",1
+4916,"I like trees , but not grass .",1
+4915,"I like trees , but not oaks .",1
+4914,"I like oaks , but not trees .",0
+4913,"I like grass , but not oaks .",1
+4912,"I like oaks , but not grass .",1
+4911,"I like earrings , but not skirts .",1
+4910,"I like skirts , but not earrings .",1
+4909,"I like glasses , but not skirts .",1
+4908,"I like skirts , but not glasses .",1
+4907,"I like jewelry , but not skirts .",1
+4906,"I like skirts , but not jewelry .",1
+4905,"I like clothes , but not skirts .",1
+4904,"I like skirts , but not clothes .",0
+4903,"I like shoes , but not skirts .",1
+4902,"I like skirts , but not shoes .",1
+4901,"I like earrings , but not socks .",1
+4900,"I like socks , but not earrings .",1
+4899,"I like glasses , but not socks .",1
+4898,"I like socks , but not glasses .",1
+4897,"I like jewelry , but not socks .",1
+4896,"I like socks , but not jewelry .",1
+4895,"I like clothes , but not socks .",1
+4894,"I like socks , but not clothes .",0
+4893,"I like shoes , but not socks .",1
+4892,"I like socks , but not shoes .",1
+4891,"I like earrings , but not trousers .",1
+4890,"I like trousers , but not earrings .",1
+4889,"I like glasses , but not trousers .",1
+4888,"I like trousers , but not glasses .",1
+4887,"I like jewelry , but not trousers .",1
+4886,"I like trousers , but not jewelry .",1
+4885,"I like clothes , but not trousers .",1
+4884,"I like trousers , but not clothes .",0
+4883,"I like shoes , but not trousers .",1
+4882,"I like trousers , but not shoes .",1
+4881,"I like clothes , but not earrings .",1
+4880,"I like earrings , but not shirts .",1
+4879,"I like shirts , but not earrings .",1
+4878,"I like clothes , but not glasses .",1
+4877,"I like glasses , but not shirts .",1
+4876,"I like shirts , but not glasses .",1
+4875,"I like clothes , but not jewelry .",1
+4874,"I like jewelry , but not shirts .",1
+4873,"I like shirts , but not jewelry .",1
+4872,"I like clothes , but not shoes .",1
+4871,"I like clothes , but not shirts .",1
+4870,"I like shirts , but not clothes .",0
+4869,"I like shoes , but not shirts .",1
+4868,"I like shirts , but not shoes .",1
+4867,"I like planes , but not Kawasakis .",1
+4866,"I like Kawasakis , but not airplanes .",1
+4865,"I like trains , but not Kawasakis .",1
+4864,"I like Kawasakis , but not trains .",1
+4863,"I like bicycles , but not Kawasakis .",1
+4862,"I like Kawasakis , but not bicycles .",1
+4861,"I like Kawasakis , but not motorcycles .",0
+4860,"I like ships , but not Kawasakis .",1
+4859,"I like Kawasakis , but not ships .",1
+4858,"I like planes , but not enduros .",1
+4857,"I like enduros , but not airplanes .",1
+4856,"I like trains , but not enduros .",1
+4855,"I like enduros , but not trains .",1
+4854,"I like bicycles , but not enduros .",1
+4853,"I like enduros , but not bicycles .",1
+4852,"I like enduros , but not motorcycles .",0
+4851,"I like ships , but not enduros .",1
+4850,"I like enduros , but not ships .",1
+4849,"I like planes , but not Suzukis .",1
+4848,"I like Suzukis , but not airplanes .",1
+4847,"I like trains , but not Suzukis .",1
+4846,"I like Suzukis , but not trains .",1
+4845,"I like bicycles , but not Suzukis .",1
+4844,"I like Suzukis , but not bicycles .",1
+4843,"I like Suzukis , but not motorcycles .",0
+4842,"I like ships , but not Suzukis .",1
+4841,"I like Suzukis , but not ships .",1
+4840,"I like motorcycles , but not Kawasakis .",1
+4839,"I like planes , but not Harley-Davidson .",1
+4838,"I like Harley-Davidson , but not airplanes .",1
+4837,"I like motorcycles , but not enduros .",1
+4836,"I like trains , but not Harley-Davidson .",1
+4835,"I like Harley-Davidson , but not trains .",1
+4834,"I like motorcycles , but not Suzukis .",1
+4833,"I like bicycles , but not Harley-Davidson .",1
+4832,"I like Harley-Davidson , but not bicycles .",1
+4831,"I like motorcycles , but not Harley-Davidson .",1
+4830,"I like Harley-Davidson , but not motorcycles .",0
+4829,"I like ships , but not Harley-Davidson .",1
+4828,"I like Harley-Davidson , but not ships .",1
+4826,"I like dogs , but not sparrows .",1
+4825,"I like sparrows , but not dogs .",1
+4824,"I like pigs , but not sparrows .",1
+4823,"I like sparrows , but not pigs .",1
+4822,"I like hamsters , but not sparrows .",1
+4821,"I like sparrows , but not hamsters .",1
+4820,"I like birds , but not sparrows .",1
+4819,"I like sparrows , but not birds .",0
+4818,"I like cats , but not sparrows .",1
+4817,"I like sparrows , but not cats .",1
+4816,"I like dogs , but not blackbirds .",1
+4815,"I like blackbirds , but not dogs .",1
+4814,"I like pigs , but not blackbirds .",1
+4813,"I like blackbirds , but not pigs .",1
+4812,"I like hamsters , but not blackbirds .",1
+4811,"I like blackbirds , but not hamsters .",1
+4810,"I like birds , but not blackbirds .",1
+4809,"I like blackbirds , but not birds .",0
+4808,"I like cats , but not blackbirds .",1
+4807,"I like blackbirds , but not cats .",1
+4806,"I like dogs , but not ducks .",1
+4805,"I like ducks , but not dogs .",1
+4804,"I like pigs , but not ducks .",1
+4803,"I like ducks , but not pigs .",1
+4802,"I like hamsters , but not ducks .",1
+4801,"I like ducks , but not hamsters .",1
+4800,"I like birds , but not ducks .",1
+4799,"I like ducks , but not birds .",0
+4798,"I like cats , but not ducks .",1
+4797,"I like ducks , but not cats .",1
+4796,"I like birds , but not dogs .",1
+4795,"I like parrots , but not dogs .",1
+4794,"I like birds , but not pigs .",1
+4793,"I like pigs , but not parrots .",1
+4792,"I like parrots , but not pigs .",1
+4791,"I like birds , but not hamsters .",1
+4790,"I like hamsters , but not parrots .",1
+4789,"I like parrots , but not hamsters .",1
+4788,"I like birds , but not cats .",1
+4787,"I like birds , but not parrots .",1
+4786,"I like parrots , but not birds .",0
+4785,"I like cats , but not parrots .",1
+4784,"I like parrots , but not cats .",1
+4783,"I like rabbits , but not beagles .",1
+4782,"I like beagles , but not rabbits .",1
+4781,"I like parrots , but not beagles .",1
+4780,"I like beagles , but not parrots .",1
+4779,"I like hamsters , but not beagles .",1
+4778,"I like beagles , but not hamsters .",1
+4777,"I like dogs , but not beagles .",1
+4776,"I like beagles , but not dogs .",0
+4775,"I like cats , but not beagles .",1
+4774,"I like beagles , but not cats .",1
+4773,"I like rabbits , but not bulldogs .",1
+4772,"I like bulldogs , but not rabbits .",1
+4771,"I like parrots , but not bulldogs .",1
+4770,"I like bulldogs , but not parrots .",1
+4769,"I like hamsters , but not bulldogs .",1
+4768,"I like bulldogs , but not hamsters .",1
+4767,"I like dogs , but not bulldogs .",1
+4766,"I like bulldogs , but not dogs .",0
+4765,"I like cats , but not bulldogs .",1
+4764,"I like bulldogs , but not cats .",1
+4762,"I like rabbits , but not bobtails .",1
+4761,"I like bobtails , but not rabbits .",1
+4760,"I like parrots , but not bobtails .",1
+4759,"I like bobtails , but not parrots .",1
+4758,"I like hamsters , but not bobtails .",1
+4757,"I like bobtails , but not hamsters .",1
+4756,"I like dogs , but not bobtails .",1
+4755,"I like bobtails , but not dogs .",0
+4754,"I like cats , but not bobtails .",1
+4753,"I like bobtails , but not cats .",1
+4752,"I like dogs , but not rabbits .",1
+4751,"I like rabbits , but not huskies .",1
+4750,"I like huskies , but not rabbits .",1
+4749,"I like dogs , but not parrots .",1
+4748,"I like parrots , but not huskies .",1
+4747,"I like huskies , but not parrots .",1
+4746,"I like dogs , but not hamsters .",1
+4745,"I like hamsters , but not huskies .",1
+4744,"I like huskies , but not hamsters .",1
+4743,"I like dogs , but not cats .",1
+4742,"I like dogs , but not huskies .",1
+4741,"I like huskies , but not dogs .",0
+4740,"I like cats , but not huskies .",1
+4739,"I like huskies , but not cats .",1
+700,"I met janitors , and more specifically physicists .",0
+699,"I met physicists , and more specifically janitors .",0
+698,"I met caretakers , and more specifically physicists .",0
+697,"I met physicists , and more specifically caretakers .",0
+696,"I met waiters , and more specifically physicists .",0
+695,"I met physicists , and more specifically waiters .",0
+694,"I met scientists , and more specifically physicists .",1
+693,"I met physicists , and more specifically scientists .",0
+692,"I met clerks , and more specifically physicists .",0
+691,"I met physicists , and more specifically clerks .",0
+690,"I met janitors , and more specifically astronomers .",0
+689,"I met astronomers , and more specifically janitors .",0
+688,"I met caretakers , and more specifically astronomers .",0
+687,"I met astronomers , and more specifically caretakers .",0
+686,"I met waiters , and more specifically astronomers .",0
+685,"I met astronomers , and more specifically waiters .",0
+684,"I met scientists , and more specifically astronomers .",1
+683,"I met astronomers , and more specifically scientists .",0
+682,"I met clerks , and more specifically astronomers .",0
+681,"I met astronomers , and more specifically clerks .",0
+680,"I met janitors , and more specifically geneticists .",0
+679,"I met geneticists , and more specifically janitors .",0
+678,"I met caretakers , and more specifically geneticists .",0
+677,"I met geneticists , and more specifically caretakers .",0
+676,"I met waiters , and more specifically geneticists .",0
+675,"I met geneticists , and more specifically waiters .",0
+674,"I met scientists , and more specifically geneticists .",1
+673,"I met geneticists , and more specifically scientists .",0
+672,"I met clerks , and more specifically geneticists .",0
+671,"I met geneticists , and more specifically clerks .",0
+670,"I met scientists , and more specifically janitors .",0
+669,"I met janitors , and more specifically biologists .",0
+668,"I met biologists , and more specifically janitors .",0
+667,"I met scientists , and more specifically caretakers .",0
+666,"I met caretakers , and more specifically biologists .",0
+665,"I met biologists , and more specifically caretakers .",0
+664,"I met scientists , and more specifically waiters .",0
+663,"I met waiters , and more specifically biologists .",0
+662,"I met biologists , and more specifically waiters .",0
+661,"I met scientists , and more specifically clerks .",0
+660,"I met scientists , and more specifically biologists .",1
+659,"I met biologists , and more specifically scientists .",0
+658,"I met clerks , and more specifically biologists .",0
+657,"I met biologists , and more specifically clerks .",0
+656,"I met offices , and more specifically professors .",0
+655,"I met professors , and more specifically offices .",0
+654,"I met schools , and more specifically professors .",0
+653,"I met professors , and more specifically schools .",0
+652,"I met restaurants , and more specifically professors .",0
+651,"I met professors , and more specifically restaurants .",0
+650,"I met workers , and more specifically professors .",1
+649,"I met professors , and more specifically workers .",0
+648,"I met factories , and more specifically professors .",0
+647,"I met professors , and more specifically factories .",0
+646,"I met offices , and more specifically caretakers .",0
+645,"I met caretakers , and more specifically offices .",0
+644,"I met schools , and more specifically caretakers .",0
+643,"I met caretakers , and more specifically schools .",0
+642,"I met restaurants , and more specifically caretakers .",0
+641,"I met caretakers , and more specifically restaurants .",0
+640,"I met workers , and more specifically caretakers .",1
+639,"I met caretakers , and more specifically workers .",0
+638,"I met factories , and more specifically caretakers .",0
+637,"I met caretakers , and more specifically factories .",0
+634,"I met offices , and more specifically waiters .",0
+633,"I met waiters , and more specifically offices .",0
+632,"I met schools , and more specifically waiters .",0
+631,"I met waiters , and more specifically schools .",0
+630,"I met restaurants , and more specifically waiters .",0
+629,"I met waiters , and more specifically restaurants .",0
+628,"I met workers , and more specifically waiters .",1
+627,"I met waiters , and more specifically workers .",0
+626,"I met factories , and more specifically waiters .",0
+625,"I met waiters , and more specifically factories .",0
+623,"I met workers , and more specifically offices .",0
+621,"I met offices , and more specifically clerks .",0
+620,"I met clerks , and more specifically offices .",0
+619,"I met workers , and more specifically schools .",0
+618,"I met schools , and more specifically clerks .",0
+617,"I met clerks , and more specifically schools .",0
+616,"I met workers , and more specifically restaurants .",0
+615,"I met restaurants , and more specifically clerks .",0
+614,"I met clerks , and more specifically restaurants .",0
+613,"I met workers , and more specifically factories .",0
+612,"I met workers , and more specifically clerks .",1
+611,"I met clerks , and more specifically workers .",0
+610,"I met factories , and more specifically clerks .",0
+609,"I met clerks , and more specifically factories .",0
+606,"I like paintings , and more specifically handbooks .",0
+605,"I like handbooks , and more specifically paintings .",0
+604,"I like cartoons , and more specifically handbooks .",0
+603,"I like handbooks , and more specifically cartoons .",0
+601,"I like films , and more specifically handbooks .",0
+600,"I like handbooks , and more specifically films .",0
+599,"I like books , and more specifically handbooks .",1
+598,"I like handbooks , and more specifically books .",0
+597,"I like music , and more specifically handbooks .",0
+596,"I like handbooks , and more specifically music .",0
+593,"I like paintings , and more specifically novels .",0
+592,"I like novels , and more specifically paintings .",0
+591,"I like cartoons , and more specifically novels .",0
+590,"I like novels , and more specifically cartoons .",0
+588,"I like films , and more specifically novels .",0
+587,"I like novels , and more specifically films .",0
+586,"I like books , and more specifically novels .",1
+585,"I like novels , and more specifically books .",0
+584,"I like music , and more specifically novels .",0
+583,"I like novels , and more specifically music .",0
+580,"I like paintings , and more specifically essays .",0
+579,"I like essays , and more specifically paintings .",0
+578,"I like cartoons , and more specifically essays .",0
+577,"I like essays , and more specifically cartoons .",0
+576,"I like films , and more specifically essays .",0
+575,"I like essays , and more specifically films .",0
+574,"I like books , and more specifically essays .",1
+573,"I like essays , and more specifically books .",0
+572,"I like music , and more specifically essays .",0
+571,"I like essays , and more specifically music .",0
+570,"I like books , and more specifically paintings .",0
+569,"I like paintings , and more specifically textbooks .",0
+568,"I like textbooks , and more specifically paintings .",0
+567,"I like books , and more specifically cartoons .",0
+566,"I like cartoons , and more specifically textbooks .",0
+565,"I like textbooks , and more specifically cartoons .",0
+564,"I like books , and more specifically films .",0
+563,"I like films , and more specifically textbooks .",0
+562,"I like textbooks , and more specifically films .",0
+561,"I like books , and more specifically music .",0
+560,"I like books , and more specifically textbooks .",1
+559,"I like textbooks , and more specifically books .",0
+558,"I like music , and more specifically textbooks .",0
+557,"I like textbooks , and more specifically music .",0
+556,"He likes calculations , and more specifically sadness .",0
+555,"He likes sadness , and more specifically calculations .",0
+554,"He likes logic , and more specifically sadness .",0
+553,"He likes sadness , and more specifically logic .",0
+552,"He likes stupidity , and more specifically sadness .",0
+551,"He likes sadness , and more specifically stupidity .",0
+550,"He likes emotions , and more specifically sadness .",1
+549,"He likes sadness , and more specifically emotions .",0
+548,"He likes wisdom , and more specifically sadness .",0
+547,"He likes sadness , and more specifically wisdom .",0
+546,"He likes calculations , and more specifically love .",0
+545,"He likes love , and more specifically calculations .",0
+544,"He likes logic , and more specifically love .",0
+543,"He likes love , and more specifically logic .",0
+542,"He likes stupidity , and more specifically love .",0
+541,"He likes love , and more specifically stupidity .",0
+540,"He likes emotions , and more specifically love .",1
+539,"He likes love , and more specifically emotions .",0
+538,"He likes wisdom , and more specifically love .",0
+537,"He likes love , and more specifically wisdom .",0
+536,"He likes calculations , and more specifically fear .",0
+535,"He likes fear , and more specifically calculations .",0
+534,"He likes logic , and more specifically fear .",0
+533,"He likes fear , and more specifically logic .",0
+532,"He likes stupidity , and more specifically fear .",0
+531,"He likes fear , and more specifically stupidity .",0
+530,"He likes emotions , and more specifically fear .",1
+529,"He likes fear , and more specifically emotions .",0
+528,"He likes wisdom , and more specifically fear .",0
+527,"He likes fear , and more specifically wisdom .",0
+525,"He likes emotions , and more specifically calculations .",0
+523,"He likes calculations , and more specifically joy .",0
+522,"He likes joy , and more specifically calculations .",0
+521,"He likes emotions , and more specifically logic .",0
+520,"He likes logic , and more specifically joy .",0
+519,"He likes joy , and more specifically logic .",0
+518,"He likes emotions , and more specifically stupidity .",0
+517,"He likes stupidity , and more specifically joy .",0
+516,"He likes joy , and more specifically stupidity .",0
+515,"He likes emotions , and more specifically wisdom .",0
+514,"He likes emotions , and more specifically joy .",1
+513,"He likes joy , and more specifically emotions .",0
+512,"He likes wisdom , and more specifically joy .",0
+511,"He likes joy , and more specifically wisdom .",0
+507,"He trusts guesses , and more specifically his taste .",0
+506,"He trusts his taste , and more specifically guesses .",0
+505,"He trusts reconstructions , and more specifically his taste .",0
+504,"He trusts his taste , and more specifically reconstructions .",0
+503,"He trusts reports , and more specifically his taste .",0
+502,"He trusts his taste , and more specifically reports .",0
+501,"He trusts his senses , and more specifically his taste .",1
+500,"He trusts his taste , and more specifically his senses .",0
+499,"He trusts rumors , and more specifically his taste .",0
+498,"He trusts his taste , and more specifically rumors .",0
+495,"He trusts guesses , and more specifically his touch .",0
+494,"He trusts his touch , and more specifically guesses .",0
+493,"He trusts reconstructions , and more specifically his touch .",0
+492,"He trusts his touch , and more specifically reconstructions .",0
+490,"He trusts reports , and more specifically his touch .",0
+489,"He trusts his touch , and more specifically reports .",0
+488,"He trusts his senses , and more specifically his touch .",1
+487,"He trusts his touch , and more specifically his senses .",0
+486,"He trusts rumors , and more specifically his touch .",0
+485,"He trusts his touch , and more specifically rumors .",0
+483,"He trusts guesses , and more specifically his hearing .",0
+482,"He trusts his hearing , and more specifically guesses .",0
+481,"He trusts reconstructions , and more specifically his hearing .",0
+480,"He trusts his hearing , and more specifically reconstructions .",0
+478,"He trusts reports , and more specifically his hearing .",0
+477,"He trusts his hearing , and more specifically reports .",0
+476,"He trusts his senses , and more specifically his hearing .",1
+475,"He trusts his hearing , and more specifically his senses .",0
+474,"He trusts rumors , and more specifically his hearing .",0
+473,"He trusts his hearing , and more specifically rumors .",0
+470,"He trusts his senses , and more specifically guesses .",0
+468,"He trusts guesses , and more specifically his sight .",0
+467,"He trusts his sight , and more specifically guesses .",0
+466,"He trusts his senses , and more specifically reconstructions .",0
+465,"He trusts reconstructions , and more specifically his sight .",0
+464,"He trusts his sight , and more specifically reconstructions .",0
+463,"He trusts his senses , and more specifically reports .",0
+461,"He trusts reports , and more specifically his sight .",0
+460,"He trusts his sight , and more specifically reports .",0
+459,"He trusts his senses , and more specifically rumors .",0
+458,"He trusts his senses , and more specifically his sight .",1
+457,"He trusts his sight , and more specifically his senses .",0
+456,"He trusts rumors , and more specifically his sight .",0
+455,"He trusts his sight , and more specifically rumors .",0
+450,"I like whales , and more specifically hamsters .",0
+449,"I like hamsters , and more specifically whales .",0
+448,"I like jellyfish , and more specifically hamsters .",0
+447,"I like hamsters , and more specifically jellyfish .",0
+446,"I like bears , and more specifically hamsters .",0
+445,"I like hamsters , and more specifically bears .",0
+444,"I like pets , and more specifically hamsters .",1
+443,"I like hamsters , and more specifically pets .",0
+442,"I like giraffes , and more specifically hamsters .",0
+441,"I like hamsters , and more specifically giraffes .",0
+440,"I like whales , and more specifically rabbits .",0
+439,"I like rabbits , and more specifically whales .",0
+438,"I like jellyfish , and more specifically rabbits .",0
+437,"I like rabbits , and more specifically jellyfish .",0
+436,"I like bears , and more specifically rabbits .",0
+435,"I like rabbits , and more specifically bears .",0
+434,"I like pets , and more specifically rabbits .",1
+433,"I like rabbits , and more specifically pets .",0
+432,"I like giraffes , and more specifically rabbits .",0
+431,"I like rabbits , and more specifically giraffes .",0
+429,"I like whales , and more specifically dogs .",0
+428,"I like dogs , and more specifically whales .",0
+427,"I like jellyfish , and more specifically dogs .",0
+426,"I like dogs , and more specifically jellyfish .",0
+425,"I like bears , and more specifically dogs .",0
+424,"I like dogs , and more specifically bears .",0
+423,"I like pets , and more specifically dogs .",1
+422,"I like dogs , and more specifically pets .",0
+421,"I like giraffes , and more specifically dogs .",0
+420,"I like dogs , and more specifically giraffes .",0
+419,"I like pets , and more specifically whales .",0
+418,"I like whales , and more specifically cats .",0
+417,"I like cats , and more specifically whales .",0
+416,"I like pets , and more specifically jellyfish .",0
+415,"I like jellyfish , and more specifically cats .",0
+414,"I like cats , and more specifically jellyfish .",0
+413,"I like pets , and more specifically bears .",0
+412,"I like bears , and more specifically cats .",0
+411,"I like cats , and more specifically bears .",0
+410,"I like pets , and more specifically giraffes .",0
+409,"I like pets , and more specifically cats .",1
+408,"I like cats , and more specifically pets .",0
+407,"I like giraffes , and more specifically cats .",0
+406,"I like cats , and more specifically giraffes .",0
+405,"I like shoes , and more specifically rings .",0
+404,"I like rings , and more specifically shoes .",0
+403,"I like glasses , and more specifically rings .",0
+402,"I like rings , and more specifically glasses .",0
+401,"I like scarfs , and more specifically rings .",0
+400,"I like rings , and more specifically scarfs .",0
+399,"I like jewelry , and more specifically rings .",1
+398,"I like rings , and more specifically jewelry .",0
+397,"I like handbags , and more specifically rings .",0
+396,"I like rings , and more specifically handbags .",0
+394,"I like shoes , and more specifically earrings .",0
+393,"I like earrings , and more specifically shoes .",0
+392,"I like glasses , and more specifically earrings .",0
+391,"I like earrings , and more specifically glasses .",0
+390,"I like scarfs , and more specifically earrings .",0
+389,"I like earrings , and more specifically scarfs .",0
+388,"I like jewelry , and more specifically earrings .",1
+387,"I like earrings , and more specifically jewelry .",0
+386,"I like handbags , and more specifically earrings .",0
+385,"I like earrings , and more specifically handbags .",0
+384,"I like shoes , and more specifically necklaces .",0
+383,"I like necklaces , and more specifically shoes .",0
+382,"I like glasses , and more specifically necklaces .",0
+381,"I like necklaces , and more specifically glasses .",0
+380,"I like scarfs , and more specifically necklaces .",0
+379,"I like necklaces , and more specifically scarfs .",0
+378,"I like jewelry , and more specifically necklaces .",1
+377,"I like necklaces , and more specifically jewelry .",0
+376,"I like handbags , and more specifically necklaces .",0
+375,"I like necklaces , and more specifically handbags .",0
+374,"I like jewelry , and more specifically shoes .",0
+372,"I like shoes , and more specifically bracelets .",0
+371,"I like bracelets , and more specifically shoes .",0
+370,"I like jewelry , and more specifically glasses .",0
+369,"I like glasses , and more specifically bracelets .",0
+368,"I like bracelets , and more specifically glasses .",0
+367,"I like jewelry , and more specifically scarfs .",0
+366,"I like scarfs , and more specifically bracelets .",0
+365,"I like bracelets , and more specifically scarfs .",0
+364,"I like jewelry , and more specifically handbags .",0
+363,"I like jewelry , and more specifically bracelets .",1
+362,"I like bracelets , and more specifically jewelry .",0
+361,"I like handbags , and more specifically bracelets .",0
+360,"I like bracelets , and more specifically handbags .",0
+359,"I like videogames , and more specifically documentaries .",0
+358,"I like documentaries , and more specifically videogames .",0
+357,"I like boardgames , and more specifically documentaries .",0
+356,"I like documentaries , and more specifically boardgames .",0
+355,"I like textbooks , and more specifically documentaries .",0
+354,"I like documentaries , and more specifically textbooks .",0
+353,"I like movies , and more specifically documentaries .",1
+352,"I like documentaries , and more specifically movies .",0
+351,"I like essays , and more specifically documentaries .",0
+350,"I like documentaries , and more specifically essays .",0
+349,"I like videogames , and more specifically comedies .",0
+348,"I like comedies , and more specifically videogames .",0
+347,"I like boardgames , and more specifically comedies .",0
+346,"I like comedies , and more specifically boardgames .",0
+345,"I like textbooks , and more specifically comedies .",0
+344,"I like comedies , and more specifically textbooks .",0
+343,"I like movies , and more specifically comedies .",1
+342,"I like comedies , and more specifically movies .",0
+341,"I like essays , and more specifically comedies .",0
+340,"I like comedies , and more specifically essays .",0
+339,"I like videogames , and more specifically westerns .",0
+338,"I like westerns , and more specifically videogames .",0
+337,"I like boardgames , and more specifically westerns .",0
+336,"I like westerns , and more specifically boardgames .",0
+335,"I like textbooks , and more specifically westerns .",0
+334,"I like westerns , and more specifically textbooks .",0
+333,"I like movies , and more specifically westerns .",1
+332,"I like westerns , and more specifically movies .",0
+331,"I like essays , and more specifically westerns .",0
+330,"I like westerns , and more specifically essays .",0
+329,"I like movies , and more specifically videogames .",0
+328,"I like videogames , and more specifically thrillers .",0
+327,"I like thrillers , and more specifically videogames .",0
+326,"I like movies , and more specifically boardgames .",0
+325,"I like boardgames , and more specifically thrillers .",0
+324,"I like thrillers , and more specifically boardgames .",0
+323,"I like movies , and more specifically textbooks .",0
+322,"I like textbooks , and more specifically thrillers .",0
+321,"I like thrillers , and more specifically textbooks .",0
+320,"I like movies , and more specifically essays .",0
+319,"I like movies , and more specifically thrillers .",1
+318,"I like thrillers , and more specifically movies .",0
+317,"I like essays , and more specifically thrillers .",0
+316,"I like thrillers , and more specifically essays .",0
+314,"I like beef , and more specifically caviar .",0
+313,"I like caviar , and more specifically beef .",0
+312,"I like turkey , and more specifically caviar .",0
+311,"I like caviar , and more specifically turkey .",0
+310,"I like veal , and more specifically caviar .",0
+309,"I like caviar , and more specifically veal .",0
+308,"I like seafood , and more specifically caviar .",1
+307,"I like caviar , and more specifically seafood .",0
+306,"I like chicken , and more specifically caviar .",0
+305,"I like caviar , and more specifically chicken .",0
+304,"I like beef , and more specifically oysters .",0
+303,"I like oysters , and more specifically beef .",0
+302,"I like turkey , and more specifically oysters .",0
+301,"I like oysters , and more specifically turkey .",0
+300,"I like veal , and more specifically oysters .",0
+299,"I like oysters , and more specifically veal .",0
+298,"I like seafood , and more specifically oysters .",1
+297,"I like oysters , and more specifically seafood .",0
+296,"I like chicken , and more specifically oysters .",0
+295,"I like oysters , and more specifically chicken .",0
+294,"I like beef , and more specifically crabs .",0
+293,"I like crabs , and more specifically beef .",0
+292,"I like turkey , and more specifically crabs .",0
+291,"I like crabs , and more specifically turkey .",0
+290,"I like veal , and more specifically crabs .",0
+289,"I like crabs , and more specifically veal .",0
+288,"I like seafood , and more specifically crabs .",1
+287,"I like crabs , and more specifically seafood .",0
+286,"I like chicken , and more specifically crabs .",0
+285,"I like crabs , and more specifically chicken .",0
+284,"I like seafood , and more specifically beef .",0
+283,"I like beef , and more specifically salmon .",0
+282,"I like salmon , and more specifically beef .",0
+281,"I like seafood , and more specifically turkey .",0
+280,"I like turkey , and more specifically salmon .",0
+279,"I like salmon , and more specifically turkey .",0
+278,"I like seafood , and more specifically veal .",0
+277,"I like veal , and more specifically salmon .",0
+276,"I like salmon , and more specifically veal .",0
+275,"I like seafood , and more specifically chicken .",0
+274,"I like seafood , and more specifically salmon .",1
+273,"I like salmon , and more specifically seafood .",0
+272,"I like chicken , and more specifically salmon .",0
+271,"I like salmon , and more specifically chicken .",0
+270,"I like carrots , and more specifically lard .",0
+269,"I like lard , and more specifically carrots .",0
+268,"I like apples , and more specifically lard .",0
+267,"I like lard , and more specifically apples .",0
+266,"I like broccoli , and more specifically lard .",0
+265,"I like lard , and more specifically broccoli .",0
+264,"I like pork , and more specifically lard .",1
+263,"I like lard , and more specifically pork .",0
+262,"I like fish , and more specifically lard .",0
+261,"I like lard , and more specifically fish .",0
+260,"I like carrots , and more specifically bacon .",0
+259,"I like bacon , and more specifically carrots .",0
+258,"I like apples , and more specifically bacon .",0
+257,"I like bacon , and more specifically apples .",0
+256,"I like broccoli , and more specifically bacon .",0
+255,"I like bacon , and more specifically broccoli .",0
+254,"I like pork , and more specifically bacon .",1
+253,"I like bacon , and more specifically pork .",0
+252,"I like fish , and more specifically bacon .",0
+251,"I like bacon , and more specifically fish .",0
+250,"I like carrots , and more specifically prosciutto .",0
+249,"I like prosciutto , and more specifically carrots .",0
+248,"I like apples , and more specifically prosciutto .",0
+247,"I like prosciutto , and more specifically apples .",0
+246,"I like broccoli , and more specifically prosciutto .",0
+245,"I like prosciutto , and more specifically broccoli .",0
+244,"I like pork , and more specifically prosciutto .",1
+243,"I like prosciutto , and more specifically pork .",0
+242,"I like fish , and more specifically prosciutto .",0
+241,"I like prosciutto , and more specifically fish .",0
+240,"I like pork , and more specifically carrots .",0
+239,"I like carrots , and more specifically ham .",0
+238,"I like ham , and more specifically carrots .",0
+237,"I like pork , and more specifically apples .",0
+236,"I like apples , and more specifically ham .",0
+235,"I like ham , and more specifically apples .",0
+234,"I like pork , and more specifically broccoli .",0
+233,"I like broccoli , and more specifically ham .",0
+232,"I like ham , and more specifically broccoli .",0
+231,"I like pork , and more specifically fish .",0
+230,"I like pork , and more specifically ham .",1
+229,"I like ham , and more specifically pork .",0
+228,"I like fish , and more specifically ham .",0
+227,"I like ham , and more specifically fish .",0
+226,"I like jewelry , and more specifically blues .",0
+225,"I like blues , and more specifically jewelry .",0
+224,"I like food , and more specifically blues .",0
+223,"I like blues , and more specifically food .",0
+222,"I like boardgames , and more specifically blues .",0
+221,"I like blues , and more specifically boardgames .",0
+220,"I like music , and more specifically blues .",1
+219,"I like blues , and more specifically music .",0
+218,"I like sports , and more specifically blues .",0
+217,"I like blues , and more specifically sports .",0
+215,"I like jewelry , and more specifically techno .",0
+214,"I like techno , and more specifically jewelry .",0
+213,"I like food , and more specifically techno .",0
+212,"I like techno , and more specifically food .",0
+211,"I like boardgames , and more specifically techno .",0
+210,"I like techno , and more specifically boardgames .",0
+209,"I like music , and more specifically techno .",1
+208,"I like techno , and more specifically music .",0
+207,"I like sports , and more specifically techno .",0
+206,"I like techno , and more specifically sports .",0
+203,"I like jewelry , and more specifically jazz .",0
+202,"I like jazz , and more specifically jewelry .",0
+201,"I like food , and more specifically jazz .",0
+200,"I like jazz , and more specifically food .",0
+199,"I like boardgames , and more specifically jazz .",0
+198,"I like jazz , and more specifically boardgames .",0
+197,"I like music , and more specifically jazz .",1
+196,"I like jazz , and more specifically music .",0
+195,"I like sports , and more specifically jazz .",0
+194,"I like jazz , and more specifically sports .",0
+192,"I like music , and more specifically jewelry .",0
+190,"I like jewelry , and more specifically rock .",0
+189,"I like rock , and more specifically jewelry .",0
+188,"I like music , and more specifically food .",0
+187,"I like food , and more specifically rock .",0
+186,"I like rock , and more specifically food .",0
+185,"I like music , and more specifically boardgames .",0
+184,"I like boardgames , and more specifically rock .",0
+183,"I like rock , and more specifically boardgames .",0
+182,"I like music , and more specifically sports .",0
+181,"I like music , and more specifically rock .",1
+180,"I like rock , and more specifically music .",0
+179,"I like sports , and more specifically rock .",0
+178,"I like rock , and more specifically sports .",0
+169,"I like beer , and more specifically Zinfandel .",0
+168,"I like Zinfandel , and more specifically beer .",0
+167,"I like sprite , and more specifically Zinfandel .",0
+166,"I like Zinfandel , and more specifically sprite .",0
+165,"I like water , and more specifically Zinfandel .",0
+164,"I like Zinfandel , and more specifically water .",0
+163,"I like wine , and more specifically Zinfandel .",1
+162,"I like Zinfandel , and more specifically wine .",0
+161,"I like coca-cola , and more specifically Zinfandel .",0
+160,"I like Zinfandel , and more specifically coca-cola .",0
+157,"I like beer , and more specifically Chianti .",0
+156,"I like Chianti , and more specifically beer .",0
+155,"I like sprite , and more specifically Chianti .",0
+154,"I like Chianti , and more specifically sprite .",0
+153,"I like water , and more specifically Chianti .",0
+152,"I like Chianti , and more specifically water .",0
+151,"I like wine , and more specifically Chianti .",1
+150,"I like Chianti , and more specifically wine .",0
+149,"I like coca-cola , and more specifically Chianti .",0
+148,"I like Chianti , and more specifically coca-cola .",0
+146,"I like beer , and more specifically Chardonnay .",0
+145,"I like Chardonnay , and more specifically beer .",0
+144,"I like sprite , and more specifically Chardonnay .",0
+143,"I like Chardonnay , and more specifically sprite .",0
+141,"I like water , and more specifically Chardonnay .",0
+140,"I like Chardonnay , and more specifically water .",0
+139,"I like wine , and more specifically Chardonnay .",1
+138,"I like Chardonnay , and more specifically wine .",0
+137,"I like coca-cola , and more specifically Chardonnay .",0
+136,"I like Chardonnay , and more specifically coca-cola .",0
+134,"I like wine , and more specifically beer .",0
+132,"I like beer , and more specifically Merlot .",0
+131,"I like Merlot , and more specifically beer .",0
+130,"I like wine , and more specifically sprite .",0
+129,"I like sprite , and more specifically Merlot .",0
+128,"I like Merlot , and more specifically sprite .",0
+127,"I like wine , and more specifically water .",0
+125,"I like water , and more specifically Merlot .",0
+124,"I like Merlot , and more specifically water .",0
+123,"I like wine , and more specifically coca-cola .",0
+122,"I like wine , and more specifically Merlot .",1
+121,"I like Merlot , and more specifically wine .",0
+120,"I like coca-cola , and more specifically Merlot .",0
+119,"I like Merlot , and more specifically coca-cola .",0
+117,"I like parquet , and more specifically beds .",0
+116,"I like beds , and more specifically parquet .",0
+115,"I like wallpaper , and more specifically beds .",0
+114,"I like beds , and more specifically wallpaper .",0
+113,"I like paintings , and more specifically beds .",0
+112,"I like beds , and more specifically paintings .",0
+111,"I like furniture , and more specifically beds .",1
+110,"I like beds , and more specifically furniture .",0
+109,"I like cutlery , and more specifically beds .",0
+108,"I like beds , and more specifically cutlery .",0
+107,"I like parquet , and more specifically wardrobes .",0
+106,"I like wardrobes , and more specifically parquet .",0
+105,"I like wallpaper , and more specifically wardrobes .",0
+104,"I like wardrobes , and more specifically wallpaper .",0
+103,"I like paintings , and more specifically wardrobes .",0
+102,"I like wardrobes , and more specifically paintings .",0
+101,"I like furniture , and more specifically wardrobes .",1
+100,"I like wardrobes , and more specifically furniture .",0
+99,"I like cutlery , and more specifically wardrobes .",0
+98,"I like wardrobes , and more specifically cutlery .",0
+97,"I like parquet , and more specifically tables .",0
+96,"I like tables , and more specifically parquet .",0
+95,"I like wallpaper , and more specifically tables .",0
+94,"I like tables , and more specifically wallpaper .",0
+93,"I like paintings , and more specifically tables .",0
+92,"I like tables , and more specifically paintings .",0
+91,"I like furniture , and more specifically tables .",1
+90,"I like tables , and more specifically furniture .",0
+89,"I like cutlery , and more specifically tables .",0
+88,"I like tables , and more specifically cutlery .",0
+87,"I like furniture , and more specifically parquet .",0
+86,"I like parquet , and more specifically chairs .",0
+85,"I like chairs , and more specifically parquet .",0
+84,"I like furniture , and more specifically wallpaper .",0
+83,"I like wallpaper , and more specifically chairs .",0
+82,"I like chairs , and more specifically wallpaper .",0
+81,"I like furniture , and more specifically paintings .",0
+80,"I like paintings , and more specifically chairs .",0
+79,"I like chairs , and more specifically paintings .",0
+78,"I like furniture , and more specifically cutlery .",0
+77,"I like furniture , and more specifically chairs .",1
+76,"I like chairs , and more specifically furniture .",0
+75,"I like cutlery , and more specifically chairs .",0
+74,"I like chairs , and more specifically cutlery .",0
+73,"I use leather , and more specifically PVC .",0
+72,"I use PVC , and more specifically leather .",0
+71,"I use glass , and more specifically PVC .",0
+70,"I use PVC , and more specifically glass .",0
+69,"I use cotton , and more specifically PVC .",0
+68,"I use PVC , and more specifically cotton .",0
+67,"I use plastic , and more specifically PVC .",1
+66,"I use PVC , and more specifically plastic .",0
+65,"I use wood , and more specifically PVC .",0
+64,"I use PVC , and more specifically wood .",0
+63,"I use leather , and more specifically vinyl .",0
+62,"I use vinyl , and more specifically leather .",0
+61,"I use glass , and more specifically vinyl .",0
+60,"I use vinyl , and more specifically glass .",0
+59,"I use cotton , and more specifically vinyl .",0
+58,"I use vinyl , and more specifically cotton .",0
+57,"I use plastic , and more specifically vinyl .",1
+56,"I use vinyl , and more specifically plastic .",0
+55,"I use wood , and more specifically vinyl .",0
+54,"I use vinyl , and more specifically wood .",0
+51,"I use leather , and more specifically nylon .",0
+50,"I use nylon , and more specifically leather .",0
+49,"I use glass , and more specifically nylon .",0
+48,"I use nylon , and more specifically glass .",0
+47,"I use cotton , and more specifically nylon .",0
+46,"I use nylon , and more specifically cotton .",0
+45,"I use plastic , and more specifically nylon .",1
+44,"I use nylon , and more specifically plastic .",0
+43,"I use wood , and more specifically nylon .",0
+42,"I use nylon , and more specifically wood .",0
+40,"I use plastic , and more specifically leather .",0
+38,"I use leather , and more specifically polyester .",0
+37,"I use polyester , and more specifically leather .",0
+36,"I use plastic , and more specifically glass .",0
+35,"I use glass , and more specifically polyester .",0
+34,"I use polyester , and more specifically glass .",0
+33,"I use plastic , and more specifically cotton .",0
+32,"I use cotton , and more specifically polyester .",0
+31,"I use polyester , and more specifically cotton .",0
+30,"I use plastic , and more specifically wood .",0
+29,"I use plastic , and more specifically polyester .",1
+28,"I use polyester , and more specifically plastic .",0
+27,"I use wood , and more specifically polyester .",0
+26,"I use polyester , and more specifically wood .",0
+24,"I like shrubs , and more specifically pines .",0
+23,"I like pines , and more specifically shrubs .",0
+22,"I like bushes , and more specifically pines .",0
+21,"I like pines , and more specifically bushes .",0
+19,"I like animals , and more specifically pines .",0
+18,"I like pines , and more specifically animals .",0
+17,"I like trees , and more specifically pines .",1
+16,"I like pines , and more specifically trees .",0
+15,"I like grass , and more specifically pines .",0
+14,"I like pines , and more specifically grass .",0
+11,"I like shrubs , and more specifically firs .",0
+10,"I like firs , and more specifically shrubs .",0
+9,"I like bushes , and more specifically firs .",0
+8,"I like firs , and more specifically bushes .",0
+6,"I like animals , and more specifically firs .",0
+5,"I like firs , and more specifically animals .",0
+4,"I like trees , and more specifically firs .",1
+3,"I like firs , and more specifically trees .",0
+2,"I like grass , and more specifically firs .",0
+1,"I like firs , and more specifically grass .",0
