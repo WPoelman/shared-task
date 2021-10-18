@@ -12,7 +12,7 @@ class Sentence:
 	def output(self):
 		templatelist = [("I {verb} {word1} , except {word2} .",0), 
 						("I {verb} {word1} , and more specifically {word2} .",0), 
-						("I {verb} {word1} , but not {word2} .",0),
+						("I {verb} {word1} , but not {word2} .",0 or 2),
 						("I {verb} {word1} , an interesting type of {word2} .",1),
 						("I {verb} {word1} more than {word2} .",2),
 						("I do not like {word1} , I prefer {word2} .",2),
