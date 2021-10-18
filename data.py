@@ -19,7 +19,11 @@ class Sentence:
 						("I {verb} {word1} , and {word2} too .",2)
 						]
 		sent_label = random.choice(templatelist)
-		return sent_label[0].format(verb=self.verb,word1=self.word1,word2=self.word2), sent_label[1]
+		if sent_label[1] == 1:
+			lemma = WordNetLemmatizer()
+			return sent_label[0].format(verb=self.verb,word1=self.word1,word2=lemma.lemmatize(self.word2)), sent_label[1]
+		else:
+			return sent_label[0].format(verb=self.verb,word1=self.word1,word2=self.word2), sent_label[1]
 
 
 def main():
