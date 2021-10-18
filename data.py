@@ -28,15 +28,24 @@ class Sentence:
 
 def main():
 	words = ['trees','oaks','Kawasakis', 'motorcycles', 'terriers', 'poodles', 'dogs', 'cats']
-	verbs = ['like','use', 'met', 'trust']
+	people = ['clerks', 'astronomers', 'caretakers', 'astronomers', 'waiters', 'physicists', 'janitors']
+	materials = ['cotton', 'glass', 'polyester', 'PVC', 'vinyl', 'leather']
+	verbs = ['like','use', 'met']
 
 	lemma = WordNetLemmatizer()
 
 	for i in range(10):
 		verb = random.choice(verbs)
-		word1 = random.choice(words)
-		word2 = random.choice(words)
-		
+		if verb == 'like':
+			word1 = random.choice([random.choice(words), random.choice(people)])
+			word2 = random.choice([random.choice(words), random.choice(people)])
+		elif verb == 'met':
+			word1 = random.choice(people)
+			word2 = random.choice(people)
+		elif verb == 'use':
+			word1 = random.choice(materials)
+			word2 = random.choice(materials)
+
 		while word1 == word2:
 			word2 = random.choice(words)
 
