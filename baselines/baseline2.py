@@ -126,13 +126,13 @@ def embedding_model(args, lang, X_train, X_test, y_train, y_test):
         with open(test_cache_file, 'wb') as f:
             pickle.dump(test_embeddings, f)
 
-    evaluate_model(args, SVC(), lang, train_embeddings, test_embeddings, y_train, y_test, f'{model_id}_svc')
+    evaluate_model(args, SVC(random_state=0, kernel='linear'), lang, train_embeddings, test_embeddings, y_train, y_test, f'{model_id}_svc')
 
 
 def svc_model(args, lang, X_train, X_test, y_train, y_test):
     ''' Create tf-idf embeddings and evaluate a simple linear model'''
     vectorizer = TfidfVectorizer()
-    clf = SVC(random_state=0)
+    clf = SVC(random_state=0, kernel='linear')
     model = Pipeline([('vec', vectorizer), ('cls', clf)])
     evaluate_model(args, model, lang, X_train, X_test, y_train, y_test, 'tfidf_svc')
 
@@ -148,7 +148,6 @@ def main():
     args = create_arg_parser()
 
     for lang in args.languages:
-        # currently only works with english --> python3 baseline_newdata.py -mse -l 'en'
 
         df_train = pd.read_csv(DATA_DIR / f'subtask_1_{lang}_train.csv')
         df_test = pd.read_csv(DATA_DIR / f'subtask_1_{lang}_test.csv')
