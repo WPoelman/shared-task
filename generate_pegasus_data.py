@@ -126,7 +126,7 @@ Creating new sentences for {len(df)} sentences with settings:
     ''')
 
     records = []
-    for _, row in tqdm(df[:10].iterrows(), total=len(df)):
+    for _, row in tqdm(df.iterrows(), total=len(df)):
         # Either the total measures of the entire corpus, or use just the
         # current sentence.
         if not args.total_len:
