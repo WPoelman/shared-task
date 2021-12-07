@@ -1,7 +1,7 @@
 '''
 Description:
-    A script creates (paraphrases) new sentences based on the original input
-    data. Note that this is only intended to work for English!
+    A script that creates (paraphrases) new sentences based on the original 
+    input data. Note that this is only intended to work for English!
 '''
 
 import argparse
@@ -19,6 +19,7 @@ TOKENIZER = PegasusTokenizer.from_pretrained(MODEL_NAME)
 MODEL = PegasusForConditionalGeneration.from_pretrained(
     MODEL_NAME).to(TORCH_DEVICE)
 
+# maybe add spacy model to args
 NLP = spacy.load('en_core_web_sm', disable=['ner'])
 
 
@@ -69,6 +70,9 @@ def get_response(
 
 
 def validate_results(original_sent, new_sents):
+    # TODO find a neat way to dedupe the sentences while keeping the original
+    # casing (if it is even a problem that there are dupes?)
+    #
     # # First dedupe the results
     # original_lowered = original_sent.lower()
     # # use set to remove dupes in result
@@ -84,7 +88,7 @@ def validate_results(original_sent, new_sents):
     for sent in new_sents:
         new_sent_doc = NLP(sent)
         new_sent_pos = {t.pos_ for t in new_sent_doc}
-        # Not sure if this is correct, need to check
+        # Not sure if this is always correct, need to check
         if (new_sent_pos.issubset(original_sent_pos)
                 or original_sent_pos.issubset(new_sent_pos)):
             filtered_new.append(sent)
@@ -95,7 +99,7 @@ def validate_results(original_sent, new_sents):
 
     # filter on:
     #   - POS and/or DEP tags (at least the ones in original)
-    #   - order of words if they are the same (nouns, except I and such)
+    #   - order of words if they are the same (nouns, except "I" and such)
 
     print(filtered_new)
 
@@ -107,8 +111,6 @@ def main():
     df = pd.read_csv(args.input_path)
 
     num_beams = 10
-    # NOTE: test with either the max length of all sentences or only the
-    # current. With proper filtering the former might be the best.
     min_len_str = int(df.sentence.str.len().min())  # is numpy int by default
     max_len_str = int(df.sentence.str.len().max())
     max_len_tok = max(len(sent.split()) for sent in df.sentence.tolist())
