@@ -6,8 +6,10 @@ PreTENS shared task.
 
 
 # Usage
-1. `pip install -r requirements.txt`
-2. `python3 baseline.py -mse` (for all languages, for all baselines)
+1. (Optionally) create a virtual environment for this project (tested on python 3.8+)
+2. `pip install -r requirements.txt`
+3. Download an English spacy model for the data generation: `python -m spacy download en_core_web_sm`
+4. `python3 baseline.py -mse` (for all languages, for all baselines)
 
 ## Optional arguments
 ```
@@ -26,6 +28,22 @@ PreTENS shared task.
   -cv CROSS_VALIDATION, --cross_validation CROSS_VALIDATION		Cross validation folds
   
   -mo MODEL, --model MODEL	Sentence embedding model to use with -e
+```
+
+## Data generation
+### Pegasus English paraphrase
+```
+usage: generate_pegasus_data.py [-h] [-i INPUT_PATH] [-o OUTPUT_PATH] [-m MAX_NEW] [-tl]
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -i INPUT_PATH, --input_path INPUT_PATH
+                        English CSV with templates to expand.
+  -o OUTPUT_PATH, --output_path OUTPUT_PATH
+                        Output path for CSV with results.
+  -m MAX_NEW, --max_new MAX_NEW
+                        Max new sentences to generate per sentence
+  -tl, --total_len      Use the overall min and max sentence lengths of the entire corpus, instead of individual sentences
 ```
 
 ## TODO

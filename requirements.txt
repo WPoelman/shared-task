@@ -1,3 +1,6 @@
 pandas
 sentence-transformers
 sklearn
+sentencepiece
+transformers
+spacy
