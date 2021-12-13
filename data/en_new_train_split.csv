@@ -1,3 +1,4 @@
+id,sentence,labels
 1559,"He trusts rumors , an interesting type of hearing .",0
 4113,I like essays more than thrillers .,1
 959,"I like pigs , an interesting type of sparrow .",0
@@ -1264,7 +1265,6 @@
 1552,"He trusts his sight , an interesting type of reconstruction .",0
 1565,"He trusts reconstructions , an interesting type of hearing .",0
 4151,"I like cats , except bears .",0
-id,sentence,labels
 845,"I like water , except Chardonnay .",0
 4409,I like paintings more than novels .,1
 3150,"I like salmon , except veal .",0
