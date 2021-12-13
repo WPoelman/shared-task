@@ -1,0 +1,11 @@
+astronomers
+physicists
+scientists
+caretakers
+clerks
+waiters
+workers
+biologists
+janitors
+geneticists
+professors

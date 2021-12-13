@@ -3,6 +3,8 @@
 import random
 from nltk.corpus import wordnet as wn
 from nltk.stem.wordnet import WordNetLemmatizer
+import warnings
+
 
 class Sentence:
 	def __init__(self,verb,word1,word2):
@@ -27,13 +29,31 @@ class Sentence:
 
 
 def main():
-	words = ['trees','oaks','Kawasakis', 'motorcycles', 'terriers', 'poodles', 'dogs', 'cats']
-	people = ['clerks', 'astronomers', 'caretakers', 'astronomers', 'waiters', 'physicists', 'janitors']
-	materials = ['cotton', 'glass', 'polyester', 'PVC', 'vinyl', 'leather']
+	warnings.filterwarnings("ignore")
+
+	words = []
+	people = []
+	materials = []
 	verbs = ['like','use', 'met']
+
+	with open("words.txt") as file:
+		for line in file: 
+			line = line.strip() 
+			words.append(line) 
+
+	with open("people.txt") as file:
+		for line in file: 
+			line = line.strip() 
+			people.append(line) 
+
+	with open("materials.txt") as file:
+		for line in file: 
+			line = line.strip() 
+			materials.append(line)    
 
 	lemma = WordNetLemmatizer()
 
+	test = []
 	for i in range(10):
 		verb = random.choice(verbs)
 		if verb == 'like':
