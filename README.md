@@ -47,12 +47,14 @@ optional arguments:
 ```
 
 ## TODO
-- [ ] test set maken (nieuwe templates, nieuwe woordsoorten/onderwerpen)
-- [ ] unieke woorden uit de data halen en in woordenlijsten zetten
-- [ ] wordnet 'zij-relaties' eruit halen (eventueel Babelnet -> has kind)
-- [ ] code voor inverten erop zetten
-- [ ] eerst focussen op Engels, daarna de nieuwe dataset daarvoor vertalen naar IT en FR
-- [x] PEGASUS script erop zetten
-- [ ] data generen samenvoegen in een script
+- [x] test set maken (nieuwe templates, nieuwe woordsoorten/onderwerpen) (E)
+- [ ] handmatige templates bruikbaar maken (E)
+- [ ] IT & FR testdata maken (E)
+- [ ] unieke woorden uit de data halen en in woordenlijsten zetten (G)
+- [ ] wordnet 'zij-relaties' eruit halen (eventueel Babelnet -> has kind) (G/F)
+- [ ] code voor inverten erop zetten (F)
+- [ ] eerst focussen op Engels, daarna de nieuwe dataset daarvoor vertalen naar IT en FR (G/W/F/E)
+- [x] PEGASUS script erop zetten (W)
+- [ ] data generen samenvoegen in een script (W)
 - [ ] als we de nieuwe datasets hebben -> uitproberen wat het effect is van de datageneratietechnieken (los en gecombineerd)
 - [ ] als we verbeteringen zien, Bert model verder trainen op de task ipv embeddings in SVM (peregine uitproberen)
