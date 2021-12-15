@@ -46,6 +46,17 @@ optional arguments:
   -tl, --total_len      Use the overall min and max sentence lengths of the entire corpus, instead of individual sentences
 ```
 
+### Inverting sentences and labels
+```
+usage: invert.py [-h] [-l LANGUAGES [LANGUAGES ...]]
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -l LANGUAGES [LANGUAGES ...], --languages LANGUAGES [LANGUAGES ...]
+                        Language datasets to use for the inverting of the
+                        labels
+```
+
 ## TODO
 - [x] test set maken (nieuwe templates, nieuwe woordsoorten/onderwerpen) (E)
 - [ ] handmatige templates bruikbaar maken (E)
@@ -54,7 +65,8 @@ optional arguments:
 - [ ] meer woorden genereren en toevoegen (G)
 - [ ] data generatie perfectioneren (G)
 - [ ] wordnet 'zij-relaties' eruit halen (eventueel Babelnet -> has kind) (G/F)
-- [ ] code voor inverten erop zetten (F)
+- [x] code voor inverten erop zetten voor (tot nu toe voor Engels en Frans) (F)
+- [ ] code voor inverten aanvullen met Italiaanse regex patterns (F)
 - [ ] eerst focussen op Engels, daarna de nieuwe dataset daarvoor vertalen naar IT en FR (G/W/F/E)
 - [x] PEGASUS script erop zetten (W)
 - [ ] data generen samenvoegen in een script (W)
