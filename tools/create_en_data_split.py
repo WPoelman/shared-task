@@ -8,7 +8,7 @@ Description:
     noun categories, without template overlap.
 """
 
-from nltk import word_tokenize, pos_tag
+from nltk import pos_tag
 
 
 def main():
@@ -49,7 +49,7 @@ def get_special_nouns(file):
             # Every 'use' sentence starts with 'I' and ends in a period:
             line = line[line.index("I"):line.index(".")+1]
 
-            pos = pos_tag(word_tokenize(line))
+            pos = pos_tag(line.split(" "))
             for w, p in pos:
                 if p.startswith("NN") and w not in filter_words:  # manual correction: remove other noun categories
                     nouns.add(w)
@@ -61,9 +61,11 @@ def get_special_nouns(file):
 
 def write_to_file(lines, outfile):
     """ Write lines to file """
-    o = open(outfile, "w")
-    for line in set(lines):
-        o.write(line + "\n")
+    with open(outfile, "w") as o:
+        o.write("id,sentence,labels" + "\n")
+        for line in set(lines):
+            if "id,sentence,labels" not in line:
+                o.write(line + "\n")
 
 
 if __name__ == "__main__":
