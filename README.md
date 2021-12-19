@@ -60,7 +60,7 @@ optional arguments:
 ## TODO
 - [x] test set maken (nieuwe templates, nieuwe woordsoorten/onderwerpen) (E)
 - [ ] handmatige templates bruikbaar maken (E)
-- [ ] IT & FR testdata maken (E)
+- [x] IT & FR testdata maken (E)
 - [x] unieke woorden uit de data halen en in woordenlijsten zetten (G)
 - [ ] meer woorden genereren en toevoegen (G)
 - [ ] data generatie perfectioneren (G)
