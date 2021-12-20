@@ -1,0 +1,9 @@
+bushes
+oaks
+grass
+trees
+plants
+birches
+pines
+firs
+shrubs

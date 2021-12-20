@@ -1,0 +1,17 @@
+water
+wine
+beer
+sprite
+Zinfandel
+Chianti
+drinks
+beverages
+Chardonnay
+champagne
+milk
+orange juice
+juice
+apple juice
+whiskey
+Cognac
+milkshake

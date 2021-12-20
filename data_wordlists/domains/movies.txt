@@ -1,0 +1,7 @@
+cartoons
+movies
+Westerns
+documentaries
+films
+thrillers
+comedies

@@ -21,7 +21,7 @@ def main():
 			for subject in subjects:
 				words.append(str(subject))
 	words = list(set(words))
-	with open("words.txt", "w") as outfile:
+	with open("uniquewords.txt", "w") as outfile:
 		outfile.write("\n".join(words))
 
 if __name__ == "__main__":

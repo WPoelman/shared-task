@@ -1,0 +1,16 @@
+necklaces
+handbags
+scarfs
+bracelets
+shirts
+skirts
+earrings
+rings
+glasses
+wearables
+clothes
+jewelry
+clothing
+shoes
+trousers
+socks
