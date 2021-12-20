@@ -94,8 +94,27 @@ def main():
                          r"\1 \7 , et aussi \6 ."}
 
     # ITALIAN regex pattern lists
-    # todo: add italian regex patterns
-    same_label_it = {'instruction': 'same',}
+    same_label_it = {'instruction': 'same',
+                     r"(Amo|Uso|Apprezzo|Posso capire) l(.) (.*) più dell(.) (.*) \.": r"\1 l\4 \5 più dell\2 \3 .",
+                     r"(Amo|Uso|Apprezzo|Posso capire) l(.) (.*) più dei (.*) \.": r"\1 i \4 più dell\2 \3 .",
+                     r"(Amo|Uso|Apprezzo|Posso capire) l(.) (.*) più del (.*) \.": r"\1 il \4 più dell\2 \3 .",
+                     r"(Amo|Uso|Apprezzo|Posso capire) l(.) (.*) più degli (.*) \.": r"\1 gli \4 più dell\2 \3 .",
+                     r"(Amo|Uso|Apprezzo|Posso capire) gli (.*) più dei (.*) \.": r"\1 i \3 più degli \2 .",
+                     r"(Amo|Uso|Apprezzo|Posso capire) gli (.*) più dell(.) (.*) \.": r"\1 l\3 \4 più degli \2 .",
+                     r"(Amo|Uso|Apprezzo|Posso capire) gli (.*) più del (.*) \.": r"\1 il \3 più degli \2 .",
+                     r"(Amo|Uso|Apprezzo|Posso capire) gli (.*) più degli (.*) \.": r"\1 gli \3 più degli \2 .",
+                     r"(Amo|Uso|Apprezzo|Posso capire) il (.*) più dei (.*) \.": r"\1 i \3 più del \2 .",
+                     r"(Amo|Uso|Apprezzo|Posso capire) il (.*) più dell(.) (.*) \.": r"\1 l\3 \4 più del \2 .",
+                     r"(Amo|Uso|Apprezzo|Posso capire) il (.*) più del (.*) \.": r"\1 il \3 più del \2 .",
+                     r"(Amo|Uso|Apprezzo|Posso capire) il (.*) più degli (.*) \.": r"\1 gli \3 più del \2 .",
+                     r"(Amo|Uso|Apprezzo|Posso capire) i (.*) più dei (.*) \.": r"\1 i \3 più dei \2 .",
+                     r"(Amo|Uso|Apprezzo|Posso capire) i (.*) più dell(.) (.*) \.": r"\1 l\3 \4 più dei \2 .",
+                     r"(Amo|Uso|Apprezzo|Posso capire) i (.*) più del (.*) \.": r"\1 il \3 più dei \2 .",
+                     r"(Amo|Uso|Apprezzo|Posso capire) i (.*) più degli (.*) \.": r"\1 gli \3 più dei \2 .",
+                     r"Si fida (.*) più che (.*) \.": r"Si fida \2 più che \1 .",
+                     r"Non ama (.*) , preferisce (.*) \.": r"Non ama \2 , preferisce \1 .",
+                     r"Non amo (.*) , preferisco (.*) \.": r"Non amo \2 , preferisco \1 .",
+                     r"(Amo|Uso|Apprezzo|Posso capire|Ho incontrato) (.*) , ed anche (.*) \.": r"\1 \3 , ed anche \2 ."}
 
     pattern_lists = {'en': [same_label_en, one_to_zero_en, zero_to_one_en],
                      'fr': [same_label_fr],
