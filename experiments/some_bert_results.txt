@@ -1,0 +1,32 @@
+# early stopping 3 without
+{'epoch': 3.0,
+ 'eval_accuracy': 0.4817800709448565,
+ 'eval_f1': 0.5166917293233083,
+ 'eval_loss': 1.9193191528320312,
+ 'eval_precision': 0.5596091205211726,
+ 'eval_recall': 0.4798882681564246,
+ 'eval_runtime': 198.8407,
+ 'eval_samples_per_second': 15.595,
+ 'eval_steps_per_second': 1.951}
+
+ # early stopping 2 with pegasus
+ {'epoch': 0.62,
+    'eval_accuracy': 0.5546597871654305,
+    'eval_f1': 0.409071459135644,
+    'eval_loss': 1.6074033975601196,
+    'eval_precision': 0.8738574040219378,
+    'eval_recall': 0.2670391061452514,
+    'eval_runtime': 199.0811,
+    'eval_samples_per_second': 15.577,
+    'eval_steps_per_second': 1.949}
+
+# early stopping 3
+   {'epoch': 0.82,
+ 'eval_accuracy': 0.7423411802644309,
+ 'eval_f1': 0.7996991727249938,
+ 'eval_loss': 1.8158094882965088,
+ 'eval_precision': 0.7253296953160527,
+ 'eval_recall': 0.8910614525139665,
+ 'eval_runtime': 200.1259,
+ 'eval_samples_per_second': 15.495,
+ 'eval_steps_per_second': 1.939}
