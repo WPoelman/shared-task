@@ -1,7 +1,8 @@
 pandas
-sentence-transformers
 sklearn
 sentencepiece
 transformers
+sentence-transformers
 spacy
 tqdm
+datasets
