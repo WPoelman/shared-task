@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 baselines/cache/*.pickle
+trained_models
+data/cache
