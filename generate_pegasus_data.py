@@ -101,7 +101,7 @@ def validate_results(original_sent, new_sents):
     #   - POS and/or DEP tags (at least the ones in original)
     #   - order of words if they are the same (nouns, except "I" and such)
 
-    print(filtered_new)
+    # print(filtered_new)
 
     return filtered_new
 
@@ -137,14 +137,18 @@ Creating new sentences for {len(df)} sentences with settings:
         # NOTE: maybe try to convert all sentences in one go, not sure if that
         # will speed it up, but it might be handy if we are sure we use the
         # total len measures, need to test!
-        results = get_response(
-            [row.sentence],
-            args.max_new,
-            num_beams,
-            max_len_tok,
-            min_len_str,
-            max_len_str
-        )
+        try:
+            results = get_response(
+                [row.sentence],
+                args.max_new,
+                num_beams,
+                max_len_tok,
+                min_len_str,
+                max_len_str
+            )
+        except Exception as e:
+            print(e)
+            continue
 
         results = validate_results(row.sentence, results)
         records.extend([
