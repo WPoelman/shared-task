@@ -131,3 +131,5 @@ dmypy.json
 baselines/cache/*.pickle
 trained_models
 data/cache
+
+.DS_store
