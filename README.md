@@ -1,61 +1,23 @@
-# shared-task
+# Shared Task Information Science
 PreTENS shared task.
 
+Excerpt from the task website:
+>The PreTENS shared task hosted at SemEval 2022 aims at focusing on semantic competence with specific attention on the evaluation of language models with respect to the  recognition of appropriate taxonomic relations between two nominal arguments (i.e. cases where one is a supercategory of the other, or in extensional terms, one denotes a superset of the other). For instance animal is a supercategory of dog.
+ 
 * Shared task website: [https://sites.google.com/view/semeval2022-pretens/home-page](https://sites.google.com/view/semeval2022-pretens/home-page)
-* Original dataset repo: [https://github.com/shammur/SemEval2022Task3](https://github.com/shammur/SemEval2022Task3)
+* Dataset repo: [https://github.com/shammur/SemEval2022Task3](https://github.com/shammur/SemEval2022Task3)
 
-
-# Usage
+## Installation
 1. (Optionally) create a virtual environment for this project (tested on python 3.8+)
-2. `pip install -r requirements.txt`
+2. Run `pip install -r requirements.txt`
 3. Download an English spacy model for the data generation: `python -m spacy download en_core_web_sm`
-4. `python3 baseline.py -mse` (for all languages, for all baselines)
-
-## Optional arguments
-```
-  -m, --most_frequent   Use the most frequent class baselines
-
-  -s, --svc             Use the TF-IDF and SVC as baseline
-
-  -e, --embeddings      Use the multi-lingual sentence embedding baseline
-
-  -l LANGUAGES [LANGUAGES ...], --languages LANGUAGES [LANGUAGES ...]	Language datasets to use for the baselines
-
-  -v, --verbose         Show progression output
-
-  -c, --cache           Use cached sentence embeddings with -e
-
-  -cv CROSS_VALIDATION, --cross_validation CROSS_VALIDATION		Cross validation folds
-  
-  -mo MODEL, --model MODEL	Sentence embedding model to use with -e
-```
 
 ## Data generation
-### Pegasus English paraphrase
-```
-usage: generate_pegasus_data.py [-h] [-i INPUT_PATH] [-o OUTPUT_PATH] [-m MAX_NEW] [-tl]
+For specific data generation scripts and explanations, see `data_generation`.
 
-optional arguments:
-  -h, --help            show this help message and exit
-  -i INPUT_PATH, --input_path INPUT_PATH
-                        English CSV with templates to expand.
-  -o OUTPUT_PATH, --output_path OUTPUT_PATH
-                        Output path for CSV with results.
-  -m MAX_NEW, --max_new MAX_NEW
-                        Max new sentences to generate per sentence
-  -tl, --total_len      Use the overall min and max sentence lengths of the entire corpus, instead of individual sentences
-```
-
-### Inverting sentences and labels
-```
-usage: invert.py [-h] [-l LANGUAGES [LANGUAGES ...]]
-
-optional arguments:
-  -h, --help            show this help message and exit
-  -l LANGUAGES [LANGUAGES ...], --languages LANGUAGES [LANGUAGES ...]
-                        Language datasets to use for the inverting of the
-                        labels
-```
+## Models
+- Run `model_experiments/run_baselines.py` to run the baselines for a given dataset.
+- Run `model_experiments/bert_model_inference.py` to generate predictions for a given dataset.
 
 ## TODO
 - [x] test set maken (nieuwe templates, nieuwe woordsoorten/onderwerpen) (E)
@@ -69,6 +31,6 @@ optional arguments:
 - [ ] code voor inverten aanvullen met Italiaanse regex patterns (F)
 - [ ] eerst focussen op Engels, daarna de nieuwe dataset daarvoor vertalen naar IT en FR (G/W/F/E)
 - [x] PEGASUS script erop zetten (W)
-- [ ] data generen samenvoegen in een script (W)
+- [x] data generen samenvoegen in een script (W)
 - [ ] als we de nieuwe datasets hebben -> uitproberen wat het effect is van de datageneratietechnieken (los en gecombineerd)
 - [ ] als we verbeteringen zien, Bert model verder trainen op de task ipv embeddings in SVM (peregine uitproberen)
