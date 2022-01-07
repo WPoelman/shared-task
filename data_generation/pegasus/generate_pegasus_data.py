@@ -1,8 +1,8 @@
-'''
+"""
 Description:
     A script that creates (paraphrases) new sentences based on the original 
     input data. Note that this is only intended to work for English!
-'''
+"""
 
 import argparse
 
@@ -13,28 +13,36 @@ from tqdm import tqdm
 from transformers import PegasusForConditionalGeneration, PegasusTokenizer
 
 # Model url: https://huggingface.co/tuner007/pegasus_paraphrase
-MODEL_NAME = 'tuner007/pegasus_paraphrase'
-TORCH_DEVICE = 'cuda' if torch.cuda.is_available() else 'cpu'
+MODEL_NAME = "tuner007/pegasus_paraphrase"
+TORCH_DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 TOKENIZER = PegasusTokenizer.from_pretrained(MODEL_NAME)
-MODEL = PegasusForConditionalGeneration.from_pretrained(
-    MODEL_NAME).to(TORCH_DEVICE)
+MODEL = PegasusForConditionalGeneration.from_pretrained(MODEL_NAME).to(TORCH_DEVICE)
 
 # maybe add spacy model to args
-NLP = spacy.load('en_core_web_sm', disable=['ner'])
+NLP = spacy.load("en_core_web_sm", disable=["ner"])
 
 
 def create_arg_parser():
     parser = argparse.ArgumentParser()
-    parser.add_argument("-i", "--input_path",
-                        help="English CSV with templates to expand.")
-    parser.add_argument("-o", "--output_path",
-                        help="Output path for CSV with results.")
-    parser.add_argument('-m', '--max_new', default=10, type=int,
-                        help="Max new sentences to generate per sentence")
-    parser.add_argument('-tl', '--total_len', action='store_true',
-                        help='Use the overall min and max sentence lengths of '
-                             'the entire corpus, instead of individual '
-                             'sentences')
+    parser.add_argument(
+        "-i", "--input_path", help="English CSV with templates to expand."
+    )
+    parser.add_argument("-o", "--output_path", help="Output path for CSV with results.")
+    parser.add_argument(
+        "-m",
+        "--max_new",
+        default=10,
+        type=int,
+        help="Max new sentences to generate per sentence",
+    )
+    parser.add_argument(
+        "-tl",
+        "--total_len",
+        action="store_true",
+        help="Use the overall min and max sentence lengths of "
+        "the entire corpus, instead of individual "
+        "sentences",
+    )
     return parser.parse_args()
 
 
@@ -44,14 +52,14 @@ def get_response(
     num_beams,
     max_len_toks,
     min_len_output_str,
-    max_len_output_str
+    max_len_output_str,
 ):
     batch = TOKENIZER(
         input_texts,
         truncation=True,
-        padding='longest',
+        padding="longest",
         max_length=60,
-        return_tensors="pt"
+        return_tensors="pt",
     ).to(TORCH_DEVICE)
 
     translated = MODEL.generate(
@@ -61,7 +69,7 @@ def get_response(
         max_length=max_len_output_str,
         num_beams=num_beams,
         num_return_sequences=num_return_sequences,
-        temperature=1.5
+        temperature=1.5,
     )
 
     tgt_text = TOKENIZER.batch_decode(translated, skip_special_tokens=True)
@@ -89,13 +97,10 @@ def validate_results(original_sent, new_sents):
         new_sent_doc = NLP(sent)
         new_sent_pos = {t.pos_ for t in new_sent_doc}
         # Not sure if this is always correct, need to check
-        if (new_sent_pos.issubset(original_sent_pos)
-                or original_sent_pos.issubset(new_sent_pos)):
+        if new_sent_pos.issubset(original_sent_pos) or original_sent_pos.issubset(
+            new_sent_pos
+        ):
             filtered_new.append(sent)
-
-    # Make sure the original is in the front so we know the ids are correct
-    # and where the new sentences come from.
-    filtered_new.insert(0, original_sent)
 
     # filter on:
     #   - POS and/or DEP tags (at least the ones in original)
@@ -115,7 +120,8 @@ def main():
     max_len_str = int(df.sentence.str.len().max())
     max_len_tok = max(len(sent.split()) for sent in df.sentence.tolist())
 
-    print(f'''
+    print(
+        f"""
 Creating new sentences for {len(df)} sentences with settings:
     args={args}
 
@@ -123,7 +129,8 @@ Creating new sentences for {len(df)} sentences with settings:
     min_len_str={min_len_str}
     max_len_str={max_len_str}
     max_len_tok={max_len_tok}
-    ''')
+    """
+    )
 
     records = []
     for _, row in tqdm(df.iterrows(), total=len(df)):
@@ -133,6 +140,9 @@ Creating new sentences for {len(df)} sentences with settings:
             min_len_str = len(row.sentence)
             max_len_str = len(row.sentence)
             max_len_tok = len(row.sentence.split())
+
+        original_sent_id = row.id
+        records.append({"id": row.id, "sentence": row.sentence, "labels": row.labels})
 
         # NOTE: maybe try to convert all sentences in one go, not sure if that
         # will speed it up, but it might be handy if we are sure we use the
@@ -144,27 +154,28 @@ Creating new sentences for {len(df)} sentences with settings:
                 num_beams,
                 max_len_tok,
                 min_len_str,
-                max_len_str
+                max_len_str,
             )
         except Exception as e:
             print(e)
             continue
 
         results = validate_results(row.sentence, results)
-        records.extend([
-            {
-                'id': f'{row.id}-{i}',
-                'sentence': result,
-                'labels': row.labels,
-            } for i, result in enumerate(results)
-        ])
 
-    print(
-        f'Created {len(records) - len(df)} new sentences, '
-        f'see "{args.output_path}".'
-    )
+        records.extend(
+            [
+                {
+                    "id": f"{original_sent_id}-pegaus-{i}",
+                    "sentence": result,
+                    "labels": row.labels,
+                }
+                for i, result in enumerate(results)
+            ]
+        )
+
+    print(f"Created {len(records) - len(df)} new sentences, see '{args.output_path}'.")
     pd.DataFrame().from_records(records).to_csv(args.output_path, index=False)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
