@@ -5,3 +5,275 @@ beds
 wardrobes
 furniture
 cutlery
+wing chair
+Lord's table
+dresser
+lower
+tallboy
+box
+billiard table
+folding chair
+writing desk
+toilet table
+cellaret
+platen
+lectern
+highchair
+ladder-back
+altar
+pingpong table
+lawn chair
+secretaire
+overstuffed chair
+bar
+lower berth
+Murphy bed
+wash-hand stand
+tabouret
+lounger
+mercy seat
+milk bar
+wall unit
+sofa
+twin bed
+desk
+pedestal table
+double bed
+card catalog
+davenport
+armchair
+fitment
+lawn furniture
+tea table
+sleigh bed
+chest
+plank-bed
+drop-leaf table
+window seat
+feeding chair
+gaming table
+stool
+gueridon
+hassock
+trestle table
+yacht chair
+wet bar
+peacock-throne
+china cabinet
+highboy
+escritoire
+cash bar
+captain's chair
+day bed
+built in bed
+bed
+coffee table
+Parsons table
+clothes closet
+hammock
+box seat
+cabinet
+breakfast table
+daybed
+marriage bed
+checkout counter
+credenza
+ping-pong table
+refectory table
+ottoman
+salad bar
+beach chair
+commissary
+pier table
+council board
+swivel chair
+convertible
+divan
+booth
+sack
+music stool
+park bench
+recliner
+etagere
+cocktail table
+console
+built-in bed
+notions counter
+deathbed
+soda fountain
+checkout
+reclining chair
+shoofly
+lowboy
+medicine chest
+banquette
+medicine cabinet
+taboret
+barber chair
+tip table
+commode
+bookcase
+dressing table
+dining table
+berth
+bureau
+china closet
+fighting chair
+reading desk
+snack counter
+Morris chair
+cutty stool
+sectional
+hallstand
+bishop's throne
+armoire
+wine bar
+couch
+cradle
+rocking chair
+straight chair
+sofa bed
+vertical file
+cot
+fauteuil
+baby's bed
+bedstead
+penalty box
+dinner table
+work table
+upper
+sushi bar
+oyster bar
+dining-room furniture
+table-tennis table
+cathedra
+writing table
+toilet seat
+floor lamp
+throne
+chesterfield
+lab bench
+conference table
+dining-room table
+bunk bed
+step stool
+drawing table
+footstool
+garden chair
+Eames chair
+laboratory bench
+coat closet
+hospital bed
+ladder-back chair
+prie-dieu
+Boston rocker
+piano stool
+love seat
+entertainment center
+trundle bed
+pool table
+lounge chair
+credence
+file cabinet
+kitchen table
+Sheraton
+church bench
+bassinet
+operating table
+chest of drawers
+settle
+clothespress
+tete-a-tete
+high table
+settee
+seat
+wardrobe
+sideboard
+side chair
+footrest
+snooker table
+bedroom furniture
+press
+truckle
+tilt-top table
+reading lamp
+pew
+sleeper
+meat counter
+motorized wheelchair
+filing cabinet
+baby bed
+office furniture
+communion table
+sickbed
+campstool
+reception desk
+chair
+Windsor chair
+bath chair
+file
+washstand
+pouffe
+bedframe
+camp chair
+carrycot
+lounge
+work bench
+chaise longue
+musnud
+milking stool
+student lamp
+flat bench
+chaise
+deck chair
+vis-a-vis
+triclinium
+tablet-armed chair
+counter
+table
+buffet
+single bed
+platform bed
+loveseat
+workbench
+upper berth
+nest
+rocker
+water bed
+table lamp
+wheelchair
+easy chair
+platform rocker
+trundle
+divan bed
+council table
+Rolodex
+studio couch
+worktable
+card catalogue
+card index
+bunk
+camp bed
+tuffet
+stand
+chair of state
+tip-top table
+four-poster
+vanity
+lamp
+closet
+minibar
+crib
+card table
+chiffonier
+board
+truckle bed
+secretary
+snack bar
+puff
+bench
+pouf
+squab
+drafting table
+gateleg table
+console table

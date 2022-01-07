@@ -15,3 +15,462 @@ apple juice
 whiskey
 Cognac
 milkshake
+pastis
+maraschino liqueur
+perry
+firewater
+ratafee
+zombi
+must
+spritzer
+booze
+Galliano
+muscadel
+mineral water
+vintage
+cafe royale
+sherry
+pruno
+orange liqueur
+bishop
+Pinot noir
+John Barleycorn
+whisky
+Hollands
+zombie
+cafe noir
+Scotch
+retsina
+brandy sling
+pink wine
+dry milk
+Merlot
+Pernod
+porter
+eggnog
+Saint Emilion
+creme de menthe
+grape juice
+carbonated water
+milk powder
+Bordeaux
+stinger
+vodka
+Montrachet
+rotgut
+punch
+chocolate milk
+philter
+liquor
+coffee cappuccino
+Chartreuse
+planter's punch
+Turkish coffee
+Weizenbock
+buttermilk
+coffee royal
+absinth
+philtre
+home brew
+blended whiskey
+whiskey sour
+geneva
+ginger ale
+hot toddy
+Chenin blanc
+red wine
+cold duck
+mead
+anisette
+hard liquor
+Tom and Jerry
+pulque
+white beer
+Dubonnet
+pina colada
+sacramental wine
+mate
+bootleg
+wheat beer
+slug
+Irish
+Munich beer
+Bloody Mary
+orange-juice concentrate
+ice water
+hydromel
+Medoc
+latte
+poteen
+intoxicant
+brew
+kvass
+sambuca
+cranberry juice
+jug wine
+Pilsener
+Tom Collins
+Coca Cola
+coffee substitute
+corn
+coffee liqueur
+ginger pop
+Rhine wine
+soda water
+quinine water
+orangeade
+ale
+sling
+alcoholic drink
+spruce beer
+smoothie
+love-potion
+pineapple juice
+grog
+Rhone wine
+inebriant
+coffee
+Vouvray
+bourbon
+spirits
+chicory root
+oenomel
+schnaps
+Burgundy
+vin ordinaire
+bloody shame
+Irish whiskey
+bubbly
+Calvados
+white Burgundy
+lager
+brandy
+akvavit
+Irish whisky
+Chablis
+Beaujolais
+NADA daiquiri
+powdered milk
+light beer
+saki
+dried milk
+buck's fizz
+corn whiskey
+scrumpy
+benedictine
+bathtub gin
+malt liquor
+blended whisky
+Burgundy wine
+zinfandel
+sloe gin
+hock
+California wine
+drip coffee
+mulled cider
+bullshot
+Weizenbier
+swizzle
+neutral spirits
+love-philter
+aquavit
+mixer
+mocha
+Bordeaux wine
+champagne cup
+orange soda
+gin rickey
+Yquem
+grappa
+martini
+red Bordeaux
+bottled water
+lacing
+wassail
+straw wine
+herb tea
+mixed drink
+Amontillado
+cream soda
+Pepsi Cola
+May wine
+Holland gin
+ratafia
+koumiss
+Irish coffee
+maraschino
+sparkling water
+Jamaica rum
+decaf
+port wine
+tea-like drink
+condensed milk
+cocktail
+cola
+White Russian
+fruit punch
+daiquiri
+cambric tea
+Grand Marnier
+Italian vermouth
+strawberry daiquiri
+table wine
+draft beer
+margarita
+seltzer
+Guinness
+liqueur
+demerara
+ice tea
+dry vermouth
+herbal
+brewage
+cider
+frozen orange juice
+metheglin
+fish house punch
+Pepsi
+wish-wash
+aqua vitae
+caffe latte
+cappuccino
+Rob Roy
+tequila
+old fashioned
+kirsch
+eau de vie
+Sauternes
+refresher
+milk punch
+amaretto
+grasshopper
+Dom Pedro
+mimosa
+soft drink
+herbal tea
+kavakava
+varietal wine
+draught beer
+Weissbier
+homebrew
+cup
+liebfraumilch
+stout
+hot chocolate
+Cotes de Provence
+ade
+arrack
+muscat
+chocolate
+ouzo
+sake
+gimlet
+Verdicchio
+schnapps
+cobbler
+curacoa
+instant coffee
+sidecar
+kummel
+whisky sour
+dope
+limeade
+cooler
+sparkling wine
+dessert wine
+nectar
+apple juice
+fruit crush
+grapefruit juice
+ginger beer
+certified milk
+nonfat dry milk
+lemonade
+Scotch and soda
+skim milk
+sweet vermouth
+Drambuie
+rum sling
+maconnais
+muscadelle
+Armagnac
+proof spirit
+Cabernet
+tea
+rum cocktail
+soda pop
+rye whisky
+Burton
+drinking chocolate
+claret
+triple sec
+macon
+claret cup
+Harvey Wallbanger
+kumis
+mint julep
+Madeira
+Postum
+near beer
+generic wine
+port
+Manzanilla
+cuppa
+love-philtre
+screwdriver
+cows' milk
+fortified wine
+gin
+cassiri
+camomile tea
+iced coffee
+Canary wine
+kava
+mescal
+pale ale
+mocha coffee
+drinking water
+Moselle
+java
+ice coffee
+creme de cacao
+highball
+marc
+homogenized milk
+rye whiskey
+sugar water
+muscatel
+elixir of life
+hooch
+manhattan
+cafe au lait
+whole milk
+Sauterne
+bitter lemon
+demerara rum
+Rioja
+sun tea
+Octoberfest
+rose
+gin sling
+skimmed milk
+fruit juice
+malt
+birch beer
+Tokay
+Vichy water
+ethyl alcohol
+espresso
+corn whisky
+decaffeinated coffee
+rum
+egg cream
+porter's beer
+French vermouth
+tonic
+anisette de Bordeaux
+scalded milk
+cordial
+club soda
+goats'milk
+vino
+Scotch malt whisky
+rice beer
+alcohol
+Munchener
+Pilsner
+Pinot blanc
+vodka martini
+cyder
+suds
+blush wine
+hard drink
+Scotch whiskey
+Virgin Mary
+evaporated milk
+Scotch whisky
+nipa
+soda
+glogg
+sour
+orange juice
+pasteurized milk
+acidophilus milk
+Muscadet
+Pinot Chardonnay
+bock beer
+alcoholic beverage
+corn liquor
+semi-skimmed milk
+gin and it
+potion
+pousse-cafe
+flip
+Sauvignon blanc
+root beer
+white wine
+lager beer
+collins
+gin and tonic
+bitters
+sweet cider
+moonshine
+sour mash whiskey
+applejack
+Scotch malt whiskey
+aperitif
+strong drink
+absinthe
+Coke
+cupper
+malt whisky
+Sazerac
+Rhenish
+Marsala
+raw milk
+malt whiskey
+julep
+tonic water
+mulled wine
+sour mash
+generic
+creme de fraise
+rickey
+sarsaparilla
+Kahlua
+malmsey
+rose wine
+low-fat milk
+phosphate
+Soave
+Riesling
+iced tea
+sour milk
+fruit drink
+altar wine
+varietal
+hootch
+slivovitz
+bock
+vermouth
+arak
+pink lady
+Cabernet Sauvignon
+demitasse
+bitter
+toddy
+sack
+cocoa
+tisane
+rye
+negus
+ardent spirits
+plonk
+curacao
+chicory
+elixir
+fizz
+lithia water
+yak's milk
+pop
+hard cider
