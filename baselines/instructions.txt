@@ -1,4 +1,4 @@
-I created a new train and test file and also created the baseline2.py file so it could work with these separate train and test files as input (instead of performing CV on one csv file). 
+I created a new train and test file and also created the baseline_single_files.py file so it could work with these separate train and test files as input (instead of performing CV on one csv file). 
 
 The test file is 3 times the size of the train file.
 
@@ -15,5 +15,5 @@ Instructions to run it:
 $ mv data/subtask_1_en_test.csv ../../data/
 $ mv data/subtask_1_en_train.csv ../../data/
 
-- Run baseline2.py from the  baselines directory as follows (since it currentlyonly works for english):
-$ python baseline2.py -mse -l 'en'
+- Run baseline_single_files.py from the  baselines directory as follows (since it currentlyonly works for english):
+$ python baseline_single_files.py -mse -l 'en'
