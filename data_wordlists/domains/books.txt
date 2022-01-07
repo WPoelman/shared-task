@@ -3,3 +3,139 @@ textbooks
 books
 essays
 handbooks
+book of facts
+reader
+annual
+Book of Psalms
+phrase book
+pop-up
+course catalogue
+travel guidebook
+map collection
+prayerbook
+vade mecum
+textbook
+instruction manual
+ticket book
+gloss
+thesaurus
+wordfinder
+directory
+preliminary prospectus
+phonebook
+bestiary
+McGuffey Eclectic Readers
+unabridged dictionary
+lexicon
+crammer
+yearly
+bilingual dictionary
+last word
+glossary
+collegiate dictionary
+yearbook
+telephone directory
+wordbook
+cyclopedia
+text edition
+atlas
+red herring
+yellow pages
+enchiridion
+vocabulary
+manual
+almanac
+appointment calendar
+review copy
+learner's dictionary
+unabridged
+field guide
+pop-up book
+cyclopaedia
+pocket dictionary
+blue book
+grimoire
+course catalog
+book of maps
+encyclopedia
+brochure
+synonym finder
+gazetteer
+appointment book
+etymological dictionary
+catechism
+formulary
+storybook
+breviary
+source book
+onomasticon
+operating instructions
+trade book
+reference
+encyclopaedia
+guide
+songbook
+dictionary
+best seller
+catalogue
+speller
+trade edition
+hymnal
+instruction book
+book of knowledge
+ephemeris
+bestseller
+pamphlet
+phone book
+hymnbook
+copybook
+linguistic atlas
+school dictionary
+folder
+school text
+introduction
+farmer's calendar
+missal
+catalog
+hornbook
+reference manual
+spell-checker
+Psalter
+little dictionary
+white pages
+roadbook
+sex manual
+book of instructions
+guidebook
+text
+consuetudinary
+desk dictionary
+primer
+reckoner
+reference book
+spelling checker
+curiosa
+hymnary
+consuetudinal
+telephone book
+ready reckoner
+schoolbook
+cookbook
+booklet
+workbook
+bible
+reference work
+handbook
+leaflet
+tome
+word finder
+instructions
+prayer book
+prospectus
+dialect atlas
+authority
+cookery book
+itinerary
+baedeker
+pharmacopeia
+playbook

@@ -14,10 +14,10 @@ class Sentence:
 	def output(self):
 		templatelist = [("I {verb} {word1} , except {word2} .",0), 
 						("I {verb} {word1} , and more specifically {word2} .",0), 
-						("I {verb} {word1} , but not {word2} .",0 or 2),
+						("I {verb} {word1} , but not {word2} .",0 and 2),
 						("I {verb} {word1} , an interesting type of {word2} .",1),
 						("I {verb} {word1} more than {word2} .",2),
-						("I do not like {word1} , I prefer {word2} .",2),
+						("I do not {verb} {word1} , I prefer {word2} .",2),
 						("I {verb} {word1} , and {word2} too .",2)
 						]
 		sent_label = random.choice(templatelist)
@@ -42,75 +42,77 @@ def main():
 	warnings.filterwarnings("ignore")
 	lemma = WordNetLemmatizer()
 
-	domains = ['words','people','materials','food','music','animals','wearables','movies','books','entertainment','transport','drinks','furniture','plants','senses']
-	domain_dict = read(domains)
-	verb_domain_dict = {'use':domain_dict['materials'],
-						'met':domain_dict['people'],
-						'eat':domain_dict['food'],
-						'listen to':domain_dict['music'],
-						'wear':domain_dict['wearables'],
-						'watch':domain_dict['movies'],
-						'read':domain_dict['books'],
-						'drink':domain_dict['drinks'],
-						'trust':domain_dict['words']
-						}
-	verbs = list(verb_domain_dict.keys()) + ['like']
+	domain_verbs = {'words':['trust','like'],
+			   'people':['met','like'],
+			   'materials':['use','like'],
+			   'food':['eat','like'],
+			   'music':['listen to','like'],
+			   'animals':['like'],
+			   'wearables':['wear','like'],
+			   'movies':['watch','like'],
+			   'books':['read','like'],
+			   'entertainment':['like'],
+			   'transport':['like'],
+			   'drinks':['drink','like'],
+			   'furniture':['like'],
+			   'plants':['like']
+			   }
+	domain_dict = read(list(domain_verbs.keys()))
 
 
-	n_sent = 60 # number of sentences per label
-	count0 = 0
-	count1 = 0
+	# number of sentences per label per relation per domain
+	# final number of sentences: n_sent * 2 * 3 * 14
+	n_sent = 9
 
-	while not (count0 == n_sent and count1 == n_sent):
-		verb = random.choice(verbs)
-		if verb == 'like':
-			domain = random.choice(domains)
-			word1 = random.choice(domain_dict[domain])
-			word2 = random.choice(domain_dict[domain])
-			while word1 == word2:
+
+	for domain in list(domain_verbs.keys()):
+		for relation in [0,1,2]:
+			count0 = 0
+			count1 = 0
+			while not (count0 == n_sent and count1 == n_sent):
+				verb = random.choice(domain_verbs[domain])
+				word1 = random.choice(domain_dict[domain])
 				word2 = random.choice(domain_dict[domain])
+				while word1 == word2:
+					word2 = random.choice(domain_dict[domain])
 
-		else:
-			word1 = random.choice(verb_domain_dict[verb])
-			word2 = random.choice(verb_domain_dict[verb])
+				generated_sent = Sentence(verb, word1, word2).output()
 
-			while word1 == word2:
-				word2 = random.choice(verb_domain_dict[verb])
+				try:
+					# make 2 part word Wordnet searchable
+					word1 = word1.split()
+					word1 = '_'.join(word1)
+					word2 = word2.split()
+					word2 = '_'.join(word2)			
 
-		generated_sent = Sentence(verb, word1, word2).output()
+					w1_hypolist = list(set([w for s in wn.synsets(lemma.lemmatize(word1))[0].closure(lambda s:s.hyponyms()) for w in s.lemma_names()]))
+					w2_hypolist = list(set([w for s in wn.synsets(lemma.lemmatize(word2))[0].closure(lambda s:s.hyponyms()) for w in s.lemma_names()]))
 
-		try:
-			word1 = word1.split()
-			word1 = '_'.join(word1)
-			word2 = word2.split()
-			word2 = '_'.join(word2)			
+					# x hypernym of y: 0
+					# y hypernym of x: 1
+					# no relation: 2
 
-			w1_hypolist = list(set([w for s in wn.synsets(lemma.lemmatize(word1))[0].closure(lambda s:s.hyponyms()) for w in s.lemma_names()]))
-			w2_hypolist = list(set([w for s in wn.synsets(lemma.lemmatize(word2))[0].closure(lambda s:s.hyponyms()) for w in s.lemma_names()]))
+					if word2 in w1_hypolist or lemma.lemmatize(word2) in w1_hypolist:
+						x = 0
+					elif word1 in w2_hypolist or lemma.lemmatize(word1) in w2_hypolist:
+						x = 1
+					else:
+						x = 2
+				except:
+					x = 2
 
-			# x hypernym of y: 0
-			# y hypernym of x: 1
-			# no relation: 2
+				
 
-			if word2 in w1_hypolist or lemma.lemmatize(word2) in w1_hypolist:
-				x = 0
-			elif word1 in w2_hypolist or lemma.lemmatize(word1) in w2_hypolist:
-				x = 1
-			else:
-				x = 2
-		except:
-			x = 3
+				if x == relation:
+					if generated_sent[1] == x:
+						if count1 != n_sent:
+							print(generated_sent[0], 1)
+							count1 += 1
 
-		
-		if generated_sent[1] == x:
-			if count1 != n_sent:
-				print(generated_sent[0], 1)
-				count1 += 1
-		else:
-			if count0 != n_sent:
-				print(generated_sent[0], 0)
-				count0 += 1
+					else:
+						if count0 != n_sent:
+							print(generated_sent[0], 0)
+							count0 += 1
 
-	#print(list(set([w for s in wn.synsets(lemma.lemmatize('drinks'))[0].closure(lambda s:s.hyponyms()) for w in s.lemma_names()])))
 if __name__ == "__main__":
 	main()
