@@ -30,6 +30,8 @@ The `id` field shows what data generation steps have been involved for that sent
 * `1-word-pegasus-4`: fourth pegasus generated sentence for newly generated template
 * ... and so on
 
+These separate csv's can be combined with the `combine_datasets.py` script, this script also filters out duplicate sentences.
+
 ### Pegasus English paraphrase
 ```
 usage: generate_pegasus_data.py [-h] [-i INPUT_PATH] [-o OUTPUT_PATH] [-m MAX_NEW] [-tl]
