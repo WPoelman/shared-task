@@ -64,6 +64,7 @@ def main():
 	# final number of sentences: n_sent * 2 * 3 * 14
 	n_sent = 9
 
+	sent_count = 0
 
 	for domain in list(domain_verbs.keys()):
 		for relation in [0,1,2]:
@@ -106,12 +107,14 @@ def main():
 				if x == relation:
 					if generated_sent[1] == x:
 						if count1 != n_sent:
-							print(generated_sent[0], 1)
+							sent_count += 1
+							print("word-{0}".format(sent_count),generated_sent[0], 1)
 							count1 += 1
 
 					else:
 						if count0 != n_sent:
-							print(generated_sent[0], 0)
+							sent_count += 1
+							print("word-{0}".format(sent_count),generated_sent[0], 0)
 							count0 += 1
 
 if __name__ == "__main__":
