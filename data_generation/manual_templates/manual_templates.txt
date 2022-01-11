@@ -1,0 +1,58 @@
+﻿"I {verb} {word1} , and particularly {word2} .",0
+"I {verb} {word1} , and especially {word2} .",0
+"I {verb} {word1} , and in particular {word2} .",0
+"If {word1} did not exist , then {word2} would not exist either .",0
+"I {verb} {word1} , and to be more specific {word2} .",0
+"I {verb} {word1} , and narrowing it down , {word2} .",0
+"I {verb} {word1} , less generally {word2} .",0
+"I {verb} {word1} , but most of all {word2} .",0
+"I {verb} {word1} in general , but {word2} are my favourite .",0
+"I {verb} {word1} in general , but {word2} are my favorite .",0
+"I {verb} {word1} , which are a kind of {word2} .",1
+"I {verb} {word1} , which are a type of {word2} .",1
+"I {verb} {word1} , an example of {word2} .",1
+"I {verb} {word1} , which are an example of {word2} .",1
+"{word1} are a subtype of {word2} .",1
+"{word1} are a subclass of {word2} .",1
+"{word1} are my favourite type of {word2} .",1
+"{word1} are my favorite type of {word2} .",1
+"I {verb} {word1} and , more generally , {word2} .",1
+"I {verb} {word1} and , broadly speaking , {word2} .",1
+"I {verb} {word1} and , to generalize , {word2} .",1
+"I {verb} {word1} and , to generalise , {word2} .",1
+"I {verb} {word1} and , in general , {word2} .",1
+"I prefer {word1} over {word2} .",2
+"I would pick {word1} over {word2} .",2
+"I would choose {word1} over {word2} .",2
+"I {verb} {word1} , but above all , {word2} .",2
+"I {verb} {word1} , but more so {word2} .",2
+"I {verb} {word1} , but even more {word2} .",2
+"I {verb} {word1} , but even more so {word2} .",2
+"I {verb} {word1} , but {word2} are my favourite .",2
+"I {verb} {word1} , but {word2} are my favorite .",2
+"I {verb} {word1} , but my liking for {word2} is greater .",2
+"I {verb} {word1} , but my appreciation of {word2} is greater .",2
+"I {verb} both {word1} and {word2} .",2
+"I {verb} {word1} as well as {word2} .",2
+"I {verb} not only {word1} but also {word2} .",2
+"Apart from {word1}, I {verb} {word2} .",2
+"More than {word1}, I {verb} {word2} .",2
+"In addition to {word1}, I {verb} {word2} .",2
+"I {verb} {word1} to a greater extent than {word2} .",2
+"I {verb} {word1} and {word2} .",2
+"I {verb} {word1} and aditionally {word2} .",2
+"I {verb} {word1} and moreover {word2} .",2
+"I {verb} {word1} , and moreover , I like {word2} .",2
+"I {verb} {word1} , however I do not {verb} {word2} .",0 and 2
+"I {verb} {word1} , however not {word2} .",0 and 2
+"I {verb} {word1} , but on the contrary , I do not {verb} {word2} .",0 and 2
+"I {verb} {word1} , but I do not {verb} {word2} .",0 and 2
+"I {verb} {word1} while I do not {verb} {word2} .",0 and 2
+"I {verb} {word1} , although I do not {verb} {word2} .",0 and 2
+"I {verb} {word1} , yet I do not {verb} {word2} .",0 and 2
+"I {verb} {word1} , though I do not {verb} {word2} .",0 and 2
+"I do not {verb} {word1} , but I {verb} {word2} .",0 and 1
+"I do not {verb} {word1} , but on the contrary , I {verb} {word2} .",0 and 1
+“Although I {verb} {word1} , I do not {verb} {word2}”,0 and 1
+“While I {verb} {word1} , I do not {verb} {word2}”,0 and 1
+“Though I {verb} {word1} , I do not {verb} {word2}”,0 and 1
