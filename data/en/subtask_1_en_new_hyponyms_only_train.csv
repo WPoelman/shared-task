@@ -1,0 +1,2221 @@
+ID,Sentence,Labels
+H0,"I like socks , except anklets .",1
+H1,"I like parrots , except anklets .",0
+H2,"I like socks , except argyles .",1
+H3,"I like ducks , except argyles .",0
+H4,"I like socks , except athletic socks .",1
+H5,"I like rabbits , except athletic socks .",0
+H6,"I like socks , except knee-highs .",1
+H7,"I like parrots , except knee-highs .",0
+H8,"I like salmon , except Atlantic salmon .",1
+H9,"I like ham , except Atlantic salmon .",0
+H10,"I like salmon , except blackfish .",1
+H11,"I like comedies , except blackfish .",0
+H12,"I like salmon , except chinooks .",1
+H13,"I like handbooks , except chinooks .",0
+H14,"I like salmon , except chum salmon .",1
+H15,"I like blues , except chum salmon .",0
+H16,"I like earrings , except pendant earrings .",1
+H17,"I like fear , except pendant earrings .",0
+H18,"I like necklaces , except chains .",1
+H19,"I like socks , except chains .",0
+H20,"I like necklaces , except chokers .",1
+H21,"I like ducks , except chokers .",0
+H22,"I like oysters , except bluepoints .",1
+H23,"I like handbooks , except bluepoints .",0
+H24,"I like oysters , except Japanese oysters .",1
+H25,"I like blackbirds , except Japanese oysters .",0
+H26,"I like oysters , except pearl oysters .",1
+H27,"I like handbooks , except pearl oysters .",0
+H28,"I like oysters , except saddle oysters .",1
+H29,"I like beds , except saddle oysters .",0
+H30,"I like essays , except compositions .",1
+H31,"I like oaks , except compositions .",0
+H32,"I like essays , except disquisitions .",1
+H33,"I like shirts , except disquisitions .",0
+H34,"I like essays , except memoirs .",1
+H35,"I like dogs , except memoirs .",0
+H36,"I like essays , except thanatopses .",1
+H37,"I like wardrobes , except thanatopses .",0
+H38,"I like fear , except alarms .",1
+H39,"I like bacon , except alarms .",0
+H40,"I like fear , except apprehensions .",1
+H41,"I like love , except apprehensions .",0
+H42,"I like fear , except creeps .",1
+H43,"I like ducks , except creeps .",0
+H44,"I like fear , except frissons .",1
+H45,"I like ducks , except frissons .",0
+H46,"I like hamsters , except Eurasian hamsters .",1
+H47,"I like trousers , except Eurasian hamsters .",0
+H48,"I like hamsters , except golden hamsters .",1
+H49,"I like textbooks , except golden hamsters .",0
+H50,"I like joy , except elations .",1
+H51,"I like rabbits , except elations .",0
+H52,"I like joy , except exhilarations .",1
+H53,"I like textbooks , except exhilarations .",0
+H54,"I like joy , except exuberances .",1
+H55,"I like comedies , except exuberances .",0
+H56,"I like joy , except exultations .",1
+H57,"I like bacon , except exultations .",0
+H58,"I like bulldogs , except French bulldogs .",1
+H59,"I like salmon , except French bulldogs .",0
+H60,"I like sadness , except cheerlessness .",1
+H61,"I like hamsters , except cheerlessness .",0
+H62,"I like sadness , except depressions .",1
+H63,"I like ham , except depressions .",0
+H64,"I like sadness , except dolefulness .",1
+H65,"I like trousers , except dolefulness .",0
+H66,"I like sadness , except downheartedness .",1
+H67,"I like oysters , except downheartedness .",0
+H68,"I like pines , except ancient pines .",1
+H69,"I like cats , except ancient pines .",0
+H70,"I like pines , except black pines .",1
+H71,"I like socks , except black pines .",0
+H72,"I like pines , except bristlecone pines .",1
+H73,"I like essays , except bristlecone pines .",0
+H74,"I like pines , except jack pines .",1
+H75,"I like shirts , except jack pines .",0
+H76,"I like rabbits , except Angoras .",1
+H77,"I like sadness , except Angoras .",0
+H78,"I like rabbits , except Belgian hares .",1
+H79,"I like sparrows , except Belgian hares .",0
+H80,"I like rabbits , except bunnies .",1
+H81,"I like ducks , except bunnies .",0
+H82,"I like rabbits , except European rabbits .",1
+H83,"I like essays , except European rabbits .",0
+H84,"I like novels , except detective novels .",1
+H85,"I like socks , except detective novels .",0
+H86,"I like novels , except dime novels .",1
+H87,"I like cats , except dime novels .",0
+H88,"I like novels , except novelettes .",1
+H89,"I like comedies , except novelettes .",0
+H90,"I like novels , except roman a clefs .",1
+H91,"I like handbooks , except roman a clefs .",0
+H92,"I like textbooks , except crammers .",1
+H93,"I like parrots , except crammers .",0
+H94,"I like textbooks , except introductions .",1
+H95,"I like oaks , except introductions .",0
+H96,"I like textbooks , except primers .",1
+H97,"I like socks , except primers .",0
+H98,"I like textbooks , except readers .",1
+H99,"I like handbooks , except readers .",0
+H100,"I like beds , except berths .",1
+H101,"I like salmon , except berths .",0
+H102,"I like beds , except built-in beds .",1
+H103,"I like blackbirds , except built-in beds .",0
+H104,"I like beds , except bunks .",1
+H105,"I like socks , except bunks .",0
+H106,"I like beds , except bunk beds .",1
+H107,"I like ducks , except bunk beds .",0
+H108,"I like parrots , except African greys .",1
+H109,"I like beds , except African greys .",0
+H110,"I like parrots , except amazons .",1
+H111,"I like shirts , except amazons .",0
+H112,"I like parrots , except cockateels .",1
+H113,"I like novels , except cockateels .",0
+H114,"I like parrots , except cockatoos .",1
+H115,"I like beds , except cockatoos .",0
+H116,"I like blues , except boogies .",1
+H117,"I like oaks , except boogies .",0
+H118,"I like chairs , except armchairs .",1
+H119,"I like pines , except armchairs .",0
+H120,"I like chairs , except barber chairs .",1
+H121,"I like fear , except barber chairs .",0
+H122,"I like chairs , except chairs of state .",1
+H123,"I like rabbits , except chairs of state .",0
+H124,"I like chairs , except chaise longues .",1
+H125,"I like sadness , except chaise longues .",0
+H126,"I like comedies , except black comedies .",1
+H127,"I like trousers , except black comedies .",0
+H128,"I like comedies , except commedia dell'artes .",1
+H129,"I like essays , except commedia dell'artes .",0
+H130,"I like comedies , except dark comedies .",1
+H131,"I like bacon , except dark comedies .",0
+H132,"I like comedies , except farces .",1
+H133,"I like bacon , except farces .",0
+H134,"I like cats , except domestic cats .",1
+H135,"I like oysters , except domestic cats .",0
+H136,"I like cats , except wildcats .",1
+H137,"I like love , except wildcats .",0
+H138,"I like trousers , except bellbottom trousers .",1
+H139,"I like shirts , except bellbottom trousers .",0
+H140,"I like trousers , except breeches .",1
+H141,"I like bacon , except breeches .",0
+H142,"I like trousers , except chinoes .",1
+H143,"I like salmon , except chinoes .",0
+H144,"I like trousers , except churidars .",1
+H145,"I like dogs , except churidars .",0
+H146,"I like oaks , except fumed oaks .",1
+H147,"I like blackbirds , except fumed oaks .",0
+H148,"I like oaks , except holm oaks .",1
+H149,"I like socks , except holm oaks .",0
+H150,"I like sparrows , except English sparrows .",1
+H151,"I like trousers , except English sparrows .",0
+H152,"I like sparrows , except tree sparrows .",1
+H153,"I like rabbits , except tree sparrows .",0
+H154,"I like ducks , except black ducks .",1
+H155,"I like sparrows , except black ducks .",0
+H156,"I like ducks , except buffleheads .",1
+H157,"I like joy , except buffleheads .",0
+H158,"I like ducks , except canvasbacks .",1
+H159,"I like novels , except canvasbacks .",0
+H160,"I like ducks , except dabbling ducks .",1
+H161,"I like comedies , except dabbling ducks .",0
+H162,"I like wardrobes , except armoires .",1
+H163,"I like novels , except armoires .",0
+H164,"I like wardrobes , except clothes closets .",1
+H165,"I like essays , except clothes closets .",0
+H166,"I like wardrobes , except coat closets .",1
+H167,"I like comedies , except coat closets .",0
+H168,"I like caviar , except beluga caviar .",1
+H169,"I like oaks , except beluga caviar .",0
+H170,"I like shirts , except camises .",1
+H171,"I like novels , except camises .",0
+H172,"I like shirts , except dashikis .",1
+H173,"I like novels , except dashikis .",0
+H174,"I like shirts , except dress shirts .",1
+H175,"I like joy , except dress shirts .",0
+H176,"I like shirts , except hair shirts .",1
+H177,"I like salmon , except hair shirts .",0
+H178,"I like bacon , except bacon strips .",1
+H179,"I like ham , except bacon strips .",0
+H180,"I like bacon , except Canadian bacons .",1
+H181,"I like hamsters , except Canadian bacons .",0
+H182,"I like bacon , except flitches .",1
+H183,"I like joy , except flitches .",0
+H184,"I like bacon , except gammons .",1
+H185,"I like joy , except gammons .",0
+H186,"I like blackbirds , except cowbirds .",1
+H187,"I like ducks , except cowbirds .",0
+H188,"I like blackbirds , except grackles .",1
+H189,"I like bacon , except grackles .",0
+H190,"I like blackbirds , except red-winged blackbirds .",1
+H191,"I like novels , except red-winged blackbirds .",0
+H192,"I like blackbirds , except rusty blackbirds .",1
+H193,"I like joy , except rusty blackbirds .",0
+H194,"I like dogs , except basenjis .",1
+H195,"I like ducks , except basenjis .",0
+H196,"I like dogs , except corgis .",1
+H197,"I like socks , except corgis .",0
+H198,"I like dogs , except curs .",1
+H199,"I like fear , except curs .",0
+H200,"I like dogs , except dalmatians .",1
+H201,"I like cats , except dalmatians .",0
+H202,"I like love , except agapes .",1
+H203,"I like salmon , except agapes .",0
+H204,"I like love , except amorousness .",1
+H205,"I like blackbirds , except amorousness .",0
+H206,"I like love , except ardors .",1
+H207,"I like oysters , except ardors .",0
+H208,"I like ham , except prosciutto .",1
+H209,"I like trousers , except prosciutto .",0
+H210,"I like ham , except Virginia hams .",1
+H211,"I like beds , except Virginia hams .",0
+H212,"I like westerns , except spaghetti Westerns .",1
+H213,"I like oysters , except spaghetti Westerns .",0
+H214,"I like handbooks , except bibles .",1
+H215,"I like hamsters , except bibles .",0
+H216,"I like handbooks , except guidebooks .",1
+H217,"I like textbooks , except guidebooks .",0
+H218,"I like handbooks , except manuals .",1
+H219,"I like fear , except manuals .",0
+H220,"I like handbooks , except reckoners .",1
+H221,"I like socks , except reckoners .",0
+H222,"He likes socks , except anklets .",1
+H223,"He likes pines , except anklets .",0
+H224,"He likes socks , except argyles .",1
+H225,"He likes bacon , except argyles .",0
+H226,"He likes socks , except athletic socks .",1
+H227,"He likes dogs , except athletic socks .",0
+H228,"He likes socks , except knee-highs .",1
+H229,"He likes novels , except knee-highs .",0
+H230,"He likes salmon , except Atlantic salmon .",1
+H231,"He likes parrots , except Atlantic salmon .",0
+H232,"He likes salmon , except blackfish .",1
+H233,"He likes ham , except blackfish .",0
+H234,"He likes salmon , except chinooks .",1
+H235,"He likes bulldogs , except chinooks .",0
+H236,"He likes salmon , except chum salmon .",1
+H237,"He likes fear , except chum salmon .",0
+H238,"He likes earrings , except pendant earrings .",1
+H239,"He likes comedies , except pendant earrings .",0
+H240,"He likes necklaces , except chains .",1
+H241,"He likes hamsters , except chains .",0
+H242,"He likes necklaces , except chokers .",1
+H243,"He likes sadness , except chokers .",0
+H244,"He likes oysters , except bluepoints .",1
+H245,"He likes dogs , except bluepoints .",0
+H246,"He likes oysters , except Japanese oysters .",1
+H247,"He likes parrots , except Japanese oysters .",0
+H248,"He likes oysters , except pearl oysters .",1
+H249,"He likes textbooks , except pearl oysters .",0
+H250,"He likes oysters , except saddle oysters .",1
+H251,"He likes chairs , except saddle oysters .",0
+H252,"He likes essays , except compositions .",1
+H253,"He likes oysters , except compositions .",0
+H254,"He likes essays , except disquisitions .",1
+H255,"He likes bacon , except disquisitions .",0
+H256,"He likes essays , except memoirs .",1
+H257,"He likes handbooks , except memoirs .",0
+H258,"He likes essays , except thanatopses .",1
+H259,"He likes cats , except thanatopses .",0
+H260,"He likes fear , except alarms .",1
+H261,"He likes westerns , except alarms .",0
+H262,"He likes fear , except apprehensions .",1
+H263,"He likes rabbits , except apprehensions .",0
+H264,"He likes fear , except creeps .",1
+H265,"He likes ducks , except creeps .",0
+H266,"He likes fear , except frissons .",1
+H267,"He likes joy , except frissons .",0
+H268,"He likes hamsters , except Eurasian hamsters .",1
+H269,"He likes caviar , except Eurasian hamsters .",0
+H270,"He likes hamsters , except golden hamsters .",1
+H271,"He likes love , except golden hamsters .",0
+H272,"He likes joy , except elations .",1
+H273,"He likes hamsters , except elations .",0
+H274,"He likes joy , except exhilarations .",1
+H275,"He likes blues , except exhilarations .",0
+H276,"He likes joy , except exuberances .",1
+H277,"He likes rabbits , except exuberances .",0
+H278,"He likes joy , except exultations .",1
+H279,"He likes ducks , except exultations .",0
+H280,"He likes bulldogs , except French bulldogs .",1
+H281,"He likes pines , except French bulldogs .",0
+H282,"He likes sadness , except cheerlessness .",1
+H283,"He likes novels , except cheerlessness .",0
+H284,"He likes sadness , except depressions .",1
+H285,"He likes shirts , except depressions .",0
+H286,"He likes sadness , except dolefulness .",1
+H287,"He likes ducks , except dolefulness .",0
+H288,"He likes sadness , except downheartedness .",1
+H289,"He likes oaks , except downheartedness .",0
+H290,"He likes pines , except ancient pines .",1
+H291,"He likes parrots , except ancient pines .",0
+H292,"He likes pines , except black pines .",1
+H293,"He likes handbooks , except black pines .",0
+H294,"He likes pines , except bristlecone pines .",1
+H295,"He likes dogs , except bristlecone pines .",0
+H296,"He likes pines , except jack pines .",1
+H297,"He likes beds , except jack pines .",0
+H298,"He likes rabbits , except Angoras .",1
+H299,"He likes dogs , except Angoras .",0
+H300,"He likes rabbits , except Belgian hares .",1
+H301,"He likes comedies , except Belgian hares .",0
+H302,"He likes rabbits , except bunnies .",1
+H303,"He likes sadness , except bunnies .",0
+H304,"He likes rabbits , except European rabbits .",1
+H305,"He likes necklaces , except European rabbits .",0
+H306,"He likes novels , except detective novels .",1
+H307,"He likes shirts , except detective novels .",0
+H308,"He likes novels , except dime novels .",1
+H309,"He likes fear , except dime novels .",0
+H310,"He likes novels , except novelettes .",1
+H311,"He likes love , except novelettes .",0
+H312,"He likes novels , except roman a clefs .",1
+H313,"He likes dogs , except roman a clefs .",0
+H314,"He likes textbooks , except crammers .",1
+H315,"He likes dogs , except crammers .",0
+H316,"He likes textbooks , except introductions .",1
+H317,"He likes shirts , except introductions .",0
+H318,"He likes textbooks , except primers .",1
+H319,"He likes comedies , except primers .",0
+H320,"He likes textbooks , except readers .",1
+H321,"He likes ducks , except readers .",0
+H322,"He likes beds , except berths .",1
+H323,"He likes handbooks , except berths .",0
+H324,"He likes beds , except built-in beds .",1
+H325,"He likes pines , except built-in beds .",0
+H326,"He likes beds , except bunks .",1
+H327,"He likes handbooks , except bunks .",0
+H328,"He likes beds , except bunk beds .",1
+H329,"He likes dogs , except bunk beds .",0
+H330,"He likes parrots , except African greys .",1
+H331,"He likes comedies , except African greys .",0
+H332,"He likes parrots , except amazons .",1
+H333,"He likes wardrobes , except amazons .",0
+H334,"He likes parrots , except cockateels .",1
+H335,"He likes beds , except cockateels .",0
+H336,"He likes parrots , except cockatoos .",1
+H337,"He likes salmon , except cockatoos .",0
+H338,"He likes blues , except boogies .",1
+H339,"He likes fear , except boogies .",0
+H340,"He likes chairs , except armchairs .",1
+H341,"He likes ducks , except armchairs .",0
+H342,"He likes chairs , except barber chairs .",1
+H343,"He likes rabbits , except barber chairs .",0
+H344,"He likes chairs , except chairs of state .",1
+H345,"He likes pines , except chairs of state .",0
+H346,"He likes chairs , except chaise longues .",1
+H347,"He likes westerns , except chaise longues .",0
+H348,"He likes comedies , except black comedies .",1
+H349,"He likes sadness , except black comedies .",0
+H350,"He likes comedies , except commedia dell'artes .",1
+H351,"He likes novels , except commedia dell'artes .",0
+H352,"He likes comedies , except dark comedies .",1
+H353,"He likes trousers , except dark comedies .",0
+H354,"He likes comedies , except farces .",1
+H355,"He likes textbooks , except farces .",0
+H356,"He likes cats , except domestic cats .",1
+H357,"He likes parrots , except domestic cats .",0
+H358,"He likes cats , except wildcats .",1
+H359,"He likes beds , except wildcats .",0
+H360,"He likes trousers , except bellbottom trousers .",1
+H361,"He likes sparrows , except bellbottom trousers .",0
+H362,"He likes trousers , except breeches .",1
+H363,"He likes blackbirds , except breeches .",0
+H364,"He likes trousers , except chinoes .",1
+H365,"He likes textbooks , except chinoes .",0
+H366,"He likes trousers , except churidars .",1
+H367,"He likes sadness , except churidars .",0
+H368,"He likes oaks , except fumed oaks .",1
+H369,"He likes fear , except fumed oaks .",0
+H370,"He likes oaks , except holm oaks .",1
+H371,"He likes joy , except holm oaks .",0
+H372,"He likes sparrows , except English sparrows .",1
+H373,"He likes oysters , except English sparrows .",0
+H374,"He likes sparrows , except tree sparrows .",1
+H375,"He likes fear , except tree sparrows .",0
+H376,"He likes ducks , except black ducks .",1
+H377,"He likes rabbits , except black ducks .",0
+H378,"He likes ducks , except buffleheads .",1
+H379,"He likes beds , except buffleheads .",0
+H380,"He likes ducks , except canvasbacks .",1
+H381,"He likes pines , except canvasbacks .",0
+H382,"He likes ducks , except dabbling ducks .",1
+H383,"He likes handbooks , except dabbling ducks .",0
+H384,"He likes wardrobes , except armoires .",1
+H385,"He likes trousers , except armoires .",0
+H386,"He likes wardrobes , except clothes closets .",1
+H387,"He likes beds , except clothes closets .",0
+H388,"He likes wardrobes , except coat closets .",1
+H389,"He likes comedies , except coat closets .",0
+H390,"He likes caviar , except beluga caviar .",1
+H391,"He likes novels , except beluga caviar .",0
+H392,"He likes shirts , except camises .",1
+H393,"He likes beds , except camises .",0
+H394,"He likes shirts , except dashikis .",1
+H395,"He likes beds , except dashikis .",0
+H396,"He likes shirts , except dress shirts .",1
+H397,"He likes ham , except dress shirts .",0
+H398,"He likes shirts , except hair shirts .",1
+H399,"He likes bulldogs , except hair shirts .",0
+H400,"He likes bacon , except bacon strips .",1
+H401,"He likes caviar , except bacon strips .",0
+H402,"He likes bacon , except Canadian bacons .",1
+H403,"He likes bulldogs , except Canadian bacons .",0
+H404,"He likes bacon , except flitches .",1
+H405,"He likes trousers , except flitches .",0
+H406,"He likes bacon , except gammons .",1
+H407,"He likes pines , except gammons .",0
+H408,"He likes blackbirds , except cowbirds .",1
+H409,"He likes trousers , except cowbirds .",0
+H410,"He likes blackbirds , except grackles .",1
+H411,"He likes bacon , except grackles .",0
+H412,"He likes blackbirds , except red-winged blackbirds .",1
+H413,"He likes socks , except red-winged blackbirds .",0
+H414,"He likes blackbirds , except rusty blackbirds .",1
+H415,"He likes chairs , except rusty blackbirds .",0
+H416,"He likes dogs , except basenjis .",1
+H417,"He likes socks , except basenjis .",0
+H418,"He likes dogs , except corgis .",1
+H419,"He likes rabbits , except corgis .",0
+H420,"He likes dogs , except curs .",1
+H421,"He likes shirts , except curs .",0
+H422,"He likes dogs , except dalmatians .",1
+H423,"He likes blues , except dalmatians .",0
+H424,"He likes love , except agapes .",1
+H425,"He likes chairs , except agapes .",0
+H426,"He likes love , except amorousness .",1
+H427,"He likes dogs , except amorousness .",0
+H428,"He likes love , except ardors .",1
+H429,"He likes fear , except ardors .",0
+H430,"He likes ham , except prosciutto .",1
+H431,"He likes comedies , except prosciutto .",0
+H432,"He likes ham , except Virginia hams .",1
+H433,"He likes dogs , except Virginia hams .",0
+H434,"He likes westerns , except spaghetti Westerns .",1
+H435,"He likes socks , except spaghetti Westerns .",0
+H436,"He likes handbooks , except bibles .",1
+H437,"He likes ham , except bibles .",0
+H438,"He likes handbooks , except guidebooks .",1
+H439,"He likes joy , except guidebooks .",0
+H440,"He likes handbooks , except manuals .",1
+H441,"He likes essays , except manuals .",0
+H442,"He likes handbooks , except reckoners .",1
+H443,"He likes socks , except reckoners .",0
+H444,"I do not like coat closets , I prefer anklets .",1
+H445,"I do not like socks , I prefer anklets .",0
+H446,"I do not like anklets , I prefer socks .",0
+H447,"I do not like black comedies , I prefer argyles .",1
+H448,"I do not like socks , I prefer argyles .",0
+H449,"I do not like argyles , I prefer socks .",0
+H450,"I do not like dalmatians , I prefer athletic socks .",1
+H451,"I do not like socks , I prefer athletic socks .",0
+H452,"I do not like athletic socks , I prefer socks .",0
+H453,"I do not like churidars , I prefer knee-highs .",1
+H454,"I do not like socks , I prefer knee-highs .",0
+H455,"I do not like knee-highs , I prefer socks .",0
+H456,"I do not like camises , I prefer Atlantic salmon .",1
+H457,"I do not like salmon , I prefer Atlantic salmon .",0
+H458,"I do not like Atlantic salmon , I prefer salmon .",0
+H459,"I do not like depressions , I prefer blackfish .",1
+H460,"I do not like salmon , I prefer blackfish .",0
+H461,"I do not like blackfish , I prefer salmon .",0
+H462,"I do not like chum salmon , I prefer chinooks .",1
+H463,"I do not like salmon , I prefer chinooks .",0
+H464,"I do not like chinooks , I prefer salmon .",0
+H465,"I do not like downheartedness , I prefer chum salmon .",1
+H466,"I do not like salmon , I prefer chum salmon .",0
+H467,"I do not like chum salmon , I prefer salmon .",0
+H468,"I do not like downheartedness , I prefer pendant earrings .",1
+H469,"I do not like earrings , I prefer pendant earrings .",0
+H470,"I do not like pendant earrings , I prefer earrings .",0
+H471,"I do not like cheerlessness , I prefer chains .",1
+H472,"I do not like necklaces , I prefer chains .",0
+H473,"I do not like chains , I prefer necklaces .",0
+H474,"I do not like chinoes , I prefer chokers .",1
+H475,"I do not like necklaces , I prefer chokers .",0
+H476,"I do not like chokers , I prefer necklaces .",0
+H477,"I do not like bacon strips , I prefer bluepoints .",1
+H478,"I do not like oysters , I prefer bluepoints .",0
+H479,"I do not like bluepoints , I prefer oysters .",0
+H480,"I do not like domestic cats , I prefer Japanese oysters .",1
+H481,"I do not like oysters , I prefer Japanese oysters .",0
+H482,"I do not like Japanese oysters , I prefer oysters .",0
+H483,"I do not like chairs of state , I prefer pearl oysters .",1
+H484,"I do not like oysters , I prefer pearl oysters .",0
+H485,"I do not like pearl oysters , I prefer oysters .",0
+H486,"I do not like crammers , I prefer saddle oysters .",1
+H487,"I do not like oysters , I prefer saddle oysters .",0
+H488,"I do not like saddle oysters , I prefer oysters .",0
+H489,"I do not like reckoners , I prefer compositions .",1
+H490,"I do not like essays , I prefer compositions .",0
+H491,"I do not like compositions , I prefer essays .",0
+H492,"I do not like churidars , I prefer disquisitions .",1
+H493,"I do not like essays , I prefer disquisitions .",0
+H494,"I do not like disquisitions , I prefer essays .",0
+H495,"I do not like chains , I prefer memoirs .",1
+H496,"I do not like essays , I prefer memoirs .",0
+H497,"I do not like memoirs , I prefer essays .",0
+H498,"I do not like fumed oaks , I prefer thanatopses .",1
+H499,"I do not like essays , I prefer thanatopses .",0
+H500,"I do not like thanatopses , I prefer essays .",0
+H501,"I do not like beluga caviar , I prefer alarms .",1
+H502,"I do not like fear , I prefer alarms .",0
+H503,"I do not like alarms , I prefer fear .",0
+H504,"I do not like tree sparrows , I prefer apprehensions .",1
+H505,"I do not like fear , I prefer apprehensions .",0
+H506,"I do not like apprehensions , I prefer fear .",0
+H507,"I do not like compositions , I prefer creeps .",1
+H508,"I do not like fear , I prefer creeps .",0
+H509,"I do not like creeps , I prefer fear .",0
+H510,"I do not like Eurasian hamsters , I prefer frissons .",1
+H511,"I do not like fear , I prefer frissons .",0
+H512,"I do not like frissons , I prefer fear .",0
+H513,"I do not like dalmatians , I prefer Eurasian hamsters .",1
+H514,"I do not like hamsters , I prefer Eurasian hamsters .",0
+H515,"I do not like Eurasian hamsters , I prefer hamsters .",0
+H516,"I do not like compositions , I prefer golden hamsters .",1
+H517,"I do not like hamsters , I prefer golden hamsters .",0
+H518,"I do not like golden hamsters , I prefer hamsters .",0
+H519,"I do not like bacon strips , I prefer elations .",1
+H520,"I do not like joy , I prefer elations .",0
+H521,"I do not like elations , I prefer joy .",0
+H522,"I do not like agapes , I prefer exhilarations .",1
+H523,"I do not like joy , I prefer exhilarations .",0
+H524,"I do not like exhilarations , I prefer joy .",0
+H525,"I do not like exultations , I prefer exuberances .",1
+H526,"I do not like joy , I prefer exuberances .",0
+H527,"I do not like exuberances , I prefer joy .",0
+H528,"I do not like grackles , I prefer exultations .",1
+H529,"I do not like joy , I prefer exultations .",0
+H530,"I do not like exultations , I prefer joy .",0
+H531,"I do not like tree sparrows , I prefer French bulldogs .",1
+H532,"I do not like bulldogs , I prefer French bulldogs .",0
+H533,"I do not like French bulldogs , I prefer bulldogs .",0
+H534,"I do not like ancient pines , I prefer cheerlessness .",1
+H535,"I do not like sadness , I prefer cheerlessness .",0
+H536,"I do not like cheerlessness , I prefer sadness .",0
+H537,"I do not like breeches , I prefer depressions .",1
+H538,"I do not like sadness , I prefer depressions .",0
+H539,"I do not like depressions , I prefer sadness .",0
+H540,"I do not like amorousness , I prefer dolefulness .",1
+H541,"I do not like sadness , I prefer dolefulness .",0
+H542,"I do not like dolefulness , I prefer sadness .",0
+H543,"I do not like Atlantic salmon , I prefer downheartedness .",1
+H544,"I do not like sadness , I prefer downheartedness .",0
+H545,"I do not like downheartedness , I prefer sadness .",0
+H546,"I do not like French bulldogs , I prefer ancient pines .",1
+H547,"I do not like pines , I prefer ancient pines .",0
+H548,"I do not like ancient pines , I prefer pines .",0
+H549,"I do not like holm oaks , I prefer black pines .",1
+H550,"I do not like pines , I prefer black pines .",0
+H551,"I do not like black pines , I prefer pines .",0
+H552,"I do not like reckoners , I prefer bristlecone pines .",1
+H553,"I do not like pines , I prefer bristlecone pines .",0
+H554,"I do not like bristlecone pines , I prefer pines .",0
+H555,"I do not like armoires , I prefer jack pines .",1
+H556,"I do not like pines , I prefer jack pines .",0
+H557,"I do not like jack pines , I prefer pines .",0
+H558,"I do not like pearl oysters , I prefer Angoras .",1
+H559,"I do not like rabbits , I prefer Angoras .",0
+H560,"I do not like Angoras , I prefer rabbits .",0
+H561,"I do not like chaise longues , I prefer Belgian hares .",1
+H562,"I do not like rabbits , I prefer Belgian hares .",0
+H563,"I do not like Belgian hares , I prefer rabbits .",0
+H564,"I do not like introductions , I prefer bunnies .",1
+H565,"I do not like rabbits , I prefer bunnies .",0
+H566,"I do not like bunnies , I prefer rabbits .",0
+H567,"I do not like amazons , I prefer European rabbits .",1
+H568,"I do not like rabbits , I prefer European rabbits .",0
+H569,"I do not like European rabbits , I prefer rabbits .",0
+H570,"I do not like amazons , I prefer detective novels .",1
+H571,"I do not like novels , I prefer detective novels .",0
+H572,"I do not like detective novels , I prefer novels .",0
+H573,"I do not like curs , I prefer dime novels .",1
+H574,"I do not like novels , I prefer dime novels .",0
+H575,"I do not like dime novels , I prefer novels .",0
+H576,"I do not like black pines , I prefer novelettes .",1
+H577,"I do not like novels , I prefer novelettes .",0
+H578,"I do not like novelettes , I prefer novels .",0
+H579,"I do not like knee-highs , I prefer roman a clefs .",1
+H580,"I do not like novels , I prefer roman a clefs .",0
+H581,"I do not like roman a clefs , I prefer novels .",0
+H582,"I do not like red-winged blackbirds , I prefer crammers .",1
+H583,"I do not like textbooks , I prefer crammers .",0
+H584,"I do not like crammers , I prefer textbooks .",0
+H585,"I do not like exuberances , I prefer introductions .",1
+H586,"I do not like textbooks , I prefer introductions .",0
+H587,"I do not like introductions , I prefer textbooks .",0
+H588,"I do not like Angoras , I prefer primers .",1
+H589,"I do not like textbooks , I prefer primers .",0
+H590,"I do not like primers , I prefer textbooks .",0
+H591,"I do not like flitches , I prefer readers .",1
+H592,"I do not like textbooks , I prefer readers .",0
+H593,"I do not like readers , I prefer textbooks .",0
+H594,"I do not like introductions , I prefer berths .",1
+H595,"I do not like beds , I prefer berths .",0
+H596,"I do not like berths , I prefer beds .",0
+H597,"I do not like black pines , I prefer built-in beds .",1
+H598,"I do not like beds , I prefer built-in beds .",0
+H599,"I do not like built-in beds , I prefer beds .",0
+H600,"I do not like roman a clefs , I prefer bunks .",1
+H601,"I do not like beds , I prefer bunks .",0
+H602,"I do not like bunks , I prefer beds .",0
+H603,"I do not like guidebooks , I prefer bunk beds .",1
+H604,"I do not like beds , I prefer bunk beds .",0
+H605,"I do not like bunk beds , I prefer beds .",0
+H606,"I do not like Angoras , I prefer African greys .",1
+H607,"I do not like parrots , I prefer African greys .",0
+H608,"I do not like African greys , I prefer parrots .",0
+H609,"I do not like bunks , I prefer amazons .",1
+H610,"I do not like parrots , I prefer amazons .",0
+H611,"I do not like amazons , I prefer parrots .",0
+H612,"I do not like bunnies , I prefer cockateels .",1
+H613,"I do not like parrots , I prefer cockateels .",0
+H614,"I do not like cockateels , I prefer parrots .",0
+H615,"I do not like cowbirds , I prefer cockatoos .",1
+H616,"I do not like parrots , I prefer cockatoos .",0
+H617,"I do not like cockatoos , I prefer parrots .",0
+H618,"I do not like detective novels , I prefer boogies .",1
+H619,"I do not like blues , I prefer boogies .",0
+H620,"I do not like boogies , I prefer blues .",0
+H621,"I do not like chinoes , I prefer armchairs .",1
+H622,"I do not like chairs , I prefer armchairs .",0
+H623,"I do not like armchairs , I prefer chairs .",0
+H624,"I do not like introductions , I prefer barber chairs .",1
+H625,"I do not like chairs , I prefer barber chairs .",0
+H626,"I do not like barber chairs , I prefer chairs .",0
+H627,"I do not like boogies , I prefer chairs of state .",1
+H628,"I do not like chairs , I prefer chairs of state .",0
+H629,"I do not like chairs of state , I prefer chairs .",0
+H630,"I do not like chinooks , I prefer chaise longues .",1
+H631,"I do not like chairs , I prefer chaise longues .",0
+H632,"I do not like chaise longues , I prefer chairs .",0
+H633,"I do not like bluepoints , I prefer black comedies .",1
+H634,"I do not like comedies , I prefer black comedies .",0
+H635,"I do not like black comedies , I prefer comedies .",0
+H636,"I do not like primers , I prefer commedia dell'artes .",1
+H637,"I do not like comedies , I prefer commedia dell'artes .",0
+H638,"I do not like commedia dell'artes , I prefer comedies .",0
+H639,"I do not like barber chairs , I prefer dark comedies .",1
+H640,"I do not like comedies , I prefer dark comedies .",0
+H641,"I do not like dark comedies , I prefer comedies .",0
+H642,"I do not like African greys , I prefer farces .",1
+H643,"I do not like comedies , I prefer farces .",0
+H644,"I do not like farces , I prefer comedies .",0
+H645,"I do not like golden hamsters , I prefer domestic cats .",1
+H646,"I do not like cats , I prefer domestic cats .",0
+H647,"I do not like domestic cats , I prefer cats .",0
+H648,"I do not like farces , I prefer wildcats .",1
+H649,"I do not like cats , I prefer wildcats .",0
+H650,"I do not like wildcats , I prefer cats .",0
+H651,"I do not like coat closets , I prefer bellbottom trousers .",1
+H652,"I do not like trousers , I prefer bellbottom trousers .",0
+H653,"I do not like bellbottom trousers , I prefer trousers .",0
+H654,"I do not like cowbirds , I prefer breeches .",1
+H655,"I do not like trousers , I prefer breeches .",0
+H656,"I do not like breeches , I prefer trousers .",0
+H657,"I do not like depressions , I prefer chinoes .",1
+H658,"I do not like trousers , I prefer chinoes .",0
+H659,"I do not like chinoes , I prefer trousers .",0
+H660,"I do not like ardors , I prefer churidars .",1
+H661,"I do not like trousers , I prefer churidars .",0
+H662,"I do not like churidars , I prefer trousers .",0
+H663,"I do not like Eurasian hamsters , I prefer fumed oaks .",1
+H664,"I do not like oaks , I prefer fumed oaks .",0
+H665,"I do not like fumed oaks , I prefer oaks .",0
+H666,"I do not like dolefulness , I prefer holm oaks .",1
+H667,"I do not like oaks , I prefer holm oaks .",0
+H668,"I do not like holm oaks , I prefer oaks .",0
+H669,"I do not like argyles , I prefer English sparrows .",1
+H670,"I do not like sparrows , I prefer English sparrows .",0
+H671,"I do not like English sparrows , I prefer sparrows .",0
+H672,"I do not like exhilarations , I prefer tree sparrows .",1
+H673,"I do not like sparrows , I prefer tree sparrows .",0
+H674,"I do not like tree sparrows , I prefer sparrows .",0
+H675,"I do not like curs , I prefer black ducks .",1
+H676,"I do not like ducks , I prefer black ducks .",0
+H677,"I do not like black ducks , I prefer ducks .",0
+H678,"I do not like corgis , I prefer buffleheads .",1
+H679,"I do not like ducks , I prefer buffleheads .",0
+H680,"I do not like buffleheads , I prefer ducks .",0
+H681,"I do not like bunnies , I prefer canvasbacks .",1
+H682,"I do not like ducks , I prefer canvasbacks .",0
+H683,"I do not like canvasbacks , I prefer ducks .",0
+H684,"I do not like amazons , I prefer dabbling ducks .",1
+H685,"I do not like ducks , I prefer dabbling ducks .",0
+H686,"I do not like dabbling ducks , I prefer ducks .",0
+H687,"I do not like Japanese oysters , I prefer armoires .",1
+H688,"I do not like wardrobes , I prefer armoires .",0
+H689,"I do not like armoires , I prefer wardrobes .",0
+H690,"I do not like commedia dell'artes , I prefer clothes closets .",1
+H691,"I do not like wardrobes , I prefer clothes closets .",0
+H692,"I do not like clothes closets , I prefer wardrobes .",0
+H693,"I do not like bunk beds , I prefer coat closets .",1
+H694,"I do not like wardrobes , I prefer coat closets .",0
+H695,"I do not like coat closets , I prefer wardrobes .",0
+H696,"I do not like berths , I prefer beluga caviar .",1
+H697,"I do not like caviar , I prefer beluga caviar .",0
+H698,"I do not like beluga caviar , I prefer caviar .",0
+H699,"I do not like memoirs , I prefer camises .",1
+H700,"I do not like shirts , I prefer camises .",0
+H701,"I do not like camises , I prefer shirts .",0
+H702,"I do not like cockatoos , I prefer dashikis .",1
+H703,"I do not like shirts , I prefer dashikis .",0
+H704,"I do not like dashikis , I prefer shirts .",0
+H705,"I do not like apprehensions , I prefer dress shirts .",1
+H706,"I do not like shirts , I prefer dress shirts .",0
+H707,"I do not like dress shirts , I prefer shirts .",0
+H708,"I do not like clothes closets , I prefer hair shirts .",1
+H709,"I do not like shirts , I prefer hair shirts .",0
+H710,"I do not like hair shirts , I prefer shirts .",0
+H711,"I do not like spaghetti Westerns , I prefer bacon strips .",1
+H712,"I do not like bacon , I prefer bacon strips .",0
+H713,"I do not like bacon strips , I prefer bacon .",0
+H714,"I do not like breeches , I prefer Canadian bacons .",1
+H715,"I do not like bacon , I prefer Canadian bacons .",0
+H716,"I do not like Canadian bacons , I prefer bacon .",0
+H717,"I do not like Angoras , I prefer flitches .",1
+H718,"I do not like bacon , I prefer flitches .",0
+H719,"I do not like flitches , I prefer bacon .",0
+H720,"I do not like saddle oysters , I prefer gammons .",1
+H721,"I do not like bacon , I prefer gammons .",0
+H722,"I do not like gammons , I prefer bacon .",0
+H723,"I do not like basenjis , I prefer cowbirds .",1
+H724,"I do not like blackbirds , I prefer cowbirds .",0
+H725,"I do not like cowbirds , I prefer blackbirds .",0
+H726,"I do not like armchairs , I prefer grackles .",1
+H727,"I do not like blackbirds , I prefer grackles .",0
+H728,"I do not like grackles , I prefer blackbirds .",0
+H729,"I do not like creeps , I prefer red-winged blackbirds .",1
+H730,"I do not like blackbirds , I prefer red-winged blackbirds .",0
+H731,"I do not like red-winged blackbirds , I prefer blackbirds .",0
+H732,"I do not like compositions , I prefer rusty blackbirds .",1
+H733,"I do not like blackbirds , I prefer rusty blackbirds .",0
+H734,"I do not like rusty blackbirds , I prefer blackbirds .",0
+H735,"I do not like cockatoos , I prefer basenjis .",1
+H736,"I do not like dogs , I prefer basenjis .",0
+H737,"I do not like basenjis , I prefer dogs .",0
+H738,"I do not like hair shirts , I prefer corgis .",1
+H739,"I do not like dogs , I prefer corgis .",0
+H740,"I do not like corgis , I prefer dogs .",0
+H741,"I do not like barber chairs , I prefer curs .",1
+H742,"I do not like dogs , I prefer curs .",0
+H743,"I do not like curs , I prefer dogs .",0
+H744,"I do not like curs , I prefer dalmatians .",1
+H745,"I do not like dogs , I prefer dalmatians .",0
+H746,"I do not like dalmatians , I prefer dogs .",0
+H747,"I do not like thanatopses , I prefer agapes .",1
+H748,"I do not like love , I prefer agapes .",0
+H749,"I do not like agapes , I prefer love .",0
+H750,"I do not like manuals , I prefer amorousness .",1
+H751,"I do not like love , I prefer amorousness .",0
+H752,"I do not like amorousness , I prefer love .",0
+H753,"I do not like flitches , I prefer ardors .",1
+H754,"I do not like love , I prefer ardors .",0
+H755,"I do not like ardors , I prefer love .",0
+H756,"I do not like depressions , I prefer prosciutto .",1
+H757,"I do not like ham , I prefer prosciutto .",0
+H758,"I do not like prosciutto , I prefer ham .",0
+H759,"I do not like thanatopses , I prefer Virginia hams .",1
+H760,"I do not like ham , I prefer Virginia hams .",0
+H761,"I do not like Virginia hams , I prefer ham .",0
+H762,"I do not like agapes , I prefer spaghetti Westerns .",1
+H763,"I do not like westerns , I prefer spaghetti Westerns .",0
+H764,"I do not like spaghetti Westerns , I prefer westerns .",0
+H765,"I do not like hair shirts , I prefer bibles .",1
+H766,"I do not like handbooks , I prefer bibles .",0
+H767,"I do not like bibles , I prefer handbooks .",0
+H768,"I do not like exhilarations , I prefer guidebooks .",1
+H769,"I do not like handbooks , I prefer guidebooks .",0
+H770,"I do not like guidebooks , I prefer handbooks .",0
+H771,"I do not like flitches , I prefer manuals .",1
+H772,"I do not like handbooks , I prefer manuals .",0
+H773,"I do not like manuals , I prefer handbooks .",0
+H774,"I do not like argyles , I prefer reckoners .",1
+H775,"I do not like handbooks , I prefer reckoners .",0
+H776,"I do not like reckoners , I prefer handbooks .",0
+H777,"He does not like chains , he prefers anklets .",1
+H778,"He does not like socks , he prefers anklets .",0
+H779,"He does not like anklets , he prefers socks .",0
+H780,"He does not like dabbling ducks , he prefers argyles .",1
+H781,"He does not like socks , he prefers argyles .",0
+H782,"He does not like argyles , he prefers socks .",0
+H783,"He does not like bluepoints , he prefers athletic socks .",1
+H784,"He does not like socks , he prefers athletic socks .",0
+H785,"He does not like athletic socks , he prefers socks .",0
+H786,"He does not like dolefulness , he prefers knee-highs .",1
+H787,"He does not like socks , he prefers knee-highs .",0
+H788,"He does not like knee-highs , he prefers socks .",0
+H789,"He does not like French bulldogs , he prefers Atlantic salmon .",1
+H790,"He does not like salmon , he prefers Atlantic salmon .",0
+H791,"He does not like Atlantic salmon , he prefers salmon .",0
+H792,"He does not like tree sparrows , he prefers blackfish .",1
+H793,"He does not like salmon , he prefers blackfish .",0
+H794,"He does not like blackfish , he prefers salmon .",0
+H795,"He does not like spaghetti Westerns , he prefers chinooks .",1
+H796,"He does not like salmon , he prefers chinooks .",0
+H797,"He does not like chinooks , he prefers salmon .",0
+H798,"He does not like dabbling ducks , he prefers chum salmon .",1
+H799,"He does not like salmon , he prefers chum salmon .",0
+H800,"He does not like chum salmon , he prefers salmon .",0
+H801,"He does not like dashikis , he prefers pendant earrings .",1
+H802,"He does not like earrings , he prefers pendant earrings .",0
+H803,"He does not like pendant earrings , he prefers earrings .",0
+H804,"He does not like wildcats , he prefers chains .",1
+H805,"He does not like necklaces , he prefers chains .",0
+H806,"He does not like chains , he prefers necklaces .",0
+H807,"He does not like English sparrows , he prefers chokers .",1
+H808,"He does not like necklaces , he prefers chokers .",0
+H809,"He does not like chokers , he prefers necklaces .",0
+H810,"He does not like reckoners , he prefers bluepoints .",1
+H811,"He does not like oysters , he prefers bluepoints .",0
+H812,"He does not like bluepoints , he prefers oysters .",0
+H813,"He does not like commedia dell'artes , he prefers Japanese oysters .",1
+H814,"He does not like oysters , he prefers Japanese oysters .",0
+H815,"He does not like Japanese oysters , he prefers oysters .",0
+H816,"He does not like elations , he prefers pearl oysters .",1
+H817,"He does not like oysters , he prefers pearl oysters .",0
+H818,"He does not like pearl oysters , he prefers oysters .",0
+H819,"He does not like ancient pines , he prefers saddle oysters .",1
+H820,"He does not like oysters , he prefers saddle oysters .",0
+H821,"He does not like saddle oysters , he prefers oysters .",0
+H822,"He does not like dolefulness , he prefers compositions .",1
+H823,"He does not like essays , he prefers compositions .",0
+H824,"He does not like compositions , he prefers essays .",0
+H825,"He does not like gammons , he prefers disquisitions .",1
+H826,"He does not like essays , he prefers disquisitions .",0
+H827,"He does not like disquisitions , he prefers essays .",0
+H828,"He does not like manuals , he prefers memoirs .",1
+H829,"He does not like essays , he prefers memoirs .",0
+H830,"He does not like memoirs , he prefers essays .",0
+H831,"He does not like holm oaks , he prefers thanatopses .",1
+H832,"He does not like essays , he prefers thanatopses .",0
+H833,"He does not like thanatopses , he prefers essays .",0
+H834,"He does not like barber chairs , he prefers alarms .",1
+H835,"He does not like fear , he prefers alarms .",0
+H836,"He does not like alarms , he prefers fear .",0
+H837,"He does not like blackfish , he prefers apprehensions .",1
+H838,"He does not like fear , he prefers apprehensions .",0
+H839,"He does not like apprehensions , he prefers fear .",0
+H840,"He does not like Belgian hares , he prefers creeps .",1
+H841,"He does not like fear , he prefers creeps .",0
+H842,"He does not like creeps , he prefers fear .",0
+H843,"He does not like bluepoints , he prefers frissons .",1
+H844,"He does not like fear , he prefers frissons .",0
+H845,"He does not like frissons , he prefers fear .",0
+H846,"He does not like berths , he prefers Eurasian hamsters .",1
+H847,"He does not like hamsters , he prefers Eurasian hamsters .",0
+H848,"He does not like Eurasian hamsters , he prefers hamsters .",0
+H849,"He does not like agapes , he prefers golden hamsters .",1
+H850,"He does not like hamsters , he prefers golden hamsters .",0
+H851,"He does not like golden hamsters , he prefers hamsters .",0
+H852,"He does not like exuberances , he prefers elations .",1
+H853,"He does not like joy , he prefers elations .",0
+H854,"He does not like elations , he prefers joy .",0
+H855,"He does not like grackles , he prefers exhilarations .",1
+H856,"He does not like joy , he prefers exhilarations .",0
+H857,"He does not like exhilarations , he prefers joy .",0
+H858,"He does not like buffleheads , he prefers exuberances .",1
+H859,"He does not like joy , he prefers exuberances .",0
+H860,"He does not like exuberances , he prefers joy .",0
+H861,"He does not like knee-highs , he prefers exultations .",1
+H862,"He does not like joy , he prefers exultations .",0
+H863,"He does not like exultations , he prefers joy .",0
+H864,"He does not like holm oaks , he prefers French bulldogs .",1
+H865,"He does not like bulldogs , he prefers French bulldogs .",0
+H866,"He does not like French bulldogs , he prefers bulldogs .",0
+H867,"He does not like apprehensions , he prefers cheerlessness .",1
+H868,"He does not like sadness , he prefers cheerlessness .",0
+H869,"He does not like cheerlessness , he prefers sadness .",0
+H870,"He does not like European rabbits , he prefers depressions .",1
+H871,"He does not like sadness , he prefers depressions .",0
+H872,"He does not like depressions , he prefers sadness .",0
+H873,"He does not like novelettes , he prefers dolefulness .",1
+H874,"He does not like sadness , he prefers dolefulness .",0
+H875,"He does not like dolefulness , he prefers sadness .",0
+H876,"He does not like red-winged blackbirds , he prefers downheartedness .",1
+H877,"He does not like sadness , he prefers downheartedness .",0
+H878,"He does not like downheartedness , he prefers sadness .",0
+H879,"He does not like compositions , he prefers ancient pines .",1
+H880,"He does not like pines , he prefers ancient pines .",0
+H881,"He does not like ancient pines , he prefers pines .",0
+H882,"He does not like athletic socks , he prefers black pines .",1
+H883,"He does not like pines , he prefers black pines .",0
+H884,"He does not like black pines , he prefers pines .",0
+H885,"He does not like saddle oysters , he prefers bristlecone pines .",1
+H886,"He does not like pines , he prefers bristlecone pines .",0
+H887,"He does not like bristlecone pines , he prefers pines .",0
+H888,"He does not like spaghetti Westerns , he prefers jack pines .",1
+H889,"He does not like pines , he prefers jack pines .",0
+H890,"He does not like jack pines , he prefers pines .",0
+H891,"He does not like Belgian hares , he prefers Angoras .",1
+H892,"He does not like rabbits , he prefers Angoras .",0
+H893,"He does not like Angoras , he prefers rabbits .",0
+H894,"He does not like farces , he prefers Belgian hares .",1
+H895,"He does not like rabbits , he prefers Belgian hares .",0
+H896,"He does not like Belgian hares , he prefers rabbits .",0
+H897,"He does not like bunk beds , he prefers bunnies .",1
+H898,"He does not like rabbits , he prefers bunnies .",0
+H899,"He does not like bunnies , he prefers rabbits .",0
+H900,"He does not like bibles , he prefers European rabbits .",1
+H901,"He does not like rabbits , he prefers European rabbits .",0
+H902,"He does not like European rabbits , he prefers rabbits .",0
+H903,"He does not like French bulldogs , he prefers detective novels .",1
+H904,"He does not like novels , he prefers detective novels .",0
+H905,"He does not like detective novels , he prefers novels .",0
+H906,"He does not like black ducks , he prefers dime novels .",1
+H907,"He does not like novels , he prefers dime novels .",0
+H908,"He does not like dime novels , he prefers novels .",0
+H909,"He does not like agapes , he prefers novelettes .",1
+H910,"He does not like novels , he prefers novelettes .",0
+H911,"He does not like novelettes , he prefers novels .",0
+H912,"He does not like bibles , he prefers roman a clefs .",1
+H913,"He does not like novels , he prefers roman a clefs .",0
+H914,"He does not like roman a clefs , he prefers novels .",0
+H915,"He does not like introductions , he prefers crammers .",1
+H916,"He does not like textbooks , he prefers crammers .",0
+H917,"He does not like crammers , he prefers textbooks .",0
+H918,"He does not like black ducks , he prefers introductions .",1
+H919,"He does not like textbooks , he prefers introductions .",0
+H920,"He does not like introductions , he prefers textbooks .",0
+H921,"He does not like dress shirts , he prefers primers .",1
+H922,"He does not like textbooks , he prefers primers .",0
+H923,"He does not like primers , he prefers textbooks .",0
+H924,"He does not like gammons , he prefers readers .",1
+H925,"He does not like textbooks , he prefers readers .",0
+H926,"He does not like readers , he prefers textbooks .",0
+H927,"He does not like black ducks , he prefers berths .",1
+H928,"He does not like beds , he prefers berths .",0
+H929,"He does not like berths , he prefers beds .",0
+H930,"He does not like domestic cats , he prefers built-in beds .",1
+H931,"He does not like beds , he prefers built-in beds .",0
+H932,"He does not like built-in beds , he prefers beds .",0
+H933,"He does not like agapes , he prefers bunks .",1
+H934,"He does not like beds , he prefers bunks .",0
+H935,"He does not like bunks , he prefers beds .",0
+H936,"He does not like coat closets , he prefers bunk beds .",1
+H937,"He does not like beds , he prefers bunk beds .",0
+H938,"He does not like bunk beds , he prefers beds .",0
+H939,"He does not like tree sparrows , he prefers African greys .",1
+H940,"He does not like parrots , he prefers African greys .",0
+H941,"He does not like African greys , he prefers parrots .",0
+H942,"He does not like chairs of state , he prefers amazons .",1
+H943,"He does not like parrots , he prefers amazons .",0
+H944,"He does not like amazons , he prefers parrots .",0
+H945,"He does not like commedia dell'artes , he prefers cockateels .",1
+H946,"He does not like parrots , he prefers cockateels .",0
+H947,"He does not like cockateels , he prefers parrots .",0
+H948,"He does not like chokers , he prefers cockatoos .",1
+H949,"He does not like parrots , he prefers cockatoos .",0
+H950,"He does not like cockatoos , he prefers parrots .",0
+H951,"He does not like readers , he prefers boogies .",1
+H952,"He does not like blues , he prefers boogies .",0
+H953,"He does not like boogies , he prefers blues .",0
+H954,"He does not like dabbling ducks , he prefers armchairs .",1
+H955,"He does not like chairs , he prefers armchairs .",0
+H956,"He does not like armchairs , he prefers chairs .",0
+H957,"He does not like knee-highs , he prefers barber chairs .",1
+H958,"He does not like chairs , he prefers barber chairs .",0
+H959,"He does not like barber chairs , he prefers chairs .",0
+H960,"He does not like spaghetti Westerns , he prefers chairs of state .",1
+H961,"He does not like chairs , he prefers chairs of state .",0
+H962,"He does not like chairs of state , he prefers chairs .",0
+H963,"He does not like bunnies , he prefers chaise longues .",1
+H964,"He does not like chairs , he prefers chaise longues .",0
+H965,"He does not like chaise longues , he prefers chairs .",0
+H966,"He does not like thanatopses , he prefers black comedies .",1
+H967,"He does not like comedies , he prefers black comedies .",0
+H968,"He does not like black comedies , he prefers comedies .",0
+H969,"He does not like ardors , he prefers commedia dell'artes .",1
+H970,"He does not like comedies , he prefers commedia dell'artes .",0
+H971,"He does not like commedia dell'artes , he prefers comedies .",0
+H972,"He does not like guidebooks , he prefers dark comedies .",1
+H973,"He does not like comedies , he prefers dark comedies .",0
+H974,"He does not like dark comedies , he prefers comedies .",0
+H975,"He does not like reckoners , he prefers farces .",1
+H976,"He does not like comedies , he prefers farces .",0
+H977,"He does not like farces , he prefers comedies .",0
+H978,"He does not like downheartedness , he prefers domestic cats .",1
+H979,"He does not like cats , he prefers domestic cats .",0
+H980,"He does not like domestic cats , he prefers cats .",0
+H981,"He does not like beluga caviar , he prefers wildcats .",1
+H982,"He does not like cats , he prefers wildcats .",0
+H983,"He does not like wildcats , he prefers cats .",0
+H984,"He does not like dashikis , he prefers bellbottom trousers .",1
+H985,"He does not like trousers , he prefers bellbottom trousers .",0
+H986,"He does not like bellbottom trousers , he prefers trousers .",0
+H987,"He does not like dashikis , he prefers breeches .",1
+H988,"He does not like trousers , he prefers breeches .",0
+H989,"He does not like breeches , he prefers trousers .",0
+H990,"He does not like dalmatians , he prefers chinoes .",1
+H991,"He does not like trousers , he prefers chinoes .",0
+H992,"He does not like chinoes , he prefers trousers .",0
+H993,"He does not like built-in beds , he prefers churidars .",1
+H994,"He does not like trousers , he prefers churidars .",0
+H995,"He does not like churidars , he prefers trousers .",0
+H996,"He does not like red-winged blackbirds , he prefers fumed oaks .",1
+H997,"He does not like oaks , he prefers fumed oaks .",0
+H998,"He does not like fumed oaks , he prefers oaks .",0
+H999,"He does not like detective novels , he prefers holm oaks .",1
+H1000,"He does not like oaks , he prefers holm oaks .",0
+H1001,"He does not like holm oaks , he prefers oaks .",0
+H1002,"He does not like Virginia hams , he prefers English sparrows .",1
+H1003,"He does not like sparrows , he prefers English sparrows .",0
+H1004,"He does not like English sparrows , he prefers sparrows .",0
+H1005,"He does not like basenjis , he prefers tree sparrows .",1
+H1006,"He does not like sparrows , he prefers tree sparrows .",0
+H1007,"He does not like tree sparrows , he prefers sparrows .",0
+H1008,"He does not like cheerlessness , he prefers black ducks .",1
+H1009,"He does not like ducks , he prefers black ducks .",0
+H1010,"He does not like black ducks , he prefers ducks .",0
+H1011,"He does not like memoirs , he prefers buffleheads .",1
+H1012,"He does not like ducks , he prefers buffleheads .",0
+H1013,"He does not like buffleheads , he prefers ducks .",0
+H1014,"He does not like chokers , he prefers canvasbacks .",1
+H1015,"He does not like ducks , he prefers canvasbacks .",0
+H1016,"He does not like canvasbacks , he prefers ducks .",0
+H1017,"He does not like armoires , he prefers dabbling ducks .",1
+H1018,"He does not like ducks , he prefers dabbling ducks .",0
+H1019,"He does not like dabbling ducks , he prefers ducks .",0
+H1020,"He does not like cockatoos , he prefers armoires .",1
+H1021,"He does not like wardrobes , he prefers armoires .",0
+H1022,"He does not like armoires , he prefers wardrobes .",0
+H1023,"He does not like holm oaks , he prefers clothes closets .",1
+H1024,"He does not like wardrobes , he prefers clothes closets .",0
+H1025,"He does not like clothes closets , he prefers wardrobes .",0
+H1026,"He does not like anklets , he prefers coat closets .",1
+H1027,"He does not like wardrobes , he prefers coat closets .",0
+H1028,"He does not like coat closets , he prefers wardrobes .",0
+H1029,"He does not like disquisitions , he prefers beluga caviar .",1
+H1030,"He does not like caviar , he prefers beluga caviar .",0
+H1031,"He does not like beluga caviar , he prefers caviar .",0
+H1032,"He does not like barber chairs , he prefers camises .",1
+H1033,"He does not like shirts , he prefers camises .",0
+H1034,"He does not like camises , he prefers shirts .",0
+H1035,"He does not like argyles , he prefers dashikis .",1
+H1036,"He does not like shirts , he prefers dashikis .",0
+H1037,"He does not like dashikis , he prefers shirts .",0
+H1038,"He does not like berths , he prefers dress shirts .",1
+H1039,"He does not like shirts , he prefers dress shirts .",0
+H1040,"He does not like dress shirts , he prefers shirts .",0
+H1041,"He does not like spaghetti Westerns , he prefers hair shirts .",1
+H1042,"He does not like shirts , he prefers hair shirts .",0
+H1043,"He does not like hair shirts , he prefers shirts .",0
+H1044,"He does not like alarms , he prefers bacon strips .",1
+H1045,"He does not like bacon , he prefers bacon strips .",0
+H1046,"He does not like bacon strips , he prefers bacon .",0
+H1047,"He does not like Belgian hares , he prefers Canadian bacons .",1
+H1048,"He does not like bacon , he prefers Canadian bacons .",0
+H1049,"He does not like Canadian bacons , he prefers bacon .",0
+H1050,"He does not like elations , he prefers flitches .",1
+H1051,"He does not like bacon , he prefers flitches .",0
+H1052,"He does not like flitches , he prefers bacon .",0
+H1053,"He does not like exultations , he prefers gammons .",1
+H1054,"He does not like bacon , he prefers gammons .",0
+H1055,"He does not like gammons , he prefers bacon .",0
+H1056,"He does not like boogies , he prefers cowbirds .",1
+H1057,"He does not like blackbirds , he prefers cowbirds .",0
+H1058,"He does not like cowbirds , he prefers blackbirds .",0
+H1059,"He does not like frissons , he prefers grackles .",1
+H1060,"He does not like blackbirds , he prefers grackles .",0
+H1061,"He does not like grackles , he prefers blackbirds .",0
+H1062,"He does not like blackfish , he prefers red-winged blackbirds .",1
+H1063,"He does not like blackbirds , he prefers red-winged blackbirds .",0
+H1064,"He does not like red-winged blackbirds , he prefers blackbirds .",0
+H1065,"He does not like Canadian bacons , he prefers rusty blackbirds .",1
+H1066,"He does not like blackbirds , he prefers rusty blackbirds .",0
+H1067,"He does not like rusty blackbirds , he prefers blackbirds .",0
+H1068,"He does not like English sparrows , he prefers basenjis .",1
+H1069,"He does not like dogs , he prefers basenjis .",0
+H1070,"He does not like basenjis , he prefers dogs .",0
+H1071,"He does not like knee-highs , he prefers corgis .",1
+H1072,"He does not like dogs , he prefers corgis .",0
+H1073,"He does not like corgis , he prefers dogs .",0
+H1074,"He does not like readers , he prefers curs .",1
+H1075,"He does not like dogs , he prefers curs .",0
+H1076,"He does not like curs , he prefers dogs .",0
+H1077,"He does not like depressions , he prefers dalmatians .",1
+H1078,"He does not like dogs , he prefers dalmatians .",0
+H1079,"He does not like dalmatians , he prefers dogs .",0
+H1080,"He does not like elations , he prefers agapes .",1
+H1081,"He does not like love , he prefers agapes .",0
+H1082,"He does not like agapes , he prefers love .",0
+H1083,"He does not like spaghetti Westerns , he prefers amorousness .",1
+H1084,"He does not like love , he prefers amorousness .",0
+H1085,"He does not like amorousness , he prefers love .",0
+H1086,"He does not like roman a clefs , he prefers ardors .",1
+H1087,"He does not like love , he prefers ardors .",0
+H1088,"He does not like ardors , he prefers love .",0
+H1089,"He does not like elations , he prefers prosciutto .",1
+H1090,"He does not like ham , he prefers prosciutto .",0
+H1091,"He does not like prosciutto , he prefers ham .",0
+H1092,"He does not like fumed oaks , he prefers Virginia hams .",1
+H1093,"He does not like ham , he prefers Virginia hams .",0
+H1094,"He does not like Virginia hams , he prefers ham .",0
+H1095,"He does not like amazons , he prefers spaghetti Westerns .",1
+H1096,"He does not like westerns , he prefers spaghetti Westerns .",0
+H1097,"He does not like spaghetti Westerns , he prefers westerns .",0
+H1098,"He does not like manuals , he prefers bibles .",1
+H1099,"He does not like handbooks , he prefers bibles .",0
+H1100,"He does not like bibles , he prefers handbooks .",0
+H1101,"He does not like corgis , he prefers guidebooks .",1
+H1102,"He does not like handbooks , he prefers guidebooks .",0
+H1103,"He does not like guidebooks , he prefers handbooks .",0
+H1104,"He does not like creeps , he prefers manuals .",1
+H1105,"He does not like handbooks , he prefers manuals .",0
+H1106,"He does not like manuals , he prefers handbooks .",0
+H1107,"He does not like manuals , he prefers reckoners .",1
+H1108,"He does not like handbooks , he prefers reckoners .",0
+H1109,"He does not like reckoners , he prefers handbooks .",0
+H1110,"I like bellbottom trousers , more than anklets .",1
+H1111,"I like socks , more than anklets .",0
+H1112,"I like anklets , more than socks .",0
+H1113,"I like armoires , more than argyles .",1
+H1114,"I like socks , more than argyles .",0
+H1115,"I like argyles , more than socks .",0
+H1116,"I like chokers , more than athletic socks .",1
+H1117,"I like socks , more than athletic socks .",0
+H1118,"I like athletic socks , more than socks .",0
+H1119,"I like clothes closets , more than knee-highs .",1
+H1120,"I like socks , more than knee-highs .",0
+H1121,"I like knee-highs , more than socks .",0
+H1122,"I like dark comedies , more than Atlantic salmon .",1
+H1123,"I like salmon , more than Atlantic salmon .",0
+H1124,"I like Atlantic salmon , more than salmon .",0
+H1125,"I like alarms , more than blackfish .",1
+H1126,"I like salmon , more than blackfish .",0
+H1127,"I like blackfish , more than salmon .",0
+H1128,"I like Canadian bacons , more than chinooks .",1
+H1129,"I like salmon , more than chinooks .",0
+H1130,"I like chinooks , more than salmon .",0
+H1131,"I like European rabbits , more than chum salmon .",1
+H1132,"I like salmon , more than chum salmon .",0
+H1133,"I like chum salmon , more than salmon .",0
+H1134,"I like bluepoints , more than pendant earrings .",1
+H1135,"I like earrings , more than pendant earrings .",0
+H1136,"I like pendant earrings , more than earrings .",0
+H1137,"I like black ducks , more than chains .",1
+H1138,"I like necklaces , more than chains .",0
+H1139,"I like chains , more than necklaces .",0
+H1140,"I like armchairs , more than chokers .",1
+H1141,"I like necklaces , more than chokers .",0
+H1142,"I like chokers , more than necklaces .",0
+H1143,"I like chinooks , more than bluepoints .",1
+H1144,"I like oysters , more than bluepoints .",0
+H1145,"I like bluepoints , more than oysters .",0
+H1146,"I like armoires , more than Japanese oysters .",1
+H1147,"I like oysters , more than Japanese oysters .",0
+H1148,"I like Japanese oysters , more than oysters .",0
+H1149,"I like chains , more than pearl oysters .",1
+H1150,"I like oysters , more than pearl oysters .",0
+H1151,"I like pearl oysters , more than oysters .",0
+H1152,"I like breeches , more than saddle oysters .",1
+H1153,"I like oysters , more than saddle oysters .",0
+H1154,"I like saddle oysters , more than oysters .",0
+H1155,"I like dark comedies , more than compositions .",1
+H1156,"I like essays , more than compositions .",0
+H1157,"I like compositions , more than essays .",0
+H1158,"I like dabbling ducks , more than disquisitions .",1
+H1159,"I like essays , more than disquisitions .",0
+H1160,"I like disquisitions , more than essays .",0
+H1161,"I like introductions , more than memoirs .",1
+H1162,"I like essays , more than memoirs .",0
+H1163,"I like memoirs , more than essays .",0
+H1164,"I like crammers , more than thanatopses .",1
+H1165,"I like essays , more than thanatopses .",0
+H1166,"I like thanatopses , more than essays .",0
+H1167,"I like pearl oysters , more than alarms .",1
+H1168,"I like fear , more than alarms .",0
+H1169,"I like alarms , more than fear .",0
+H1170,"I like cowbirds , more than apprehensions .",1
+H1171,"I like fear , more than apprehensions .",0
+H1172,"I like apprehensions , more than fear .",0
+H1173,"I like guidebooks , more than creeps .",1
+H1174,"I like fear , more than creeps .",0
+H1175,"I like creeps , more than fear .",0
+H1176,"I like agapes , more than frissons .",1
+H1177,"I like fear , more than frissons .",0
+H1178,"I like frissons , more than fear .",0
+H1179,"I like boogies , more than Eurasian hamsters .",1
+H1180,"I like hamsters , more than Eurasian hamsters .",0
+H1181,"I like Eurasian hamsters , more than hamsters .",0
+H1182,"I like African greys , more than golden hamsters .",1
+H1183,"I like hamsters , more than golden hamsters .",0
+H1184,"I like golden hamsters , more than hamsters .",0
+H1185,"I like pearl oysters , more than elations .",1
+H1186,"I like joy , more than elations .",0
+H1187,"I like elations , more than joy .",0
+H1188,"I like Virginia hams , more than exhilarations .",1
+H1189,"I like joy , more than exhilarations .",0
+H1190,"I like exhilarations , more than joy .",0
+H1191,"I like agapes , more than exuberances .",1
+H1192,"I like joy , more than exuberances .",0
+H1193,"I like exuberances , more than joy .",0
+H1194,"I like dolefulness , more than exultations .",1
+H1195,"I like joy , more than exultations .",0
+H1196,"I like exultations , more than joy .",0
+H1197,"I like spaghetti Westerns , more than French bulldogs .",1
+H1198,"I like bulldogs , more than French bulldogs .",0
+H1199,"I like French bulldogs , more than bulldogs .",0
+H1200,"I like grackles , more than cheerlessness .",1
+H1201,"I like sadness , more than cheerlessness .",0
+H1202,"I like cheerlessness , more than sadness .",0
+H1203,"I like clothes closets , more than depressions .",1
+H1204,"I like sadness , more than depressions .",0
+H1205,"I like depressions , more than sadness .",0
+H1206,"I like wildcats , more than dolefulness .",1
+H1207,"I like sadness , more than dolefulness .",0
+H1208,"I like dolefulness , more than sadness .",0
+H1209,"I like memoirs , more than downheartedness .",1
+H1210,"I like sadness , more than downheartedness .",0
+H1211,"I like downheartedness , more than sadness .",0
+H1212,"I like red-winged blackbirds , more than ancient pines .",1
+H1213,"I like pines , more than ancient pines .",0
+H1214,"I like ancient pines , more than pines .",0
+H1215,"I like prosciutto , more than black pines .",1
+H1216,"I like pines , more than black pines .",0
+H1217,"I like black pines , more than pines .",0
+H1218,"I like bellbottom trousers , more than bristlecone pines .",1
+H1219,"I like pines , more than bristlecone pines .",0
+H1220,"I like bristlecone pines , more than pines .",0
+H1221,"I like farces , more than jack pines .",1
+H1222,"I like pines , more than jack pines .",0
+H1223,"I like jack pines , more than pines .",0
+H1224,"I like black comedies , more than Angoras .",1
+H1225,"I like rabbits , more than Angoras .",0
+H1226,"I like Angoras , more than rabbits .",0
+H1227,"I like novelettes , more than Belgian hares .",1
+H1228,"I like rabbits , more than Belgian hares .",0
+H1229,"I like Belgian hares , more than rabbits .",0
+H1230,"I like commedia dell'artes , more than bunnies .",1
+H1231,"I like rabbits , more than bunnies .",0
+H1232,"I like bunnies , more than rabbits .",0
+H1233,"I like alarms , more than European rabbits .",1
+H1234,"I like rabbits , more than European rabbits .",0
+H1235,"I like European rabbits , more than rabbits .",0
+H1236,"I like breeches , more than detective novels .",1
+H1237,"I like novels , more than detective novels .",0
+H1238,"I like detective novels , more than novels .",0
+H1239,"I like reckoners , more than dime novels .",1
+H1240,"I like novels , more than dime novels .",0
+H1241,"I like dime novels , more than novels .",0
+H1242,"I like amazons , more than novelettes .",1
+H1243,"I like novels , more than novelettes .",0
+H1244,"I like novelettes , more than novels .",0
+H1245,"I like camises , more than roman a clefs .",1
+H1246,"I like novels , more than roman a clefs .",0
+H1247,"I like roman a clefs , more than novels .",0
+H1248,"I like chairs of state , more than crammers .",1
+H1249,"I like textbooks , more than crammers .",0
+H1250,"I like crammers , more than textbooks .",0
+H1251,"I like buffleheads , more than introductions .",1
+H1252,"I like textbooks , more than introductions .",0
+H1253,"I like introductions , more than textbooks .",0
+H1254,"I like exhilarations , more than primers .",1
+H1255,"I like textbooks , more than primers .",0
+H1256,"I like primers , more than textbooks .",0
+H1257,"I like wildcats , more than readers .",1
+H1258,"I like textbooks , more than readers .",0
+H1259,"I like readers , more than textbooks .",0
+H1260,"I like primers , more than berths .",1
+H1261,"I like beds , more than berths .",0
+H1262,"I like berths , more than beds .",0
+H1263,"I like boogies , more than built-in beds .",1
+H1264,"I like beds , more than built-in beds .",0
+H1265,"I like built-in beds , more than beds .",0
+H1266,"I like frissons , more than bunks .",1
+H1267,"I like beds , more than bunks .",0
+H1268,"I like bunks , more than beds .",0
+H1269,"I like crammers , more than bunk beds .",1
+H1270,"I like beds , more than bunk beds .",0
+H1271,"I like bunk beds , more than beds .",0
+H1272,"I like European rabbits , more than African greys .",1
+H1273,"I like parrots , more than African greys .",0
+H1274,"I like African greys , more than parrots .",0
+H1275,"I like camises , more than amazons .",1
+H1276,"I like parrots , more than amazons .",0
+H1277,"I like amazons , more than parrots .",0
+H1278,"I like reckoners , more than cockateels .",1
+H1279,"I like parrots , more than cockateels .",0
+H1280,"I like cockateels , more than parrots .",0
+H1281,"I like athletic socks , more than cockatoos .",1
+H1282,"I like parrots , more than cockatoos .",0
+H1283,"I like cockatoos , more than parrots .",0
+H1284,"I like dolefulness , more than boogies .",1
+H1285,"I like blues , more than boogies .",0
+H1286,"I like boogies , more than blues .",0
+H1287,"I like fumed oaks , more than armchairs .",1
+H1288,"I like chairs , more than armchairs .",0
+H1289,"I like armchairs , more than chairs .",0
+H1290,"I like blackfish , more than barber chairs .",1
+H1291,"I like chairs , more than barber chairs .",0
+H1292,"I like barber chairs , more than chairs .",0
+H1293,"I like chinoes , more than chairs of state .",1
+H1294,"I like chairs , more than chairs of state .",0
+H1295,"I like chairs of state , more than chairs .",0
+H1296,"I like bluepoints , more than chaise longues .",1
+H1297,"I like chairs , more than chaise longues .",0
+H1298,"I like chaise longues , more than chairs .",0
+H1299,"I like novelettes , more than black comedies .",1
+H1300,"I like comedies , more than black comedies .",0
+H1301,"I like black comedies , more than comedies .",0
+H1302,"I like Belgian hares , more than commedia dell'artes .",1
+H1303,"I like comedies , more than commedia dell'artes .",0
+H1304,"I like commedia dell'artes , more than comedies .",0
+H1305,"I like primers , more than dark comedies .",1
+H1306,"I like comedies , more than dark comedies .",0
+H1307,"I like dark comedies , more than comedies .",0
+H1308,"I like primers , more than farces .",1
+H1309,"I like comedies , more than farces .",0
+H1310,"I like farces , more than comedies .",0
+H1311,"I like depressions , more than domestic cats .",1
+H1312,"I like cats , more than domestic cats .",0
+H1313,"I like domestic cats , more than cats .",0
+H1314,"I like chairs of state , more than wildcats .",1
+H1315,"I like cats , more than wildcats .",0
+H1316,"I like wildcats , more than cats .",0
+H1317,"I like canvasbacks , more than bellbottom trousers .",1
+H1318,"I like trousers , more than bellbottom trousers .",0
+H1319,"I like bellbottom trousers , more than trousers .",0
+H1320,"I like dress shirts , more than breeches .",1
+H1321,"I like trousers , more than breeches .",0
+H1322,"I like breeches , more than trousers .",0
+H1323,"I like cockateels , more than chinoes .",1
+H1324,"I like trousers , more than chinoes .",0
+H1325,"I like chinoes , more than trousers .",0
+H1326,"I like armchairs , more than churidars .",1
+H1327,"I like trousers , more than churidars .",0
+H1328,"I like churidars , more than trousers .",0
+H1329,"I like downheartedness , more than fumed oaks .",1
+H1330,"I like oaks , more than fumed oaks .",0
+H1331,"I like fumed oaks , more than oaks .",0
+H1332,"I like exhilarations , more than holm oaks .",1
+H1333,"I like oaks , more than holm oaks .",0
+H1334,"I like holm oaks , more than oaks .",0
+H1335,"I like dashikis , more than English sparrows .",1
+H1336,"I like sparrows , more than English sparrows .",0
+H1337,"I like English sparrows , more than sparrows .",0
+H1338,"I like bluepoints , more than tree sparrows .",1
+H1339,"I like sparrows , more than tree sparrows .",0
+H1340,"I like tree sparrows , more than sparrows .",0
+H1341,"I like readers , more than black ducks .",1
+H1342,"I like ducks , more than black ducks .",0
+H1343,"I like black ducks , more than ducks .",0
+H1344,"I like bluepoints , more than buffleheads .",1
+H1345,"I like ducks , more than buffleheads .",0
+H1346,"I like buffleheads , more than ducks .",0
+H1347,"I like chinooks , more than canvasbacks .",1
+H1348,"I like ducks , more than canvasbacks .",0
+H1349,"I like canvasbacks , more than ducks .",0
+H1350,"I like Atlantic salmon , more than dabbling ducks .",1
+H1351,"I like ducks , more than dabbling ducks .",0
+H1352,"I like dabbling ducks , more than ducks .",0
+H1353,"I like Angoras , more than armoires .",1
+H1354,"I like wardrobes , more than armoires .",0
+H1355,"I like armoires , more than wardrobes .",0
+H1356,"I like corgis , more than clothes closets .",1
+H1357,"I like wardrobes , more than clothes closets .",0
+H1358,"I like clothes closets , more than wardrobes .",0
+H1359,"I like primers , more than coat closets .",1
+H1360,"I like wardrobes , more than coat closets .",0
+H1361,"I like coat closets , more than wardrobes .",0
+H1362,"I like Belgian hares , more than beluga caviar .",1
+H1363,"I like caviar , more than beluga caviar .",0
+H1364,"I like beluga caviar , more than caviar .",0
+H1365,"I like chinooks , more than camises .",1
+H1366,"I like shirts , more than camises .",0
+H1367,"I like camises , more than shirts .",0
+H1368,"I like depressions , more than dashikis .",1
+H1369,"I like shirts , more than dashikis .",0
+H1370,"I like dashikis , more than shirts .",0
+H1371,"I like bunk beds , more than dress shirts .",1
+H1372,"I like shirts , more than dress shirts .",0
+H1373,"I like dress shirts , more than shirts .",0
+H1374,"I like pendant earrings , more than hair shirts .",1
+H1375,"I like shirts , more than hair shirts .",0
+H1376,"I like hair shirts , more than shirts .",0
+H1377,"I like detective novels , more than bacon strips .",1
+H1378,"I like bacon , more than bacon strips .",0
+H1379,"I like bacon strips , more than bacon .",0
+H1380,"I like knee-highs , more than Canadian bacons .",1
+H1381,"I like bacon , more than Canadian bacons .",0
+H1382,"I like Canadian bacons , more than bacon .",0
+H1383,"I like fumed oaks , more than flitches .",1
+H1384,"I like bacon , more than flitches .",0
+H1385,"I like flitches , more than bacon .",0
+H1386,"I like armchairs , more than gammons .",1
+H1387,"I like bacon , more than gammons .",0
+H1388,"I like gammons , more than bacon .",0
+H1389,"I like red-winged blackbirds , more than cowbirds .",1
+H1390,"I like blackbirds , more than cowbirds .",0
+H1391,"I like cowbirds , more than blackbirds .",0
+H1392,"I like alarms , more than grackles .",1
+H1393,"I like blackbirds , more than grackles .",0
+H1394,"I like grackles , more than blackbirds .",0
+H1395,"I like Belgian hares , more than red-winged blackbirds .",1
+H1396,"I like blackbirds , more than red-winged blackbirds .",0
+H1397,"I like red-winged blackbirds , more than blackbirds .",0
+H1398,"I like crammers , more than rusty blackbirds .",1
+H1399,"I like blackbirds , more than rusty blackbirds .",0
+H1400,"I like rusty blackbirds , more than blackbirds .",0
+H1401,"I like novelettes , more than basenjis .",1
+H1402,"I like dogs , more than basenjis .",0
+H1403,"I like basenjis , more than dogs .",0
+H1404,"I like argyles , more than corgis .",1
+H1405,"I like dogs , more than corgis .",0
+H1406,"I like corgis , more than dogs .",0
+H1407,"I like black ducks , more than curs .",1
+H1408,"I like dogs , more than curs .",0
+H1409,"I like curs , more than dogs .",0
+H1410,"I like canvasbacks , more than dalmatians .",1
+H1411,"I like dogs , more than dalmatians .",0
+H1412,"I like dalmatians , more than dogs .",0
+H1413,"I like manuals , more than agapes .",1
+H1414,"I like love , more than agapes .",0
+H1415,"I like agapes , more than love .",0
+H1416,"I like anklets , more than amorousness .",1
+H1417,"I like love , more than amorousness .",0
+H1418,"I like amorousness , more than love .",0
+H1419,"I like golden hamsters , more than ardors .",1
+H1420,"I like love , more than ardors .",0
+H1421,"I like ardors , more than love .",0
+H1422,"I like grackles , more than prosciutto .",1
+H1423,"I like ham , more than prosciutto .",0
+H1424,"I like prosciutto , more than ham .",0
+H1425,"I like disquisitions , more than Virginia hams .",1
+H1426,"I like ham , more than Virginia hams .",0
+H1427,"I like Virginia hams , more than ham .",0
+H1428,"I like chairs of state , more than spaghetti Westerns .",1
+H1429,"I like westerns , more than spaghetti Westerns .",0
+H1430,"I like spaghetti Westerns , more than westerns .",0
+H1431,"I like bacon strips , more than bibles .",1
+H1432,"I like handbooks , more than bibles .",0
+H1433,"I like bibles , more than handbooks .",0
+H1434,"I like basenjis , more than guidebooks .",1
+H1435,"I like handbooks , more than guidebooks .",0
+H1436,"I like guidebooks , more than handbooks .",0
+H1437,"I like breeches , more than manuals .",1
+H1438,"I like handbooks , more than manuals .",0
+H1439,"I like manuals , more than handbooks .",0
+H1440,"I like thanatopses , more than reckoners .",1
+H1441,"I like handbooks , more than reckoners .",0
+H1442,"I like reckoners , more than handbooks .",0
+H1443,"He likes rusty blackbirds , more than anklets .",1
+H1444,"He likes socks , more than anklets .",0
+H1445,"He likes anklets , more than socks .",0
+H1446,"He likes knee-highs , more than argyles .",1
+H1447,"He likes socks , more than argyles .",0
+H1448,"He likes argyles , more than socks .",0
+H1449,"He likes ancient pines , more than athletic socks .",1
+H1450,"He likes socks , more than athletic socks .",0
+H1451,"He likes athletic socks , more than socks .",0
+H1452,"He likes barber chairs , more than knee-highs .",1
+H1453,"He likes socks , more than knee-highs .",0
+H1454,"He likes knee-highs , more than socks .",0
+H1455,"He likes spaghetti Westerns , more than Atlantic salmon .",1
+H1456,"He likes salmon , more than Atlantic salmon .",0
+H1457,"He likes Atlantic salmon , more than salmon .",0
+H1458,"He likes bunks , more than blackfish .",1
+H1459,"He likes salmon , more than blackfish .",0
+H1460,"He likes blackfish , more than salmon .",0
+H1461,"He likes athletic socks , more than chinooks .",1
+H1462,"He likes salmon , more than chinooks .",0
+H1463,"He likes chinooks , more than salmon .",0
+H1464,"He likes bluepoints , more than chum salmon .",1
+H1465,"He likes salmon , more than chum salmon .",0
+H1466,"He likes chum salmon , more than salmon .",0
+H1467,"He likes grackles , more than pendant earrings .",1
+H1468,"He likes earrings , more than pendant earrings .",0
+H1469,"He likes pendant earrings , more than earrings .",0
+H1470,"He likes Atlantic salmon , more than chains .",1
+H1471,"He likes necklaces , more than chains .",0
+H1472,"He likes chains , more than necklaces .",0
+H1473,"He likes chinooks , more than chokers .",1
+H1474,"He likes necklaces , more than chokers .",0
+H1475,"He likes chokers , more than necklaces .",0
+H1476,"He likes domestic cats , more than bluepoints .",1
+H1477,"He likes oysters , more than bluepoints .",0
+H1478,"He likes bluepoints , more than oysters .",0
+H1479,"He likes bunks , more than Japanese oysters .",1
+H1480,"He likes oysters , more than Japanese oysters .",0
+H1481,"He likes Japanese oysters , more than oysters .",0
+H1482,"He likes buffleheads , more than pearl oysters .",1
+H1483,"He likes oysters , more than pearl oysters .",0
+H1484,"He likes pearl oysters , more than oysters .",0
+H1485,"He likes black comedies , more than saddle oysters .",1
+H1486,"He likes oysters , more than saddle oysters .",0
+H1487,"He likes saddle oysters , more than oysters .",0
+H1488,"He likes cheerlessness , more than compositions .",1
+H1489,"He likes essays , more than compositions .",0
+H1490,"He likes compositions , more than essays .",0
+H1491,"He likes memoirs , more than disquisitions .",1
+H1492,"He likes essays , more than disquisitions .",0
+H1493,"He likes disquisitions , more than essays .",0
+H1494,"He likes black ducks , more than memoirs .",1
+H1495,"He likes essays , more than memoirs .",0
+H1496,"He likes memoirs , more than essays .",0
+H1497,"He likes Virginia hams , more than thanatopses .",1
+H1498,"He likes essays , more than thanatopses .",0
+H1499,"He likes thanatopses , more than essays .",0
+H1500,"He likes pearl oysters , more than alarms .",1
+H1501,"He likes fear , more than alarms .",0
+H1502,"He likes alarms , more than fear .",0
+H1503,"He likes cockateels , more than apprehensions .",1
+H1504,"He likes fear , more than apprehensions .",0
+H1505,"He likes apprehensions , more than fear .",0
+H1506,"He likes European rabbits , more than creeps .",1
+H1507,"He likes fear , more than creeps .",0
+H1508,"He likes creeps , more than fear .",0
+H1509,"He likes introductions , more than frissons .",1
+H1510,"He likes fear , more than frissons .",0
+H1511,"He likes frissons , more than fear .",0
+H1512,"He likes basenjis , more than Eurasian hamsters .",1
+H1513,"He likes hamsters , more than Eurasian hamsters .",0
+H1514,"He likes Eurasian hamsters , more than hamsters .",0
+H1515,"He likes manuals , more than golden hamsters .",1
+H1516,"He likes hamsters , more than golden hamsters .",0
+H1517,"He likes golden hamsters , more than hamsters .",0
+H1518,"He likes bunks , more than elations .",1
+H1519,"He likes joy , more than elations .",0
+H1520,"He likes elations , more than joy .",0
+H1521,"He likes ardors , more than exhilarations .",1
+H1522,"He likes joy , more than exhilarations .",0
+H1523,"He likes exhilarations , more than joy .",0
+H1524,"He likes beluga caviar , more than exuberances .",1
+H1525,"He likes joy , more than exuberances .",0
+H1526,"He likes exuberances , more than joy .",0
+H1527,"He likes African greys , more than exultations .",1
+H1528,"He likes joy , more than exultations .",0
+H1529,"He likes exultations , more than joy .",0
+H1530,"He likes tree sparrows , more than French bulldogs .",1
+H1531,"He likes bulldogs , more than French bulldogs .",0
+H1532,"He likes French bulldogs , more than bulldogs .",0
+H1533,"He likes dashikis , more than cheerlessness .",1
+H1534,"He likes sadness , more than cheerlessness .",0
+H1535,"He likes cheerlessness , more than sadness .",0
+H1536,"He likes basenjis , more than depressions .",1
+H1537,"He likes sadness , more than depressions .",0
+H1538,"He likes depressions , more than sadness .",0
+H1539,"He likes tree sparrows , more than dolefulness .",1
+H1540,"He likes sadness , more than dolefulness .",0
+H1541,"He likes dolefulness , more than sadness .",0
+H1542,"He likes pendant earrings , more than downheartedness .",1
+H1543,"He likes sadness , more than downheartedness .",0
+H1544,"He likes downheartedness , more than sadness .",0
+H1545,"He likes cowbirds , more than ancient pines .",1
+H1546,"He likes pines , more than ancient pines .",0
+H1547,"He likes ancient pines , more than pines .",0
+H1548,"He likes farces , more than black pines .",1
+H1549,"He likes pines , more than black pines .",0
+H1550,"He likes black pines , more than pines .",0
+H1551,"He likes memoirs , more than bristlecone pines .",1
+H1552,"He likes pines , more than bristlecone pines .",0
+H1553,"He likes bristlecone pines , more than pines .",0
+H1554,"He likes reckoners , more than jack pines .",1
+H1555,"He likes pines , more than jack pines .",0
+H1556,"He likes jack pines , more than pines .",0
+H1557,"He likes argyles , more than Angoras .",1
+H1558,"He likes rabbits , more than Angoras .",0
+H1559,"He likes Angoras , more than rabbits .",0
+H1560,"He likes dashikis , more than Belgian hares .",1
+H1561,"He likes rabbits , more than Belgian hares .",0
+H1562,"He likes Belgian hares , more than rabbits .",0
+H1563,"He likes fumed oaks , more than bunnies .",1
+H1564,"He likes rabbits , more than bunnies .",0
+H1565,"He likes bunnies , more than rabbits .",0
+H1566,"He likes pearl oysters , more than European rabbits .",1
+H1567,"He likes rabbits , more than European rabbits .",0
+H1568,"He likes European rabbits , more than rabbits .",0
+H1569,"He likes chokers , more than detective novels .",1
+H1570,"He likes novels , more than detective novels .",0
+H1571,"He likes detective novels , more than novels .",0
+H1572,"He likes jack pines , more than dime novels .",1
+H1573,"He likes novels , more than dime novels .",0
+H1574,"He likes dime novels , more than novels .",0
+H1575,"He likes fumed oaks , more than novelettes .",1
+H1576,"He likes novels , more than novelettes .",0
+H1577,"He likes novelettes , more than novels .",0
+H1578,"He likes bunnies , more than roman a clefs .",1
+H1579,"He likes novels , more than roman a clefs .",0
+H1580,"He likes roman a clefs , more than novels .",0
+H1581,"He likes dashikis , more than crammers .",1
+H1582,"He likes textbooks , more than crammers .",0
+H1583,"He likes crammers , more than textbooks .",0
+H1584,"He likes ancient pines , more than introductions .",1
+H1585,"He likes textbooks , more than introductions .",0
+H1586,"He likes introductions , more than textbooks .",0
+H1587,"He likes guidebooks , more than primers .",1
+H1588,"He likes textbooks , more than primers .",0
+H1589,"He likes primers , more than textbooks .",0
+H1590,"He likes basenjis , more than readers .",1
+H1591,"He likes textbooks , more than readers .",0
+H1592,"He likes readers , more than textbooks .",0
+H1593,"He likes primers , more than berths .",1
+H1594,"He likes beds , more than berths .",0
+H1595,"He likes berths , more than beds .",0
+H1596,"He likes English sparrows , more than built-in beds .",1
+H1597,"He likes beds , more than built-in beds .",0
+H1598,"He likes built-in beds , more than beds .",0
+H1599,"He likes dashikis , more than bunks .",1
+H1600,"He likes beds , more than bunks .",0
+H1601,"He likes bunks , more than beds .",0
+H1602,"He likes compositions , more than bunk beds .",1
+H1603,"He likes beds , more than bunk beds .",0
+H1604,"He likes bunk beds , more than beds .",0
+H1605,"He likes French bulldogs , more than African greys .",1
+H1606,"He likes parrots , more than African greys .",0
+H1607,"He likes African greys , more than parrots .",0
+H1608,"He likes clothes closets , more than amazons .",1
+H1609,"He likes parrots , more than amazons .",0
+H1610,"He likes amazons , more than parrots .",0
+H1611,"He likes manuals , more than cockateels .",1
+H1612,"He likes parrots , more than cockateels .",0
+H1613,"He likes cockateels , more than parrots .",0
+H1614,"He likes rusty blackbirds , more than cockatoos .",1
+H1615,"He likes parrots , more than cockatoos .",0
+H1616,"He likes cockatoos , more than parrots .",0
+H1617,"He likes guidebooks , more than boogies .",1
+H1618,"He likes blues , more than boogies .",0
+H1619,"He likes boogies , more than blues .",0
+H1620,"He likes English sparrows , more than armchairs .",1
+H1621,"He likes chairs , more than armchairs .",0
+H1622,"He likes armchairs , more than chairs .",0
+H1623,"He likes creeps , more than barber chairs .",1
+H1624,"He likes chairs , more than barber chairs .",0
+H1625,"He likes barber chairs , more than chairs .",0
+H1626,"He likes farces , more than chairs of state .",1
+H1627,"He likes chairs , more than chairs of state .",0
+H1628,"He likes chairs of state , more than chairs .",0
+H1629,"He likes Eurasian hamsters , more than chaise longues .",1
+H1630,"He likes chairs , more than chaise longues .",0
+H1631,"He likes chaise longues , more than chairs .",0
+H1632,"He likes dime novels , more than black comedies .",1
+H1633,"He likes comedies , more than black comedies .",0
+H1634,"He likes black comedies , more than comedies .",0
+H1635,"He likes Virginia hams , more than commedia dell'artes .",1
+H1636,"He likes comedies , more than commedia dell'artes .",0
+H1637,"He likes commedia dell'artes , more than comedies .",0
+H1638,"He likes bunk beds , more than dark comedies .",1
+H1639,"He likes comedies , more than dark comedies .",0
+H1640,"He likes dark comedies , more than comedies .",0
+H1641,"He likes golden hamsters , more than farces .",1
+H1642,"He likes comedies , more than farces .",0
+H1643,"He likes farces , more than comedies .",0
+H1644,"He likes holm oaks , more than domestic cats .",1
+H1645,"He likes cats , more than domestic cats .",0
+H1646,"He likes domestic cats , more than cats .",0
+H1647,"He likes depressions , more than wildcats .",1
+H1648,"He likes cats , more than wildcats .",0
+H1649,"He likes wildcats , more than cats .",0
+H1650,"He likes thanatopses , more than bellbottom trousers .",1
+H1651,"He likes trousers , more than bellbottom trousers .",0
+H1652,"He likes bellbottom trousers , more than trousers .",0
+H1653,"He likes bunks , more than breeches .",1
+H1654,"He likes trousers , more than breeches .",0
+H1655,"He likes breeches , more than trousers .",0
+H1656,"He likes tree sparrows , more than chinoes .",1
+H1657,"He likes trousers , more than chinoes .",0
+H1658,"He likes chinoes , more than trousers .",0
+H1659,"He likes black comedies , more than churidars .",1
+H1660,"He likes trousers , more than churidars .",0
+H1661,"He likes churidars , more than trousers .",0
+H1662,"He likes gammons , more than fumed oaks .",1
+H1663,"He likes oaks , more than fumed oaks .",0
+H1664,"He likes fumed oaks , more than oaks .",0
+H1665,"He likes English sparrows , more than holm oaks .",1
+H1666,"He likes oaks , more than holm oaks .",0
+H1667,"He likes holm oaks , more than oaks .",0
+H1668,"He likes Eurasian hamsters , more than English sparrows .",1
+H1669,"He likes sparrows , more than English sparrows .",0
+H1670,"He likes English sparrows , more than sparrows .",0
+H1671,"He likes dashikis , more than tree sparrows .",1
+H1672,"He likes sparrows , more than tree sparrows .",0
+H1673,"He likes tree sparrows , more than sparrows .",0
+H1674,"He likes manuals , more than black ducks .",1
+H1675,"He likes ducks , more than black ducks .",0
+H1676,"He likes black ducks , more than ducks .",0
+H1677,"He likes roman a clefs , more than buffleheads .",1
+H1678,"He likes ducks , more than buffleheads .",0
+H1679,"He likes buffleheads , more than ducks .",0
+H1680,"He likes chinoes , more than canvasbacks .",1
+H1681,"He likes ducks , more than canvasbacks .",0
+H1682,"He likes canvasbacks , more than ducks .",0
+H1683,"He likes argyles , more than dabbling ducks .",1
+H1684,"He likes ducks , more than dabbling ducks .",0
+H1685,"He likes dabbling ducks , more than ducks .",0
+H1686,"He likes blackfish , more than armoires .",1
+H1687,"He likes wardrobes , more than armoires .",0
+H1688,"He likes armoires , more than wardrobes .",0
+H1689,"He likes spaghetti Westerns , more than clothes closets .",1
+H1690,"He likes wardrobes , more than clothes closets .",0
+H1691,"He likes clothes closets , more than wardrobes .",0
+H1692,"He likes tree sparrows , more than coat closets .",1
+H1693,"He likes wardrobes , more than coat closets .",0
+H1694,"He likes coat closets , more than wardrobes .",0
+H1695,"He likes Belgian hares , more than beluga caviar .",1
+H1696,"He likes caviar , more than beluga caviar .",0
+H1697,"He likes beluga caviar , more than caviar .",0
+H1698,"He likes Eurasian hamsters , more than camises .",1
+H1699,"He likes shirts , more than camises .",0
+H1700,"He likes camises , more than shirts .",0
+H1701,"He likes cockateels , more than dashikis .",1
+H1702,"He likes shirts , more than dashikis .",0
+H1703,"He likes dashikis , more than shirts .",0
+H1704,"He likes dashikis , more than dress shirts .",1
+H1705,"He likes shirts , more than dress shirts .",0
+H1706,"He likes dress shirts , more than shirts .",0
+H1707,"He likes chinoes , more than hair shirts .",1
+H1708,"He likes shirts , more than hair shirts .",0
+H1709,"He likes hair shirts , more than shirts .",0
+H1710,"He likes disquisitions , more than bacon strips .",1
+H1711,"He likes bacon , more than bacon strips .",0
+H1712,"He likes bacon strips , more than bacon .",0
+H1713,"He likes detective novels , more than Canadian bacons .",1
+H1714,"He likes bacon , more than Canadian bacons .",0
+H1715,"He likes Canadian bacons , more than bacon .",0
+H1716,"He likes dolefulness , more than flitches .",1
+H1717,"He likes bacon , more than flitches .",0
+H1718,"He likes flitches , more than bacon .",0
+H1719,"He likes basenjis , more than gammons .",1
+H1720,"He likes bacon , more than gammons .",0
+H1721,"He likes gammons , more than bacon .",0
+H1722,"He likes argyles , more than cowbirds .",1
+H1723,"He likes blackbirds , more than cowbirds .",0
+H1724,"He likes cowbirds , more than blackbirds .",0
+H1725,"He likes curs , more than grackles .",1
+H1726,"He likes blackbirds , more than grackles .",0
+H1727,"He likes grackles , more than blackbirds .",0
+H1728,"He likes rusty blackbirds , more than red-winged blackbirds .",1
+H1729,"He likes blackbirds , more than red-winged blackbirds .",0
+H1730,"He likes red-winged blackbirds , more than blackbirds .",0
+H1731,"He likes exuberances , more than rusty blackbirds .",1
+H1732,"He likes blackbirds , more than rusty blackbirds .",0
+H1733,"He likes rusty blackbirds , more than blackbirds .",0
+H1734,"He likes Canadian bacons , more than basenjis .",1
+H1735,"He likes dogs , more than basenjis .",0
+H1736,"He likes basenjis , more than dogs .",0
+H1737,"He likes holm oaks , more than corgis .",1
+H1738,"He likes dogs , more than corgis .",0
+H1739,"He likes corgis , more than dogs .",0
+H1740,"He likes athletic socks , more than curs .",1
+H1741,"He likes dogs , more than curs .",0
+H1742,"He likes curs , more than dogs .",0
+H1743,"He likes dolefulness , more than dalmatians .",1
+H1744,"He likes dogs , more than dalmatians .",0
+H1745,"He likes dalmatians , more than dogs .",0
+H1746,"He likes breeches , more than agapes .",1
+H1747,"He likes love , more than agapes .",0
+H1748,"He likes agapes , more than love .",0
+H1749,"He likes alarms , more than amorousness .",1
+H1750,"He likes love , more than amorousness .",0
+H1751,"He likes amorousness , more than love .",0
+H1752,"He likes bristlecone pines , more than ardors .",1
+H1753,"He likes love , more than ardors .",0
+H1754,"He likes ardors , more than love .",0
+H1755,"He likes grackles , more than prosciutto .",1
+H1756,"He likes ham , more than prosciutto .",0
+H1757,"He likes prosciutto , more than ham .",0
+H1758,"He likes black ducks , more than Virginia hams .",1
+H1759,"He likes ham , more than Virginia hams .",0
+H1760,"He likes Virginia hams , more than ham .",0
+H1761,"He likes hair shirts , more than spaghetti Westerns .",1
+H1762,"He likes westerns , more than spaghetti Westerns .",0
+H1763,"He likes spaghetti Westerns , more than westerns .",0
+H1764,"He likes dashikis , more than bibles .",1
+H1765,"He likes handbooks , more than bibles .",0
+H1766,"He likes bibles , more than handbooks .",0
+H1767,"He likes novelettes , more than guidebooks .",1
+H1768,"He likes handbooks , more than guidebooks .",0
+H1769,"He likes guidebooks , more than handbooks .",0
+H1770,"He likes Atlantic salmon , more than manuals .",1
+H1771,"He likes handbooks , more than manuals .",0
+H1772,"He likes manuals , more than handbooks .",0
+H1773,"He likes exuberances , more than reckoners .",1
+H1774,"He likes handbooks , more than reckoners .",0
+H1775,"He likes reckoners , more than handbooks .",0
+H1776,"I like anklets , an interesting type of sock .",1
+H1777,"I like anklets , an interesting type of sadness .",0
+H1778,"I like argyles , an interesting type of sock .",1
+H1779,"I like argyles , an interesting type of textbook .",0
+H1780,"I like athletic socks , an interesting type of sock .",1
+H1781,"I like athletic socks , an interesting type of hamster .",0
+H1782,"I like knee-highs , an interesting type of sock .",1
+H1783,"I like knee-highs , an interesting type of shirt .",0
+H1784,"I like Atlantic salmon , an interesting type of salmon .",1
+H1785,"I like Atlantic salmon , an interesting type of fear .",0
+H1786,"I like blackfish , an interesting type of salmon .",1
+H1787,"I like blackfish , an interesting type of novel .",0
+H1788,"I like chinooks , an interesting type of salmon .",1
+H1789,"I like chinooks , an interesting type of love .",0
+H1790,"I like chum salmon , an interesting type of salmon .",1
+H1791,"I like chum salmon , an interesting type of bed .",0
+H1792,"I like pendant earrings , an interesting type of earring .",1
+H1793,"I like pendant earrings , an interesting type of bed .",0
+H1794,"I like chains , an interesting type of necklace .",1
+H1795,"I like chains , an interesting type of chair .",0
+H1796,"I like chokers , an interesting type of necklace .",1
+H1797,"I like chokers , an interesting type of pine .",0
+H1798,"I like bluepoints , an interesting type of oyster .",1
+H1799,"I like bluepoints , an interesting type of trouser .",0
+H1800,"I like Japanese oysters , an interesting type of oyster .",1
+H1801,"I like Japanese oysters , an interesting type of hamster .",0
+H1802,"I like pearl oysters , an interesting type of oyster .",1
+H1803,"I like pearl oysters , an interesting type of bed .",0
+H1804,"I like saddle oysters , an interesting type of oyster .",1
+H1805,"I like saddle oysters , an interesting type of handbook .",0
+H1806,"I like compositions , an interesting type of essay .",1
+H1807,"I like compositions , an interesting type of parrot .",0
+H1808,"I like disquisitions , an interesting type of essay .",1
+H1809,"I like disquisitions , an interesting type of textbook .",0
+H1810,"I like memoirs , an interesting type of essay .",1
+H1811,"I like memoirs , an interesting type of parrot .",0
+H1812,"I like thanatopses , an interesting type of essay .",1
+H1813,"I like thanatopses , an interesting type of textbook .",0
+H1814,"I like alarms , an interesting type of fear .",1
+H1815,"I like alarms , an interesting type of shirt .",0
+H1816,"I like apprehensions , an interesting type of fear .",1
+H1817,"I like apprehensions , an interesting type of salmon .",0
+H1818,"I like creeps , an interesting type of fear .",1
+H1819,"I like creeps , an interesting type of wardrobe .",0
+H1820,"I like frissons , an interesting type of fear .",1
+H1821,"I like frissons , an interesting type of rabbit .",0
+H1822,"I like Eurasian hamsters , an interesting type of hamster .",1
+H1823,"I like Eurasian hamsters , an interesting type of shirt .",0
+H1824,"I like golden hamsters , an interesting type of hamster .",1
+H1825,"I like golden hamsters , an interesting type of duck .",0
+H1826,"I like elations , an interesting type of joy .",1
+H1827,"I like elations , an interesting type of wardrobe .",0
+H1828,"I like exhilarations , an interesting type of joy .",1
+H1829,"I like exhilarations , an interesting type of bacon .",0
+H1830,"I like exuberances , an interesting type of joy .",1
+H1831,"I like exuberances , an interesting type of bed .",0
+H1832,"I like exultations , an interesting type of joy .",1
+H1833,"I like exultations , an interesting type of handbook .",0
+H1834,"I like French bulldogs , an interesting type of bulldog .",1
+H1835,"I like French bulldogs , an interesting type of blackbird .",0
+H1836,"I like cheerlessness , an interesting type of sadness .",1
+H1837,"I like cheerlessness , an interesting type of dog .",0
+H1838,"I like depressions , an interesting type of sadness .",1
+H1839,"I like depressions , an interesting type of blackbird .",0
+H1840,"I like dolefulness , an interesting type of sadness .",1
+H1841,"I like dolefulness , an interesting type of bacon .",0
+H1842,"I like downheartedness , an interesting type of sadness .",1
+H1843,"I like downheartedness , an interesting type of wardrobe .",0
+H1844,"I like ancient pines , an interesting type of pine .",1
+H1845,"I like ancient pines , an interesting type of cat .",0
+H1846,"I like black pines , an interesting type of pine .",1
+H1847,"I like black pines , an interesting type of novel .",0
+H1848,"I like bristlecone pines , an interesting type of pine .",1
+H1849,"I like bristlecone pines , an interesting type of sock .",0
+H1850,"I like jack pines , an interesting type of pine .",1
+H1851,"I like jack pines , an interesting type of blackbird .",0
+H1852,"I like Angoras , an interesting type of rabbit .",1
+H1853,"I like Angoras , an interesting type of bacon .",0
+H1854,"I like Belgian hares , an interesting type of rabbit .",1
+H1855,"I like Belgian hares , an interesting type of sadness .",0
+H1856,"I like bunnies , an interesting type of rabbit .",1
+H1857,"I like bunnies , an interesting type of chair .",0
+H1858,"I like European rabbits , an interesting type of rabbit .",1
+H1859,"I like European rabbits , an interesting type of ham .",0
+H1860,"I like detective novels , an interesting type of novel .",1
+H1861,"I like detective novels , an interesting type of joy .",0
+H1862,"I like dime novels , an interesting type of novel .",1
+H1863,"I like dime novels , an interesting type of sadness .",0
+H1864,"I like novelettes , an interesting type of novel .",1
+H1865,"I like novelettes , an interesting type of trouser .",0
+H1866,"I like roman a clefs , an interesting type of novel .",1
+H1867,"I like roman a clefs , an interesting type of sparrow .",0
+H1868,"I like crammers , an interesting type of textbook .",1
+H1869,"I like crammers , an interesting type of dog .",0
+H1870,"I like introductions , an interesting type of textbook .",1
+H1871,"I like introductions , an interesting type of bacon .",0
+H1872,"I like primers , an interesting type of textbook .",1
+H1873,"I like primers , an interesting type of bed .",0
+H1874,"I like readers , an interesting type of textbook .",1
+H1875,"I like readers , an interesting type of essay .",0
+H1876,"I like berths , an interesting type of bed .",1
+H1877,"I like berths , an interesting type of cat .",0
+H1878,"I like built-in beds , an interesting type of bed .",1
+H1879,"I like built-in beds , an interesting type of shirt .",0
+H1880,"I like bunks , an interesting type of bed .",1
+H1881,"I like bunks , an interesting type of sparrow .",0
+H1882,"I like bunk beds , an interesting type of bed .",1
+H1883,"I like bunk beds , an interesting type of cat .",0
+H1884,"I like African greys , an interesting type of parrot .",1
+H1885,"I like African greys , an interesting type of novel .",0
+H1886,"I like amazons , an interesting type of parrot .",1
+H1887,"I like amazons , an interesting type of love .",0
+H1888,"I like cockateels , an interesting type of parrot .",1
+H1889,"I like cockateels , an interesting type of handbook .",0
+H1890,"I like cockatoos , an interesting type of parrot .",1
+H1891,"I like cockatoos , an interesting type of novel .",0
+H1892,"I like boogies , an interesting type of blue .",1
+H1893,"I like boogies , an interesting type of dog .",0
+H1894,"I like armchairs , an interesting type of chair .",1
+H1895,"I like armchairs , an interesting type of sock .",0
+H1896,"I like barber chairs , an interesting type of chair .",1
+H1897,"I like barber chairs , an interesting type of sadness .",0
+H1898,"I like chairs of state , an interesting type of chair .",1
+H1899,"I like chairs of state , an interesting type of oak .",0
+H1900,"I like chaise longues , an interesting type of chair .",1
+H1901,"I like chaise longues , an interesting type of bacon .",0
+H1902,"I like black comedies , an interesting type of comedy .",1
+H1903,"I like black comedies , an interesting type of salmon .",0
+H1904,"I like commedia dell'artes , an interesting type of comedy .",1
+H1905,"I like commedia dell'artes , an interesting type of trouser .",0
+H1906,"I like dark comedies , an interesting type of comedy .",1
+H1907,"I like dark comedies , an interesting type of bed .",0
+H1908,"I like farces , an interesting type of comedy .",1
+H1909,"I like farces , an interesting type of fear .",0
+H1910,"I like domestic cats , an interesting type of cat .",1
+H1911,"I like domestic cats , an interesting type of sadness .",0
+H1912,"I like wildcats , an interesting type of cat .",1
+H1913,"I like wildcats , an interesting type of sadness .",0
+H1914,"I like bellbottom trousers , an interesting type of trouser .",1
+H1915,"I like bellbottom trousers , an interesting type of oak .",0
+H1916,"I like breeches , an interesting type of trouser .",1
+H1917,"I like breeches , an interesting type of hamster .",0
+H1918,"I like chinoes , an interesting type of trouser .",1
+H1919,"I like chinoes , an interesting type of earring .",0
+H1920,"I like churidars , an interesting type of trouser .",1
+H1921,"I like churidars , an interesting type of parrot .",0
+H1922,"I like fumed oaks , an interesting type of oak .",1
+H1923,"I like fumed oaks , an interesting type of blackbird .",0
+H1924,"I like holm oaks , an interesting type of oak .",1
+H1925,"I like holm oaks , an interesting type of novel .",0
+H1926,"I like English sparrows , an interesting type of sparrow .",1
+H1927,"I like English sparrows , an interesting type of joy .",0
+H1928,"I like tree sparrows , an interesting type of sparrow .",1
+H1929,"I like tree sparrows , an interesting type of comedy .",0
+H1930,"I like black ducks , an interesting type of duck .",1
+H1931,"I like black ducks , an interesting type of shirt .",0
+H1932,"I like buffleheads , an interesting type of duck .",1
+H1933,"I like buffleheads , an interesting type of chair .",0
+H1934,"I like canvasbacks , an interesting type of duck .",1
+H1935,"I like canvasbacks , an interesting type of oyster .",0
+H1936,"I like dabbling ducks , an interesting type of duck .",1
+H1937,"I like dabbling ducks , an interesting type of love .",0
+H1938,"I like armoires , an interesting type of wardrobe .",1
+H1939,"I like armoires , an interesting type of oak .",0
+H1940,"I like clothes closets , an interesting type of wardrobe .",1
+H1941,"I like clothes closets , an interesting type of novel .",0
+H1942,"I like coat closets , an interesting type of wardrobe .",1
+H1943,"I like coat closets , an interesting type of comedy .",0
+H1944,"I like beluga caviar , an interesting type of caviar .",1
+H1945,"I like beluga caviar , an interesting type of bacon .",0
+H1946,"I like camises , an interesting type of shirt .",1
+H1947,"I like camises , an interesting type of bacon .",0
+H1948,"I like dashikis , an interesting type of shirt .",1
+H1949,"I like dashikis , an interesting type of comedy .",0
+H1950,"I like dress shirts , an interesting type of shirt .",1
+H1951,"I like dress shirts , an interesting type of joy .",0
+H1952,"I like hair shirts , an interesting type of shirt .",1
+H1953,"I like hair shirts , an interesting type of chair .",0
+H1954,"I like bacon strips , an interesting type of bacon .",1
+H1955,"I like bacon strips , an interesting type of parrot .",0
+H1956,"I like Canadian bacons , an interesting type of bacon .",1
+H1957,"I like Canadian bacons , an interesting type of sadness .",0
+H1958,"I like flitches , an interesting type of bacon .",1
+H1959,"I like flitches , an interesting type of pine .",0
+H1960,"I like gammons , an interesting type of bacon .",1
+H1961,"I like gammons , an interesting type of novel .",0
+H1962,"I like cowbirds , an interesting type of blackbird .",1
+H1963,"I like cowbirds , an interesting type of bacon .",0
+H1964,"I like grackles , an interesting type of blackbird .",1
+H1965,"I like grackles , an interesting type of handbook .",0
+H1966,"I like red-winged blackbirds , an interesting type of blackbird .",1
+H1967,"I like red-winged blackbirds , an interesting type of bacon .",0
+H1968,"I like rusty blackbirds , an interesting type of blackbird .",1
+H1969,"I like rusty blackbirds , an interesting type of blue .",0
+H1970,"I like basenjis , an interesting type of dog .",1
+H1971,"I like basenjis , an interesting type of hamster .",0
+H1972,"I like corgis , an interesting type of dog .",1
+H1973,"I like corgis , an interesting type of duck .",0
+H1974,"I like curs , an interesting type of dog .",1
+H1975,"I like curs , an interesting type of wardrobe .",0
+H1976,"I like dalmatians , an interesting type of dog .",1
+H1977,"I like dalmatians , an interesting type of handbook .",0
+H1978,"I like agapes , an interesting type of love .",1
+H1979,"I like agapes , an interesting type of oyster .",0
+H1980,"I like amorousness , an interesting type of love .",1
+H1981,"I like amorousness , an interesting type of sock .",0
+H1982,"I like ardors , an interesting type of love .",1
+H1983,"I like ardors , an interesting type of comedy .",0
+H1984,"I like prosciutto , an interesting type of ham .",1
+H1985,"I like prosciutto , an interesting type of comedy .",0
+H1986,"I like Virginia hams , an interesting type of ham .",1
+H1987,"I like Virginia hams , an interesting type of sparrow .",0
+H1988,"I like spaghetti Westerns , an interesting type of western .",1
+H1989,"I like spaghetti Westerns , an interesting type of rabbit .",0
+H1990,"I like bibles , an interesting type of handbook .",1
+H1991,"I like bibles , an interesting type of duck .",0
+H1992,"I like guidebooks , an interesting type of handbook .",1
+H1993,"I like guidebooks , an interesting type of sparrow .",0
+H1994,"I like manuals , an interesting type of handbook .",1
+H1995,"I like manuals , an interesting type of salmon .",0
+H1996,"I like reckoners , an interesting type of handbook .",1
+H1997,"I like reckoners , an interesting type of bed .",0
+H1998,"He likes anklets , an interesting type of sock .",1
+H1999,"He likes anklets , an interesting type of sadness .",0
+H2000,"He likes argyles , an interesting type of sock .",1
+H2001,"He likes argyles , an interesting type of love .",0
+H2002,"He likes athletic socks , an interesting type of sock .",1
+H2003,"He likes athletic socks , an interesting type of bacon .",0
+H2004,"He likes knee-highs , an interesting type of sock .",1
+H2005,"He likes knee-highs , an interesting type of oak .",0
+H2006,"He likes Atlantic salmon , an interesting type of salmon .",1
+H2007,"He likes Atlantic salmon , an interesting type of parrot .",0
+H2008,"He likes blackfish , an interesting type of salmon .",1
+H2009,"He likes blackfish , an interesting type of handbook .",0
+H2010,"He likes chinooks , an interesting type of salmon .",1
+H2011,"He likes chinooks , an interesting type of blackbird .",0
+H2012,"He likes chum salmon , an interesting type of salmon .",1
+H2013,"He likes chum salmon , an interesting type of oyster .",0
+H2014,"He likes pendant earrings , an interesting type of earring .",1
+H2015,"He likes pendant earrings , an interesting type of salmon .",0
+H2016,"He likes chains , an interesting type of necklace .",1
+H2017,"He likes chains , an interesting type of parrot .",0
+H2018,"He likes chokers , an interesting type of necklace .",1
+H2019,"He likes chokers , an interesting type of textbook .",0
+H2020,"He likes bluepoints , an interesting type of oyster .",1
+H2021,"He likes bluepoints , an interesting type of blackbird .",0
+H2022,"He likes Japanese oysters , an interesting type of oyster .",1
+H2023,"He likes Japanese oysters , an interesting type of essay .",0
+H2024,"He likes pearl oysters , an interesting type of oyster .",1
+H2025,"He likes pearl oysters , an interesting type of chair .",0
+H2026,"He likes saddle oysters , an interesting type of oyster .",1
+H2027,"He likes saddle oysters , an interesting type of cat .",0
+H2028,"He likes compositions , an interesting type of essay .",1
+H2029,"He likes compositions , an interesting type of bed .",0
+H2030,"He likes disquisitions , an interesting type of essay .",1
+H2031,"He likes disquisitions , an interesting type of textbook .",0
+H2032,"He likes memoirs , an interesting type of essay .",1
+H2033,"He likes memoirs , an interesting type of oyster .",0
+H2034,"He likes thanatopses , an interesting type of essay .",1
+H2035,"He likes thanatopses , an interesting type of sock .",0
+H2036,"He likes alarms , an interesting type of fear .",1
+H2037,"He likes alarms , an interesting type of bed .",0
+H2038,"He likes apprehensions , an interesting type of fear .",1
+H2039,"He likes apprehensions , an interesting type of salmon .",0
+H2040,"He likes creeps , an interesting type of fear .",1
+H2041,"He likes creeps , an interesting type of salmon .",0
+H2042,"He likes frissons , an interesting type of fear .",1
+H2043,"He likes frissons , an interesting type of sock .",0
+H2044,"He likes Eurasian hamsters , an interesting type of hamster .",1
+H2045,"He likes Eurasian hamsters , an interesting type of sock .",0
+H2046,"He likes golden hamsters , an interesting type of hamster .",1
+H2047,"He likes golden hamsters , an interesting type of oyster .",0
+H2048,"He likes elations , an interesting type of joy .",1
+H2049,"He likes elations , an interesting type of salmon .",0
+H2050,"He likes exhilarations , an interesting type of joy .",1
+H2051,"He likes exhilarations , an interesting type of handbook .",0
+H2052,"He likes exuberances , an interesting type of joy .",1
+H2053,"He likes exuberances , an interesting type of parrot .",0
+H2054,"He likes exultations , an interesting type of joy .",1
+H2055,"He likes exultations , an interesting type of pine .",0
+H2056,"He likes French bulldogs , an interesting type of bulldog .",1
+H2057,"He likes French bulldogs , an interesting type of hamster .",0
+H2058,"He likes cheerlessness , an interesting type of sadness .",1
+H2059,"He likes cheerlessness , an interesting type of cat .",0
+H2060,"He likes depressions , an interesting type of sadness .",1
+H2061,"He likes depressions , an interesting type of textbook .",0
+H2062,"He likes dolefulness , an interesting type of sadness .",1
+H2063,"He likes dolefulness , an interesting type of sparrow .",0
+H2064,"He likes downheartedness , an interesting type of sadness .",1
+H2065,"He likes downheartedness , an interesting type of textbook .",0
+H2066,"He likes ancient pines , an interesting type of pine .",1
+H2067,"He likes ancient pines , an interesting type of chair .",0
+H2068,"He likes black pines , an interesting type of pine .",1
+H2069,"He likes black pines , an interesting type of comedy .",0
+H2070,"He likes bristlecone pines , an interesting type of pine .",1
+H2071,"He likes bristlecone pines , an interesting type of novel .",0
+H2072,"He likes jack pines , an interesting type of pine .",1
+H2073,"He likes jack pines , an interesting type of hamster .",0
+H2074,"He likes Angoras , an interesting type of rabbit .",1
+H2075,"He likes Angoras , an interesting type of wardrobe .",0
+H2076,"He likes Belgian hares , an interesting type of rabbit .",1
+H2077,"He likes Belgian hares , an interesting type of textbook .",0
+H2078,"He likes bunnies , an interesting type of rabbit .",1
+H2079,"He likes bunnies , an interesting type of duck .",0
+H2080,"He likes European rabbits , an interesting type of rabbit .",1
+H2081,"He likes European rabbits , an interesting type of western .",0
+H2082,"He likes detective novels , an interesting type of novel .",1
+H2083,"He likes detective novels , an interesting type of sadness .",0
+H2084,"He likes dime novels , an interesting type of novel .",1
+H2085,"He likes dime novels , an interesting type of chair .",0
+H2086,"He likes novelettes , an interesting type of novel .",1
+H2087,"He likes novelettes , an interesting type of essay .",0
+H2088,"He likes roman a clefs , an interesting type of novel .",1
+H2089,"He likes roman a clefs , an interesting type of handbook .",0
+H2090,"He likes crammers , an interesting type of textbook .",1
+H2091,"He likes crammers , an interesting type of bulldog .",0
+H2092,"He likes introductions , an interesting type of textbook .",1
+H2093,"He likes introductions , an interesting type of rabbit .",0
+H2094,"He likes primers , an interesting type of textbook .",1
+H2095,"He likes primers , an interesting type of joy .",0
+H2096,"He likes readers , an interesting type of textbook .",1
+H2097,"He likes readers , an interesting type of oyster .",0
+H2098,"He likes berths , an interesting type of bed .",1
+H2099,"He likes berths , an interesting type of bacon .",0
+H2100,"He likes built-in beds , an interesting type of bed .",1
+H2101,"He likes built-in beds , an interesting type of sparrow .",0
+H2102,"He likes bunks , an interesting type of bed .",1
+H2103,"He likes bunks , an interesting type of love .",0
+H2104,"He likes bunk beds , an interesting type of bed .",1
+H2105,"He likes bunk beds , an interesting type of textbook .",0
+H2106,"He likes African greys , an interesting type of parrot .",1
+H2107,"He likes African greys , an interesting type of textbook .",0
+H2108,"He likes amazons , an interesting type of parrot .",1
+H2109,"He likes amazons , an interesting type of textbook .",0
+H2110,"He likes cockateels , an interesting type of parrot .",1
+H2111,"He likes cockateels , an interesting type of essay .",0
+H2112,"He likes cockatoos , an interesting type of parrot .",1
+H2113,"He likes cockatoos , an interesting type of sparrow .",0
+H2114,"He likes boogies , an interesting type of blue .",1
+H2115,"He likes boogies , an interesting type of cat .",0
+H2116,"He likes armchairs , an interesting type of chair .",1
+H2117,"He likes armchairs , an interesting type of shirt .",0
+H2118,"He likes barber chairs , an interesting type of chair .",1
+H2119,"He likes barber chairs , an interesting type of dog .",0
+H2120,"He likes chairs of state , an interesting type of chair .",1
+H2121,"He likes chairs of state , an interesting type of shirt .",0
+H2122,"He likes chaise longues , an interesting type of chair .",1
+H2123,"He likes chaise longues , an interesting type of salmon .",0
+H2124,"He likes black comedies , an interesting type of comedy .",1
+H2125,"He likes black comedies , an interesting type of blue .",0
+H2126,"He likes commedia dell'artes , an interesting type of comedy .",1
+H2127,"He likes commedia dell'artes , an interesting type of bacon .",0
+H2128,"He likes dark comedies , an interesting type of comedy .",1
+H2129,"He likes dark comedies , an interesting type of shirt .",0
+H2130,"He likes farces , an interesting type of comedy .",1
+H2131,"He likes farces , an interesting type of blue .",0
+H2132,"He likes domestic cats , an interesting type of cat .",1
+H2133,"He likes domestic cats , an interesting type of bacon .",0
+H2134,"He likes wildcats , an interesting type of cat .",1
+H2135,"He likes wildcats , an interesting type of sadness .",0
+H2136,"He likes bellbottom trousers , an interesting type of trouser .",1
+H2137,"He likes bellbottom trousers , an interesting type of novel .",0
+H2138,"He likes breeches , an interesting type of trouser .",1
+H2139,"He likes breeches , an interesting type of joy .",0
+H2140,"He likes chinoes , an interesting type of trouser .",1
+H2141,"He likes chinoes , an interesting type of fear .",0
+H2142,"He likes churidars , an interesting type of trouser .",1
+H2143,"He likes churidars , an interesting type of essay .",0
+H2144,"He likes fumed oaks , an interesting type of oak .",1
+H2145,"He likes fumed oaks , an interesting type of essay .",0
+H2146,"He likes holm oaks , an interesting type of oak .",1
+H2147,"He likes holm oaks , an interesting type of sock .",0
+H2148,"He likes English sparrows , an interesting type of sparrow .",1
+H2149,"He likes English sparrows , an interesting type of duck .",0
+H2150,"He likes tree sparrows , an interesting type of sparrow .",1
+H2151,"He likes tree sparrows , an interesting type of rabbit .",0
+H2152,"He likes black ducks , an interesting type of duck .",1
+H2153,"He likes black ducks , an interesting type of bacon .",0
+H2154,"He likes buffleheads , an interesting type of duck .",1
+H2155,"He likes buffleheads , an interesting type of novel .",0
+H2156,"He likes canvasbacks , an interesting type of duck .",1
+H2157,"He likes canvasbacks , an interesting type of chair .",0
+H2158,"He likes dabbling ducks , an interesting type of duck .",1
+H2159,"He likes dabbling ducks , an interesting type of handbook .",0
+H2160,"He likes armoires , an interesting type of wardrobe .",1
+H2161,"He likes armoires , an interesting type of parrot .",0
+H2162,"He likes clothes closets , an interesting type of wardrobe .",1
+H2163,"He likes clothes closets , an interesting type of trouser .",0
+H2164,"He likes coat closets , an interesting type of wardrobe .",1
+H2165,"He likes coat closets , an interesting type of bacon .",0
+H2166,"He likes beluga caviar , an interesting type of caviar .",1
+H2167,"He likes beluga caviar , an interesting type of joy .",0
+H2168,"He likes camises , an interesting type of shirt .",1
+H2169,"He likes camises , an interesting type of textbook .",0
+H2170,"He likes dashikis , an interesting type of shirt .",1
+H2171,"He likes dashikis , an interesting type of chair .",0
+H2172,"He likes dress shirts , an interesting type of shirt .",1
+H2173,"He likes dress shirts , an interesting type of oak .",0
+H2174,"He likes hair shirts , an interesting type of shirt .",1
+H2175,"He likes hair shirts , an interesting type of bacon .",0
+H2176,"He likes bacon strips , an interesting type of bacon .",1
+H2177,"He likes bacon strips , an interesting type of love .",0
+H2178,"He likes Canadian bacons , an interesting type of bacon .",1
+H2179,"He likes Canadian bacons , an interesting type of blackbird .",0
+H2180,"He likes flitches , an interesting type of bacon .",1
+H2181,"He likes flitches , an interesting type of bed .",0
+H2182,"He likes gammons , an interesting type of bacon .",1
+H2183,"He likes gammons , an interesting type of bed .",0
+H2184,"He likes cowbirds , an interesting type of blackbird .",1
+H2185,"He likes cowbirds , an interesting type of oyster .",0
+H2186,"He likes grackles , an interesting type of blackbird .",1
+H2187,"He likes grackles , an interesting type of shirt .",0
+H2188,"He likes red-winged blackbirds , an interesting type of blackbird .",1
+H2189,"He likes red-winged blackbirds , an interesting type of shirt .",0
+H2190,"He likes rusty blackbirds , an interesting type of blackbird .",1
+H2191,"He likes rusty blackbirds , an interesting type of novel .",0
+H2192,"He likes basenjis , an interesting type of dog .",1
+H2193,"He likes basenjis , an interesting type of joy .",0
+H2194,"He likes corgis , an interesting type of dog .",1
+H2195,"He likes corgis , an interesting type of pine .",0
+H2196,"He likes curs , an interesting type of dog .",1
+H2197,"He likes curs , an interesting type of fear .",0
+H2198,"He likes dalmatians , an interesting type of dog .",1
+H2199,"He likes dalmatians , an interesting type of trouser .",0
+H2200,"He likes agapes , an interesting type of love .",1
+H2201,"He likes agapes , an interesting type of shirt .",0
+H2202,"He likes amorousness , an interesting type of love .",1
+H2203,"He likes amorousness , an interesting type of sock .",0
+H2204,"He likes ardors , an interesting type of love .",1
+H2205,"He likes ardors , an interesting type of hamster .",0
+H2206,"He likes prosciutto , an interesting type of ham .",1
+H2207,"He likes prosciutto , an interesting type of joy .",0
+H2208,"He likes Virginia hams , an interesting type of ham .",1
+H2209,"He likes Virginia hams , an interesting type of chair .",0
+H2210,"He likes spaghetti Westerns , an interesting type of western .",1
+H2211,"He likes spaghetti Westerns , an interesting type of handbook .",0
+H2212,"He likes bibles , an interesting type of handbook .",1
+H2213,"He likes bibles , an interesting type of oak .",0
+H2214,"He likes guidebooks , an interesting type of handbook .",1
+H2215,"He likes guidebooks , an interesting type of textbook .",0
+H2216,"He likes manuals , an interesting type of handbook .",1
+H2217,"He likes manuals , an interesting type of bed .",0
+H2218,"He likes reckoners , an interesting type of handbook .",1
+H2219,"He likes reckoners , an interesting type of oak .",0
