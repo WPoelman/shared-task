@@ -6,3 +6,631 @@ leather
 plastic
 polyester
 wood
+cord
+woolen
+organdie
+suiting
+fore-and-aft sail
+macrame
+fag end
+lame
+chintz
+duster
+stockinet
+needlepoint
+roller towel
+linsey-woolsey
+doeskin
+sateen
+huckaback
+damask
+dustcloth
+organza
+remnant
+buckram
+train
+duffel
+nainsook
+tucker
+screening
+velcro
+flannel
+swan's down
+pinstripe
+tappa
+longyi
+pepper-and-salt
+oddment
+chiffon
+taffeta
+remainder
+sheeting
+swatch
+velveteen
+jersey
+sponge cloth
+fore-and-aft topsail
+lint
+acetate rayon
+toweling
+diaper
+panting
+plush
+grogram
+stockinette
+coating
+mizzen
+crepe marocain
+spritsail
+tartan
+safety net
+shirttail
+khadi
+herringbone
+topgallant
+terylene
+camouflage
+spanker
+chenille
+beach towel
+point lace
+save-all
+homespun
+foresail
+acetate
+chamois cloth
+shred
+hairnet
+inset
+silesia
+georgette
+wincey
+gaffsail
+end
+pilot cloth
+terry cloth
+satinette
+camo
+bandana
+tatter
+organdy
+aba
+courtelle
+press of sail
+hopsack
+ninon
+hand towel
+sharkskin
+dacron
+rag
+netting
+denim
+elastic
+square sail
+jib
+sparker
+sheet
+grosgrain
+spandex
+mackintosh
+pocket-handkerchief
+jean
+ticking
+leatherette
+canton crepe
+fibre
+tarpaulin
+sail
+chicken wire
+main-topsail
+cobweb
+serge
+woollen
+fiber
+drop cloth
+belting
+pongee
+crepe de chine
+stammel
+fore-topsail
+flying jib
+meshing
+viscose rayon
+headsail
+sacking
+bath towel
+network
+gore
+bandanna
+valenciennes lace
+staysail
+groundsheet
+dimity
+dishtowel
+placket
+aertex
+foulard
+chambray
+silk
+tag end
+mainsail
+lugsail
+moleskin
+main course
+etamine
+patch
+paper towel
+mohair
+pillow lace
+canvas
+hanky
+double knit
+gingham
+tammy
+towelling
+winceyette
+shoulder patch
+huck
+gusset
+flash
+burlap
+piece of material
+hopsacking
+pina cloth
+watered-silk
+tapa
+boucle
+terrycloth
+cotton flannel
+suede cloth
+webbing
+sackcloth
+waterproof
+pine-tar rag
+horsehair
+face towel
+monk's cloth
+imitation leather
+tapis
+ground cloth
+repp
+chinchilla
+hankey
+ultrasuede
+cambric
+poplin
+dish towel
+nankeen
+khaddar
+moreen
+cheesecloth
+trousering
+meshwork
+moire
+fustian
+yoke
+panel
+metallic
+paisley
+gabardine
+print
+jacquard
+grillwork
+dust cover
+oilcloth
+sailcloth
+gauze bandage
+gauze
+handkerchief
+royal
+turkish towel
+velours
+net
+terry
+wide wale
+gaff-headed sail
+batik
+russet
+dishrag
+mousseline de sole
+shag
+balloon sail
+crinoline
+hankie
+voile
+canton flannel
+gaff topsail
+alpaca
+orlon
+bagging
+harris tweed
+challis
+tarp
+bedford cord
+worsted
+rayon
+duffle
+crossjack
+bib
+lateen
+mesh
+pasty
+balbriggan
+shantung
+topsail
+khaki
+veiling
+lining
+whipcord
+bombazine
+dustrag
+guimpe
+mackinaw
+permanent press
+linen
+narrow wale
+filet
+crape
+cretonne
+frieze
+camelhair
+lungi
+pique
+marocain
+towel
+dust sheet
+sarsenet
+velour
+twill
+drapery
+tea towel
+wire cloth
+quilting
+olive drab
+bobbin lace
+calico
+felt
+canvass
+suede
+knit
+lisle
+motley
+snood
+canopy
+valenciennes
+marseille
+hair
+spark arrester
+diamante
+terry towel
+samite
+viyella
+vulcanized fiber
+crepe
+basket weave
+velvet
+satin
+plaid
+broadcloth
+etamin
+haircloth
+upholstery material
+tweed
+satinet
+reseau
+press of canvas
+wirework
+duck
+corduroy
+lateen sail
+dungaree
+dishcloth
+wash-and-wear
+vicuna
+flannelette
+fleece
+web
+wool
+piece of cloth
+brocade
+tapestry
+batiste
+lace
+lungyi
+petrolatum gauze
+madras
+moquette
+baize
+gunny
+muslin
+tricot
+bunting
+acrylic
+gossamer
+chino
+sarcenet
+lug
+durable press
+camlet
+topgallant sail
+scrim
+macintosh
+cashmere
+skysail
+liner
+shirting
+mizzen course
+spinnaker
+seersucker
+tag
+jaconet
+camel's hair
+tulle
+cerecloth
+brussels lace
+rep
+viscose
+percale
+faille
+mizen
+juniperus flaccida
+white poplar
+fir
+chestnut
+blackwood
+briarwood
+poplar
+douglas fir
+southern red cedar
+hemlock
+poon
+whitewood
+black cypress pine
+dyewood
+incense wood
+red lauan
+yew
+common juniper
+redwood
+turkish boxwood
+brushwood
+bird's-eye maple
+philippine mahogany
+sawdust
+swamp cypress
+sequoia gigantea
+splinters
+lancewood
+callitris endlicheri
+juniperus sabina
+red cedar
+tupelo
+juniperus virginiana
+cocuswood
+red sandalwood
+balsa
+sequoiadendron giganteum
+holm oak
+quira
+boxwood
+nurse log
+kauri
+mexican swamp cypress
+cedar
+locust
+hickory
+basswood
+logwood
+black locust
+driftwood
+cigar-box cedar
+taxodium mucronatum
+taxodium ascendens
+creeping juniper
+callitris quadrivalvis
+sabicu wood
+balsa wood
+sequoia wellingtonia
+ash
+dogwood
+elmwood
+pencil cedar
+juniperus silicicola
+true tulipwood
+teak
+southern cypress
+sapwood
+pine
+sandarac tree
+coast redwood
+bamboo
+white cypress pine
+california redwood
+red cypress pine
+callitris calcarata
+yellow poplar
+port jackson pine
+deal
+wicker
+guaiac wood
+ironwood
+callitris glaucophylla
+cypress
+olive
+dwarf juniper
+juniperus communis depressa
+elm
+ruby wood
+bermuda cedar
+maple
+knotty pine
+knot
+linden
+ebony
+sandalwood
+beech
+panama redwood
+applewood
+matchwood
+heartwood
+drooping juniper
+sequoia sempervirens
+log
+sierra redwood
+brierwood
+guaiacum
+shittimwood
+brazilwood
+yellow pine
+oak
+juniperus horizontalis
+beefwood
+savin
+lignum vitae
+eucalyptus
+sycamore
+beechwood
+pecan
+stringybark pine
+yellowwood
+alder
+satinwood
+sumac
+sweet gum
+fruitwood
+fumed oak
+zebrawood
+mexican juniper
+satin walnut
+larch
+port orford cedar
+amboyna
+pyinma
+cabinet wood
+lemonwood
+hardwood
+tulipwood
+bentwood
+red gum
+tule tree
+andaman redwood
+callitris cupressiformis
+hazel
+cocoswood
+obeche
+brier-wood
+juniperus procera
+softwood
+cedarwood
+big tree
+guaiac
+bald cypress
+lacewood
+walnut
+saw log
+pond bald cypress
+pond cypress
+eastern red cedar
+spruce
+cypress pine
+teakwood
+juniperus bermudiana
+montezuma cypress
+ground cedar
+granadilla wood
+red juniper
+sandarac
+gum
+birch
+taxodium distichum
+guaiacum wood
+callitris glauca
+pulpwood
+juniperus communis
+gumwood
+sequoia
+tetraclinis articulata
+rosewood
+hazelwood
+callitris parlatorei
+ahuehuete
+orangewood
+east african cedar
+kingwood
+juniper
+mahogany
+sabicu
+cherry
+citronwood
+burl
+giant sequoia
+pencil cedar tree
+white pine
+silver quandong
+raw wood
+duramen
+bakelite
+coumarone-indene resin
+thermosetting resin
+abs
+phenolic urea
+silicone resin
+acrylonitrile-butadiene-styrene
+saran
+fluorocarbon plastic
+resinoid
+polypropene
+thermosetting compositions
+mylar
+phenolic plastic
+thermoplastic
+coumarone resin
+vinylite
+cellulosic
+aminoplast
+polytetrafluoroethylene
+teflon
+celluloid
+thermoplastic resin
+polyvinyl-formaldehyde
+amino plastic
+amino resin
+polypropylene
+austenitic manganese steel
+structural steel
+drill rod
+carbon steel
+hyper-eutectoid steel
+tool steel
+eutectoid steel
+mild steel
+wolfram steel
+Elinvar
+high-speed steel
+low-carbon steel
+quenched steel
+hot-work steel
+hard steel
+stainless
+chromium steel
+stainless steel
+nickel steel
+austenitic steel
+chrome-nickel steel
+medium steel
+case-hardened steel
+Damask steel
+chrome-tungsten steel
+tungsten steel
+soft-cast steel
+crucible steel
+alloy steel
+hypo-eutectoid steel
+drill steel
+Damascus steel
+vanadium steel
+chisel steel
+oil-hardened steel
+manganese steel
+molybdenum steel
+steel

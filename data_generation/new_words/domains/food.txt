@@ -23,12 +23,12 @@ white turnip
 escarole
 shell bean
 murphy
-Chinese celery
+chinese celery
 radicchio
-English runner bean
+english runner bean
 plantain
 collards
-Paschal celery
+paschal celery
 home-fried potatoes
 dandelion green
 romaine
@@ -41,14 +41,14 @@ bell pepper
 artichoke heart
 pumpkin
 chilly
-Boston lettuce
+boston lettuce
 cayenne
 butterhead lettuce
 celery cabbage
 home fries
 cucumber
 white bean
-Irish potato
+irish potato
 common bean
 yam
 pattypan squash
@@ -56,15 +56,15 @@ butternut squash
 greens
 potato
 swede
-Jerusalem artichoke
+jerusalem artichoke
 cherry tomato
 legume
 leaf lettuce
 brussels sprouts
 cos
-Chinese cabbage
+chinese cabbage
 dahl
-Vidalia onion
+vidalia onion
 soy
 green bean
 crisphead lettuce
@@ -110,7 +110,7 @@ kohlrabi
 french-fried potatoes
 husk tomato
 pigeon pea
-French bean
+french bean
 soybean
 salad burnet
 taro root
@@ -127,11 +127,11 @@ summer squash
 gherkin
 runner bean
 potherb
-French endive
+french endive
 french fries
 cos lettuce
 sugar pea
-Fordhooks
+fordhooks
 dasheen
 chile
 savoy
@@ -152,7 +152,7 @@ sweet pepper
 carrot
 pinto bean
 fava bean
-Mexican husk tomato
+mexican husk tomato
 chips
 lamb's-quarter
 snap bean
@@ -160,7 +160,7 @@ shallot
 cowpea
 watercress
 jacket potato
-Uruguay potato
+uruguay potato
 field pea
 snap
 scorzonera
@@ -177,14 +177,14 @@ tomato
 chicory
 radish
 globe pepper
-Florence fennel
+florence fennel
 acorn squash
 buttercup squash
 soya bean
 scarlet runner bean
 pigweed
 butterbean
-Belgian endive
+belgian endive
 rhubarb
 garbanzo
 sprout
@@ -208,11 +208,11 @@ broccoli rabe
 beetroot
 taro
 root vegetable
-Spanish onion
+spanish onion
 bamboo shoot
 kidney bean
-Kentucky wonder bean
-Swiss chard
+kentucky wonder bean
+swiss chard
 haricot vert
 chilli
 truffle
@@ -220,7 +220,7 @@ squash
 julienne vegetable
 turnip
 winter cress
-Indian mustard
+indian mustard
 snow pea
 leafy vegetable
 kail
@@ -230,12 +230,12 @@ beet
 baked potato
 green pea
 crookneck
-Bibb lettuce
+bibb lettuce
 savoy cabbage
 yellow squash
 collard greens
 chard
-Kentucky wonder
+kentucky wonder
 chili
 chicory escarole
 green soybean
@@ -265,7 +265,7 @@ pimiento
 tomatillo
 jalapeno
 scarlet runner
-Bermuda onion
+bermuda onion
 chili pepper
 summer crookneck
 salad greens
@@ -279,7 +279,7 @@ frijole
 lettuce
 celeriac
 black salsify
-French sorrel
+french sorrel
 vegetables
 meat
 food
@@ -291,7 +291,7 @@ pork loin
 knockwurst
 sparerib
 chicken liver
-New York strip
+new york strip
 cochon de lait
 lamb-chop
 bratwurst
@@ -307,7 +307,7 @@ shank
 lunch meat
 pigs' knuckles
 cut of pork
-Rock Cornish hen
+rock cornish hen
 mutton chop
 brain
 goose liver
@@ -335,7 +335,7 @@ tomalley
 scrag end
 frank
 standing rib roast
-Chateaubriand
+chateaubriand
 rib roast
 horsemeat
 fowl
@@ -347,7 +347,7 @@ hamburger steak
 chitterlings
 pork roast
 porkchop
-Bologna sausage
+bologna sausage
 club steak
 bacon
 pigs' feet
@@ -368,13 +368,13 @@ haslet
 leg of lamb
 aitchbone
 variety meat
-T-bone steak
+t-bone steak
 loin
 forequarter
 sweetbreads
 squab
 partridge
-Canadian bacon
+canadian bacon
 rump roast
 beef tongue
 chop steak
@@ -438,7 +438,7 @@ sausage
 frier
 mouton
 pot roast
-Vienna sausage
+vienna sausage
 jambon
 gobbet
 sweetbread
@@ -457,14 +457,14 @@ joint
 chuck
 foreshank
 fish steak
-Delmonico steak
+delmonico steak
 pork belly
 venison
 buffalo
 cut
 sirloin tip
 minute steak
-Oven Stuffer
+oven stuffer
 jerked meat
 corn beef
 liver pudding
@@ -508,13 +508,13 @@ liver
 short ribs
 hindshank
 wedge bone
-Virginia ham
+virginia ham
 prosciutto
 gammon
 souse
 corned beef
 roast
-Oven Stuffer Roaster
+oven stuffer roaster
 hindquarter
 beef patty
 chine
@@ -549,3 +549,1036 @@ entrecote
 filet mignon
 sowbelly
 turkey
+petite marmite
+butty
+sandwich plate
+beef stroganoff
+stuffed derma
+potpie
+beef broth
+filet de boeuf en croute
+western omelet
+creme anglais
+gruel
+cake
+salmi
+sloppy joe
+mulligan stew
+patty
+nacho
+green turtle soup
+creme brulee
+belgian beef stew
+codfish ball
+succotash
+steak au poivre
+ham sandwich
+corn pudding
+open sandwich
+shrimp newburg
+gulyas
+stew
+pot liquor
+carrot pudding
+tossed salad
+fricassee
+sauerbraten
+hero
+stock cube
+turnover
+veal cordon bleu
+coddled egg
+pizza
+mushy peas
+pot-au-feu
+beef burrito
+hunter's chicken
+chicken kiev
+couscous
+tetrazzini
+macaroni and cheese
+frijoles refritos
+escalope de veau orloff
+waldorf salad
+cold stuffed tomato
+boston baked beans
+piroshki
+beef goulash
+minestrone
+pea soup
+fish ball
+ramekin
+chicken taco
+peppered steak
+omelet
+borshch
+lutefisk
+bomber
+veal scallopini
+buffalo wing
+molded salad
+chicken salad
+bubble and squeak
+salad nicoise
+pilaff
+tempura
+borsh
+tabooli
+potato skin
+potage st. germain
+soup
+pepperoni pizza
+pilaf
+corn chowder
+biriani
+pudding
+irish burgoo
+creme caramel
+bortsch
+apple sauce
+crab louis
+chicken stock
+tabbouleh
+lasagna
+coquilles saint-jacques
+cheeseburger
+chop suey
+mulligatawny
+jambalaya
+shish kebab
+mould
+barbecued spareribs
+egg en cocotte
+deviled egg
+veal parmigiana
+beef wellington
+cheese fondue
+bouillabaisse
+fried rice
+swedish meatball
+welsh rarebit
+swiss steak
+lutfisk
+herring salad
+cheese pizza
+stuffed egg
+green pea soup
+chicken and rice
+turtle soup
+coq au vin
+corned beef hash
+hot stuffed tomato
+ratatouille
+poached egg
+poilu
+shirred egg
+sicilian pizza
+boiled dinner
+bisque
+chicken paprikash
+fish mousse
+pepper pot
+beef bourguignonne
+poor boy
+egg fu yung
+kabob
+falafel
+side dish
+chicken cordon bleu
+omelette
+combination salad
+spanish rice
+hard-boiled egg
+chicken soup
+carbonnade flamande
+rijsttaffel
+tamale pie
+curry
+kedgeree
+chicken marengo
+saute
+chicken casserole
+bigos
+new england clam chowder
+wiener schnitzel
+apple turnover
+crisp
+barbecue
+custard
+egg roll
+red hot
+tostada
+cannibal mound
+sashimi
+felafel
+pepper steak
+ham and eggs
+fish finger
+osso buco
+hard-cooked egg
+applesauce
+ramequin
+scampi
+special
+teriyaki
+pork-and-veal goulash
+boiled egg
+borsch
+paella
+broth
+barbecued wing
+chicken purloo
+mousse
+knish
+croquette
+chicken paprika
+baked egg
+viand
+loblolly
+three-decker
+snack food
+hoagie
+dropped egg
+porridge
+veal parmesan
+kebab
+french toast
+souvlakia
+porkholt
+bacon and eggs
+salisbury steak
+borscht
+salmagundi
+arroz con pollo
+won ton
+sausage pizza
+risotto
+fish cake
+pheasant under glass
+timbale
+submarine
+mold
+clam chowder
+mulligan
+hash
+moussaka
+wonton
+pot likker
+seafood newburg
+chip
+bouillon
+chowder
+oatmeal
+oyster stew
+pirozhki
+gyro
+grinder
+boeuf bourguignonne
+burger
+taco
+cottage pie
+madrilene
+purloo
+chicken cacciatore
+hot pot
+lobscuse
+macedoine
+rarebit
+brunswick stew
+tuna fish salad
+souffle
+hungarian goulash
+chicken cacciatora
+blt
+rijstaffel
+frittata
+lasagne
+hasty pudding
+spanish burgoo
+fish stew
+lentil soup
+pork and beans
+potato salad
+entremets
+sushi
+casserole
+wedge
+zep
+lobster stew
+raita
+stuffed grape leaves
+italian sandwich
+lobster newburg
+hotchpotch
+fish and chips
+pizza pie
+open-face sandwich
+maryland chicken
+steak tartare
+matelote
+quesadilla
+rijstafel
+souvlaki
+porcupines
+cocky-leeky
+meatloaf
+marmite
+fish chowder
+skilly
+beef fondue
+tortilla chip
+bacon-lettuce-tomato sandwich
+salad
+turkey stew
+caesar salad
+manhattan clam chowder
+chicken provencale
+fluffy omelet
+chili con carne
+boeuf fondu bourguignon
+tunaburger
+oxtail soup
+consomme
+cock-a-leekie
+easter egg
+chow mein
+spring roll
+macaroni salad
+reuben
+western
+stock
+philadelphia pepper pot
+pasta
+stuffed peppers
+codfish cake
+spaghetti and meatballs
+beef stock
+scotch egg
+olla podrida
+new england boiled dinner
+scouse
+alphabet soup
+adobo
+stuffed cabbage
+enchilada
+kishke
+tuna salad
+coquille
+submarine sandwich
+barbeque
+gefilte fish
+tartar steak
+saratoga chip
+wonton soup
+cuban sandwich
+spaghetti
+chili dog
+dolmas
+galantine
+potage
+rissole
+liquor
+biryani
+gazpacho
+bitok
+sandwich
+porcupine ball
+meat loaf
+vichyssoise
+beef stew
+fondu
+schnitzel
+jook
+terrine
+eggdrop soup
+lobster a la newburg
+frog legs
+burgoo
+potato peel
+stuffed tomato
+hotpot
+scallopine
+pirogi
+chicken tetrazzini
+barley water
+lamb curry
+refried beans
+chinese fried rice
+hoagy
+torpedo
+hero sandwich
+moo goo gai pan
+split-pea soup
+chicken sandwich
+ragout
+chef's salad
+chicken stew
+wrap
+sukiyaki
+scrapple
+scrambled eggs
+triple-decker
+lobster thermidor
+fruit custard
+fish stick
+firm omelet
+potato chip
+fried egg
+anchovy pizza
+bean tostada
+soup du jour
+pilaw
+fruit salad
+chicken mousse
+sauerkraut
+haggis
+scotch broth
+piece de resistance
+green salad
+scotch woodcock
+salmon loaf
+potato peelings
+welsh rabbit
+burrito
+western sandwich
+chocolate fondue
+pasta salad
+goulash
+coleslaw
+vegetable soup
+side order
+slaw
+french omelet
+pilau
+fondue
+scallopini
+poi
+slumgullion
+egg foo yong
+lobscouse
+corn chip
+eggs benedict
+club sandwich
+congee
+italian rice
+tamale
+fish loaf
+cannelloni
+bavarian cream
+samosa
+meatball
+chicken broth
+borsht
+mock turtle soup
+roulade
+irish stew
+beefburger
+sub
+cheese souffle
+pottage
+bulgur pilaf
+wheat berry
+quantong
+prairie gourd
+stone fruit
+brazil nut
+serviceberry
+pawpaw
+carob
+nut
+syncarp
+rambotan
+blue fig
+kai apple
+baneberry
+sapote
+cantaloup
+custard apple
+spanish lime
+guava
+freestone
+persian melon
+windfall
+locust pod
+buckeye
+hickory nut
+west indian cherry
+heart cherry
+key lime
+icaco
+conker
+quince
+lichee
+cubeb
+rowanberry
+jujube
+horse chestnut
+boysenberry
+cowage
+lemon
+bartlett pear
+goober pea
+coumara nut
+temple orange
+avocado
+chincapin
+pine nut
+tangerine
+syconium
+kumquat
+seeded raisin
+jumping bean
+mangosteen
+nutmeg melon
+chinkapin
+bonduc nut
+blade apple
+tokay
+oilseed
+juneberry
+citrous fruit
+huckleberry
+pecan
+caryopsis
+cantaloupe
+prickly pear
+acinus
+jaboticaba
+kiwi fruit
+blackheart
+avocado pear
+cocoa plum
+lingonberry
+neem seed
+hog plum
+nectarine
+muscat grape
+plumcot
+loment
+quandong nut
+blueberry
+granadilla
+macoun
+bacca
+carissa plum
+cox's orange pippin
+tamarind
+samara
+baldwin
+monkey bread
+ribier
+medlar
+netted melon
+ilama
+golden delicious
+pearmain
+gourd
+algarroba
+shadberry
+grugru nut
+amaranth
+sapodilla plum
+black cherry
+ananas
+chokecherry
+emperor
+japanese plum
+lichi
+hazelnut
+nicker seed
+winter melon
+rapeseed
+bartlett
+satsuma
+delicious
+checkerberry
+ear
+dika nut
+red currant
+calabash
+marang
+seed
+gooseberry
+drupelet
+orange
+bing cherry
+mountain cranberry
+litchee
+accessory fruit
+goober
+pitahaya
+cedar nut
+durian
+aguacate
+coco plum
+amarelle
+nutlet
+dragon's eye
+newtown wonder
+sweet melon
+lanset
+eating apple
+sugar apple
+cob
+jamaica apple
+river pear
+strawberry
+genip
+black olive
+pineapple
+hackberry
+yellow delicious
+sweet cherry
+lanseh
+citron
+berry
+pyrene
+breadfruit
+barbados cherry
+papaw
+victoria plum
+guanabana
+pip
+cortland
+sultana
+ugli fruit
+screw bean
+peach
+algarrobilla
+grimes' golden
+loquat
+jonathan
+ackee
+melon ball
+bramley's seedling
+soursop
+bosc
+mammee apple
+currant
+pomelo
+sugarberry
+alligator pear
+false fruit
+peanut
+greengage plum
+clementine
+yellow granadilla
+blackheart cherry
+canistel
+raspberry
+palm nut
+hagberry
+saskatoon
+mombin
+muskmelon
+northern spy
+oil-rich seed
+almond
+jak
+rome beauty
+coffee
+damson
+juniper berry
+grape
+sapodilla
+cola nut
+seville orange
+pyxidium
+dried fruit
+mamey
+bell apple
+oil nut
+pineapple guava
+empire
+pistachio nut
+cocoanut
+pome
+mandarin
+wild plum
+flame tokay
+plum
+apricot
+pomegranate
+sour orange
+wintergreen
+corn
+water lemon
+citrus fruit
+honeydew melon
+passion fruit
+english walnut
+spiceberry
+cumin
+greengage
+kitembilla
+marmalade plum
+dewberry
+spike
+boxberry
+mammee
+garambulla
+sweet orange
+litchi
+cherry
+teaberry
+oxheart cherry
+edible fruit
+sapota
+may apple
+sloe
+macadamia nut
+clingstone
+kola nut
+sorb apple
+dessert apple
+walnut
+pond apple
+cherimoya
+coquilla nut
+crab apple
+wild cherry
+anchovy pear
+coffee bean
+water chinquapin
+quandong
+key
+sweet cup
+muscadine
+lime
+algarobilla
+fox grape
+ketembilla
+genipap fruit
+yellow mombin
+barleycorn
+pippin
+palm kernel
+scuppernong
+litchi nut
+mulberry
+raisin
+ash-key
+cumin seed
+honeydew
+rose apple
+jaffa orange
+pseudocarp
+tonka bean
+cling
+algarroba bean
+barbados gooseberry
+aggregate fruit
+cembra nut
+simple fruit
+bilberry
+pinon nut
+coconut
+kitambilla
+chinese gooseberry
+muscat
+areca nut
+feijoa
+rambutan
+bullace grape
+beach plum
+grain
+monkey nut
+date
+nicker nut
+longanberry
+citrus
+candlenut
+mast
+blackberry
+kernel
+tamarindo
+calabar bean
+chinese date
+cottonseed
+lychee
+chestnut
+catawba
+castor bean
+casaba
+grapefruit
+lowbush cranberry
+capulin
+watermelon
+native peach
+sunflower seed
+mandarin orange
+sweetsop
+dried apricot
+casaba melon
+granny smith
+edible nut
+navel orange
+groundnut
+cohune nut
+pignolia
+eggfruit
+horsebean
+hip
+concord grape
+sour cherry
+bunya bunya
+jackfruit
+akee
+leechee
+oxheart
+buffalo nut
+multiple fruit
+mealie
+seedpod
+brazil
+mexican black cherry
+lane's prince albert
+pulasan
+black currant
+job's tears
+ugli
+souari nut
+valencia orange
+ordeal bean
+rosehip
+natal plum
+whortleberry
+morello
+cherimolla
+shaddock
+bullock's heart
+marasca
+buckthorn berry
+net melon
+winesap
+apple nut
+loganberry
+elderberry
+lansa
+pistachio
+sorb
+tangelo
+prune
+fruitlet
+elk nut
+cranberry
+anjou
+butternut
+mango
+pyxis
+mcintosh
+stayman
+beechnut
+rye
+safflower seed
+cashew nut
+locust bean
+pumpkin seed
+chinese jujube
+ceriman
+filbert
+vegetable ivory
+muscatel
+carambola
+olive
+fig
+babassu nut
+pear
+ripe olive
+carob bean
+thompson seedless
+cashew
+jordan almond
+seckel pear
+seedless raisin
+schizocarp
+jumping seed
+surinam cherry
+acerola
+quandang
+mexican jumping bean
+annon
+sweet calabash
+capitulum
+kiwi
+citrange
+prima
+monstera
+key fruit
+cobnut
+seckel
+linseed
+jack
+stayman winesap
+pod
+divi-divi
+black walnut
+acorn
+yellow berry
+chinquapin
+melon
+european blueberry
+sour gourd
+rose hip
+pulassan
+damson plum
+red delicious
+cowberry
+coffee berry
+edible seed
+flaxseed
+achene
+ivory nut
+betel nut
+crabapple
+green olive
+persimmon
+papaya
+slipskin grape
+apple
+cooking apple
+genipap
+lansat
+vinifera grape
+bitter orange
+banana
+drupe
+star fruit
+candy
+divinity fudge
+bonbon
+sugar candy
+chocolate egg
+brandyball
+nougat bar
+divinity
+rock
+cough drop
+penoche
+honey crisp
+mint
+mint candy
+kiss
+candy egg
+jujube
+truffle
+candyfloss
+nut bar
+jelly bean
+taffy
+lollipop
+panocha
+marchpane
+molasses taffy
+marzipan
+Easter egg
+marshmallow
+praline
+cachou
+peanut bar
+candy kiss
+Life Saver
+meringue kiss
+panoche
+pastille
+liquorice
+patty
+barley candy
+Scotch kiss
+sugarplum
+toffy
+lozenge
+peppermint
+candy cane
+fudge
+dragee
+sucker
+all-day sucker
+brittle
+sourball
+penuche
+molasses kiss
+popcorn ball
+horehound
+hard candy
+peanut brittle
+caramel
+rock candy
+carob bar
+spun sugar
+candy corn
+lemon drop
+chocolate truffle
+licorice
+troche
+pastil
+jawbreaker
+toffee
+peppermint candy
+candy bar
+cotton candy
+gumdrop
+jelly egg
+butterscotch
+barley-sugar
+nougat
+chocolate fudge
+peppermint patty
+Turkish Delight
+chocolate kiss
+fondant
+sweets
+cheese
+gorgonzola
+double cream
+Armerican cheddar
+process cheese
+Stilton
+Limburger
+Gouda
+cheddar cheese
+chevre
+Gouda cheese
+farmer's cheese
+string cheese
+Swiss cheese
+Edam
+Roquefort
+Emmentaler
+store cheese
+mozzarella
+Brie
+Parmesan
+grated cheese
+double Gloucester
+Muenster
+farm cheese
+Danish blue
+Gruyere
+blue cheese
+cottage cheese
+Emmental
+triple cream
+triple creme
+Emmenthal
+Velveeta
+hand cheese
+processed cheese
+Cheshire cheese
+quark cheese
+Liederkranz
+Bavarian blue
+mascarpone
+Emmenthaler
+sapsago
+cheddar
+bleu
+rat cheese
+quark
+Camembert
+cream cheese
+ricotta
+goat cheese
+pot cheese
+American cheese
+brick cheese

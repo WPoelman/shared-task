@@ -1,16 +1,936 @@
-necklaces
-handbags
-scarfs
-bracelets
-shirts
-skirts
-earrings
-rings
+necklace
+handbag
+scarf
+bracelet
+shirt
+skirt
+earring
+ring
 glasses
 wearables
-clothes
 jewelry
 clothing
 shoes
-trousers
-socks
+trouser
+sock
+shell jacket
+bvd
+salwar
+leghorn
+sarape
+golf cap
+millinery
+four-in-hand
+swallow-tailed coat
+tailcoat
+briefs
+guimpe
+oilskin
+culotte
+mink coat
+knee-high
+tallis
+veil
+bellbottom trousers
+leisure wear
+patka
+nightshirt
+kanzu
+civvies
+livery
+gown
+unmentionable
+cords
+sailor
+picture hat
+muff
+civilian clothing
+chino
+sleeper
+rig
+castor
+separate
+varsity sock
+bikini pants
+bermuda shorts
+mantelet
+nightcap
+evening gown
+white tie
+feather boa
+coif
+work-clothing
+kilt
+doublet
+breechclout
+ten-gallon hat
+tabard
+coonskin cap
+scapulary
+lavalava
+nightie
+lingerie
+skivvies
+shin guard
+cartridge belt
+sweat sock
+chesterfield
+burnous
+topper
+underpants
+underwear
+gallus
+headpiece
+cloak
+pajama
+aba
+accoutrement
+straightjacket
+haick
+panty
+burka
+chasuble
+eton jacket
+shift
+plug hat
+kurta
+diadem
+dress uniform
+ulster
+chuddar
+ao dai
+overall
+caleche
+windcheater
+cloth cap
+bikini
+raglan
+swimming cap
+tights
+support hose
+cocktail dress
+toga
+kameez
+grass skirt
+chiton
+swimming costume
+anklets
+ecclesiastical robe
+trews
+boa
+pullover
+dust coat
+ballet skirt
+high hat
+double-breasted jacket
+flat wash
+stocking cap
+bush jacket
+polo shirt
+hug-me-tight
+pea jacket
+anti-g suit
+slip-on
+underclothes
+biggin
+lumberjack
+leg covering
+burberry
+slack suit
+dolman jacket
+silk hat
+vestiture
+jamaica shorts
+britches
+unitard
+turtleneck
+frock coat
+bathing cap
+union suit
+cope
+lounging robe
+lab coat
+jockey shorts
+running suit
+capote
+washables
+gabardine
+headgear
+romper suit
+morning dress
+mother hubbard
+leging
+birretta
+habit
+man's clothing
+swimsuit
+activewear
+garb
+wig
+baldric
+tee shirt
+bow-tie
+balmoral
+battle dress
+dashiki
+wrapper
+yarmelke
+gathered skirt
+cowl
+boxers
+dressing sacque
+skullcap
+sack
+bomber jacket
+nun's habit
+jewelled headdress
+derby hat
+crinoline
+olive drab
+tails
+garibaldi
+yashmak
+maillot
+nightgown
+gaiter
+puttee
+mantilla
+capuchin
+dress shirt
+space helmet
+burqa
+opera hood
+pillbox
+bell-bottoms
+romper
+legging
+balaclava
+hat
+robe
+tank suit
+chadar
+hoopskirt
+kalansuwa
+derby
+sacque
+plus fours
+breechcloth
+threads
+tin hat
+suspensor
+evening shirt
+windbreaker
+lounger
+accessory
+fur coat
+long trousers
+baldrick
+raincoat
+yashmac
+shimmy
+porkpie hat
+hijab
+mortarboard
+academic costume
+array
+biretta
+stomacher
+blue jean
+bolo tie
+tailor-made
+pantyhose
+two-piece
+step-in
+neckwear
+scrubs
+wishing cap
+face veil
+rayon stocking
+miniskirt
+mantua
+workwear
+motley
+wimple
+bra
+busby
+furnishing
+arm pad
+evening dress
+bola
+washing
+sports jacket
+domino
+wedding gown
+afro-wig
+mantle
+greatcoat
+bonnet
+three-piece suit
+girdle
+swimwear
+leotards
+war paint
+sheath
+biohazard suit
+turtle
+smoking jacket
+brace
+khakis
+seatbelt
+crown
+fur-piece
+mess jacket
+hose
+shawl
+sun helmet
+dunce cap
+boilers suit
+nightclothes
+bathing trunks
+cassock
+thong
+undies
+jockey cap
+soutane
+tie
+horsehair wig
+blue
+overclothes
+duds
+sweatshirt
+mending
+tricorne
+campaign hat
+frock
+nylons
+chap
+levis
+robe-de-chambre
+corset
+mackintosh
+beany
+ventail
+underskirt
+underdrawers
+ski parka
+lumber jacket
+trench coat
+surtout
+tudung
+neckerchief
+work-shirt
+mac
+bib-and-tucker
+porkpie
+trappings
+costume
+throat protector
+camail
+suit
+bathing costume
+wrist pad
+safety harness
+garrison cap
+loungewear
+topee
+pontifical
+belt
+mink
+church hat
+full skirt
+argyle
+windsor tie
+footwear
+izar
+nylon stocking
+lambrequin
+kepi
+cravat
+civies
+brassiere
+cockscomb
+hairpiece
+alb
+garment
+nightwear
+muffler
+tweed
+jodhpurs
+yarmulka
+camisole
+g-string
+ensemble
+outfit
+bola tie
+jumper
+daishiki
+morning coat
+rayons
+rebozo
+napkin
+liberty cap
+g suit
+peplum
+pantsuit
+foundation garment
+panama hat
+ball gown
+single-breasted jacket
+lid
+teddy
+uniform
+riding habit
+bathing suit
+a-line
+donkey jacket
+intimate apparel
+wash
+ready-to-wear
+raiment
+pinstripe
+gauntlet
+body pad
+bulletproof vest
+full-dress uniform
+sportswear
+calpac
+sport jacket
+swaddling clothes
+skimmer
+felt hat
+pants
+jock
+dress whites
+fancy dress
+camise
+snap-brim hat
+tiara
+pyjama
+tea gown
+abaya
+diaper
+head covering
+stole
+mobcap
+watch cap
+fur hat
+boilersuit
+sun hat
+corduroys
+evening clothes
+gymslip
+smock
+sweat pants
+sheepskin coat
+lounging pajama
+dressing sack
+tirolean
+stock
+clothes
+formal
+sari
+false hair
+bodice
+hobble skirt
+life belt
+cowboy hat
+bandoleer
+panama
+dunce's cap
+service cap
+coatdress
+newmarket
+vest
+knickers
+bearskin
+suspender
+aventail
+middy blouse
+mask
+saree
+short pants
+calpack
+undershirt
+false face
+pallium
+cutaway
+waterproof
+long underwear
+niqab
+playsuit
+flat cap
+sport coat
+boxershorts
+ascot
+wedding dress
+peacoat
+cat suit
+tam
+shirtwaister
+peplos
+bolo
+monastic habit
+silk stocking
+night-robe
+athletic sock
+tammy
+drawers
+bvd's
+jeweled headdress
+disguise
+spat
+housecoat
+stays
+street clothes
+beachwear
+regalia
+business suit
+hard hat
+apron
+kirtle
+roll-on
+coronet
+scanty
+sack coat
+pinny
+balldress
+sweatpants
+middy
+bow tie
+berretta
+fedora
+hot pants
+petticoat
+garter belt
+burnoose
+tank top
+hip pad
+sunday clothes
+black
+sarong
+chemise
+dress
+gaberdine
+kaftan
+afghan
+sam browne belt
+mitten
+sailor cap
+strapless
+regimentals
+shorts
+reversible
+lederhosen
+toupe
+eveningwear
+body suit
+waistcoat
+surgical gown
+overseas cap
+sports coat
+money belt
+sunday best
+shirtwaist
+opera hat
+slouch hat
+burnouse
+zoot suit
+athletic supporter
+pantaloon
+hood
+dinner dress
+crash helmet
+safety hat
+jockstrap
+dhoti
+overgarment
+dress suit
+pants suit
+toque
+support stocking
+string tie
+beanie
+bathrobe
+weeds
+switch
+knee pants
+mufti
+neckpiece
+gantlet
+fur
+singlet
+kalpac
+jacket
+hand wear
+shower cap
+hand-me-down
+bustier
+work-clothes
+bloomers
+jumpsuit
+polo-neck
+shirtdress
+half-slip
+stretch pants
+chador
+fichu
+spacesuit
+negligee
+poncho
+calash
+plain clothes
+headscarf
+banian
+single-breasted suit
+riding breeches
+geneva gown
+athletic wear
+denim
+topcoat
+hosiery
+rigout
+duffle coat
+academic gown
+duster
+dress blues
+outer garment
+mackinaw
+grey
+pinner
+dinner gown
+cocked hat
+pelisse
+tam-o'-shanter
+jean
+glove
+suede glove
+sport shirt
+toupee
+cavalier hat
+dolman
+churidars
+slops
+sweatsuit
+anorak
+wraparound
+macintosh
+mack
+pj's
+top
+holster
+peaked cap
+gym suit
+topknot
+seat belt
+jellaba
+nightdress
+woman's clothing
+flannel
+drag
+swimming trunks
+sleepwear
+peplus
+collar
+slip
+underclothing
+coatee
+blazer
+slipover
+tricorn
+hair shirt
+two-piece suit
+shoulder pad
+golf glove
+knee-hi
+muumuu
+foundation
+peruke
+sailor suit
+bed jacket
+long johns
+parka
+attire
+bicorne
+poke bonnet
+tunic
+trousseau
+surplice
+neckcloth
+laboratory coat
+white
+dressing gown
+prayer shawl
+serape
+vestment
+shalwar
+suspender belt
+sou'wester
+deerstalker
+bolero
+chapeau
+halter
+safety belt
+trilby
+jerkin
+hooded coat
+helmet
+half mask
+olive-drab uniform
+pantie
+tippet
+periwig
+grizzle
+ironing
+gray
+diving suit
+white tie and tails
+headdress
+bluebonnet
+fez
+stetson
+stocking
+sweats
+banyan
+toga virilis
+knee pad
+box coat
+accouterment
+fool's cap
+pith helmet
+postiche
+widow's weeds
+peignoir
+knickerbockers
+dress hat
+glengarry
+caftan
+tuxedo
+dirndl
+handwear
+nappy
+slacks
+football helmet
+chlamys
+buckskins
+dinner jacket
+snowsuit
+kimono
+coxcomb
+top hat
+full dress
+tux
+duffel coat
+lounging pyjama
+jodhpur breeches
+beaver
+swallowtail
+sombrero
+mao jacket
+leotard
+kid glove
+beret
+sweat suit
+protective garment
+cardigan
+miter
+anklet
+bobbysock
+sunhat
+tabis
+christmas stocking
+yachting cap
+trunk hose
+boothose
+masquerade
+judge's robe
+loincloth
+togs
+coverall
+pant
+toreador pants
+sable coat
+fatigues
+shako
+bridal gown
+tabi
+batting glove
+apparel
+straitjacket
+elbow pad
+arm guard
+uplift
+jump suit
+eye mask
+bobbysocks
+cloche
+civilian garb
+silks
+sunbonnet
+cagoule
+underbodice
+homburg
+bowtie
+bicorn
+kerchief
+academic robe
+argyll
+old school tie
+trunks
+overcoat
+lounge suit
+polonaise
+getup
+slicker
+bandolier
+mini
+tarboosh
+wearing apparel
+tyrolean
+tallith
+formalwear
+chest protector
+maxi
+pinafore
+diving dress
+necktie
+boater
+blouse
+stovepipe
+coat
+panty girdle
+bowler
+pith hat
+thigh pad
+opera cloak
+civilian dress
+metal glove
+wet suit
+hooded cloak
+shovel hat
+balaclava helmet
+long pants
+toboggan cap
+scapular
+supporter
+cap
+shinpad
+knee breeches
+jersey
+change
+sable
+sundress
+mackinaw coat
+humeral veil
+ski jacket
+skid lid
+sackcloth
+sunsuit
+jammies
+baseball cap
+brunch coat
+overskirt
+wrap
+mitre
+black tie
+tutu
+levi's
+double-breasted suit
+swaddling bands
+haik
+flatwork
+pressure suit
+sealskin
+surcoat
+turnout
+neglige
+babushka
+bowler hat
+bandeau
+knitwear
+pedal pusher
+tail coat
+breeches
+kaffiyeh
+sweater
+laundry
+cape
+military uniform
+khimar
+masquerade costume
+ecclesiastical attire
+monkey jacket
+finery
+bellbottom pants
+foul-weather gear
+prince albert
+woman's hat
+outerwear
+yarmulke
+coonskin
+undergarment
+lounging jacket
+camlet
+chaddar
+topi
+straw hat
+norfolk jacket
+workout suit
+turban
+batting helmet
+body stocking
+suit of clothes
+t-shirt
+ski cap
+titfer
+ruby
+ankle bracelet
+sunburst
+scatter pin
+solitaire
+seed pearl
+emerald
+pearl
+brooch
+sparkler
+bangle
+gem
+pin
+ringlet
+drop earring
+clip
+jewel
+pendant earring
+ice
+string
+dog collar
+breastpin
+crown jewel
+bling
+choker
+tiepin
+bijou
+seal ring
+diamond
+neckband
+broach
+sapphire
+band
+scarfpin
+mourning ring
+armilla
+eardrop
+bead
+bling bling
+chain
+tie tack
+annulet
+engagement ring
+tie clip
+wedding band
+strand
+precious stone
+bugle
+stickpin
+signet ring
+wedding ring
+cufflink

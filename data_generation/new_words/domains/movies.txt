@@ -1,7 +1,43 @@
-cartoons
-movies
-Westerns
-documentaries
-films
-thrillers
-comedies
+cartoon
+movie
+Western
+documentary
+film
+thriller
+comedy
+talking picture
+cinema verite
+feature
+home movie
+collage film
+musical comedy
+3-D
+skin flick
+spaghetti Western
+talkie
+film noir
+docudrama
+musical
+short subject
+feature film
+Western
+toon
+rough cut
+coming attraction
+three-D
+documentary
+3D
+newsreel
+final cut
+animated cartoon
+silent movie
+peepshow
+telefilm
+cartoon
+musical theater
+slow motion
+shoot-'em-up
+silents
+horse opera
+infotainment
+silent picture

@@ -892,3 +892,7 @@ golf cart
 air-to-surface missile
 pickup truck
 pontoon
+Harley-Davidson
+enduro
+Suzuki
+Kawasaki
