@@ -67,7 +67,7 @@ class Sentence:
 						("{pron} {verb} {word1} and {word2} .",[2]),
 						("{pron} {verb} {word1} and additionally {word2} .",[2]),
 						("{pron} {verb} {word1} and moreover {word2} .",[2]),
-						("{pron} {verb} {word1} , and moreover , {pron} like {word2} .",[2]),
+						("{pron} {verb} {word1} , and moreover , {pron} {verb} {word2} .",[2]),
 						("{pron} {verb} {word1} , however {pron} do not {verb} {word2} .",[0,2]),
 						("{pron} {verb} {word1} , however not {word2} .",[0,2]),
 						("{pron} {verb} {word1} , but on the contrary , {pron} do not {verb} {word2} .",[0,2]),
@@ -96,20 +96,9 @@ def read(domains):
 		domain_dict[domain] = wordlist
 	return domain_dict
 
-def lemmatize_all(sentence):
-    wnl = WordNetLemmatizer()
-    for word, tag in pos_tag(word_tokenize(sentence)):
-        if tag.startswith("NN"):
-            yield wnl.lemmatize(word, pos='n')
-        elif tag.startswith('VB'):
-            yield wnl.lemmatize(word, pos='v')
-        elif tag.startswith('JJ'):
-            yield wnl.lemmatize(word, pos='a')
-        else:
-            yield word
 
 def main():
-	with open('newdata.csv', 'w', encoding='UTF8') as f:
+	with open('new_words.csv', 'w', encoding='UTF8') as f:
 		writer = csv.writer(f)
 		warnings.filterwarnings("ignore")
 		lemma = WordNetLemmatizer()
@@ -157,7 +146,7 @@ def main():
 						word2 = random.choice(domain_dict[domain])
 
 					generated_sent = Sentence(pron, verb, poss, word1, word2).output()
-					sent = generated_sent[0][0].upper() + generated_sent[0][1:]
+					sent = ' '.join(lemmatize_all(generated_sent[0])).lower()
 
 					try:
 						# make 2 part word Wordnet searchable
@@ -187,15 +176,15 @@ def main():
 						if x in generated_sent[1]:
 							if count1 != n_sent:
 								sent_count += 1
-								writer.writerow(["new-{0}".format(sent_count),sent, 1])
-								print("new-{0}".format(sent_count),sent, 1)
+								writer.writerow(["word-{0}".format(sent_count),sent, 1])
+								print("word-{0}".format(sent_count),sent, 1)
 								count1 += 1
 
 						else:
 							if count0 != n_sent:
 								sent_count += 1
-								writer.writerow(["new-{0}".format(sent_count),sent, 0])
-								print("new-{0}".format(sent_count),sent, 0)
+								writer.writerow(["word-{0}".format(sent_count),sent, 0])
+								print("word-{0}".format(sent_count),sent, 0)
 								count0 += 1
 
 if __name__ == "__main__":
