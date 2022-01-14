@@ -67,7 +67,7 @@ optional arguments:
 - Pegasus added training data
 - Manual templates + new words
 - Manual templates + new words + lemmatize all
-- Manual templates + new words + lemmatize nouns
+- Manual templates + new words + lemmatize nouns & verbs
 - Manual templates + hypo of hypo
 
 ## Combined methods

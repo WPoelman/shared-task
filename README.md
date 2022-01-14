@@ -21,16 +21,23 @@ For specific data generation scripts and explanations, see `data_generation`.
 
 ## TODO
 - [x] test set maken (nieuwe templates, nieuwe woordsoorten/onderwerpen) (E)
-- [ ] handmatige templates bruikbaar maken (E)
+- [x] handmatige templates bruikbaar maken (E)
 - [x] IT & FR testdata maken (E)
 - [x] unieke woorden uit de data halen en in woordenlijsten zetten (G)
-- [ ] meer woorden genereren en toevoegen (G)
-- [ ] data generatie perfectioneren (G)
-- [ ] wordnet 'zij-relaties' eruit halen (eventueel Babelnet -> has kind) (G/F)
+- [x] meer woorden genereren en toevoegen (G)
+- [x] data generatie perfectioneren (G)
+- [x] wordnet 'zij-relaties' eruit halen (eventueel Babelnet -> has kind) (G/F)
 - [x] code voor inverten erop zetten voor (tot nu toe voor Engels en Frans) (F)
-- [ ] code voor inverten aanvullen met Italiaanse regex patterns (F)
-- [ ] eerst focussen op Engels, daarna de nieuwe dataset daarvoor vertalen naar IT en FR (G/W/F/E)
+- [x] code voor inverten aanvullen met Italiaanse regex patterns (F)
 - [x] PEGASUS script erop zetten (W)
 - [x] data generen samenvoegen in een script (W)
-- [ ] als we de nieuwe datasets hebben -> uitproberen wat het effect is van de datageneratietechnieken (los en gecombineerd)
-- [ ] als we verbeteringen zien, Bert model verder trainen op de task ipv embeddings in SVM (peregine uitproberen)
+- [x] fix punctuation in manual templates
+- [ ] eerst focussen op Engels, daarna de nieuwe dataset daarvoor vertalen naar IT en FR (G/W/F/E)
+- [ ] script voor het vertalen van een csv dataset (E)
+- [ ] combineren van dataset id meenemen (W) (overal checken dat id wordt aangevuld en niet overschreven)
+- [ ] training script met basic bert model (letten op wat we outputten, loopen door csv bestanden en elke keer hetzelfde model trainen, early stopping 2 of 3 momenten, welk csv bestand gebruikt is) -> peregrine
+- [ ] na het experimenteren met de losse methoden, combinaties maken (evt ook op peregrine runnen (pegasus sowieso))
+- [ ] Dataset training data + manual templates with words from training data (E)
+- [ ] Dataset training data + manual templates + new words + lemmatize all
+- [ ] Dataset training data + manual templates + new words + lemmatize nouns & verbs
+- [ ] Dataset invert new training set
