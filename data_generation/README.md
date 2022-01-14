@@ -32,7 +32,8 @@ The `id` field shows what data generation steps have been involved for that sent
 
 These separate csv's can be combined with the `combine_datasets.py` script, this script also filters out duplicate sentences.
 
-### Pegasus English paraphrase
+
+## Pegasus English paraphrase
 ```
 usage: generate_pegasus_data.py [-h] [-i INPUT_PATH] [-o OUTPUT_PATH] [-m MAX_NEW] [-tl]
 
@@ -47,7 +48,7 @@ optional arguments:
   -tl, --total_len      Use the overall min and max sentence lengths of the entire corpus, instead of individual sentences
 ```
 
-### Inverting sentences and labels
+## Inverting sentences and labels
 ```
 usage: invert.py [-h] [-l LANGUAGES [LANGUAGES ...]]
 
@@ -57,3 +58,19 @@ optional arguments:
                         Language datasets to use for the inverting of the
                         labels
 ```
+
+# Data experiments
+## Separate methods
+- Original training data
+- Inverted training data
+- Manual templates with words from training data
+- Pegasus added training data
+- Manual templates + new words
+- Manual templates + new words + lemmatize all
+- Manual templates + new words + lemmatize nouns
+- Manual templates + hypo of hypo
+
+## Combined methods
+- Possibly use a single English model and translate the Italian and French test data to English to use that model for inference
+- Manual templates -> hypo of hypo -> inverted
+- Manual templates -> hypo of hypo -> inverted -> pegasus
