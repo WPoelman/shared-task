@@ -42,7 +42,7 @@
 "I {verb} {word1} and {word2} .",2
 "I {verb} {word1} and aditionally {word2} .",2
 "I {verb} {word1} and moreover {word2} .",2
-"I {verb} {word1} , and moreover , I like {word2} .",2
+"I {verb} {word1} , and moreover , I {verb} {word2} .",2
 "I {verb} {word1} , however I do not {verb} {word2} .",0 and 2
 "I {verb} {word1} , however not {word2} .",0 and 2
 "I {verb} {word1} , but on the contrary , I do not {verb} {word2} .",0 and 2
@@ -53,6 +53,6 @@
 "I {verb} {word1} , though I do not {verb} {word2} .",0 and 2
 "I do not {verb} {word1} , but I {verb} {word2} .",0 and 1
 "I do not {verb} {word1} , but on the contrary , I {verb} {word2} .",0 and 1
-“Although I {verb} {word1} , I do not {verb} {word2}”,0 and 1
-“While I {verb} {word1} , I do not {verb} {word2}”,0 and 1
-“Though I {verb} {word1} , I do not {verb} {word2}”,0 and 1
+"Although I {verb} {word1} , I do not {verb} {word2} .",0 and 1
+"While I {verb} {word1} , I do not {verb} {word2} .",0 and 1
+"Though I {verb} {word1} , I do not {verb} {word2} .",0 and 1
