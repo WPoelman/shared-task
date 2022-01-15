@@ -20,8 +20,8 @@ def lemmatize_all(sentence):
             yield word
 
 def main():
-	with open('train_with_new_words_lemma.csv', 'w', encoding='UTF8') as f:
-		with open('train_new_words.csv', 'r', encoding='UTF8') as o:
+	with open('en_new_test_split_lemma.csv', 'w', encoding='UTF8') as f:
+		with open('en_new_test_split.csv', 'r', encoding='UTF8') as o:
 			writer = csv.writer(f)
 			warnings.filterwarnings("ignore")
 			lemma = WordNetLemmatizer()
