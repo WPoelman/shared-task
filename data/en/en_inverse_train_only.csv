@@ -1,0 +1,133 @@
+ID,Sentence,Labels
+4288i,He trusts reconstructions more than his senses .,1
+3635i,I like bicycles more than motorcycles .,1
+4010i,I like broccoli more than pork .,1
+3597i,I like dogs more than birds .,1
+4345i,He likes calculations more than emotions .,1
+4125i,I like videogames more than movies .,1
+4116i,I like essays more than movies .,1
+4119i,I like textbooks more than movies .,1
+4068i,I like turkey more than seafood .,1
+3632i,I like ships more than motorcycles .,1
+3726i,I like bushes more than trees .,1
+4386i,I like cartoons more than books .,1
+3730i,I like shrubs more than trees .,1
+3641i,I like airplanes more than motorcycles .,1
+3550i,I like rabbits more than dogs .,1
+4065i,I like veal more than seafood .,1
+3595i,I like pigs more than birds .,1
+3831i,I like paintings more than furniture .,1
+4291i,He trusts guesses more than his senses .,1
+4224i,I like jellyfish more than pets .,1
+3834i,I like wallpaper more than furniture .,1
+3720i,I like grass more than trees .,1
+4338i,He likes stupidity more than emotions .,1
+3592i,I like hamsters more than birds .,1
+4013i,I like apples more than pork .,1
+3544i,I like hamsters more than dogs .,1
+4171i,I like handbags more than jewelry .,1
+3882i,I like sprite more than wine .,1
+3885i,I like beer more than wine .,1
+3946i,I like food more than music .,1
+4175i,I like scarfs more than jewelry .,1
+4221i,I like bears more than pets .,1
+4334i,He likes wisdom more than emotions .,1
+4380i,I like music more than books .,1
+3940i,I like sports more than music .,1
+3679i,I like jewelry more than clothes .,1
+4383i,I like films more than books .,1
+3676i,I like pets more than clothes .,1
+4062i,I like chicken more than seafood .,1
+4122i,I like boardgames more than movies .,1
+3671i,I like Kawasakis more than planes .,1
+3879i,I like water more than wine .,1
+3670i,I like airplanes more than Kawasakis .,1
+4071i,I like beef more than seafood .,1
+3650i,I like airplanes more than Suzukis .,1
+3661i,I like enduros more than planes .,1
+4218i,I like giraffes more than pets .,1
+3837i,I like parquet more than furniture .,1
+3949i,I like jewelry more than music .,1
+4228i,I like whales more than pets .,1
+4389i,I like paintings more than books .,1
+3638i,I like trains more than motorcycles .,1
+3685i,I like earrings more than clothes .,1
+4182i,I like shoes more than jewelry .,1
+3651i,I like Suzukis more than planes .,1
+3660i,I like airplanes more than enduros .,1
+4285i,He trusts reports more than his senses .,1
+4341i,He likes logic more than emotions .,1
+3589i,I like cats more than birds .,1
+4017i,I like carrots more than pork .,1
+3723i,I like animals more than trees .,1
+3541i,I like cats more than dogs .,1
+3828i,I like cutlery more than furniture .,1
+4006i,I like fish more than pork .,1
+3943i,I like boardgames more than music .,1
+4282i,He trusts rumors more than his senses .,1
+3022i,"I do not like food , I prefer music .",1
+3067i,"I do not like apples , I prefer pork .",1
+2705i,"I do not like cats , I prefer birds .",1
+2754i,"I do not like trains , I prefer motorcycles .",1
+2973i,"I do not like water , I prefer wine .",1
+2748i,"I do not like ships , I prefer motorcycles .",1
+2929i,"I do not like paintings , I prefer furniture .",1
+3165i,"I do not like videogames , I prefer movies .",1
+3204i,"I do not like handbags , I prefer jewelry .",1
+3016i,"I do not like sports , I prefer music .",1
+3156i,"I do not like essays , I prefer movies .",1
+2976i,"I do not like sprite , I prefer wine .",1
+3396i,"I do not like films , I prefer books .",1
+2708i,"I do not like hamsters , I prefer birds .",1
+2838i,"I do not like grass , I prefer trees .",1
+3251i,"I do not like giraffes , I prefer pets .",1
+3162i,"I do not like boardgames , I prefer movies .",1
+2776i,"I do not like airplanes , I prefer enduros .",1
+2751i,"I do not like bicycles , I prefer motorcycles .",1
+3215i,"I do not like shoes , I prefer jewelry .",1
+3254i,"I do not like bears , I prefer pets .",1
+3025i,"I do not like jewelry , I prefer music .",1
+2787i,"I do not like Kawasakis , I prefer planes .",1
+3260i,"I do not like whales , I prefer pets .",1
+2664i,"I do not like hamsters , I prefer dogs .",1
+3114i,"I do not like beef , I prefer seafood .",1
+2793i,"I do not like pets , I prefer clothes .",1
+3019i,"I do not like boardgames , I prefer music .",1
+3105i,"I do not like chicken , I prefer seafood .",1
+3064i,"I do not like broccoli , I prefer pork .",1
+3108i,"I do not like veal , I prefer seafood .",1
+2803i,"I do not like earrings , I prefer clothes .",1
+2670i,"I do not like rabbits , I prefer dogs .",1
+2661i,"I do not like cats , I prefer dogs .",1
+2932i,"I do not like wallpaper , I prefer furniture .",1
+2847i,"I do not like shrubs , I prefer trees .",1
+3257i,"I do not like jellyfish , I prefer pets .",1
+3070i,"I do not like carrots , I prefer pork .",1
+2767i,"I do not like Suzukis , I prefer planes .",1
+2711i,"I do not like pigs , I prefer birds .",1
+2844i,"I do not like bushes , I prefer trees .",1
+2713i,"I do not like dogs , I prefer birds .",1
+2841i,"I do not like animals , I prefer trees .",1
+3061i,"I do not like fish , I prefer pork .",1
+2980i,"I do not like beer , I prefer wine .",1
+2796i,"I do not like jewelry , I prefer clothes .",1
+3399i,"I do not like cartoons , I prefer books .",1
+3393i,"I do not like music , I prefer books .",1
+3159i,"I do not like textbooks , I prefer movies .",1
+3402i,"I do not like paintings , I prefer books .",1
+2757i,"I do not like airplanes , I prefer motorcycles .",1
+3111i,"I do not like turkey , I prefer seafood .",1
+2926i,"I do not like cutlery , I prefer furniture .",1
+2935i,"I do not like parquet , I prefer furniture .",1
+2786i,"I do not like airplanes , I prefer Kawasakis .",1
+3208i,"I do not like scarfs , I prefer jewelry .",1
+2766i,"I do not like airplanes , I prefer Suzukis .",1
+2777i,"I do not like enduros , I prefer planes .",1
+3358i,"He does not like calculations , he prefers emotions .",1
+3351i,"He does not like stupidity , he prefers emotions .",1
+3354i,"He does not like logic , he prefers emotions .",1
+3301i,"He does not trust rumors , he prefers his senses .",1
+3347i,"He does not like wisdom , he prefers emotions .",1
+3310i,"He does not trust guesses , he prefers his senses .",1
+3307i,"He does not trust reconstructions , he prefers his senses .",1
+3304i,"He does not trust reports , he prefers his senses .",1
