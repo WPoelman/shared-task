@@ -1,3 +1,4 @@
+id,sentence,labels
 templ-1,"I love dogs , and especially bulldogs .",1
 templ-2,"She love dogs , but bulldogs are her favourite .",0
 templ-3,"Although he love dogs , he do not love bulldogs .",1
