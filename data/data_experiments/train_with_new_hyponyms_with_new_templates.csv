@@ -1,4 +1,4 @@
-ID,Sentence,Labels
+id,sentence,labels
 H0,"I like socks , except anklets .",1
 H1,"I like ducks , except anklets .",0
 H2,"I like socks , except argyles .",1

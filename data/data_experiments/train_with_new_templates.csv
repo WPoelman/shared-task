@@ -1,3 +1,4 @@
+id,sentence,labels
 templ-1,"she like dogs , except huskies .",1
 templ-2,"he like dogs and , more generally , bulldogs .",0
 templ-3,"i like dogs , yet i do not like huskies .",1
