@@ -1,0 +1,6 @@
+novels
+textbooks
+books
+essays
+reports
+documents

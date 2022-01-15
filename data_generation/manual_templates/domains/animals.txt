@@ -1,0 +1,14 @@
+hamsters
+whales
+pigs
+huskies
+bulldogs
+bears
+sparrows
+rabbits
+cats
+giraffes
+parrots
+jellyfish
+ducks
+dogs

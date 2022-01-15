@@ -1,0 +1,5 @@
+factories
+offices
+restaurants
+schools
+buildings

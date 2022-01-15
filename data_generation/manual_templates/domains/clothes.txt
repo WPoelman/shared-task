@@ -1,0 +1,6 @@
+clothing
+shirts
+skirts
+socks
+shoes
+trousers
