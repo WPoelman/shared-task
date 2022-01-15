@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from argparse import ArgumentParser
 from pathlib import Path
 
@@ -49,9 +50,13 @@ def main():
             truncation=True
         )
 
-    for data_file in Path(args.data_directory).glob('*.csv'):
-        output_dir = Path(args.output_dir) / \
-            str(data_file.stem).replace('.csv', '')
+    all_files = list(Path(args.data_directory).glob('*.csv'))
+
+    for i, data_file in enumerate(all_files):
+        filename = str(data_file.stem)
+        experiment_output_dir = Path(args.output_dir) / filename.replace('.csv', '')
+
+        print(f'Working on file {filename} ({i+1} / {len(all_files)})...')
 
         dataset = load_dataset(
             'csv',
@@ -68,7 +73,7 @@ def main():
         )
 
         training_args = TrainingArguments(
-            output_dir=output_dir,
+            output_dir=experiment_output_dir,
             evaluation_strategy="steps",
             eval_steps=1000,
             save_steps=5000,
@@ -88,7 +93,7 @@ def main():
             callbacks=[EarlyStoppingCallback(early_stopping_patience=2)],
         )
         trainer.train()
-        trainer.save_model(f'{output_dir}/final-model')
+        trainer.save_model(f'{experiment_output_dir}/final-model')
 
 
 if __name__ == '__main__':
