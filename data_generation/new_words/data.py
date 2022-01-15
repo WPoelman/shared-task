@@ -16,13 +16,18 @@ class Sentence:
 		self.word1 = word1
 		self.word2 = word2
 	def output(self):
+		train_templatelist_baseline = [("{pron} {verb} {word1} , except {word2} .",[0]),
+				("{pron} {verb} {word1} , an interesting type of {word2} .",[1]),
+				("{pron} {verb} {word1} more than {word2} .",[2]),
+				("{pron} do not {verb} {word1} , {pron} prefer {word2} .",[2]),
+				]
 		templatelist = [("{pron} {verb} {word1} , except {word2} .",[0]), 
-						("{pron} {verb} {word1} , and more specifically {word2} .",[0]), 
-						("{pron} {verb} {word1} , but not {word2} .",[0,2]),
+						#("{pron} {verb} {word1} , and more specifically {word2} .",[0]), 
+						#("{pron} {verb} {word1} , but not {word2} .",[0,2]),
 						("{pron} {verb} {word1} , an interesting type of {word2} .",[1]),
 						("{pron} {verb} {word1} more than {word2} .",[2]),
 						("{pron} do not {verb} {word1} , {pron} prefer {word2} .",[2]),
-						("{pron} {verb} {word1} , and {word2} too .",[2]), # new templates
+						#("{pron} {verb} {word1} , and {word2} too .",[2]), # new templates
 						("{pron} {verb} {word1} , and particularly {word2} .",[0]),
 						("{pron} {verb} {word1} , and especially {word2} .",[0]),
 						("{pron} {verb} {word1} , and in particular {word2} .",[0]),
@@ -98,14 +103,14 @@ def read(domains):
 
 
 def main():
-	with open('new_words.csv', 'w', encoding='UTF8') as f:
+	with open('train_with_new_words_templates.csv', 'w', encoding='UTF8') as f:
 		writer = csv.writer(f)
 		warnings.filterwarnings("ignore")
 		lemma = WordNetLemmatizer()
 
 		domain_verbs = {'misc':['trust','like','love','enjoy','feel'],
-				   'people':['met','like','love'],
-				   'materials':['use','like','love'],
+				   #'people':['met','like','love'],
+				   #'materials':['use','like','love'],
 				   'food':['eat','like','love','enjoy'],
 				   'music':['listen to','like','love','enjoy'],
 				   'animals':['like','love'],
@@ -127,10 +132,12 @@ def main():
 
 
 		# number of sentences per label per relation per domain
-		# final number of sentences: n_sent * 2 * 3 * 14
-		n_sent = 250
+		# final number of sentences: n_sent * 2 * 3 * 12
+		n_sent = 260
 
 		sent_count = 0
+
+		writer.writerow(['id','sentence','labels'])
 
 		for domain in list(domain_verbs.keys()):
 			for relation in [0,1,2]:
@@ -146,7 +153,7 @@ def main():
 						word2 = random.choice(domain_dict[domain])
 
 					generated_sent = Sentence(pron, verb, poss, word1, word2).output()
-					sent = ' '.join(lemmatize_all(generated_sent[0])).lower()
+					sent = generated_sent[0][0].upper() + generated_sent[0][1:]
 
 					try:
 						# make 2 part word Wordnet searchable
