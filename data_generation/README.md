@@ -70,6 +70,13 @@ optional arguments:
 - Manual templates + new words + lemmatize nouns & verbs
 - Manual templates + hypo of hypo
 
+## Files gesubmit
+- train_base.csv               
+- train_with_new_hyponyms_with_new_templates.csv  
+- train_with_pegasus.csv
+- train_with_inverse.csv       
+- train_with_new_hyponyms.csv  
+
 ## Combined methods
 - Possibly use a single English model and translate the Italian and French test data to English to use that model for inference
 - Manual templates -> hypo of hypo -> inverted
