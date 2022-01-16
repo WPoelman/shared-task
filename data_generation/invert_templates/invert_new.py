@@ -162,7 +162,7 @@ def main():
     filename = 'inverse_with_manual.csv' if args.manual_templates else 'inverse.csv'
     with open(filename, 'w') as csvfile:
         writer = csv.writer(csvfile, lineterminator='\n')
-        writer.writerow(["ID", 'Sentence', 'Labels'])
+        writer.writerow(["id", 'sentence', 'labels'])
         for template_list in new_templates_list:
             writer.writerow(template_list)
 
