@@ -43,7 +43,9 @@ def create_swapped_data(list_of_pattern_lists, df):
     nids, nsentences, nlabels = [], [], []
 
     for pattern_list in list_of_pattern_lists:
-        for key in list(pattern_list.keys()):
+        keylist = list(pattern_list.keys())
+        keylist.remove('instruction')
+        for key in keylist:
             sRegex = re.compile(key)
             # Search the sentences for the patterns that are specified in each list
             for id, sent, label in zip(ids, sentences, labels):
