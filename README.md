@@ -35,9 +35,9 @@ For specific data generation scripts and explanations, see `data_generation`.
 - [ ] eerst focussen op Engels, daarna de nieuwe dataset daarvoor vertalen naar IT en FR (G/W/F/E)
 - [ ] script voor het vertalen van een csv dataset (E)
 - [ ] combineren van dataset id meenemen (W) (overal checken dat id wordt aangevuld en niet overschreven)
-- [ ] training script met basic bert model (letten op wat we outputten, loopen door csv bestanden en elke keer hetzelfde model trainen, early stopping 2 of 3 momenten, welk csv bestand gebruikt is) -> peregrine
+- [x] training script met basic bert model (letten op wat we outputten, loopen door csv bestanden en elke keer hetzelfde model trainen, early stopping 2 of 3 momenten, welk csv bestand gebruikt is) -> peregrine
 - [ ] na het experimenteren met de losse methoden, combinaties maken (evt ook op peregrine runnen (pegasus sowieso))
-- [ ] Dataset training data + manual templates with words from training data (E)
-- [ ] Dataset training data + manual templates + new words + lemmatize all
-- [ ] Dataset training data + manual templates + new words + lemmatize nouns & verbs
-- [ ] Dataset invert new training set
+- [x] Dataset training data + manual templates with words from training data (E)
+- [x] Dataset training data + manual templates + new words + lemmatize all
+- [x] Dataset training data + manual templates + new words + lemmatize nouns & verbs
+- [x] Dataset invert new training set
