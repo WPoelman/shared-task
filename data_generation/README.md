@@ -76,6 +76,11 @@ optional arguments:
 - train_with_pegasus.csv
 - train_with_inverse.csv       
 - train_with_new_hyponyms.csv  
+- train_with_new_words.csv
+- train_with_new_words_templates.csv
+- train_with_new_templates.csv
+- train_with_new_templates_baseline.csv
+- train_with_new_words_lemma.csv
 
 ## Combined methods
 - Possibly use a single English model and translate the Italian and French test data to English to use that model for inference
