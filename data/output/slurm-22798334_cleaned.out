@@ -1,0 +1,237 @@
+Working on file train_with_new_words (1 / 4)...
+***** Running training *****
+  Num examples = 18720
+  Num Epochs = 4
+  Instantaneous batch size per device = 8
+  Total train batch size (w. parallel, distributed & accumulation) = 8
+  Gradient Accumulation steps = 1
+  Total optimization steps = 9360
+***** Running Evaluation *****
+  Num examples = 3101
+  Batch size = 8
+***** Running Evaluation *****
+  Num examples = 3101
+  Batch size = 8
+***** Running Evaluation *****
+  Num examples = 3101
+  Batch size = 8
+***** Running Evaluation *****
+  Num examples = 3101
+  Batch size = 8
+***** Running Evaluation *****
+  Num examples = 3101
+  Batch size = 8
+***** Running Evaluation *****
+  Num examples = 3101
+  Batch size = 8
+***** Running Evaluation *****
+  Num examples = 3101
+  Batch size = 8
+***** Running Evaluation *****
+  Num examples = 3101
+  Batch size = 8
+***** Running Evaluation *****
+  Num examples = 3101
+  Batch size = 8
+
+Loading best model from /data/s2976129/shared-task-output/train_with_new_words/checkpoint-5000 (score: 1.6457653045654297).
+{'loss': 0.6308, 'learning_rate': 4.732905982905983e-05, 'epoch': 0.21}
+{'loss': 0.4931, 'learning_rate': 4.465811965811966e-05, 'epoch': 0.43}
+{'eval_loss': 1.0369361639022827, 'eval_accuracy': 0.5827152531441471, 'eval_precision': 0.6583652618135377, 'eval_recall': 0.575977653631285, 'eval_f1': 0.6144219308700835, 'eval_runtime': 35.8623, 'eval_samples_per_second': 86.47, 'eval_steps_per_second': 10.819, 'epoch': 0.43}
+{'loss': 0.4789, 'learning_rate': 4.198717948717949e-05, 'epoch': 0.64}
+{'loss': 0.4558, 'learning_rate': 3.931623931623932e-05, 'epoch': 0.85}
+{'eval_loss': 1.0487385988235474, 'eval_accuracy': 0.5749758142534667, 'eval_precision': 0.6252653927813163, 'eval_recall': 0.6581005586592179, 'eval_f1': 0.6412629286880783, 'eval_runtime': 35.7854, 'eval_samples_per_second': 86.655, 'eval_steps_per_second': 10.842, 'epoch': 0.85}
+{'loss': 0.4118, 'learning_rate': 3.664529914529915e-05, 'epoch': 1.07}
+{'loss': 0.3464, 'learning_rate': 3.397435897435898e-05, 'epoch': 1.28}
+{'eval_loss': 1.3957276344299316, 'eval_accuracy': 0.5749758142534667, 'eval_precision': 0.656498673740053, 'eval_recall': 0.553072625698324, 'eval_f1': 0.6003638568829593, 'eval_runtime': 35.8033, 'eval_samples_per_second': 86.612, 'eval_steps_per_second': 10.837, 'epoch': 1.28}
+{'loss': 0.3535, 'learning_rate': 3.1303418803418806e-05, 'epoch': 1.5}
+{'loss': 0.3526, 'learning_rate': 2.863247863247863e-05, 'epoch': 1.71}
+{'eval_loss': 1.420271396636963, 'eval_accuracy': 0.5917445985166075, 'eval_precision': 0.6395101171458999, 'eval_recall': 0.670949720670391, 'eval_f1': 0.6548527808069793, 'eval_runtime': 35.8272, 'eval_samples_per_second': 86.554, 'eval_steps_per_second': 10.83, 'epoch': 1.71}
+{'loss': 0.3487, 'learning_rate': 2.5961538461538464e-05, 'epoch': 1.92}
+{'loss': 0.3139, 'learning_rate': 2.3290598290598293e-05, 'epoch': 2.14}
+{'eval_loss': 1.6457653045654297, 'eval_accuracy': 0.5482102547565302, 'eval_precision': 0.6562248995983936, 'eval_recall': 0.4564245810055866, 'eval_f1': 0.5383855024711697, 'eval_runtime': 35.816, 'eval_samples_per_second': 86.582, 'eval_steps_per_second': 10.833, 'epoch': 2.14}
+{'loss': 0.2911, 'learning_rate': 2.061965811965812e-05, 'epoch': 2.35}
+{'loss': 0.3112, 'learning_rate': 1.794871794871795e-05, 'epoch': 2.56}
+{'eval_loss': 1.8419971466064453, 'eval_accuracy': 0.5594969364721057, 'eval_precision': 0.6409574468085106, 'eval_recall': 0.5385474860335195, 'eval_f1': 0.5853066180935034, 'eval_runtime': 35.9035, 'eval_samples_per_second': 86.371, 'eval_steps_per_second': 10.807, 'epoch': 2.56}
+{'loss': 0.2949, 'learning_rate': 1.527777777777778e-05, 'epoch': 2.78}
+{'loss': 0.2732, 'learning_rate': 1.2606837606837608e-05, 'epoch': 2.99}
+{'eval_loss': 1.5913796424865723, 'eval_accuracy': 0.5943244114801677, 'eval_precision': 0.6539351851851852, 'eval_recall': 0.6312849162011173, 'eval_f1': 0.6424104604889141, 'eval_runtime': 35.8137, 'eval_samples_per_second': 86.587, 'eval_steps_per_second': 10.834, 'epoch': 2.99}
+{'loss': 0.2333, 'learning_rate': 9.935897435897435e-06, 'epoch': 3.21}
+{'loss': 0.2072, 'learning_rate': 7.264957264957266e-06, 'epoch': 3.42}
+{'eval_loss': 1.7186955213546753, 'eval_accuracy': 0.6020638503708481, 'eval_precision': 0.665083135391924, 'eval_recall': 0.6256983240223464, 'eval_f1': 0.644789867587795, 'eval_runtime': 35.814, 'eval_samples_per_second': 86.586, 'eval_steps_per_second': 10.834, 'epoch': 3.42}
+{'loss': 0.2293, 'learning_rate': 4.594017094017095e-06, 'epoch': 3.63}
+{'loss': 0.2069, 'learning_rate': 1.9230769230769234e-06, 'epoch': 3.85}
+{'eval_loss': 1.7278679609298706, 'eval_accuracy': 0.5940019348597226, 'eval_precision': 0.667296786389414, 'eval_recall': 0.5916201117318436, 'eval_f1': 0.6271838910275394, 'eval_runtime': 35.8025, 'eval_samples_per_second': 86.614, 'eval_steps_per_second': 10.837, 'epoch': 3.85}
+{'train_runtime': 2906.6832, 'train_samples_per_second': 25.761, 'train_steps_per_second': 3.22, 'train_loss': 0.3462651638454861, 'epoch': 3.85}
+
+Working on file train_with_new_words_templates (2 / 4)...
+***** Running training *****
+  Num examples = 18720
+  Num Epochs = 4
+  Instantaneous batch size per device = 8
+  Total train batch size (w. parallel, distributed & accumulation) = 8
+  Gradient Accumulation steps = 1
+  Total optimization steps = 9360
+***** Running Evaluation *****
+  Num examples = 3101
+  Batch size = 8
+***** Running Evaluation *****
+  Num examples = 3101
+  Batch size = 8
+***** Running Evaluation *****
+  Num examples = 3101
+  Batch size = 8
+***** Running Evaluation *****
+  Num examples = 3101
+  Batch size = 8
+***** Running Evaluation *****
+  Num examples = 3101
+  Batch size = 8
+***** Running Evaluation *****
+  Num examples = 3101
+  Batch size = 8
+***** Running Evaluation *****
+  Num examples = 3101
+  Batch size = 8
+
+Loading best model from /data/s2976129/shared-task-output/train_with_new_words_templates/checkpoint-5000 (score: 0.8700921535491943).
+Using custom data configuration default-a181b4648595b90b
+{'loss': 0.6845, 'learning_rate': 4.732905982905983e-05, 'epoch': 0.21}
+{'loss': 0.6757, 'learning_rate': 4.465811965811966e-05, 'epoch': 0.43}
+{'eval_loss': 0.6119101047515869, 'eval_accuracy': 0.6746210899709771, 'eval_precision': 0.8980632008154944, 'eval_recall': 0.4921787709497207, 'eval_f1': 0.6358715265247203, 'eval_runtime': 35.9436, 'eval_samples_per_second': 86.274, 'eval_steps_per_second': 10.795, 'epoch': 0.43}
+{'loss': 0.6296, 'learning_rate': 4.198717948717949e-05, 'epoch': 0.64}
+{'loss': 0.5078, 'learning_rate': 3.931623931623932e-05, 'epoch': 0.85}
+{'eval_loss': 0.8006044030189514, 'eval_accuracy': 0.7046114156723637, 'eval_precision': 0.7387978142076502, 'eval_recall': 0.7553072625698324, 'eval_f1': 0.7469613259668507, 'eval_runtime': 35.9061, 'eval_samples_per_second': 86.364, 'eval_steps_per_second': 10.806, 'epoch': 0.85}
+{'loss': 0.4854, 'learning_rate': 3.664529914529915e-05, 'epoch': 1.07}
+{'loss': 0.4305, 'learning_rate': 3.397435897435898e-05, 'epoch': 1.28}
+{'eval_loss': 0.762516438961029, 'eval_accuracy': 0.7326668816510803, 'eval_precision': 0.7333657115104419, 'eval_recall': 0.8435754189944135, 'eval_f1': 0.7846193816575733, 'eval_runtime': 36.749, 'eval_samples_per_second': 84.383, 'eval_steps_per_second': 10.558, 'epoch': 1.28}
+{'loss': 0.4005, 'learning_rate': 3.1303418803418806e-05, 'epoch': 1.5}
+{'loss': 0.3843, 'learning_rate': 2.863247863247863e-05, 'epoch': 1.71}
+{'eval_loss': 0.9685007333755493, 'eval_accuracy': 0.7010641728474686, 'eval_precision': 0.7501449275362319, 'eval_recall': 0.7229050279329609, 'eval_f1': 0.7362731152204837, 'eval_runtime': 35.8762, 'eval_samples_per_second': 86.436, 'eval_steps_per_second': 10.815, 'epoch': 1.71}
+{'loss': 0.3527, 'learning_rate': 2.5961538461538464e-05, 'epoch': 1.92}
+{'loss': 0.3274, 'learning_rate': 2.3290598290598293e-05, 'epoch': 2.14}
+{'eval_loss': 0.8700921535491943, 'eval_accuracy': 0.7478232828119962, 'eval_precision': 0.7748091603053435, 'eval_recall': 0.7938547486033519, 'eval_f1': 0.7842163355408389, 'eval_runtime': 35.8083, 'eval_samples_per_second': 86.6, 'eval_steps_per_second': 10.835, 'epoch': 2.14}
+{'loss': 0.2876, 'learning_rate': 2.061965811965812e-05, 'epoch': 2.35}
+{'loss': 0.2801, 'learning_rate': 1.794871794871795e-05, 'epoch': 2.56}
+{'eval_loss': 1.2513818740844727, 'eval_accuracy': 0.6807481457594324, 'eval_precision': 0.7580645161290323, 'eval_recall': 0.6564245810055865, 'eval_f1': 0.7035928143712575, 'eval_runtime': 35.8178, 'eval_samples_per_second': 86.577, 'eval_steps_per_second': 10.833, 'epoch': 2.56}
+{'loss': 0.2631, 'learning_rate': 1.527777777777778e-05, 'epoch': 2.78}
+{'loss': 0.2552, 'learning_rate': 1.2606837606837608e-05, 'epoch': 2.99}
+{'eval_loss': 1.0380334854125977, 'eval_accuracy': 0.7587874879071267, 'eval_precision': 0.7960227272727273, 'eval_recall': 0.78268156424581, 'eval_f1': 0.7892957746478872, 'eval_runtime': 35.8191, 'eval_samples_per_second': 86.574, 'eval_steps_per_second': 10.832, 'epoch': 2.99}
+{'train_runtime': 2267.523, 'train_samples_per_second': 33.023, 'train_steps_per_second': 4.128, 'train_loss': 0.4260273720877511, 'epoch': 2.99}
+
+Working on file train_with_new_templates (3 / 4)...
+***** Running training *****
+  Num examples = 9000
+  Num Epochs = 4
+  Instantaneous batch size per device = 8
+  Total train batch size (w. parallel, distributed & accumulation) = 8
+  Gradient Accumulation steps = 1
+  Total optimization steps = 4500
+***** Running Evaluation *****
+  Num examples = 3101
+  Batch size = 8
+***** Running Evaluation *****
+  Num examples = 3101
+  Batch size = 8
+***** Running Evaluation *****
+  Num examples = 3101
+  Batch size = 8
+***** Running Evaluation *****
+  Num examples = 3101
+  Batch size = 8
+Using custom data configuration default-f5d7a48620be5a8e
+{'loss': 0.6919, 'learning_rate': 4.4444444444444447e-05, 'epoch': 0.44}
+{'loss': 0.5779, 'learning_rate': 3.888888888888889e-05, 'epoch': 0.89}
+{'eval_loss': 0.5384426712989807, 'eval_accuracy': 0.7226701064172848, 'eval_precision': 0.8849337748344371, 'eval_recall': 0.5972067039106145, 'eval_f1': 0.7131420947298199, 'eval_runtime': 35.8255, 'eval_samples_per_second': 86.558, 'eval_steps_per_second': 10.83, 'epoch': 0.89}
+{'loss': 0.389, 'learning_rate': 3.3333333333333335e-05, 'epoch': 1.33}
+{'loss': 0.2045, 'learning_rate': 2.777777777777778e-05, 'epoch': 1.78}
+{'eval_loss': 1.3598246574401855, 'eval_accuracy': 0.6104482425024186, 'eval_precision': 0.6276315789473684, 'eval_recall': 0.7994413407821229, 'eval_f1': 0.7031941031941031, 'eval_runtime': 35.814, 'eval_samples_per_second': 86.586, 'eval_steps_per_second': 10.834, 'epoch': 1.78}
+{'loss': 0.0443, 'learning_rate': 2.2222222222222223e-05, 'epoch': 2.22}
+{'loss': 0.0119, 'learning_rate': 1.6666666666666667e-05, 'epoch': 2.67}
+{'eval_loss': 2.9714624881744385, 'eval_accuracy': 0.709771041599484, 'eval_precision': 0.8903508771929824, 'eval_recall': 0.5670391061452514, 'eval_f1': 0.6928327645051193, 'eval_runtime': 35.7948, 'eval_samples_per_second': 86.633, 'eval_steps_per_second': 10.84, 'epoch': 2.67}
+{'loss': 0.0117, 'learning_rate': 1.1111111111111112e-05, 'epoch': 3.11}
+{'loss': 0.0091, 'learning_rate': 5.555555555555556e-06, 'epoch': 3.56}
+{'eval_loss': 2.904064178466797, 'eval_accuracy': 0.708803611738149, 'eval_precision': 0.8711297071129707, 'eval_recall': 0.5815642458100558, 'eval_f1': 0.6974874371859296, 'eval_runtime': 35.8005, 'eval_samples_per_second': 86.619, 'eval_steps_per_second': 10.838, 'epoch': 3.56}
+{'loss': 0.0023, 'learning_rate': 0.0, 'epoch': 4.0}
+{'train_runtime': 1429.1882, 'train_samples_per_second': 25.189, 'train_steps_per_second': 3.149, 'train_loss': 0.21584025242593555, 'epoch': 4.0}
+
+Working on file train_with_new_templates_baseline (4 / 4)...
+***** Running training *****
+  Num examples = 9000
+  Num Epochs = 4
+  Instantaneous batch size per device = 8
+  Total train batch size (w. parallel, distributed & accumulation) = 8
+  Gradient Accumulation steps = 1
+  Total optimization steps = 4500
+***** Running Evaluation *****
+  Num examples = 3101
+  Batch size = 8
+***** Running Evaluation *****
+  Num examples = 3101
+  Batch size = 8
+/home/s2976129/.local/lib/python3.7/site-packages/sklearn/metrics/_classification.py:1318: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+***** Running Evaluation *****
+  Num examples = 3101
+  Batch size = 8
+***** Running Evaluation *****
+  Num examples = 3101
+  Batch size = 8
+
+{'loss': 0.7082, 'learning_rate': 4.4444444444444447e-05, 'epoch': 0.44}
+{'loss': 0.705, 'learning_rate': 3.888888888888889e-05, 'epoch': 0.89}
+{'eval_loss': 0.6866377592086792, 'eval_accuracy': 0.5772331505965818, 'eval_precision': 0.5772331505965818, 'eval_recall': 1.0, 'eval_f1': 0.7319566550807606, 'eval_runtime': 35.7987, 'eval_samples_per_second': 86.623, 'eval_steps_per_second': 10.838, 'epoch': 0.89}
+{'loss': 0.7034, 'learning_rate': 3.3333333333333335e-05, 'epoch': 1.33}
+{'loss': 0.7015, 'learning_rate': 2.777777777777778e-05, 'epoch': 1.78}
+{'eval_loss': 0.7008221745491028, 'eval_accuracy': 0.42276684940341824, 'eval_precision': 0.0, 'eval_recall': 0.0, 'eval_f1': 0.0, 'eval_runtime': 35.8111, 'eval_samples_per_second': 86.593, 'eval_steps_per_second': 10.835, 'epoch': 1.78}
+{'loss': 0.6947, 'learning_rate': 2.2222222222222223e-05, 'epoch': 2.22}
+{'loss': 0.6933, 'learning_rate': 1.6666666666666667e-05, 'epoch': 2.67}
+{'eval_loss': 0.680142343044281, 'eval_accuracy': 0.6130280554659787, 'eval_precision': 0.6017943409247757, 'eval_recall': 0.9743016759776536, 'eval_f1': 0.7440273037542661, 'eval_runtime': 35.7878, 'eval_samples_per_second': 86.65, 'eval_steps_per_second': 10.842, 'epoch': 2.67}
+{'loss': 0.6965, 'learning_rate': 1.1111111111111112e-05, 'epoch': 3.11}
+{'loss': 0.6419, 'learning_rate': 5.555555555555556e-06, 'epoch': 3.56}
+{'eval_loss': 0.7706111073493958, 'eval_accuracy': 0.41696227023540794, 'eval_precision': 0.125, 'eval_recall': 0.0016759776536312849, 'eval_f1': 0.0033076074972436605, 'eval_runtime': 35.7924, 'eval_samples_per_second': 86.639, 'eval_steps_per_second': 10.84, 'epoch': 3.56}
+{'loss': 0.5187, 'learning_rate': 0.0, 'epoch': 4.0}
+{'train_runtime': 1434.8328, 'train_samples_per_second': 25.09, 'train_steps_per_second': 3.136, 'train_loss': 0.6736935763888889, 'epoch': 4.0}
+
+
+###############################################################################
+Peregrine Cluster
+Job 22798334 for user 's2976129'
+Finished at: Sat Jan 15 21:06:10 CET 2022
+
+Job details:
+============
+
+Job ID              : 22798334
+Name                : data_experiment_job
+User                : s2976129
+Partition           : gpu
+Nodes               : pg-gpu32
+Number of Nodes     : 1
+Cores               : 12
+Number of Tasks     : 1
+State               : COMPLETED
+Submit              : 2022-01-15T18:50:05
+Start               : 2022-01-15T18:50:41
+End                 : 2022-01-15T21:06:10
+Reserved walltime   : 06:00:00
+Used walltime       : 02:15:29
+Used CPU time       : 02:14:35 (efficiency:  8.28%)
+% User (Computation): 64.64%
+% System (I/O)      : 35.36%
+Mem reserved        : 4000M/node
+Max Mem (Node/step) : 2.19G (pg-gpu32, per node)
+Full Max Mem usage  : 2.19G
+Total Disk Read     : 8.09M
+Total Disk Write    : 34.50K
+Average GPU usage   : 91.1% (pg-gpu32)
+
+
+Acknowledgements:
+=================
+
+Please see this page for information about acknowledging Peregrine in your publications:
+
+https://wiki.hpc.rug.nl/peregrine/introduction/scientific_output
+
+################################################################################
