@@ -8,17 +8,18 @@ import argparse
 
 import pandas as pd
 import spacy
-import torch
 from transformers import PegasusForConditionalGeneration, PegasusTokenizer
 from pathlib import Path
 
+print('Loading pegasus model')
 # Model url: https://huggingface.co/tuner007/pegasus_paraphrase
 MODEL_NAME = "tuner007/pegasus_paraphrase"
-TORCH_DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
+TORCH_DEVICE = "cuda"
 TOKENIZER = PegasusTokenizer.from_pretrained(MODEL_NAME)
 MODEL = PegasusForConditionalGeneration.from_pretrained(
     MODEL_NAME).to(TORCH_DEVICE)
 
+print('Loading spacy model')
 # maybe add spacy model to args
 NLP = spacy.load("en_core_web_sm", disable=["ner"])
 
