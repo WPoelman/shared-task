@@ -1,0 +1,11 @@
+Results:
+- train_base: 0.531
+- train_with_inverse: 0.617
+- train_with_new_hyponyms:  0.555
+- train_with_new_hyponyms_with_new_templates: 0.700
+- train_with_pegasus: 0.776
+- train_with_new_words: 0.654
+- train_with_new_words_templates: 0.789
+- train_with_new_templates: 0.713
+- train_with_new_templates_baseline: 0.744
+- train_with_new_words_lemma: 0.731 (lemma test set)
