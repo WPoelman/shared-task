@@ -71,11 +71,11 @@ optional arguments:
 - Manual templates + hypo of hypo
 
 ## Files gesubmit
-- train_base.csv               
-- train_with_new_hyponyms_with_new_templates.csv  
+- train_base.csv
+- train_with_new_hyponyms_with_new_templates.csv
 - train_with_pegasus.csv
-- train_with_inverse.csv       
-- train_with_new_hyponyms.csv  
+- train_with_inverse.csv
+- train_with_new_hyponyms.csv
 - train_with_new_words.csv
 - train_with_new_words_templates.csv
 - train_with_new_templates.csv
@@ -83,6 +83,15 @@ optional arguments:
 - train_with_new_words_lemma.csv
 
 ## Combined methods
-- Possibly use a single English model and translate the Italian and French test data to English to use that model for inference
-- Manual templates -> hypo of hypo -> inverted
-- Manual templates -> hypo of hypo -> inverted -> pegasus
+
+### Currently running through pegasus
+- 1_newhypownt_newwordswnt_inverse_pegasus.csv
+- 4_newwordswnt_inverse_pegasus.csv.csv
+- 5_newhypownt_inverse_pegasus.csv.csv
+- 3_newhypownt_newwordswnt_pegasus.csv
+
+### Needs to be lemmatized once done with pegasus
+- 1_newhypownt_newwordswnt_inverse_pegasus.csv -> 2_newhypownt_newwordswnt_inverse_pegasus_lemmatized.csv
+
+### Currently training model
+- 6_newhypownt_newwordswnt_inverse.csv

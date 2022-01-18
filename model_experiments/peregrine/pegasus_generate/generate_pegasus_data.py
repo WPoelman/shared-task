@@ -30,48 +30,28 @@ def create_arg_parser():
                         help='Directory with all csv files to test.')
     parser.add_argument('-o', '--output_dir',
                         help='Directory to write model outputs to.')
-    parser.add_argument(
-        "-m",
-        "--max_new",
-        default=10,
-        type=int,
-        help="Max new sentences to generate per sentence",
-    )
-    parser.add_argument(
-        "-tl",
-        "--total_len",
-        action="store_true",
-        help="Use the overall min and max sentence lengths of "
-        "the entire corpus, instead of individual "
-        "sentences",
-    )
     return parser.parse_args()
 
 
-def get_response(
-    input_texts,
-    num_return_sequences,
-    num_beams,
-    max_len_toks,
-    min_len_output_str,
-    max_len_output_str,
-):
+def get_response(input_texts):
+
+    # Random crashes? Call your local obsure huggingface forum helper from a
+    # year ago: https://discuss.huggingface.co/t/out-of-index-error-when-using-pre-trained-pegasus-model/5196/2
     batch = TOKENIZER(
-        input_texts,
-        truncation=True,
-        padding="longest",
-        max_length=60,
-        return_tensors="pt",
+        input_texts, 
+        truncation=True, 
+        padding='longest', 
+        max_length=200, 
+        return_tensors="pt"
     ).to(TORCH_DEVICE)
 
     translated = MODEL.generate(
-        **batch,
-        # No idea why min is in tokens, while max is in characters...
-        min_length=max_len_toks,
-        max_length=max_len_output_str,
-        num_beams=num_beams,
-        num_return_sequences=num_return_sequences,
-        temperature=1.5,
+        **batch, 
+        #max_length=200, 
+        max_length=60,
+        num_beams=10, 
+        num_return_sequences=10, 
+        temperature=1.5
     )
 
     tgt_text = TOKENIZER.batch_decode(translated, skip_special_tokens=True)
@@ -123,35 +103,15 @@ def main():
         output_file = f'{filename}_pegasus.csv'
 
         df = pd.read_csv(data_file)
-
-        num_beams = 10
-        # is numpy int by default
-        min_len_str = int(df.sentence.str.len().min())
-        max_len_str = int(df.sentence.str.len().max())
-        max_len_tok = max(len(sent.split()) for sent in df.sentence.tolist())
-
         print(
             f"""
     Working on file {filename} ({i+1} / {len(all_files)})
-    Creating new sentences for {len(df)} sentences with settings:
-        args={args}
-
-        num_beams={num_beams}
-        min_len_str={min_len_str}
-        max_len_str={max_len_str}
-        max_len_tok={max_len_tok}
+    Creating new sentences for {len(df)} sentences
         """
         )
 
         records = []
         for _, row in df.iterrows():
-            # Either the total measures of the entire corpus, or use just the
-            # current sentence.
-            if not args.total_len:
-                min_len_str = len(row.sentence)
-                max_len_str = len(row.sentence)
-                max_len_tok = len(row.sentence.split())
-
             original_sent_id = row.id
             records.append(
                 {"id": row.id, "sentence": row.sentence, "labels": row.labels}
@@ -161,16 +121,8 @@ def main():
             # will speed it up, but it might be handy if we are sure we use the
             # total len measures, need to test!
             try:
-                results = get_response(
-                    [row.sentence],
-                    args.max_new,
-                    num_beams,
-                    max_len_tok,
-                    min_len_str,
-                    max_len_str,
-                )
-            except Exception as e:
-                print(e)
+                results = get_response([row.sentence])
+            except Exception:
                 continue
 
             results = validate_results(row.sentence, results)
