@@ -1,6 +1,6 @@
 """
 Description:
-    A script that creates (paraphrases) new sentences based on the original 
+    A script that creates (paraphrases) new sentences based on the original
     input data. Note that this is only intended to work for English!
 """
 
@@ -38,19 +38,19 @@ def get_response(input_texts):
     # Random crashes? Call your local obsure huggingface forum helper from a
     # year ago: https://discuss.huggingface.co/t/out-of-index-error-when-using-pre-trained-pegasus-model/5196/2
     batch = TOKENIZER(
-        input_texts, 
-        truncation=True, 
-        padding='longest', 
-        max_length=200, 
+        input_texts,
+        truncation=True,
+        padding='longest',
+        max_length=200,
         return_tensors="pt"
     ).to(TORCH_DEVICE)
 
     translated = MODEL.generate(
-        **batch, 
-        #max_length=200, 
+        **batch,
+        # max_length=200,
         max_length=60,
-        num_beams=10, 
-        num_return_sequences=10, 
+        num_beams=10,
+        num_return_sequences=10,
         temperature=1.5
     )
 
@@ -60,35 +60,24 @@ def get_response(input_texts):
 
 
 def validate_results(original_sent, new_sents):
-    # TODO find a neat way to dedupe the sentences while keeping the original
-    # casing (if it is even a problem that there are dupes?)
-    #
-    # # First dedupe the results
-    # original_lowered = original_sent.lower()
-    # # use set to remove dupes in result
-    # new_lowered = {s.lower() for s in new_sents}
-    # # remove dupes of the original
-    # if original_lowered in new_lowered:
-    #     new_lowered.remove(original_lowered)
-
     original_sent_doc = NLP(original_sent)
     original_sent_pos = {t.pos_ for t in original_sent_doc}
 
+    # This was originally done via the tokenizer/model, but since those caused
+    # random crashes (see comment above), we need to resort to this.
+    original_sent_len = len(original_sent)
+    upper_bound = original_sent_len + 10
+    lower_bound = original_sent_len - 10
+
     filtered_new = []
     for sent in new_sents:
-        new_sent_doc = NLP(sent)
-        new_sent_pos = {t.pos_ for t in new_sent_doc}
-        # Not sure if this is always correct, need to check
-        if new_sent_pos.issubset(original_sent_pos) or original_sent_pos.issubset(
-            new_sent_pos
-        ):
-            filtered_new.append(sent)
-
-    # filter on:
-    #   - POS and/or DEP tags (at least the ones in original)
-    #   - order of words if they are the same (nouns, except "I" and such)
-
-    # print(filtered_new)
+        if lower_bound <= len(sent) <= upper_bound:
+            new_sent_doc = NLP(sent)
+            new_sent_pos = {t.pos_ for t in new_sent_doc}
+            # Not sure if this is always correct, need to check
+            if (new_sent_pos.issubset(original_sent_pos)
+                    or original_sent_pos.issubset(new_sent_pos)):
+                filtered_new.append(sent)
 
     return filtered_new
 
@@ -130,7 +119,7 @@ def main():
             records.extend(
                 [
                     {
-                        "id": f"{original_sent_id}-pegaus-{i}",
+                        "id": f"{original_sent_id}-pegasus-{i}",
                         "sentence": result,
                         "labels": row.labels,
                     }
