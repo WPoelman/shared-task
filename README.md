@@ -41,3 +41,4 @@ For specific data generation scripts and explanations, see `data_generation`.
 - [x] Dataset training data + manual templates + new words + lemmatize all
 - [x] Dataset training data + manual templates + new words + lemmatize nouns & verbs
 - [x] Dataset invert new training set
+- [ ] Van de losse experimenten bevatten niet alle CSV bestanden ook de train_base zinnen. Om een accurate vergelijking te maken in het verslag moeten sommigen misschien opnieuw gerund worden nadat dit is toegevoegd.
