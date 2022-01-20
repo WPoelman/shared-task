@@ -22,30 +22,30 @@ def lemmatize_all(sentence):
             yield word
 
 def main():
-	nlp = spacy.load('it_core_news_md')
-	with open('It-Subtask1-test_lemma.tsv', 'w', encoding='UTF8') as f:
-		with open('It-Subtask1-test.tsv', 'r', encoding='UTF8') as o:
-			writer = csv.writer(f)
-			warnings.filterwarnings("ignore")
-			lemma = WordNetLemmatizer()
-
-			reader = csv.reader(o, delimiter='\t')
-			next(reader)
-			for line in reader:
-				doc = nlp(line[1])
-				print(line[0]," ".join([token.lemma_ for token in doc]))
-				writer.writerow([line[0]," ".join([token.lemma_ for token in doc])])
-
-	# with open('1_newhypownt_newwordswnt_inverse_pegasus_pegasus_lemma.csv', 'w', encoding='UTF8') as f:
-	# 	with open('1_newhypownt_newwordswnt_inverse_pegasus_pegasus.csv', 'r', encoding='UTF8') as o:
+	# nlp = spacy.load('it_core_news_md')
+	# with open('It-Subtask1-test_lemma.tsv', 'w', encoding='UTF8') as f:
+	# 	with open('It-Subtask1-test.tsv', 'r', encoding='UTF8') as o:
 	# 		writer = csv.writer(f)
 	# 		warnings.filterwarnings("ignore")
 	# 		lemma = WordNetLemmatizer()
 
-	# 		reader = csv.reader(o, delimiter=',')
+	# 		reader = csv.reader(o, delimiter='\t')
+	# 		next(reader)
 	# 		for line in reader:
-	# 			print(line[0],' '.join(lemmatize_all(line[1])).lower(),line[2])
-	# 			writer.writerow([line[0],' '.join(lemmatize_all(line[1])).lower(),line[2]])
+	# 			doc = nlp(line[1])
+	# 			print(line[0]," ".join([token.lemma_ for token in doc]))
+	# 			writer.writerow([line[0]," ".join([token.lemma_ for token in doc])])
+
+	with open('3_newhypownt_newwordswnt_pegasus_shuffled_lemma.csv', 'w', encoding='UTF8') as f:
+		with open('3_newhypownt_newwordswnt_pegasus_shuffled.csv', 'r', encoding='UTF8') as o:
+			writer = csv.writer(f)
+			warnings.filterwarnings("ignore")
+			lemma = WordNetLemmatizer()
+
+			reader = csv.reader(o, delimiter=',')
+			for line in reader:
+				print(line[0],' '.join(lemmatize_all(line[1])).lower(),line[2])
+				writer.writerow([line[0],' '.join(lemmatize_all(line[1])).lower(),line[2]])
 	
 
 if __name__ == "__main__":
