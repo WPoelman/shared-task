@@ -1,4 +1,4 @@
-id,sentence,label
+id,sentence,labels
 5270,"I like westerns, but I don't like textbooks.",1
 5265,"I like movies, but not video games.",1
 5585,"I met the clerks, but not the geneticists.",1
