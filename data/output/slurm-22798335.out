@@ -1,180 +1,0 @@
-Requirement already satisfied: transformers in /home/s2976129/.local/lib/python3.7/site-packages (from -r requirements.txt (line 1)) (4.15.0)
-Requirement already satisfied: datasets in /home/s2976129/.local/lib/python3.7/site-packages (from -r requirements.txt (line 2)) (1.17.0)
-Requirement already satisfied: sklearn in /home/s2976129/.local/lib/python3.7/site-packages (from -r requirements.txt (line 3)) (0.0)
-Requirement already satisfied: huggingface-hub<1.0,>=0.1.0 in /home/s2976129/.local/lib/python3.7/site-packages (from transformers->-r requirements.txt (line 1)) (0.4.0)
-Requirement already satisfied: tqdm>=4.27 in /home/s2976129/.local/lib/python3.7/site-packages (from transformers->-r requirements.txt (line 1)) (4.62.3)
-Requirement already satisfied: tokenizers<0.11,>=0.10.1 in /home/s2976129/.local/lib/python3.7/site-packages (from transformers->-r requirements.txt (line 1)) (0.10.3)
-Requirement already satisfied: pyyaml>=5.1 in /apps/skylake/software/PyYAML/5.1.2-GCCcore-8.3.0/lib/python3.7/site-packages (from transformers->-r requirements.txt (line 1)) (5.1.2)
-Requirement already satisfied: filelock in /home/s2976129/.local/lib/python3.7/site-packages (from transformers->-r requirements.txt (line 1)) (3.4.2)
-Requirement already satisfied: importlib-metadata; python_version < "3.8" in /apps/skylake/software/Python/3.7.4-GCCcore-8.3.0/lib/python3.7/site-packages (from transformers->-r requirements.txt (line 1)) (0.22)
-Requirement already satisfied: sacremoses in /home/s2976129/.local/lib/python3.7/site-packages (from transformers->-r requirements.txt (line 1)) (0.0.47)
-Requirement already satisfied: numpy>=1.17 in /apps/skylake/software/SciPy-bundle/2019.10-fosscuda-2019b-Python-3.7.4/lib/python3.7/site-packages (from transformers->-r requirements.txt (line 1)) (1.17.3)
-Requirement already satisfied: packaging>=20.0 in /home/s2976129/.local/lib/python3.7/site-packages (from transformers->-r requirements.txt (line 1)) (21.3)
-Requirement already satisfied: regex!=2019.12.17 in /home/s2976129/.local/lib/python3.7/site-packages (from transformers->-r requirements.txt (line 1)) (2021.11.10)
-Requirement already satisfied: requests in /apps/skylake/software/Python/3.7.4-GCCcore-8.3.0/lib/python3.7/site-packages (from transformers->-r requirements.txt (line 1)) (2.22.0)
-Requirement already satisfied: pyarrow!=4.0.0,>=3.0.0 in /home/s2976129/.local/lib/python3.7/site-packages (from datasets->-r requirements.txt (line 2)) (6.0.1)
-Requirement already satisfied: pandas in /apps/skylake/software/SciPy-bundle/2019.10-fosscuda-2019b-Python-3.7.4/lib/python3.7/site-packages (from datasets->-r requirements.txt (line 2)) (0.25.3)
-Requirement already satisfied: dill in /home/s2976129/.local/lib/python3.7/site-packages (from datasets->-r requirements.txt (line 2)) (0.3.4)
-Requirement already satisfied: multiprocess in /home/s2976129/.local/lib/python3.7/site-packages (from datasets->-r requirements.txt (line 2)) (0.70.12.2)
-Requirement already satisfied: aiohttp in /home/s2976129/.local/lib/python3.7/site-packages (from datasets->-r requirements.txt (line 2)) (3.8.1)
-Requirement already satisfied: xxhash in /home/s2976129/.local/lib/python3.7/site-packages (from datasets->-r requirements.txt (line 2)) (2.0.2)
-Requirement already satisfied: fsspec[http]>=2021.05.0 in /home/s2976129/.local/lib/python3.7/site-packages (from datasets->-r requirements.txt (line 2)) (2022.1.0)
-Requirement already satisfied: scikit-learn in /home/s2976129/.local/lib/python3.7/site-packages (from sklearn->-r requirements.txt (line 3)) (1.0.2)
-Requirement already satisfied: typing-extensions>=3.7.4.3 in /home/s2976129/.local/lib/python3.7/site-packages (from huggingface-hub<1.0,>=0.1.0->transformers->-r requirements.txt (line 1)) (4.0.1)
-Requirement already satisfied: zipp>=0.5 in /apps/skylake/software/Python/3.7.4-GCCcore-8.3.0/lib/python3.7/site-packages (from importlib-metadata; python_version < "3.8"->transformers->-r requirements.txt (line 1)) (0.6.0)
-Requirement already satisfied: six in /apps/skylake/software/Python/3.7.4-GCCcore-8.3.0/lib/python3.7/site-packages (from sacremoses->transformers->-r requirements.txt (line 1)) (1.12.0)
-Requirement already satisfied: click in /apps/skylake/software/Python/3.7.4-GCCcore-8.3.0/lib/python3.7/site-packages (from sacremoses->transformers->-r requirements.txt (line 1)) (7.0)
-Requirement already satisfied: joblib in /apps/skylake/software/Python/3.7.4-GCCcore-8.3.0/lib/python3.7/site-packages (from sacremoses->transformers->-r requirements.txt (line 1)) (0.13.2)
-Requirement already satisfied: pyparsing!=3.0.5,>=2.0.2 in /apps/skylake/software/Python/3.7.4-GCCcore-8.3.0/lib/python3.7/site-packages (from packaging>=20.0->transformers->-r requirements.txt (line 1)) (2.4.2)
-Requirement already satisfied: certifi>=2017.4.17 in /apps/skylake/software/Python/3.7.4-GCCcore-8.3.0/lib/python3.7/site-packages (from requests->transformers->-r requirements.txt (line 1)) (2019.9.11)
-Requirement already satisfied: idna<2.9,>=2.5 in /apps/skylake/software/Python/3.7.4-GCCcore-8.3.0/lib/python3.7/site-packages (from requests->transformers->-r requirements.txt (line 1)) (2.8)
-Requirement already satisfied: chardet<3.1.0,>=3.0.2 in /apps/skylake/software/Python/3.7.4-GCCcore-8.3.0/lib/python3.7/site-packages (from requests->transformers->-r requirements.txt (line 1)) (3.0.4)
-Requirement already satisfied: urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1 in /apps/skylake/software/Python/3.7.4-GCCcore-8.3.0/lib/python3.7/site-packages (from requests->transformers->-r requirements.txt (line 1)) (1.25.3)
-Requirement already satisfied: python-dateutil>=2.6.1 in /apps/skylake/software/Python/3.7.4-GCCcore-8.3.0/lib/python3.7/site-packages (from pandas->datasets->-r requirements.txt (line 2)) (2.8.0)
-Requirement already satisfied: pytz>=2017.2 in /apps/skylake/software/Python/3.7.4-GCCcore-8.3.0/lib/python3.7/site-packages (from pandas->datasets->-r requirements.txt (line 2)) (2019.2)
-Requirement already satisfied: attrs>=17.3.0 in /apps/skylake/software/Python/3.7.4-GCCcore-8.3.0/lib/python3.7/site-packages (from aiohttp->datasets->-r requirements.txt (line 2)) (19.1.0)
-Requirement already satisfied: aiosignal>=1.1.2 in /home/s2976129/.local/lib/python3.7/site-packages (from aiohttp->datasets->-r requirements.txt (line 2)) (1.2.0)
-Requirement already satisfied: multidict<7.0,>=4.5 in /home/s2976129/.local/lib/python3.7/site-packages (from aiohttp->datasets->-r requirements.txt (line 2)) (5.2.0)
-Requirement already satisfied: yarl<2.0,>=1.0 in /home/s2976129/.local/lib/python3.7/site-packages (from aiohttp->datasets->-r requirements.txt (line 2)) (1.7.2)
-Requirement already satisfied: async-timeout<5.0,>=4.0.0a3 in /home/s2976129/.local/lib/python3.7/site-packages (from aiohttp->datasets->-r requirements.txt (line 2)) (4.0.2)
-Requirement already satisfied: frozenlist>=1.1.1 in /home/s2976129/.local/lib/python3.7/site-packages (from aiohttp->datasets->-r requirements.txt (line 2)) (1.2.0)
-Requirement already satisfied: charset-normalizer<3.0,>=2.0 in /home/s2976129/.local/lib/python3.7/site-packages (from aiohttp->datasets->-r requirements.txt (line 2)) (2.0.10)
-Requirement already satisfied: asynctest==0.13.0; python_version < "3.8" in /home/s2976129/.local/lib/python3.7/site-packages (from aiohttp->datasets->-r requirements.txt (line 2)) (0.13.0)
-Requirement already satisfied: scipy>=1.1.0 in /apps/skylake/software/SciPy-bundle/2019.10-fosscuda-2019b-Python-3.7.4/lib/python3.7/site-packages (from scikit-learn->sklearn->-r requirements.txt (line 3)) (1.3.1)
-Requirement already satisfied: threadpoolctl>=2.0.0 in /home/s2976129/.local/lib/python3.7/site-packages (from scikit-learn->sklearn->-r requirements.txt (line 3)) (3.0.0)
-Requirement already satisfied: more-itertools in /apps/skylake/software/Python/3.7.4-GCCcore-8.3.0/lib/python3.7/site-packages (from zipp>=0.5->importlib-metadata; python_version < "3.8"->transformers->-r requirements.txt (line 1)) (7.2.0)
-Using custom data configuration default-ea8e61cb8e9d0743
-Working on file train_with_new_words_lemma (1 / 1)...
-Downloading and preparing dataset csv/default to /home/s2976129/.cache/huggingface/datasets/csv/default-ea8e61cb8e9d0743/0.0.0/6b9057d9e23d9d8a2f05b985917a0da84d70c5dae3d22ddd8a3f22fb01c69d9e...
-  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 4060.31it/s]
-  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 89.74it/s]
-Dataset csv downloaded and prepared to /home/s2976129/.cache/huggingface/datasets/csv/default-ea8e61cb8e9d0743/0.0.0/6b9057d9e23d9d8a2f05b985917a0da84d70c5dae3d22ddd8a3f22fb01c69d9e. Subsequent calls will reuse this data.
-  0%|          | 0/2 [00:00<?, ?it/s] 50%|█████     | 1/2 [00:00<00:00,  8.90it/s]100%|██████████| 2/2 [00:00<00:00, 17.20it/s]
-  0%|          | 0/19 [00:00<?, ?ba/s]  5%|▌         | 1/19 [00:00<00:07,  2.44ba/s] 11%|█         | 2/19 [00:00<00:03,  4.29ba/s] 16%|█▌        | 3/19 [00:00<00:02,  5.70ba/s] 21%|██        | 4/19 [00:00<00:02,  6.66ba/s] 26%|██▋       | 5/19 [00:00<00:01,  7.02ba/s] 32%|███▏      | 6/19 [00:00<00:01,  7.54ba/s] 37%|███▋      | 7/19 [00:01<00:01,  7.95ba/s] 42%|████▏     | 8/19 [00:01<00:01,  8.24ba/s] 47%|████▋     | 9/19 [00:01<00:01,  8.67ba/s] 53%|█████▎    | 10/19 [00:01<00:01,  8.61ba/s] 58%|█████▊    | 11/19 [00:01<00:01,  7.12ba/s] 63%|██████▎   | 12/19 [00:01<00:00,  7.68ba/s] 68%|██████▊   | 13/19 [00:01<00:00,  8.03ba/s] 74%|███████▎  | 14/19 [00:01<00:00,  8.30ba/s] 79%|███████▉  | 15/19 [00:02<00:00,  8.51ba/s] 84%|████████▍ | 16/19 [00:02<00:00,  8.60ba/s] 89%|████████▉ | 17/19 [00:02<00:00,  8.72ba/s] 95%|█████████▍| 18/19 [00:02<00:00,  8.65ba/s]100%|██████████| 19/19 [00:02<00:00,  7.67ba/s]
-  0%|          | 0/4 [00:00<?, ?ba/s] 25%|██▌       | 1/4 [00:00<00:00,  7.11ba/s] 50%|█████     | 2/4 [00:00<00:00,  8.35ba/s] 75%|███████▌  | 3/4 [00:00<00:00,  8.71ba/s]100%|██████████| 4/4 [00:00<00:00, 10.72ba/s]
-Some weights of the model checkpoint at bert-base-cased were not used when initializing BertForSequenceClassification: ['cls.seq_relationship.weight', 'cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.decoder.weight', 'cls.seq_relationship.bias', 'cls.predictions.transform.dense.weight']
-- This IS expected if you are initializing BertForSequenceClassification from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
-- This IS NOT expected if you are initializing BertForSequenceClassification from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
-Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-cased and are newly initialized: ['classifier.weight', 'classifier.bias']
-You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
-The following columns in the training set  don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: id, text.
-***** Running training *****
-  Num examples = 18720
-  Num Epochs = 4
-  Instantaneous batch size per device = 8
-  Total train batch size (w. parallel, distributed & accumulation) = 8
-  Gradient Accumulation steps = 1
-  Total optimization steps = 9360
-The following columns in the evaluation set  don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: id, text.
-***** Running Evaluation *****
-  Num examples = 3101
-  Batch size = 8
-/home/s2976129/.local/lib/python3.7/site-packages/sklearn/metrics/_classification.py:1318: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-The following columns in the evaluation set  don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: id, text.
-***** Running Evaluation *****
-  Num examples = 3101
-  Batch size = 8
-The following columns in the evaluation set  don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: id, text.
-***** Running Evaluation *****
-  Num examples = 3101
-  Batch size = 8
-/home/s2976129/.local/lib/python3.7/site-packages/sklearn/metrics/_classification.py:1318: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-The following columns in the evaluation set  don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: id, text.
-***** Running Evaluation *****
-  Num examples = 3101
-  Batch size = 8
-The following columns in the evaluation set  don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: id, text.
-***** Running Evaluation *****
-  Num examples = 3101
-  Batch size = 8
-Saving model checkpoint to /data/s2976129/shared-task-output/train_with_new_words_lemma/checkpoint-5000
-Configuration saved in /data/s2976129/shared-task-output/train_with_new_words_lemma/checkpoint-5000/config.json
-Model weights saved in /data/s2976129/shared-task-output/train_with_new_words_lemma/checkpoint-5000/pytorch_model.bin
-The following columns in the evaluation set  don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: id, text.
-***** Running Evaluation *****
-  Num examples = 3101
-  Batch size = 8
-/home/s2976129/.local/lib/python3.7/site-packages/sklearn/metrics/_classification.py:1318: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-The following columns in the evaluation set  don't have a corresponding argument in `BertForSequenceClassification.forward` and have been ignored: id, text.
-***** Running Evaluation *****
-  Num examples = 3101
-  Batch size = 8
-/home/s2976129/.local/lib/python3.7/site-packages/sklearn/metrics/_classification.py:1318: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
-  _warn_prf(average, modifier, msg_start, len(result))
-
-
-Training completed. Do not forget to share your model on huggingface.co/models =)
-
-
-Loading best model from /data/s2976129/shared-task-output/train_with_new_words_lemma/checkpoint-5000 (score: 0.6825733184814453).
-Saving model checkpoint to /data/s2976129/shared-task-output/train_with_new_words_lemma/final-model
-Configuration saved in /data/s2976129/shared-task-output/train_with_new_words_lemma/final-model/config.json
-Model weights saved in /data/s2976129/shared-task-output/train_with_new_words_lemma/final-model/pytorch_model.bin
-{'loss': 0.7, 'learning_rate': 4.732905982905983e-05, 'epoch': 0.21}
-{'loss': 0.707, 'learning_rate': 4.465811965811966e-05, 'epoch': 0.43}
-{'eval_loss': 0.6954822540283203, 'eval_accuracy': 0.42276684940341824, 'eval_precision': 0.0, 'eval_recall': 0.0, 'eval_f1': 0.0, 'eval_runtime': 36.292, 'eval_samples_per_second': 85.446, 'eval_steps_per_second': 10.691, 'epoch': 0.43}
-{'loss': 0.7055, 'learning_rate': 4.198717948717949e-05, 'epoch': 0.64}
-{'loss': 0.6995, 'learning_rate': 3.931623931623932e-05, 'epoch': 0.85}
-{'eval_loss': 0.684489369392395, 'eval_accuracy': 0.5772331505965818, 'eval_precision': 0.5772331505965818, 'eval_recall': 1.0, 'eval_f1': 0.7319566550807606, 'eval_runtime': 36.1905, 'eval_samples_per_second': 85.685, 'eval_steps_per_second': 10.721, 'epoch': 0.85}
-{'loss': 0.699, 'learning_rate': 3.664529914529915e-05, 'epoch': 1.07}
-{'loss': 0.7032, 'learning_rate': 3.397435897435898e-05, 'epoch': 1.28}
-{'eval_loss': 0.6966401934623718, 'eval_accuracy': 0.42276684940341824, 'eval_precision': 0.0, 'eval_recall': 0.0, 'eval_f1': 0.0, 'eval_runtime': 36.4446, 'eval_samples_per_second': 85.088, 'eval_steps_per_second': 10.646, 'epoch': 1.28}
-{'loss': 0.7046, 'learning_rate': 3.1303418803418806e-05, 'epoch': 1.5}
-{'loss': 0.699, 'learning_rate': 2.863247863247863e-05, 'epoch': 1.71}
-{'eval_loss': 0.6841835379600525, 'eval_accuracy': 0.5772331505965818, 'eval_precision': 0.5772331505965818, 'eval_recall': 1.0, 'eval_f1': 0.7319566550807606, 'eval_runtime': 36.4162, 'eval_samples_per_second': 85.154, 'eval_steps_per_second': 10.655, 'epoch': 1.71}
-{'loss': 0.7, 'learning_rate': 2.5961538461538464e-05, 'epoch': 1.92}
-{'loss': 0.6958, 'learning_rate': 2.3290598290598293e-05, 'epoch': 2.14}
-{'eval_loss': 0.6825733184814453, 'eval_accuracy': 0.5772331505965818, 'eval_precision': 0.5772331505965818, 'eval_recall': 1.0, 'eval_f1': 0.7319566550807606, 'eval_runtime': 36.2183, 'eval_samples_per_second': 85.62, 'eval_steps_per_second': 10.713, 'epoch': 2.14}
-{'loss': 0.6998, 'learning_rate': 2.061965811965812e-05, 'epoch': 2.35}
-{'loss': 0.6973, 'learning_rate': 1.794871794871795e-05, 'epoch': 2.56}
-{'eval_loss': 0.6952325701713562, 'eval_accuracy': 0.42276684940341824, 'eval_precision': 0.0, 'eval_recall': 0.0, 'eval_f1': 0.0, 'eval_runtime': 36.1528, 'eval_samples_per_second': 85.775, 'eval_steps_per_second': 10.732, 'epoch': 2.56}
-{'loss': 0.6994, 'learning_rate': 1.527777777777778e-05, 'epoch': 2.78}
-{'loss': 0.6957, 'learning_rate': 1.2606837606837608e-05, 'epoch': 2.99}
-{'eval_loss': 0.7013331055641174, 'eval_accuracy': 0.42276684940341824, 'eval_precision': 0.0, 'eval_recall': 0.0, 'eval_f1': 0.0, 'eval_runtime': 36.1954, 'eval_samples_per_second': 85.674, 'eval_steps_per_second': 10.72, 'epoch': 2.99}
-{'train_runtime': 2323.0592, 'train_samples_per_second': 32.233, 'train_steps_per_second': 4.029, 'train_loss': 0.7004094761439732, 'epoch': 2.99}
-
-
-###############################################################################
-Peregrine Cluster
-Job 22798335 for user 's2976129'
-Finished at: Sat Jan 15 19:30:30 CET 2022
-
-Job details:
-============
-
-Job ID              : 22798335
-Name                : data_experiment_job
-User                : s2976129
-Partition           : gpu
-Nodes               : pg-gpu28
-Number of Nodes     : 1
-Cores               : 12
-Number of Tasks     : 1
-State               : COMPLETED
-Submit              : 2022-01-15T18:50:16
-Start               : 2022-01-15T18:50:41
-End                 : 2022-01-15T19:30:30
-Reserved walltime   : 01:00:00
-Used walltime       : 00:39:49
-Used CPU time       : 00:39:01 (efficiency:  8.17%)
-% User (Computation): 66.70%
-% System (I/O)      : 33.30%
-Mem reserved        : 4000M/node
-Max Mem (Node/step) : 1.63G (pg-gpu28, per node)
-Full Max Mem usage  : 1.63G
-Total Disk Read     : 8.09M
-Total Disk Write    : 34.50K
-Average GPU usage   : 85.8% (pg-gpu28)
-
-
-Acknowledgements:
-=================
-
-Please see this page for information about acknowledging Peregrine in your publications:
-
-https://wiki.hpc.rug.nl/peregrine/introduction/scientific_output
-
-################################################################################
