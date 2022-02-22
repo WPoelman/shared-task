@@ -14,7 +14,9 @@ from nltk import pos_tag
 def main():
 
     # Open files as list to allow for multiple iteration
-    with open("subtask_1_en.csv") as f1, open("subtask_1_fr.csv") as f2, open("subtask_1_it.csv") as f3:
+    with open("subtask_1_en.csv") as f1, open("subtask_1_fr.csv") as f2, open(
+        "subtask_1_it.csv"
+    ) as f3:
         f_en = f1.read().splitlines()  # English
         f_fr = f2.read().splitlines()  # French
         f_it = f3.read().splitlines()  # Italian
@@ -41,30 +43,36 @@ def main():
 
 
 def create_test_set(file, nouns):
-    """ Return lines that contain special nouns and / or selected templates """
+    """Return lines that contain special nouns and / or selected templates"""
     noun_lines = [line for line in file for n in nouns if n in line]
-    template_lines = [line for line in file if "more specifically" in line or " too " in line or "but not" in line]
+    template_lines = [
+        line
+        for line in file
+        if "more specifically" in line or " too " in line or "but not" in line
+    ]
 
     return noun_lines + template_lines
 
 
 def create_train_set(f, test_lines):
-    """ Return lines that do not occur in test set """
+    """Return lines that do not occur in test set"""
     return [line for line in f if line not in test_lines]
 
 
 def get_special_nouns(file):
-    """ Return set of nouns that occur in sentences that use the verb 'met' or 'use' """
+    """Return set of nouns that occur in sentences that use the verb 'met' or 'use'"""
     nouns = set()
     filter_words = ["type", "schools", "offices", "restaurants", "factories"]
     for line in file:
         if " use " in line or " met " in line:
             # Every 'use' sentence starts with 'I' and ends in a period:
-            line = line[line.index("I"):line.index(".")+1]
+            line = line[line.index("I") : line.index(".") + 1]
 
             pos = pos_tag(line.split(" "))
             for w, p in pos:
-                if p.startswith("NN") and w not in filter_words:  # manual correction: remove other noun categories
+                if (
+                    p.startswith("NN") and w not in filter_words
+                ):  # manual correction: remove other noun categories
                     nouns.add(w)
 
     nouns.add("professor")  # manual correction: people are not mass nouns
@@ -73,7 +81,7 @@ def get_special_nouns(file):
 
 
 def write_to_file(lines, outfile):
-    """ Write lines to file """
+    """Write lines to file"""
     with open(outfile, "w") as o:
         o.write("id,sentence,labels" + "\n")
         for line in set(lines):
@@ -82,8 +90,8 @@ def write_to_file(lines, outfile):
 
 
 def make_splits_from_ids(f, ids):
-    """ Generate splits for given the ids of the lines that should
-    only occur in the test set (to be used for French and Italian here) """
+    """Generate splits for given the ids of the lines that should
+    only occur in the test set (to be used for French and Italian here)"""
     test_lines = [line for line in f if line.split(",")[0] in ids]
     train_lines = create_train_set(f, test_lines)
 
