@@ -1,4 +1,0 @@
-1. check the available pytorch versions `module avail PyTorch` (transformers itself?)
-2. load the latest  `module load PyTorch/1.6.0-fosscuda-2019b-Python-3.7.4`
-3. pip install -r requirements.txt
-4. run job script

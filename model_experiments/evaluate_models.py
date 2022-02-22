@@ -51,16 +51,11 @@ def main():
 
     all_models.extend(final_models)
 
+    print(f'Evaluating {len(all_models)} models')
+
     for model_path in all_models:
         parent_dir_name = model_path.parent.stem
         current_model = model_path.stem
-
-        # Als we nieuwe modellen willen testen, dan kunnen we het eval bestand
-        # meegeven en dan gewoon columns inserten. Dit zou done modellen
-        # dan moeten overslaan.
-        # evaluation_id = f'prediction-{parent_dir_name}-{current_model}'
-        # if evaluation_id in df.columns:
-        #     continue
 
         print(f'Testing: {parent_dir_name} - {current_model}')
 
@@ -72,7 +67,7 @@ def main():
         y_pred = np.argmax(raw_pred, axis=1)
 
         df[f'prediction-{parent_dir_name}-{current_model}'] = y_pred
-    df.to_csv(args.output_path, index=False)
+        df.to_csv(args.output_path, index=False)
 
 
 if __name__ == '__main__':

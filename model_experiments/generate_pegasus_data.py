@@ -20,7 +20,6 @@ MODEL = PegasusForConditionalGeneration.from_pretrained(
     MODEL_NAME).to(TORCH_DEVICE)
 
 print('Loading spacy model')
-# maybe add spacy model to args
 NLP = spacy.load("en_core_web_sm", disable=["ner"])
 
 
@@ -105,10 +104,6 @@ def main():
             records.append(
                 {"id": row.id, "sentence": row.sentence, "labels": row.labels}
             )
-
-            # NOTE: maybe try to convert all sentences in one go, not sure if that
-            # will speed it up, but it might be handy if we are sure we use the
-            # total len measures, need to test!
             try:
                 results = get_response([row.sentence])
             except Exception:
