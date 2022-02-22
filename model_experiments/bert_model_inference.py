@@ -14,7 +14,6 @@ def create_arg_parser():
                         help="Model to use.")
     parser.add_argument("-o", "--output_path", required=True,
                         help="Output to write predictions to (csv for now).")
-    # TODO: check if tokenizer used at training time needs to be included here?
     parser.add_argument("-t", "--tokenizer", default="bert-base-cased",
                         help="Tokenizer to use.")
     return parser.parse_args()
@@ -30,7 +29,7 @@ def main():
         args.model_path, num_labels=2
     ).to(torch_device)
 
-    tokenizer = AutoTokenizer.from_pretrained("bert-base-cased")
+    tokenizer = AutoTokenizer.from_pretrained(args.tokenizer)
 
     tokenized_dataset = dataset.map(
         lambda examples: tokenizer(

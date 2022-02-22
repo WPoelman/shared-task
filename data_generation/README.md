@@ -82,8 +82,8 @@ optional arguments:
 - train_with_new_templates_baseline.csv
 - train_with_new_words_lemma.csv
 - 1_newhypownt_newwordswnt_inverse_pegasus.csv
+- 2_newhypownt_newwordswnt_inverse_pegasus_lemmatized.csv (1_newhypownt_newwordswnt_inverse_pegasus.csv)
+- 3_newhypownt_newwordswnt_pegasus.csv
 - 4_newwordswnt_inverse_pegasus.csv.csv
 - 5_newhypownt_inverse_pegasus.csv.csv
-- 3_newhypownt_newwordswnt_pegasus.csv
-- 1_newhypownt_newwordswnt_inverse_pegasus.csv -> 2_newhypownt_newwordswnt_inverse_pegasus_lemmatized.csv
 - 6_newhypownt_newwordswnt_inverse.csv
