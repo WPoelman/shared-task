@@ -16,6 +16,6 @@ Excerpt from the task website:
 For specific data generation scripts and explanations, see the `/data_generation` folder.
 
 ## Models
-Run `model_experiments/bert_model_inference.py` to generate predictions for a given dataset and trained model.
+Run `model_experiments/evaluate_models.py` to generate predictions for a given dataset and trained model.
 
 The model we used to generate the submission for the shared task can be downloaded from here: https://drive.google.com/drive/folders/14cSrG_2IyKcTf00C0uRlCqwBFcC87dkO?usp=sharing.
