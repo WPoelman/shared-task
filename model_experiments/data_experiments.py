@@ -8,7 +8,7 @@ from datasets import load_dataset
 from sklearn.metrics import (accuracy_score, f1_score, precision_score,
                              recall_score)
 from transformers import (AutoTokenizer, BertForSequenceClassification,
-                          EarlyStoppingCallback, Trainer, TrainingArguments)
+                          Trainer, TrainingArguments)
 
 
 def get_args():
@@ -90,7 +90,6 @@ def main():
             train_dataset=tokenized_dataset['train'],
             eval_dataset=tokenized_dataset['test'],
             compute_metrics=compute_metrics,
-            callbacks=[EarlyStoppingCallback(early_stopping_patience=3)],
         )
         trainer.train()
         trainer.save_model(f'{experiment_output_dir}/final-model')
