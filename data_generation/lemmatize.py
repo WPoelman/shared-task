@@ -1,5 +1,9 @@
 #!/usr/bin/python3
 
+'''
+Code to lemmatize the nouns and verbs of a dataset.
+'''
+
 import random
 from nltk.corpus import wordnet as wn
 from nltk.stem.wordnet import WordNetLemmatizer

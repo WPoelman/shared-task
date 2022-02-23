@@ -1,5 +1,9 @@
 #!/usr/bin/python3
 
+'''
+Algorithm to generate data using the wordlists in /categories and the templates.
+'''
+
 import random
 from nltk.corpus import wordnet as wn
 from nltk.stem.wordnet import WordNetLemmatizer
@@ -31,7 +35,7 @@ class Sentence:
             ("{pron} {verb} {word1} , an interesting type of {word2} .", [1]),
             ("{pron} {verb} {word1} more than {word2} .", [2]),
             ("{pron} do not {verb} {word1} , {pron} prefer {word2} .", [2]),
-            ("{pron} {verb} {word1} , and {word2} too .", [2]),  # new templates
+            ("{pron} {verb} {word1} , and {word2} too .", [2]),  # new templates from here
             ("{pron} {verb} {word1} , and particularly {word2} .", [0]),
             ("{pron} {verb} {word1} , and especially {word2} .", [0]),
             ("{pron} {verb} {word1} , and in particular {word2} .", [0]),
@@ -117,7 +121,7 @@ def read(domains):
     domain_dict = {}
     for domain in domains:
         wordlist = []
-        with open("domains/{0}.txt".format(domain)) as file:
+        with open("categories/{0}.txt".format(domain)) as file:
             for line in file:
                 line = line.strip()
                 wordlist.append(line)
@@ -126,25 +130,25 @@ def read(domains):
 
 
 def main():
-    with open("train_people_materials.csv", "w", encoding="UTF8") as f:
+    with open("train_newwords_newtemplates.csv", "w", encoding="UTF8") as f:
         writer = csv.writer(f)
         warnings.filterwarnings("ignore")
         lemma = WordNetLemmatizer()
 
-        domain_verbs = {  #'misc':['trust','like','love','enjoy','feel'],
+        domain_verbs = { 'misc':['trust','like','love','enjoy','feel'],
             "people": ["met", "like", "love"],
             "materials": ["use", "like", "love"],
-            # 'food':['eat','like','love','enjoy'],
-            # 'music':['listen to','like','love','enjoy'],
-            # 'animals':['like','love'],
-            # 'wearables':['wear','like','love'],
-            # 'movies':['watch','like','love','enjoy'],
-            # 'books':['read','like','love','enjoy'],
-            # 'transport':['like','love','enjoy'],
-            # 'drinks':['drink','like','love','enjoy'],
-            # 'furniture':['like','love'],
-            # 'plants':['like','love'],
-            # 'games':['play','like','love','enjoy'],
+            'food':['eat','like','love','enjoy'],
+            'music':['listen to','like','love','enjoy'],
+            'animals':['like','love'],
+            'wearables':['wear','like','love'],
+            'movies':['watch','like','love','enjoy'],
+            'books':['read','like','love','enjoy'],
+            'transport':['like','love','enjoy'],
+            'drinks':['drink','like','love','enjoy'],
+            'furniture':['like','love'],
+            'plants':['like','love'],
+            'games':['play','like','love','enjoy'],
         }
         domain_dict = read(list(domain_verbs.keys()))
         pron_dict = {"I": "my", "he": "his", "she": "her", "they": "their"}

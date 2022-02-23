@@ -1,5 +1,10 @@
 #!/usr/bin/python3
 
+'''
+Extract all unique nouns out of the task training data.
+'''
+
+
 import csv
 import spacy
 from pattern.en import pluralize, singularize

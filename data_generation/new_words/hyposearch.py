@@ -1,5 +1,10 @@
 #!/usr/bin/python3
 
+'''
+Manually search for hyponyms to add to the wordlists of all categories. The first argument is the word
+you want all hyponyms of.
+'''
+
 from nltk.corpus import wordnet as wn
 from nltk.stem.wordnet import WordNetLemmatizer
 import warnings
