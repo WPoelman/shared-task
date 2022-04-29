@@ -133,3 +133,4 @@ trained_models
 data/cache
 
 .DS_store
+.Rproj.user

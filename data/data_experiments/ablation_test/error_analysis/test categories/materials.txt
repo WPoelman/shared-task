@@ -1,0 +1,9 @@
+cotton
+vinyl
+glass
+polyester
+plastic
+nylon
+leather
+wood
+PVC

@@ -1,0 +1,12 @@
+shower
+snow
+drizzle
+fog
+mist
+rainstorm
+downpour
+rain
+sunshine
+rainstorms
+showers
+downpours

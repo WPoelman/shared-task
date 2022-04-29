@@ -1,0 +1,14 @@
+grass
+firs
+oaks
+tree
+birch
+fir
+bushes
+shrubs
+trees
+oak
+birches
+pines
+pine
+shrub
